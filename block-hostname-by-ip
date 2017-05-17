@@ -52,12 +52,15 @@ while (<$fh>) {
 }
 close $fh;
 
-open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
+open $fh,">>:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 foreach my $ip ( map { join(".",unpack("C4")) } sort map { pack("C4",split /\./) }  keys %hostip) {
     print $fh $ip, "\n";
     $hostip.=sprintf("%s\n", $ip);
 }
 close $fh;
+
+system("sort -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n ".$fhostip." > ".$fhostip.".~");
+system("mv ".$fhostip.".~ ".$fhostip);
 
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
 my $diff = diff \$hostipold, \$hostip;
@@ -104,7 +107,7 @@ sub setJunOSConfig {
         if ($line =~ /^-/) {
             $line =~ s/\s+\w+$//;
             $line =~ s/^-//;
-            $line = sprintf("delete routing-options static route %s\n", $line);
+#            $line = sprintf("delete routing-options static route %s\n", $line);
             $ret .= $line;
         } else {
             $line =~ s/^\+//;
