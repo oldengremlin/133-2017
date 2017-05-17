@@ -153,6 +153,7 @@ sub doCmd {
         $session->cmd(String=>$cmd);
         say "".$cmd;
         $cmdc++;
+        sleep 1;
     }
     $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
     $session->cmd(String=>'commit and-quit', Timeout=>10*$cmdc);
