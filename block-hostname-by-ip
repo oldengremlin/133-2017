@@ -107,14 +107,13 @@ sub setJunOSConfig {
             $line =~ s/\s+\w+$//;
             $line =~ s/^-//;
 #            $line = sprintf("delete routing-options static route %s\n", $line);
-            $ret .= $line;
+#            $ret .= $line;
         } else {
             $line =~ s/^\+//;
             $line = sprintf("set routing-options static route %s reject\n", $line);
             $ret .= $line;
         }
     }
-print "1","\n";
     doCmd( $router, $user, $pass, $ret );
     return $ret;
 }
