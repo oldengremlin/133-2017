@@ -9,6 +9,7 @@ use IPC::Open3;
 use Sort::Key::IPv4;
 use Text::Diff;
 use Net::OpenSSH;
+use Net::Telnet;
 
 my $fhostnames = 'hostnames';
 my $fhostip = 'hostip';
