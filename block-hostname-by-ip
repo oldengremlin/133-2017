@@ -163,4 +163,3 @@ sub doCmd {
     undef $ssh;
 #   open STDERR, '>', "/dev/stderr";
 }
-
