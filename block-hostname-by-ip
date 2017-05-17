@@ -68,20 +68,6 @@ setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
 
-sub getRTConfig {
-    my $as = shift if @_;
-    return "" unless $as;
-    my $ret;
-    open (RT, "echo \"\@rtconfig access_list filter ".$as."\" | rtconfig -protocol ripe -config junos |") || die "Failed run rtconfig: $!\n";
-    while (<RT>) {
-        s/^\s*//;
-        next unless /^route-filter\s+/;
-        $ret .= $_;
-    }
-    close RT;
-    return $ret;
-}
-
 sub getHostIP {
     my $host = shift if @_;
     my @ret;
