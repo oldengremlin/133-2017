@@ -3,4 +3,67 @@
 use v5.10;
 use strict;
 use warnings;
+use Data::Dumper; $Data::Dumper::Indent = 1; $Data::Dumper::Terse = 1;
+use IPC::Open3;
+use Sort::Key::IPv4;
 
+my $hostnames = 'hostnames';
+my $hostip = 'hostip';
+my (%hostip, $fh);
+
+open $fh,"<:utf8", $hostnames or die "Can't open file $hostnames :$!\n";
+while (<$fh>) {
+    chomp;
+
+    print ">", $_, "\n";
+    my @hosts = getHostIP($_);
+
+    foreach my $rr (@hosts) {
+        $hostip{$rr}++;
+    }
+
+}
+close $fh;
+
+open $fh,">:utf8", $hostip or die "Can't open file $hostip :$!\n";
+foreach my $ip ( map { join(".",unpack("C4")) } sort map { pack("C4",split /\./) }  keys %hostip) {
+    print $fh $ip, "\n";
+}
+close $fh;
+
+sub getRTConfig {
+    my $as = shift if @_;
+    return "" unless $as;
+    my $ret;
+    open (RT, "echo \"\@rtconfig access_list filter ".$as."\" | rtconfig -protocol ripe -config junos |") || die "Failed run rtconfig: $!\n";
+    while (<RT>) {
+        s/^\s*//;
+        next unless /^route-filter\s+/;
+        $ret .= $_;
+    }
+    close RT;
+    return $ret;
+}
+
+sub getHostIP {
+    my $host = shift if @_;
+    my @ret;
+
+    return @ret unless $host;
+
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("host %s", $host));
+    close(WHOIS_HOST_IN);
+    my @outwhoishost = <WHOIS_HOST_OUT>;
+    my @errwhoishost = <WHOIS_HOST_ERR>;
+    close(WHOIS_HOST_OUT);
+    close(WHOIS_HOST_ERR);
+
+    foreach my $line ( @outwhoishost ) {
+        next unless $line =~ /has address/;
+        chomp $line;
+        my (undef, undef, undef, $ip) = split(" ", $line);
+        push @ret, $ip;
+    }
+
+    return @ret;
+}
