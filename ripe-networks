@@ -6,12 +6,23 @@ use warnings;
 use Data::Dumper; $Data::Dumper::Indent = 1; $Data::Dumper::Terse = 1;
 use IPC::Open3;
 use Sort::Key::IPv4;
+use Text::Diff;
 
-my $hostnames = 'hostnames';
-my $hostip = 'hostip';
-my (%hostip, $fh);
+my $fhostnames = 'hostnames';
+my $fhostip = 'hostip';
+my $fhostipdiff = 'hostipdiff';
+my (%hostip, %hostipold, $fh, $hostip, $hostipold);
 
-open $fh,"<:utf8", $hostnames or die "Can't open file $hostnames :$!\n";
+open $fh,"<:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
+while (<$fh>) {
+    next unless /^\d+\.\d+\.\d+\.\d+/;
+    chomp;
+    $hostipold{$_}++;
+    $hostipold.=sprintf("%s\n", $_);
+}
+close $fh;
+
+open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 while (<$fh>) {
     chomp;
 
@@ -21,15 +32,22 @@ while (<$fh>) {
     foreach my $rr (@hosts) {
         $hostip{$rr}++;
     }
-
 }
 close $fh;
 
-open $fh,">:utf8", $hostip or die "Can't open file $hostip :$!\n";
+open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 foreach my $ip ( map { join(".",unpack("C4")) } sort map { pack("C4",split /\./) }  keys %hostip) {
     print $fh $ip, "\n";
+    $hostip.=sprintf("%s\n", $ip);
 }
 close $fh;
+
+open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
+my $diff = diff \$hostipold, \$hostip;
+print $fh $diff;
+close $fh;
+
+exit;
 
 sub getRTConfig {
     my $as = shift if @_;
