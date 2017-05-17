@@ -43,6 +43,7 @@ close $fh;
 
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 while (<$fh>) {
+    next unless /^.+$/;
     chomp;
     my @hosts = getHostIP($_);
     foreach my $rr (@hosts) {
