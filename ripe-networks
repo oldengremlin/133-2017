@@ -8,6 +8,7 @@ use Getopt::Std;
 use IPC::Open3;
 use Sort::Key::IPv4;
 use Text::Diff;
+use Net::OpenSSH;
 
 my $fhostnames = 'hostnames';
 my $fhostip = 'hostip';
