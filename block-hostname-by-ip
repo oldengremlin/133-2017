@@ -61,12 +61,10 @@ close $fh;
 system("sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n ".$fhostip." > ".$fhostip.".~");
 system("mv ".$fhostip.".~ ".$fhostip);
 
-print "1","\n";
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
 my $diff = diff \$hostipold, \$hostip;
 print $fh $diff;
 close $fh;
-print "1","\n";
 
 setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
@@ -127,6 +125,7 @@ sub doCmd {
     my $cmdin = shift if @_;
 
     sub diessh {
+print "1","\n";
         map { print; } @_ if @_;
         die;
     }
