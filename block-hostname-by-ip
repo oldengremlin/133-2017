@@ -86,7 +86,7 @@ sub getHostIP {
 
     foreach my $line ( @outwhoishost ) {
 #        next unless $line =~ /has address/;
-        next unless $line =~ /^$host\.\s+\d+\s+IN\s+A\s+/;
+        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
         chomp $line;
         my (undef, undef, undef, $ip) = split(" ", $line);
         push @ret, $ip;
