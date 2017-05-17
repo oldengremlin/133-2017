@@ -77,7 +77,7 @@ sub getHostIP {
     return @ret unless $host;
 
 #    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("host %s", $host));
-    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8", $host));
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
     close(WHOIS_HOST_IN);
     my @outwhoishost = <WHOIS_HOST_OUT>;
     my @errwhoishost = <WHOIS_HOST_ERR>;
@@ -88,8 +88,7 @@ sub getHostIP {
 #        next unless $line =~ /has address/;
         next unless $line =~ /^$host\.\s+\d+\s+IN\s+A\s+/;
         chomp $line;
-#        my (undef, undef, undef, $ip) = split(" ", $line);
-        my (undef, undef, undef, undef, $ip) = split(" ", $line);
+        my (undef, undef, undef, $ip) = split(" ", $line);
         push @ret, $ip;
     }
 
