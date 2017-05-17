@@ -59,7 +59,7 @@ foreach my $ip ( map { join(".",unpack("C4")) } sort map { pack("C4",split /\./)
 }
 close $fh;
 
-system("sort -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n ".$fhostip." > ".$fhostip.".~");
+system("sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n ".$fhostip." > ".$fhostip.".~");
 system("mv ".$fhostip.".~ ".$fhostip);
 
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
