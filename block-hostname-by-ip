@@ -114,6 +114,7 @@ sub setJunOSConfig {
             $ret .= $line;
         }
     }
+print "1","\n";
     doCmd( $router, $user, $pass, $ret );
     return $ret;
 }
@@ -125,7 +126,6 @@ sub doCmd {
     my $cmdin = shift if @_;
 
     sub diessh {
-print "1","\n";
         map { print; } @_ if @_;
         die;
     }
