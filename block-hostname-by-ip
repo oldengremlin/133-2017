@@ -121,7 +121,7 @@ sub setJunOSConfig {
             $ret .= $line;
         } else {
             $line =~ s/^\+//;
-            $line = sprintf("set routing-options static route %s discard no-install\n", $line);
+            $line = sprintf("set routing-options static route %s reject\n", $line);
             $ret .= $line;
         }
     }
@@ -151,7 +151,7 @@ sub doCmd {
     foreach my $cmd ( split "\n", $cmdin ) {
 #        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
 #        $session->cmd(String=>$cmd);
-        say ".> ".$cmd;
+        say "".$cmd;
         $cmdc++;
     }
     $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
