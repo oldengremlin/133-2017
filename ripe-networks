@@ -61,6 +61,8 @@ my $diff = diff \$hostipold, \$hostip;
 print $fh $diff;
 close $fh;
 
+setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
+
 exit;
 
 sub getRTConfig {
@@ -99,3 +101,64 @@ sub getHostIP {
 
     return @ret;
 }
+
+sub setJunOSConfig {
+    my $diff = shift;
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ret = "";
+    foreach my $line ( split("\n", $diff) ) {
+        next unless $line =~ /^[+-]/;
+        $line =~ s/;$//;
+        if ($line =~ /^-/) {
+            $line =~ s/\s+\w+$//;
+            $line =~ s/^-//;
+            $line = sprintf("delete routing-options static route %s\n", $line);
+            $ret .= $line;
+        } else {
+            $line =~ s/^\+//;
+            $line = sprintf("set routing-options static route %s discard no-install\n", $line);
+            $ret .= $line;
+        }
+    }
+    doCmd( $router, $user, $pass, $ret );
+    return $ret;
+}
+
+sub doCmd {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+    my $cmdin = shift if @_;
+
+    sub diessh {
+        map { print; } @_ if @_;
+        die;
+    }
+
+#   open STDERR, '>', "/dev/null";
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my ($pty, $pid) = $ssh->open2pty();
+    my $session = Net::Telnet->new( -fhopen => $pty, -prompt => '/.*[>#]\s+$/', -timeout=>60 );
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->cmd(String=>'configure private');
+    my $cmdc = 0;
+    foreach my $cmd ( split "\n", $cmdin ) {
+#        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+#        $session->cmd(String=>$cmd);
+        say ".> ".$cmd;
+#        $cmdc++;
+    }
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->cmd(String=>'commit and-quit', Timeout=>10*$cmdc);
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->close;
+    waitpid($pid, 0);
+    undef $session;
+    undef $ssh;
+#   open STDERR, '>', "/dev/stderr";
+}
+
