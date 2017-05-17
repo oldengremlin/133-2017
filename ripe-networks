@@ -4,6 +4,7 @@ use v5.10;
 use strict;
 use warnings;
 use Data::Dumper; $Data::Dumper::Indent = 1; $Data::Dumper::Terse = 1;
+use Getopt::Std;
 use IPC::Open3;
 use Sort::Key::IPv4;
 use Text::Diff;
@@ -11,6 +12,22 @@ use Text::Diff;
 my $fhostnames = 'hostnames';
 my $fhostip = 'hostip';
 my $fhostipdiff = 'hostipdiff';
+
+my %opts;
+getopts('u:p:r:', \%opts);
+unless (defined $opts{r} ) {
+    say "-rrouter";
+    exit 254;
+}
+unless (defined $opts{u} ) {
+    say "-uusername";
+    exit 254;
+}
+unless (defined $opts{p} ) {
+    say "-ppassword";
+    exit 255;
+}
+
 my (%hostip, %hostipold, $fh, $hostip, $hostipold);
 
 open $fh,"<:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
@@ -25,10 +42,7 @@ close $fh;
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 while (<$fh>) {
     chomp;
-
-    print ">", $_, "\n";
     my @hosts = getHostIP($_);
-
     foreach my $rr (@hosts) {
         $hostip{$rr}++;
     }
