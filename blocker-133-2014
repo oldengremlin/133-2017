@@ -44,6 +44,7 @@ while (<$fh>) {
 close $fh;
 
 $hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
+print $hostipold;
 $hostip = join("\n", );
 
 my $diff = diff \$hostipold, \$hostip;
