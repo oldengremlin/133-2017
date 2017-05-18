@@ -35,6 +35,7 @@ my (%hostip, $fh, $hostip, $hostipold);
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 while (<$fh>) {
     next unless /^.+$/;
+    next if /^\s*#/;
     chomp;
     my @hosts = getHostIP($_);
     foreach my $rr (@hosts) {
