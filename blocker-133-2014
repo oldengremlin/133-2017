@@ -59,6 +59,8 @@ sub getJunOSRejectStaticRoute {
     my $user = shift if @_;
     my $pass = shift if @_;
 
+print "111\n";
+
     my @ret;
 
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
