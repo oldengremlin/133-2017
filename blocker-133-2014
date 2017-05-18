@@ -42,7 +42,7 @@ while (<$fh>) {
     my @hosts = getHostIP($_);
     foreach my $rr (@hosts) {
         $hostip{$rr}++;
-#        print $fho $ip, " ", $_, "\n";
+        print $fho sprintf("%s %s\n", $rr, $_);
     }
 }
 close $fho;
