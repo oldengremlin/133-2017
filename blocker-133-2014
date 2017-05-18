@@ -64,7 +64,11 @@ sub getJunOSRejectStaticRoute {
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
     undef $ssh;
 
-    map { print; print "\n" } @ret;
+    map {
+        s/^[^\d]+//;
+        print;
+        print "\n";
+    } @ret;
 
     return @ret;
 }
