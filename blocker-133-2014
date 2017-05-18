@@ -70,7 +70,7 @@ sub getJunOSRejectStaticRoute {
         s,/32$,,;
         print;
         print "\n";
-    } @ret;
+    } map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
 
     return @ret;
 }
