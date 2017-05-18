@@ -2,6 +2,7 @@
 5.61.23.5 odnoklassniki.ru
 5.255.255.5 www.yandex.ru
 5.255.255.55 www.yandex.ru
+5.255.255.77 yandex.ru
 5.255.255.88 yandex.ru
 52.50.157.108 yandexdatafactory.com
 77.88.8.8 dns.yandex.ru
@@ -140,6 +141,7 @@
 94.100.187.180 gstat.imgsmail.ru
 94.100.187.251 gstat.imgsmail.ru
 94.100.189.145 jim43.mail.ru
+94.100.190.95 img.imgsmail.ru
 94.100.191.248 jim9.mail.ru
 95.142.199.215 vk.me
 95.213.4.194 queuev4.vk.com
@@ -175,8 +177,10 @@
 185.5.137.171 common.radar.imgsmail.ru
 185.5.137.173 common.radar.imgsmail.ru
 185.5.137.174 common.radar.imgsmail.ru
+185.5.137.182 common.radar.imgsmail.ru
 185.5.137.183 common.radar.imgsmail.ru
 185.5.137.185 common.radar.imgsmail.ru
+185.5.137.203 my2.imgsmail.ru
 185.5.137.205 my1.imgsmail.ru
 185.5.137.208 my2.imgsmail.ru
 185.5.137.234 common.radar.imgsmail.ru
