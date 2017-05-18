@@ -55,14 +55,6 @@ setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
 
-sub sortipv4 {
-    my @ret = @_;
-    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
-    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
-    map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
-    return @ret;
-}
-
 sub getJunOSRejectStaticRoute {
     my $router = shift if @_;
     my $user = shift if @_;
@@ -165,5 +157,13 @@ sub getHostIP {
         push @ret, $ip;
     }
 
+    return @ret;
+}
+
+sub sortipv4 {
+    my @ret = @_;
+    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
+    map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
     return @ret;
 }
