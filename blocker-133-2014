@@ -98,6 +98,14 @@ sub setJunOSConfig {
     return $ret;
 }
 
+sub jCmd {
+    my $ssh = shift if @_;
+    my $cmd = shift if @_;
+    my @list = $ssh->capture($cmd);
+    $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
+    return @list;
+}
+
 sub doCmd {
     my $router = shift if @_;
     my $user = shift if @_;
