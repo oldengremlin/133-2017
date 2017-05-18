@@ -65,7 +65,7 @@ print "111\n";
 
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
-    my $ret = join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject$ | no-more")) );
+    my $ret = join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) );
     undef $ssh;
 
 print $ret;
