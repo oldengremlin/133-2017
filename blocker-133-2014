@@ -14,6 +14,7 @@ use Net::Telnet;
 my $fhostnames = 'hostnames';
 my $fhostip = 'hostip';
 my $fhostipdiff = 'hostipdiff';
+my $fiphost = 'hostip.hostname';
 
 my %opts;
 getopts('u:p:r:', \%opts);
