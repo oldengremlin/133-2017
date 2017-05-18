@@ -48,6 +48,9 @@ while (<$fh>) {
 close $fho;
 close $fh;
 
+system(sprintf("sort -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n %s > /tmp/%s", $fiphost, $fiphost."~" ));
+system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
+
 $hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 $hostip = join("\n", sortipv4(keys %hostip));
 
