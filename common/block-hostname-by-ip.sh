@@ -6,7 +6,7 @@ PASSWORD=password
 
 CP=$( pwd )
 cd /home/olden/src/133-2017/
-./block-hostname-by-ip -r${BORDER} -u${USER} -p${PASSWORD}
+../block-hostname-by-ip -r${BORDER} -u${USER} -p${PASSWORD}
 git commit -a -m "reglament run"
 git push origin master
 cd ${CP}
