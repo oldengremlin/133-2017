@@ -43,6 +43,7 @@ while (<$fh>) {
 }
 close $fh;
 
+getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p});
 
 my $diff = diff \$hostipold, \$hostip;
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
@@ -53,27 +54,19 @@ close $fh;
 
 exit;
 
-sub getHostIP {
-    my $host = shift if @_;
+sub getJunOSRejectStaticRoute {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
     my @ret;
 
-    return @ret unless $host;
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my $ret = join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject$ | no-more")) );
+    undef $ssh;
 
-#    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("host %s", $host));
-    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
-    close(WHOIS_HOST_IN);
-    my @outwhoishost = <WHOIS_HOST_OUT>;
-    my @errwhoishost = <WHOIS_HOST_ERR>;
-    close(WHOIS_HOST_OUT);
-    close(WHOIS_HOST_ERR);
-
-    foreach my $line ( @outwhoishost ) {
-#        next unless $line =~ /has address/;
-        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
-        chomp $line;
-        my (undef, undef, undef, $ip) = split(" ", $line);
-        push @ret, $ip;
-    }
+print $ret;
 
     return @ret;
 }
@@ -137,4 +130,27 @@ sub doCmd {
     undef $session;
     undef $ssh;
 #   open STDERR, '>', "/dev/stderr";
+}
+
+sub getHostIP {
+    my $host = shift if @_;
+    my @ret;
+
+    return @ret unless $host;
+
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
+    close(WHOIS_HOST_IN);
+    my @outwhoishost = <WHOIS_HOST_OUT>;
+    my @errwhoishost = <WHOIS_HOST_ERR>;
+    close(WHOIS_HOST_OUT);
+    close(WHOIS_HOST_ERR);
+
+    foreach my $line ( @outwhoishost ) {
+        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
+        chomp $line;
+        my (undef, undef, undef, $ip) = split(" ", $line);
+        push @ret, $ip;
+    }
+
+    return @ret;
 }
