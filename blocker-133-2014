@@ -64,7 +64,7 @@ sub getJunOSRejectStaticRoute {
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
     undef $ssh;
 
-@ret = map { join(".",unpack("C4")) } sort map { pack("C4", split /[.\/]/) } @ret;
+@ret = map { join(".",unpack("C4")) } sort map { pack("C4", split /[.]/) } @ret;
 
     map {
         s/^[^\d]+//;
