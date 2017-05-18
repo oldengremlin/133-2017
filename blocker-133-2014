@@ -67,6 +67,7 @@ sub getJunOSRejectStaticRoute {
     map {
         s/^[^\d]+//;
         s/[^\d]+$//;
+        s,/32$,,;
         print;
         print "\n";
     } @ret;
