@@ -59,14 +59,12 @@ sub getJunOSRejectStaticRoute {
     my $user = shift if @_;
     my $pass = shift if @_;
 
-print "111\n";
-
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
     undef $ssh;
 
-print @ret;
+    map { print; print "\n" } @ret;
 
     return @ret;
 }
