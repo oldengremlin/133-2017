@@ -116,6 +116,8 @@ sub doCmd {
         die;
     }
 
+    return unless length($cmdin)>0;
+
 #   open STDERR, '>', "/dev/null";
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
