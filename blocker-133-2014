@@ -30,7 +30,7 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-my (%hostip, %hostipold, $fh, $hostip, $hostipold);
+my (%hostip, $fh, $hostip, $hostipold);
 
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 while (<$fh>) {
@@ -43,7 +43,8 @@ while (<$fh>) {
 }
 close $fh;
 
-getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p});
+$hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
+$hostip = join("\n", );
 
 my $diff = diff \$hostipold, \$hostip;
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
@@ -53,6 +54,14 @@ close $fh;
 #setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
+
+sub sortipv4 {
+    my @ret = @_;
+    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
+    map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
+    return @ret;
+}
 
 sub getJunOSRejectStaticRoute {
     my $router = shift if @_;
@@ -64,22 +73,11 @@ sub getJunOSRejectStaticRoute {
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
     undef $ssh;
 
-    map {
-        s/^[^\d]+//;
-        s/[^\d]+$//;
-        s,/32$,,;
-    } @ret;
+#    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+#    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
+#    map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
 
-    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
-
-    map {
-        s,\.(\d+)$,/$1,;
-        s,/0$,,;
-        print;
-        print "\n";
-    } @ret;
-
-    return @ret;
+    return sortipv4(@ret);
 }
 
 sub setJunOSConfig {
