@@ -31,7 +31,7 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-my (%hostip, $fh, $hostip, $hostipold);
+my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 open $fho,">:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
