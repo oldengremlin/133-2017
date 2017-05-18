@@ -34,7 +34,7 @@ unless (defined $opts{p} ) {
 my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
-open $fho,">:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
+open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
 while (<$fh>) {
     next unless /^.+$/;
     next if /^\s*#/;
@@ -48,7 +48,7 @@ while (<$fh>) {
 close $fho;
 close $fh;
 
-system(sprintf("sort -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n %s > /tmp/%s", $fiphost, $fiphost."~" ));
+system(sprintf("sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n %s > /tmp/%s", $fiphost, $fiphost."~" ));
 system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 
 $hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
