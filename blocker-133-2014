@@ -161,6 +161,9 @@ sub getHostIP {
         chomp $line;
         my (undef, undef, undef, $ip) = split(" ", $line);
         push @ret, $ip;
+
+        printf("%s %s\n", $ip, $host) if $ip eq "89.184.74.33";
+
     }
 
     return @ret;
