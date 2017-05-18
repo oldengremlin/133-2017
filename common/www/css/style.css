@@ -1,0 +1,60 @@
+body {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background-image: none;
+    background-color: rgb(240, 240, 240);
+}
+
+h1 {
+    text-align: center;
+}
+
+iframe.ukurier {
+    width: 99.7%;
+    height: 55vh;
+    overflow: hidden; 
+    border: 3px solid darkgreen;
+    padding: 2px;
+}
+
+.button {
+    border-color: #c4c4c4!important;
+    border-width: 1px;
+    cursor: pointer;
+    background-image: linear-gradient(rgb(255, 255, 255) 0px, rgb(231, 231, 231) 100%);
+    box-shadow: 0 1px 0 0 rgba(255,255,255,.85) inset, 0 1px 0 0 rgba(0,0,0,.35);
+}
+
+.button.big {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -.5px;
+    line-height: 33px;
+    height: 35px;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 240px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    left: 105%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}

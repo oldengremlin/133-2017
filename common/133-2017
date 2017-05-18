@@ -7,8 +7,7 @@ HN=133-2017-master/hostnames
 test -r master.zip && rm master.zip
 wget https://github.com/oldengremlin/133-2017/archive/master.zip
 unzip -o master.zip ${HN}
-awk '/^.+/ { printf("zone \"%s\" { type master; file \"/etc/bind/db.empty\"; };\n", $1); }' ${HN} | sort -u > /etc/bind/named.conf.133-2017
+cat ${HN} | egrep -v "^#" | awk '/^.+/ { printf("zone \"%s\" { type master; file \"/etc/bind/db.133-2017\"; };\n", $1); }' | sort -u > /etc/bind/named.conf.133-2017
 /etc/init.d/bind9 restart
 
 cd ${CP}
-
