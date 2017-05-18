@@ -51,6 +51,10 @@ open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
 print $fh $diff;
 close $fh;
 
+open $fh,">>:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
+print $fh $hostip;
+close $fh;
+
 setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
