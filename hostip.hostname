@@ -7,6 +7,7 @@
 52.50.157.108 yandexdatafactory.com
 77.88.8.8 dns.yandex.ru
 77.88.21.14 clck.yandex.ru
+77.88.21.75 bar-navig.yandex.ru
 77.88.21.90 an.yandex.ru
 77.88.21.106 api-maps.yandex.ru
 77.88.21.121 static-maps.yandex.ru
@@ -47,6 +48,7 @@
 87.250.250.12 news.yandex.ru
 87.250.250.14 clck.yandex.ru
 87.250.250.22 market.yandex.ru
+87.250.250.75 bar-navig.yandex.ru
 87.250.250.82 api.browser.yandex.ru
 87.250.250.90 an.yandex.ru
 87.250.250.91 yabs.yandex.ru
@@ -63,6 +65,7 @@
 87.250.251.12 news.yandex.ru
 87.250.251.14 clck.yandex.ru
 87.250.251.41 stat.yandex.ru
+87.250.251.75 bar-navig.yandex.ru
 87.250.251.82 api.browser.yandex.ru
 87.250.251.105 kinopoisk.ru
 87.250.251.119 informer.yandex.ru
@@ -75,6 +78,7 @@
 93.158.134.14 clck.yandex.ru
 93.158.134.28 metrika.yandex.ru
 93.158.134.62 webmaster.yandex.ru
+93.158.134.75 bar-navig.yandex.ru
 93.158.134.82 api.browser.yandex.ru
 93.158.134.90 an.yandex.ru
 93.158.134.91 yabs.yandex.ru
@@ -264,6 +268,7 @@
 213.180.193.50 disk.yandex.ru
 213.180.193.58 pdd.yandex.ru
 213.180.193.71 afisha.yandex.ru
+213.180.193.75 bar-navig.yandex.ru
 213.180.193.82 api.browser.yandex.ru
 213.180.193.90 an.yandex.ru
 213.180.193.105 kinopoisk.ru
@@ -286,6 +291,7 @@
 213.180.204.51 pass.yandex.ru
 213.180.204.56 xml.yandex.ru
 213.180.204.73 rasp.yandex.ru
+213.180.204.75 bar-navig.yandex.ru
 213.180.204.82 api.browser.yandex.ru
 213.180.204.90 an.yandex.ru
 213.180.204.91 yabs.yandex.ru
