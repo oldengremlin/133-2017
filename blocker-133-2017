@@ -69,7 +69,8 @@ foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	if (m{/32$}) {
-	    my ($net, $mask) = split("/");
+say;
+	    my ($net, $mask) = split("/", $_);
 	    $ipnet{$net} = $mask if $mask<$ipnet{$net};
 	}
     } split("\n", $rt_rn);
