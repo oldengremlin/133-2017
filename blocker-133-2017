@@ -68,8 +68,9 @@ system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     foreach my $netw ( split("\n", $rt_rn) ) {
+	chomp $netw;
 say $netw;
-	if ($netw =~ m{/32$}) {
+	if ($netw !~ m{/32$}) {
 	    my ($net, $mask) = split("/", $netw);
 	    $ipnet{$net} = $mask if $mask<$ipnet{$net};
 	}
