@@ -6,7 +6,7 @@
  set routing-options static route 109.235.164.0/24 reject
  set routing-options static route 109.235.166.0/24 reject
  set routing-options static route 128.140.168.0/21 reject
-@@ -50,27 +49,23 @@
+@@ -50,7 +49,6 @@
  set routing-options static route 178.154.255.0/24 reject
  set routing-options static route 178.22.88.0/21 reject
  set routing-options static route 178.237.16.0/20 reject
@@ -14,8 +14,7 @@
  set routing-options static route 178.237.24.0/24 reject
  set routing-options static route 178.237.29.0/24 reject
  set routing-options static route 178.237.30.0/24 reject
-+set routing-options static route 178.248.232.0/21 reject
- set routing-options static route 185.16.148.0/22 reject
+@@ -59,19 +57,15 @@
  set routing-options static route 185.16.244.0/23 reject
  set routing-options static route 185.16.246.0/24 reject
  set routing-options static route 185.32.248.0/22 reject
@@ -35,7 +34,7 @@
  set routing-options static route 188.93.56.0/21 reject
  set routing-options static route 188.93.57.0/24 reject
  set routing-options static route 188.93.58.0/24 reject
-@@ -88,7 +83,6 @@
+@@ -89,7 +83,6 @@
  set routing-options static route 199.21.96.0/22 reject
  set routing-options static route 199.21.99.0/24 reject
  set routing-options static route 199.36.240.0/22 reject
@@ -43,7 +42,7 @@
  set routing-options static route 213.180.192.0/19 reject
  set routing-options static route 213.180.193.0/24 reject
  set routing-options static route 213.180.199.0/24 reject
-@@ -109,7 +103,6 @@
+@@ -110,7 +103,6 @@
  set routing-options static route 37.140.128.0/18 reject
  set routing-options static route 37.140.132.0/25 reject
  set routing-options static route 37.140.136.0/24 reject
@@ -51,7 +50,7 @@
  set routing-options static route 37.140.137.0/26 reject
  set routing-options static route 37.140.141.0/24 reject
  set routing-options static route 37.140.152.0/24 reject
-@@ -122,8 +115,6 @@
+@@ -123,8 +115,6 @@
  set routing-options static route 37.9.90.0/24 reject
  set routing-options static route 45.116.91.0/24 reject
  set routing-options static route 5.255.192.0/18 reject
@@ -60,7 +59,7 @@
  set routing-options static route 5.255.194.0/24 reject
  set routing-options static route 5.255.194.96/27 reject
  set routing-options static route 5.255.196.0/24 reject
-@@ -136,7 +127,6 @@
+@@ -137,7 +127,6 @@
  set routing-options static route 5.45.202.0/24 reject
  set routing-options static route 5.45.205.0/24 reject
  set routing-options static route 5.45.208.0/24 reject
@@ -68,7 +67,7 @@
  set routing-options static route 5.45.213.0/24 reject
  set routing-options static route 5.45.217.0/24 reject
  set routing-options static route 5.45.228.0/24 reject
-@@ -144,7 +134,6 @@
+@@ -145,7 +134,6 @@
  set routing-options static route 5.45.240.0/24 reject
  set routing-options static route 5.45.243.64/26 reject
  set routing-options static route 5.45.254.0/24 reject
@@ -76,7 +75,7 @@
  set routing-options static route 5.61.16.0/21 reject
  set routing-options static route 5.61.232.0/21 reject
  set routing-options static route 52.28.175.54 reject
-@@ -163,25 +152,20 @@
+@@ -164,25 +152,20 @@
  set routing-options static route 77.74.181.0/24 reject
  set routing-options static route 77.74.183.0/24 reject
  set routing-options static route 77.75.152.0/21 reject
@@ -102,7 +101,7 @@
  set routing-options static route 79.137.157.32/27 reject
  set routing-options static route 79.137.183.0/24 reject
  set routing-options static route 84.201.128.0/18 reject
-@@ -202,16 +186,13 @@
+@@ -203,16 +186,13 @@
  set routing-options static route 93.158.134.0/24 reject
  set routing-options static route 93.158.137.0/24 reject
  set routing-options static route 93.158.144.0/21 reject
@@ -119,7 +118,7 @@
  set routing-options static route 95.108.150.0/23 reject
  set routing-options static route 95.108.152.0/22 reject
  set routing-options static route 95.108.154.0/23 reject
-@@ -221,12 +202,10 @@
+@@ -222,12 +202,10 @@
  set routing-options static route 95.108.206.0/24 reject
  set routing-options static route 95.108.216.0/23 reject
  set routing-options static route 95.108.240.0/21 reject

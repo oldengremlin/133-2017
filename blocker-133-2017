@@ -135,7 +135,9 @@ sub setJunOSConfig {
         $line =~ s/;$//;
         if ($line =~ /^-/) {
             $line =~ s/^-//;
-#            $ret .= $line."\n";
+	    $line =~ s/^set/delete/;
+	    $line =~ s/\s+reject$//;
+            $ret .= $line."\n";
         } else {
             $line =~ s/^\+//;
             $ret .= $line."\n";
