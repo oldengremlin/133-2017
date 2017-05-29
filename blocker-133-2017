@@ -118,8 +118,8 @@ open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 close $fh;
 
-print $diff;
-#setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
+#say $diff;
+setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
 
