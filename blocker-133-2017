@@ -44,7 +44,8 @@ unless (defined $opts{p} ) {
 
 # Отримуємо список заблокованих ip-адрес та мереж на бордері
 $hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
-$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } split("\n", $hostipold) ) );
+$rr_old_config = join("\n", sort( map { say "!0!!" if /178.248.232.0/;
+"set routing-options static route ".$_." reject" } split("\n", $hostipold) ) );
 
 # читаємо список хостів для блокування та записуємо зв'язки ip в ім'я
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
