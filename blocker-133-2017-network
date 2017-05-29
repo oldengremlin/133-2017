@@ -39,7 +39,6 @@ foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
-	$net =~ s,/32,,;
 	$ipnet{$net}++;
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
@@ -48,7 +47,6 @@ my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
 foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
-    $ip =~ s,/32,,;
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
     } else {
@@ -119,7 +117,8 @@ sub jCmd {
 
 sub sortipv4 {
     my @ret = @_;
-    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+#    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+    map { s/^[^\d]+//; s/[^\d]+$//; } @ret;
     @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
     map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
     return @ret;
