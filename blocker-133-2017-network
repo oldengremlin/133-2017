@@ -23,7 +23,7 @@ my $fhostip = 'hostip';
 my $fhostipdiff = 'hostipdiff';
 my $fiphost = 'hostip.hostname';
 
-my ($rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "");
+my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "", "");
 my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 my %opts;
@@ -63,9 +63,6 @@ close $fh;
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
 system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 
-# список блокуємих ip-адрес, що виявлено за цей сеанс
-$hostip = join("\n", sortipv4(keys %hostip));
-
 # отримуємо список мереж для блокування (по AS-num)
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
@@ -77,6 +74,14 @@ foreach my $asnet (@asnum) {
 }
 my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
+
+# список блокуємих ip-адрес, що виявлено за цей сеанс
+foreach my $ip ( sortipv4(keys %hostip) ) {
+    unless (match_ip($ip, $ipnetre)) {
+	$rr_ht .= sprintf("set routing-options static route %s reject\n", $ip);
+    }
+}
+$rr_new_config .= $rr_ht;
 
 # зчитуємо заблоковані хости (/32) з маршрутизатора.
 # якщо вони входять в заблоковані мережі - видаляємо маршрут на хост
@@ -174,8 +179,7 @@ sub getHostIP {
 
 sub sortipv4 {
     my @ret = @_;
-#    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
-    map { s/^[^\d]+//; s/[^\d]+$//; } @ret;
+    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
     @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
     map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
     return @ret;
