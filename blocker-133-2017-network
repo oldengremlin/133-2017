@@ -5,18 +5,30 @@ use strict;
 use warnings;
 use Getopt::Std;
 
-my @asnum = ('AS47541', 'AS47764', 'AS13238', 'AS43247', 'AS197068', 'AS200107');
-my ($rr_rt) = "";
+my @asnum = (
+    'AS47541', # VKONTAKTE-SPB-AS
+    'AS47764', # mailru-as
+    'AS13238', # Yandex
+    'AS43247', # YAMONEY-AS
+    'AS197068', # QRATOR (drweb.ru)
+    'AS200107'  # KL-EXT (kaspersky.ru)
+);
+my ($rr_rt, %ipnet) = "";
 
 foreach my $asnet (@asnum) {
-    $rr_rt .= getRTConfig($asnet);
+    my $rt_rn = getRTRejectNetworks($asnet);
+    map {
+	my (undef, undef, undef, undef, $net) = split(" ");
+	print $net;
+    } split("\n", $rt_rn);
+    $rr_rt .= $rt_rn;
 }
 $rr_rt = join("\n",sort(split("\n",$rr_rt)));
 print $rr_rt;
 
 exit;
 
-sub getRTConfig {
+sub getRTRejectNetworks {
     my $as = shift if @_;
     return "" unless $as;
     my $ret;
