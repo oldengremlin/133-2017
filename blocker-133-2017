@@ -24,7 +24,7 @@ my $fhostip = 'hostip';
 my $fhostipdiff = 'hostipdiff';
 my $fiphost = 'hostip.hostname';
 
-my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet, @ipnet) = ("", "", "", "", "");
+my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet, @ipnetw) = ("", "", "", "", "");
 my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 my %opts;
@@ -76,9 +76,9 @@ foreach my $asnet (@asnum) {
 }
 foreach my $net ( sortipv4( keys %ipnet ) ) {
     $rr_rt .= sprintf("set routing-options static route %s/%s reject\n", $net, $ipnet{$net});
-    push @ipnet sprintf("%s/%s", $net, $ipnet{$net});
+    push @ipnetw sprintf("%s/%s", $net, $ipnet{$net});
 }
-my $ipnetre = create_iprange_regexp( @ipnet );
+my $ipnetre = create_iprange_regexp( @ipnetw );
 $rr_new_config .= $rr_rt;
 
 # список блокуємих ip-адрес, що виявлено за цей сеанс
