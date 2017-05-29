@@ -69,7 +69,7 @@ foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
-say "!1!!", $net if $net=~/178.248.232.0/;
+say "!0!!", $net if $net=~/178.248.232.0/;
 	$ipnet{$net}++;
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
