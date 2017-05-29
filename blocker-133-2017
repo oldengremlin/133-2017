@@ -212,11 +212,11 @@ sub getRTRejectStaticRoute {
     my $as = shift if @_;
     return "" unless $as;
     my $ret;
-#1    open (RT, 'echo "@rtconfig printPrefixRanges \"set routing-options static route %p/%m reject\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
+#    say 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |';
     open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
     while (<RT>) {
         s/^\s*//;
-        next unless /^set\s+/;
+        next unless /^[^0-9]/;
         $ret .= $_;
     }
     close RT;
