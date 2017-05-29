@@ -24,7 +24,7 @@ my $fhostip = 'hostip';
 my $fhostipdiff = 'hostipdiff';
 my $fiphost = 'hostip.hostname';
 
-my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "", "");
+my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet, @ipnet) = ("", "", "", "", "");
 my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 my %opts;
@@ -68,15 +68,17 @@ system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
-	my (undef, undef, undef, undef, $net) = split(" ");
-	if ($net !~ m{/32$}) {
-	    $ipnet{$net}++ ;
-	    $rr_rt .= $_."\n";
+	if (m{/32$}) {
+	    my ($net, $mask) = split("/")
+	    $ipnet{$net} = $mask if $mask<$ipnet{$net};
 	}
     } split("\n", $rt_rn);
-#    $rr_rt .= $rt_rn;
 }
-my $ipnetre = create_iprange_regexp( keys %ipnet );
+foreach my $net ( sortipv4( keys %ipnet ) ) {
+    $rr_rt .= sprintf("set routing-options static route %s/%s reject\n", $net, $ipnet{$net});
+    push @ipnet sprintf("%s/%s", $net, $ipnet{$net});
+}
+my $ipnetre = create_iprange_regexp( @ipnet );
 $rr_new_config .= $rr_rt;
 
 # список блокуємих ip-адрес, що виявлено за цей сеанс
