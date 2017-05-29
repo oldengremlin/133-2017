@@ -23,6 +23,7 @@ my $fhostipdiff = 'hostipdiff';
 my $fiphost = 'hostip.hostname';
 
 my ($rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "");
+my (%hostip, $fh, $fho, $hostip, $hostipold);
 
 my %opts;
 getopts('u:p:r:', \%opts);
@@ -39,8 +40,32 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}) ) );
+# Отримуємо список заблокованих ip-адрес та мереж на бордері
+$hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
+$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } split("\n", $hostipold) ) );
 
+# читаємо список хостів для блокування та записуємо зв'язки ip в ім'я
+open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
+open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
+while (<$fh>) {
+    next unless /^.+$/;
+    next if /^\s*#/;
+    chomp;
+    my @hosts = getHostIP($_);
+    foreach my $rr (@hosts) {
+        $hostip{$rr}++;
+        print $fho sprintf("%s %s\n", $rr, $_);
+    }
+}
+close $fho;
+close $fh;
+system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
+system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
+
+# список блокуємих ip-адрес, що виявлено за цей сеанс
+$hostip = join("\n", sortipv4(keys %hostip));
+
+# отримуємо список мереж для блокування (по AS-num)
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
@@ -61,7 +86,6 @@ foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
 }
 $rr_new_config .= $rr_jn;
 $rr_new_config = join("\n", sort( split("\n", $rr_new_config) ) );
-
 
 say "OLD:";
 say $rr_old_config;
