@@ -70,7 +70,7 @@ foreach my $asnet (@asnum) {
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
 say "!0!! ", $net if $net=~/178.248.232.0/;
-say "!00! ", $net if $net =~ m{/32$};
+say "!00! ", $net if $net !~ m{/32$};
 	$ipnet{$net}++ if $net !~ m{/32$};
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
