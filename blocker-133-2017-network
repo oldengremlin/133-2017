@@ -4,6 +4,7 @@ use v5.10;
 use strict;
 use warnings;
 use Getopt::Std;
+use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
@@ -13,22 +14,51 @@ my @asnum = (
     'AS197068', # QRATOR (drweb.ru)
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
-my ($rr_rt, %ipnet) = "";
+my ($rr_rt, %ipnet) = ("");
+
+my %opts;
+getopts('u:p:r:', \%opts);
+unless (defined $opts{r} ) {
+    say "-rrouter";
+    exit 254;
+}
+unless (defined $opts{u} ) {
+    say "-uusername";
+    exit 254;
+}
+unless (defined $opts{p} ) {
+    say "-ppassword";
+    exit 255;
+}
 
 foreach my $asnet (@asnum) {
-    my $rt_rn = getRTRejectNetworks($asnet);
+    my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
-	print $net;
+	$ipnet{$net}++;
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
 }
-$rr_rt = join("\n",sort(split("\n",$rr_rt)));
 print $rr_rt;
+
+my $ipnetre = create_iprange_regexp( sort keys %ipnet );
 
 exit;
 
-sub getRTRejectNetworks {
+sub getJunOSRejectStaticRoute {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
+    undef $ssh;
+
+    return sortipv4(@ret);
+}
+
+sub getRTRejectStaticRoute {
     my $as = shift if @_;
     return "" unless $as;
     my $ret;
@@ -40,4 +70,12 @@ sub getRTRejectNetworks {
     }
     close RT;
     return $ret;
+}
+
+sub sortipv4 {
+    my @ret = @_;
+    map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
+    @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
+    map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
+    return @ret;
 }
