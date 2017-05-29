@@ -33,10 +33,13 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
+$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}) ) );
+
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
+	$net =~ s,/32,,;
 	$ipnet{$net}++;
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
@@ -45,7 +48,7 @@ my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
 foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
-    $ip =~ s,/32$,,;
+    $ip =~ s,/32,,;
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
     } else {
@@ -53,14 +56,16 @@ foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
     }
 }
 $rr_new_config .= $rr_jn;
-$rr_new_config = join("\n",sort(split("\n", $rr_new_config)));
+$rr_new_config = join("\n", sort( split("\n", $rr_new_config) ) );
 
-$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}) ));
 
+say "OLD:";
 say $rr_old_config;
+say "NEW:";
 say $rr_new_config;
 
 my $diff = diff \$rr_old_config, \$rr_new_config;
+say "DIFF:";
 say $diff;
 
 exit;
