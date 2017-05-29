@@ -114,8 +114,8 @@ open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 close $fh;
 
-#print $diff;
-setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
+print $diff;
+#setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
 
@@ -208,7 +208,8 @@ sub getRTRejectStaticRoute {
     my $as = shift if @_;
     return "" unless $as;
     my $ret;
-    open (RT, 'echo "@rtconfig printPrefixRanges \"set routing-options static route %p/%m reject\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
+#1    open (RT, 'echo "@rtconfig printPrefixRanges \"set routing-options static route %p/%m reject\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
+    open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
     while (<RT>) {
         s/^\s*//;
         next unless /^set\s+/;
