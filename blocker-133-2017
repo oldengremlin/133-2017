@@ -69,19 +69,17 @@ foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
-say "!0!! ", $net if $net=~/178.248.232.0/;
-say "!00! ", $net if $net !~ m{/32$};
 	$ipnet{$net}++ if $net !~ m{/32$};
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
 }
+map { print if m,/32,; say; } keys %ipnet;
 my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
 # список блокуємих ip-адрес, що виявлено за цей сеанс
 foreach my $ip ( sortipv4(keys %hostip) ) {
     unless (match_ip($ip, $ipnetre)) {
-say "!1!!" if $ip=~/178.248.232.0/;
 	$rr_ht .= sprintf("set routing-options static route %s reject\n", $ip);
     }
 }
@@ -94,7 +92,6 @@ foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
     } else {
-say "!2!!" if $ip=~/178.248.232.0/;
 	$rr_jn .= sprintf("set routing-options static route %s reject\n", $ip);
     }
 }
