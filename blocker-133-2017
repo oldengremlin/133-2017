@@ -67,10 +67,8 @@ system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 # отримуємо список мереж для блокування (по AS-num)
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
-say $rt_rn;
     map {
 	if (m{/32$}) {
-say;
 	    my ($net, $mask) = split("/", $_);
 	    $ipnet{$net} = $mask if $mask<$ipnet{$net};
 	}
@@ -212,11 +210,10 @@ sub getRTRejectStaticRoute {
     my $as = shift if @_;
     return "" unless $as;
     my $ret;
-#    say 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |';
     open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
     while (<RT>) {
         s/^\s*//;
-        next unless /^[^0-9]/;
+        next unless /^[^0-97]/;
         $ret .= $_;
     }
     close RT;
