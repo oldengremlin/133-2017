@@ -6,7 +6,26 @@ use warnings;
 use Getopt::Std;
 
 my @asnum = ('AS47541', 'AS47764', 'AS13238', 'AS43247', 'AS197068', 'AS200107');
+my ($rr_rt) = "";
 
 foreach my $asnet (@asnum) {
-    say $asnet;
+    $rr_rt .= getRTConfig($asnet);
+}
+$rr_rt = join("\n",sort(split("\n",$rr_rt)));
+print $rr_rt;
+
+exit;
+
+sub getRTConfig {
+    my $as = shift if @_;
+    return "" unless $as;
+    my $ret;
+    open (RT, 'echo "@rtconfig printPrefixRanges \"set routing-options static route %p/%m reject\n\" filter '.$as.'" | rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
+    while (<RT>) {
+        s/^\s*//;
+        next unless /^set\s+/;
+        $ret .= $_;
+    }
+    close RT;
+    return $ret;
 }
