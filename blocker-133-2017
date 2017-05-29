@@ -109,6 +109,8 @@ $rr_old_config = sortwithoutdup($rr_old_config);
 $rr_new_config = sortwithoutdup($rr_new_config);
 
 my $diff = diff \$rr_old_config, \$rr_new_config;
+#say $diff;
+setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
 print $fh $diff;
@@ -117,9 +119,6 @@ close $fh;
 open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 close $fh;
-
-#say $diff;
-setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
 
 exit;
 
