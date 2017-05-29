@@ -73,7 +73,7 @@ foreach my $asnet (@asnum) {
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
 }
-map { print if m,/32,; say; } keys %ipnet;
+map { say if m,/32,; } keys %ipnet;
 my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
