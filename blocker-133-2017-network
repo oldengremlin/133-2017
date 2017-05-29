@@ -16,6 +16,12 @@ my @asnum = (
     'AS197068', # QRATOR (drweb.ru)
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
+
+my $fhostnames = 'hostnames';
+my $fhostip = 'hostip';
+my $fhostipdiff = 'hostipdiff';
+my $fiphost = 'hostip.hostname';
+
 my ($rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "");
 
 my %opts;
@@ -113,6 +119,29 @@ sub jCmd {
     my @list = $ssh->capture($cmd);
     $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
     return @list;
+}
+
+sub getHostIP {
+    my $host = shift if @_;
+    my @ret;
+
+    return @ret unless $host;
+
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
+    close(WHOIS_HOST_IN);
+    my @outwhoishost = <WHOIS_HOST_OUT>;
+    my @errwhoishost = <WHOIS_HOST_ERR>;
+    close(WHOIS_HOST_OUT);
+    close(WHOIS_HOST_ERR);
+
+    foreach my $line ( @outwhoishost ) {
+        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
+        chomp $line;
+        my (undef, undef, undef, $ip) = split(" ", $line);
+        push @ret, $ip;
+    }
+
+    return @ret;
 }
 
 sub sortipv4 {
