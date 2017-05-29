@@ -15,7 +15,7 @@ my @asnum = (
     'AS197068', # QRATOR (drweb.ru)
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
-my ($rr_rt, $rr_jn, %ipnet) = ("", "");
+my ($rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet) = ("", "", "", "");
 
 my %opts;
 getopts('u:p:r:', \%opts);
@@ -32,7 +32,6 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
@@ -42,23 +41,25 @@ foreach my $asnet (@asnum) {
     $rr_rt .= $rt_rn;
 }
 my $ipnetre = create_iprange_regexp( keys %ipnet );
+$rr_new_config .= $rr_rt;
 
-say $rr_rt;
-say $ipnetre;
-
-foreach my $ip ( getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
+foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
     } else {
 	$rr_jn .= sprintf("set routing-options static route %s reject\n", $ip);
     }
 }
+$rr_new_config .=  $rr_jn;
+$rr_new_config = join("\n",sort(split("\n", $rr_new_config)));
 
-say $rr_jn;
+$rr_old_config = join("\n", sort map { "set routing-options static route ".$_." reject" } getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 
+say $rr_new_config;
+say $rr_old_config;
 exit;
 
-sub getJunOSRejectStaticRoute {
+sub getJunOSRejectHostStaticRoute {
     my $router = shift if @_;
     my $user = shift if @_;
     my $pass = shift if @_;
@@ -67,6 +68,19 @@ sub getJunOSRejectStaticRoute {
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match /32 | match reject\$ | no-more")) ));
     undef $ssh;
+    return sortipv4(@ret);
+}
+
+sub getJunOSRejectStaticRoute {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
+    undef $ssh;
+
     return sortipv4(@ret);
 }
 
