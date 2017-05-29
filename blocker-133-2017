@@ -10,6 +10,10 @@ use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
 use IPC::Open3;
 
+#    'AS51286', # MAIL.RU NOC
+#    'AS60476', # MAIL.RU NOC
+#    'AS60863', # MAIL.RU NOC
+
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
     'AS47764', # mailru-as
