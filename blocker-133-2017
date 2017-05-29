@@ -91,7 +91,7 @@ foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
     } else {
-say "!!!" if $ip=~/178.248.232.0/
+say "!!!" if $ip=~/178.248.232.0/;
 	$rr_jn .= sprintf("set routing-options static route %s reject\n", $ip);
     }
 }
