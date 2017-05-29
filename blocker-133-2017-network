@@ -7,6 +7,7 @@ use Getopt::Std;
 use Net::OpenSSH;
 use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
+use IPC::Open3;
 
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
@@ -77,6 +78,9 @@ foreach my $asnet (@asnum) {
 my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
+# зчитуємо заблоковані хости (/32) з маршрутизатора.
+# якщо вони входять в заблоковані мережі - видаляємо маршрут на хост
+# формуємо нову конфігурацію
 foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
     if (match_ip($ip, $ipnetre)) {
 	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
