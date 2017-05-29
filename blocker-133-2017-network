@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+use v5.10;
+use strict;
+use warnings;
+use Getopt::Std;
+
+my @asnum = ('AS47541', 'AS47764', 'AS13238', 'AS43247', 'AS197068', 'AS200107');
+
+foreach my $asnet (@asnum) {
+    say $asnet;
+}
