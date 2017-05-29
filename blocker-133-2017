@@ -67,6 +67,7 @@ system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 # отримуємо список мереж для блокування (по AS-num)
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
+say $rt_rn;
     map {
 	if (m{/32$}) {
 	    my ($net, $mask) = split("/", $_);
