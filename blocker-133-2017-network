@@ -4,6 +4,7 @@ use v5.10;
 use strict;
 use warnings;
 use Getopt::Std;
+use Net::OpenSSH;
 use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 
 my @asnum = (
@@ -31,6 +32,7 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
+
 foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
@@ -39,9 +41,14 @@ foreach my $asnet (@asnum) {
     } split("\n", $rt_rn);
     $rr_rt .= $rt_rn;
 }
-print $rr_rt;
+my $ipnetre = create_iprange_regexp( keys %ipnet );
+foreach my $ip ( getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) ) {
+    
+}
 
-my $ipnetre = create_iprange_regexp( sort keys %ipnet );
+say $rr_rt;
+say $ipnetre;
+say $hostipold;
 
 exit;
 
@@ -70,6 +77,14 @@ sub getRTRejectStaticRoute {
     }
     close RT;
     return $ret;
+}
+
+sub jCmd {
+    my $ssh = shift if @_;
+    my $cmd = shift if @_;
+    my @list = $ssh->capture($cmd);
+    $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
+    return @list;
 }
 
 sub sortipv4 {
