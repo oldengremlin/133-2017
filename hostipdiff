@@ -1,8 +1,0 @@
-@@ -53,6 +53,7 @@
- set routing-options static route 178.237.24.0/24 reject
- set routing-options static route 178.237.29.0/24 reject
- set routing-options static route 178.237.30.0/24 reject
-+set routing-options static route 178.248.232.0 reject
- set routing-options static route 178.248.232.0/21 reject
- set routing-options static route 178.248.232.0/24 reject
- set routing-options static route 185.16.148.0/22 reject

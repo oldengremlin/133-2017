@@ -69,11 +69,13 @@ foreach my $asnet (@asnum) {
     my $rt_rn = getRTRejectStaticRoute($asnet);
     map {
 	my (undef, undef, undef, undef, $net) = split(" ");
-	$ipnet{$net}++ if $net !~ m{/32$};
+	if ($net !~ m{/32$}) {
+	    $ipnet{$net}++ ;
+	    $rr_rt .= $_."\n";
+	}
     } split("\n", $rt_rn);
-    $rr_rt .= $rt_rn;
+#    $rr_rt .= $rt_rn;
 }
-map { say if m,/32,; } keys %ipnet;
 my $ipnetre = create_iprange_regexp( keys %ipnet );
 $rr_new_config .= $rr_rt;
 
