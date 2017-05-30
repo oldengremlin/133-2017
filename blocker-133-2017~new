@@ -39,7 +39,25 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
+my (%hostip, $fh, $fho, $hostip, $hostipold);
 
+sub makeHostIP {
+open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
+open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
+while (<$fh>) {
+    next unless /^.+$/;
+    next if /^\s*#/;
+    chomp;
+    my @hosts = getHostIP($_);
+    foreach my $rr (@hosts) {
+        $hostip{$rr}++;
+        print $fho sprintf("%s %s\n", $rr, $_);
+    }
+}
+close $fho;
+close $fh;
+system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
+system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
 
 exit;
 
