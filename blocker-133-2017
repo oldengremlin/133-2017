@@ -2,6 +2,7 @@
 
 use v5.10;
 use strict;
+use diagnostics;
 use warnings;
 use Getopt::Std;
 use Net::OpenSSH;
@@ -9,10 +10,6 @@ use Net::Telnet;
 use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
 use IPC::Open3;
-
-#    'AS51286', # MAIL.RU NOC
-#    'AS60476', # MAIL.RU NOC
-#    'AS60863', # MAIL.RU NOC
 
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
@@ -23,13 +20,10 @@ my @asnum = (
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
 
-my $fhostnames = 'hostnames';
-my $fhostip = 'hostip';
-my $fhostipdiff = 'hostipdiff';
-my $fiphost = 'hostip.hostname';
-
-my ($rr_ht, $rr_rt, $rr_jn, $rr_old_config, $rr_new_config, %ipnet, @ipnet) = ("", "", "", "", "");
-my (%hostip, $fh, $fho, $hostip, $hostipold);
+my $fhostnames		= 'hostnames';
+my $fhostip		= 'hostip';
+my $fhostipdiff		= 'hostipdiff';
+my $fhostiphostname	= 'hostip.hostname';
 
 my %opts;
 getopts('u:p:r:', \%opts);
@@ -46,83 +40,100 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-# Отримуємо список заблокованих ip-адрес та мереж на бордері
-$hostipold = join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
-$rr_old_config = join("\n", sort( map { "set routing-options static route ".$_." reject" } split("\n", $hostipold) ) );
+my (%hostip, %hostipj, $fh, $fho);
 
-# читаємо список хостів для блокування та записуємо зв'язки ip в ім'я
+say "Отримуємо список reject-мереж та ip-адрес з бордера…";
+foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
+    if ($netw =~ m{/}) {
+        my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
+        $hostipj{$net} = 32 unless defined $hostipj{$net};
+        $hostipj{$net} = $mask if $mask<$hostipj{$net};
+    } else {
+        $hostipj{$netw} = 32;
+    }
+}
+
+say "Формуємо список мереж для заданих AS-num…";
+foreach my $asnet (@asnum) {
+    my @networks = getRTRejectStaticRoute($asnet);
+    foreach my $netw ( @networks ) {
+        if ($netw !~ m{/32$}) {
+            my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
+            $hostip{$net} = 32 unless defined $hostip{$net};
+            $hostip{$net} = $mask if $mask<$hostip{$net};
+        }
+    }
+
+}
+
+say "Формуємо regexp для списку мереж…";
+my @ipnet;
+foreach my $net ( keys %hostip ) {
+    push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
+}
+my $ipnetre = create_iprange_regexp( @ipnet );
+
+say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
-open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
+open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
 while (<$fh>) {
     next unless /^.+$/;
     next if /^\s*#/;
     chomp;
     my @hosts = getHostIP($_);
-    foreach my $rr (@hosts) {
-        $hostip{$rr}++;
-        print $fho sprintf("%s %s\n", $rr, $_);
+    foreach my $ip (@hosts) {
+        unless (match_ip($ip, $ipnetre)) {
+            $hostip{$ip} = 32;
+            print $fho sprintf("%s %s\n", $ip, $_);
+        }
     }
 }
 close $fho;
 close $fh;
-system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
-system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
+system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
+system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
-# отримуємо список мереж для блокування (по AS-num)
-foreach my $asnet (@asnum) {
-    my $rt_rn = getRTRejectStaticRoute($asnet);
-    foreach my $netw ( split("\n", $rt_rn) ) {
-	chomp $netw;
-	if ($netw !~ m{/32$}) {
-	    my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
-	    $ipnet{$net} = 32 unless defined $ipnet{$net};
-	    $ipnet{$net} = $mask if $mask<$ipnet{$net};
-	}
+say "Додаємо мережі та хости бордера у список мереж…";
+foreach my $netw ( keys %hostipj ) {
+    if (defined $hostip{$netw}) {
+        if ($hostip{$netw}>$hostipj{$netw}) {
+            $hostip{$netw} = $hostipj{$netw};
+        }
+        next;
+    }
+    unless (match_ip($netw, $ipnetre)) {
+        $hostip{$netw} = $hostipj{$netw};
     }
 }
-foreach my $net ( sortipv4( keys %ipnet ) ) {
-    $rr_rt .= sprintf("set routing-options static route %s/%s reject\n", $net, $ipnet{$net});
-    push @ipnet, sprintf("%s/%s", $net, $ipnet{$net});
+
+say "Формуємо списки для порівняння…";
+my (@netlist_old, @netlist_new);
+foreach my $netw ( sortipv4( keys %hostipj ) ) { push @netlist_old, sprintf("%s/%s", $netw, $hostipj{$netw}); }
+foreach my $netw ( sortipv4( keys %hostip ) ) { push @netlist_new, sprintf("%s/%s", $netw, $hostip{$netw}); }
+my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlist_new) );
+
+say "Проводимо порівняння…";
+my $diff = diff \$netlist_old, \$netlist_new;
+
+if (length($diff)>0) {
+    say "Вносимо зміни до конфігурації…";
+    setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p});
+
+    open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
+    print $fh $diff;
+    close $fh;
 }
-my $ipnetre = create_iprange_regexp( @ipnet );
-$rr_new_config .= $rr_rt;
 
-# список блокуємих ip-адрес, що виявлено за цей сеанс
-foreach my $ip ( sortipv4(keys %hostip) ) {
-    unless (match_ip($ip, $ipnetre)) {
-	$rr_ht .= sprintf("set routing-options static route %s reject\n", $ip);
-    }
-}
-$rr_new_config .= $rr_ht;
-
-# зчитуємо заблоковані хости (/32) з маршрутизатора.
-# якщо вони входять в заблоковані мережі - видаляємо маршрут на хост
-# формуємо нову конфігурацію
-foreach my $ip ( getJunOSRejectHostStaticRoute($opts{r}, $opts{u}, $opts{p}) ) {
-    if (match_ip($ip, $ipnetre)) {
-	$rr_jn .= sprintf("delete routing-options static route %s\n", $ip);
-    } else {
-	$rr_jn .= sprintf("set routing-options static route %s reject\n", $ip);
-    }
-}
-$rr_new_config .= $rr_jn;
-$rr_new_config =~ s,/32\s+, ,m;
-$rr_new_config = join("\n", sort( split("\n", $rr_new_config) ) );
-
-$rr_old_config = sortwithoutdup($rr_old_config);
-$rr_new_config = sortwithoutdup($rr_new_config);
-
-my $diff = diff \$rr_old_config, \$rr_new_config;
-#say $diff;
-setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}) if length($diff)>0;
-
-open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
-print $fh $diff;
-close $fh;
-
+say "Записуємо нову версію списку заблокованих мереж та адрес…";
 open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
 print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
 close $fh;
+
+say "";
+
+#map {
+#    say sprintf("%s/%s", $_, $hostip{$_});
+#} sortipv4( keys %hostip );
 
 exit;
 
@@ -138,16 +149,72 @@ sub setJunOSConfig {
         $line =~ s/;$//;
         if ($line =~ /^-/) {
             $line =~ s/^-//;
-	    $line =~ s/^set/delete/;
-	    $line =~ s/\s+reject$//;
-            $ret .= $line."\n";
+            $ret .= sprintf("delete routing-options static route %s\n", $line);
         } else {
             $line =~ s/^\+//;
-            $ret .= $line."\n";
+            $ret .= sprintf("set routing-options static route %s reject\n", $line);
         }
     }
     doCmd( $router, $user, $pass, $ret );
     return $ret;
+}
+
+sub getJunOSRejectStaticRoute {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
+    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
+    undef $ssh;
+
+    return sortipv4(@ret);
+}
+
+sub getRTRejectStaticRoute {
+    my $as = shift if @_;
+    return "" unless $as;
+    my @ret;
+    open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
+    while (<RT>) {
+        next unless /^[0-9]/;
+        push @ret, $_;
+    }
+    close RT;
+    return @ret;
+}
+
+sub getHostIP {
+    my $host = shift if @_;
+    my @ret;
+
+    return @ret unless $host;
+
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
+    close(WHOIS_HOST_IN);
+    my @outwhoishost = <WHOIS_HOST_OUT>;
+    my @errwhoishost = <WHOIS_HOST_ERR>;
+    close(WHOIS_HOST_OUT);
+    close(WHOIS_HOST_ERR);
+
+    foreach my $line ( @outwhoishost ) {
+        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
+        chomp $line;
+        my (undef, undef, undef, $ip) = split(" ", $line);
+        push @ret, $ip;
+    }
+
+    return @ret;
+}
+
+sub jCmd {
+    my $ssh = shift if @_;
+    my $cmd = shift if @_;
+    my @list = $ssh->capture($cmd);
+    $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
+    return @list;
 }
 
 sub doCmd {
@@ -188,89 +255,10 @@ sub doCmd {
 #   open STDERR, '>', "/dev/stderr";
 }
 
-sub getJunOSRejectHostStaticRoute {
-    my $router = shift if @_;
-    my $user = shift if @_;
-    my $pass = shift if @_;
-
-    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
-    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
-    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match /32 | match reject\$ | no-more")) ));
-    undef $ssh;
-    return sortipv4(@ret);
-}
-
-sub getJunOSRejectStaticRoute {
-    my $router = shift if @_;
-    my $user = shift if @_;
-    my $pass = shift if @_;
-
-    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
-    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
-    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
-    undef $ssh;
-
-    return sortipv4(@ret);
-}
-
-sub getRTRejectStaticRoute {
-    my $as = shift if @_;
-    return "" unless $as;
-    my $ret;
-    open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
-    while (<RT>) {
-        next unless /^[0-9]/;
-        $ret .= $_;
-    }
-    close RT;
-    return $ret;
-}
-
-sub jCmd {
-    my $ssh = shift if @_;
-    my $cmd = shift if @_;
-    my @list = $ssh->capture($cmd);
-    $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
-    return @list;
-}
-
-sub getHostIP {
-    my $host = shift if @_;
-    my @ret;
-
-    return @ret unless $host;
-
-    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
-    close(WHOIS_HOST_IN);
-    my @outwhoishost = <WHOIS_HOST_OUT>;
-    my @errwhoishost = <WHOIS_HOST_ERR>;
-    close(WHOIS_HOST_OUT);
-    close(WHOIS_HOST_ERR);
-
-    foreach my $line ( @outwhoishost ) {
-        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
-        chomp $line;
-        my (undef, undef, undef, $ip) = split(" ", $line);
-        push @ret, $ip;
-    }
-
-    return @ret;
-}
-
 sub sortipv4 {
     my @ret = @_;
     map { s/^[^\d]+//; s/[^\d]+$//; s,/32$,,; } @ret;
     @ret = map { join(".",unpack("C5")) } sort map { pack("C5",split /[.\/]/) } @ret;
     map { s,\.(\d+)$,/$1,; s,/0$,,; } @ret;
     return @ret;
-}
-
-sub sortwithoutdup {
-    my $txt = shift if @_;
-    return "" unless $txt;
-    my %txt;
-    foreach my $t (split("\n", $txt)) {
-	$txt{$t}++;
-    }
-    return join("\n", sort( keys %txt ) );
 }
