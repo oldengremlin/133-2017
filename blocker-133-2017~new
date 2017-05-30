@@ -94,9 +94,17 @@ system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
 say "Додаємо мережі та хости бордера у список мереж…";
+foreach my $netw ( keys %hostipj ) {
+    if (defined $hostip{$netw}) {
+        if ($hostip{$netw}>$hostipj{$netw}) {
+            $hostip{$netw} = $hostipj{$netw};
+        }
+        next;
+    }
 
+    
 
-
+}
 
 say "";
 
