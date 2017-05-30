@@ -1,0 +1,67 @@
+#!/usr/bin/perl
+
+use v5.10;
+use strict;
+use warnings;
+use Getopt::Std;
+use Net::OpenSSH;
+use Net::Telnet;
+use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
+use Text::Diff;
+use IPC::Open3;
+
+my @asnum = (
+    'AS47541', # VKONTAKTE-SPB-AS
+    'AS47764', # mailru-as
+    'AS13238', # Yandex
+    'AS43247', # YAMONEY-AS
+    'AS197068', # QRATOR (drweb.ru)
+    'AS200107'  # KL-EXT (kaspersky.ru)
+);
+
+my $fhostnames	= 'hostnames';
+my $fhostip	= 'hostip';
+my $fhostipdiff	= 'hostipdiff';
+my $fiphost	= 'hostip.hostname';
+
+my %opts;
+getopts('u:p:r:', \%opts);
+unless (defined $opts{r} ) {
+    say "-rrouter";
+    exit 254;
+}
+unless (defined $opts{u} ) {
+    say "-uusername";
+    exit 254;
+}
+unless (defined $opts{p} ) {
+    say "-ppassword";
+    exit 255;
+}
+
+
+
+exit;
+
+sub getHostIP {
+    my $host = shift if @_;
+    my @ret;
+
+    return @ret unless $host;
+
+    open3(*WHOIS_HOST_IN, *WHOIS_HOST_OUT, *WHOIS_HOST_ERR, sprintf("dig %s -t a \@8.8.8.8 +nottl", $host));
+    close(WHOIS_HOST_IN);
+    my @outwhoishost = <WHOIS_HOST_OUT>;
+    my @errwhoishost = <WHOIS_HOST_ERR>;
+    close(WHOIS_HOST_OUT);
+    close(WHOIS_HOST_ERR);
+
+    foreach my $line ( @outwhoishost ) {
+        next unless $line =~ /^$host\.\s+IN\s+A\s+/;
+        chomp $line;
+        my (undef, undef, undef, $ip) = split(" ", $line);
+        push @ret, $ip;
+    }
+
+    return @ret;
+}
