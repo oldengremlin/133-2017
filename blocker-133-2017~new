@@ -44,9 +44,13 @@ my (%hostip, %hostipj, $fh, $fho);
 
 say "Отримуємо список reject-мереж  та ip-адрес з бордера…";
 foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
-    my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
-    $hostipj{$net} = 32 unless defined $hostipj{$net};
-    $hostipj{$net} = $mask if $mask<$hostipj{$net};
+    if ($netw =~ m{/}) {
+        my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
+        $hostipj{$net} = 32 unless defined $hostipj{$net};
+        $hostipj{$net} = $mask if $mask<$hostipj{$net};
+    } else {
+        $hostipj{$netw} = 32;
+    }
 }
 
 say "Формуємо список мереж для заданих AS-num…";
@@ -68,8 +72,6 @@ foreach my $net ( keys %hostip ) {
     push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
 }
 my $ipnetre = create_iprange_regexp( @ipnet );
-say $ipnetre;
-say "";
 
 say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
