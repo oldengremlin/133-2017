@@ -20,10 +20,10 @@ my @asnum = (
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
 
-my $fhostnames	= 'hostnames';
-my $fhostip	= 'hostip';
-my $fhostipdiff	= 'hostipdiff';
-my $fiphost	= 'hostip.hostname';
+my $fhostnames		= 'hostnames';
+my $fhostip		= 'hostip';
+my $fhostipdiff		= 'hostipdiff';
+my $fhostiphostname	= 'hostip.hostname';
 
 my %opts;
 getopts('u:p:r:', \%opts);
@@ -62,10 +62,11 @@ foreach my $net ( keys %hostip ) {
 }
 my $ipnetre = create_iprange_regexp( @ipnet );
 say $ipnetre;
+say "";
 
-say "Формуємо список ip-адрес для заданих імен хостів…";
+say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
-open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
+open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
 while (<$fh>) {
     next unless /^.+$/;
     next if /^\s*#/;
@@ -80,14 +81,28 @@ while (<$fh>) {
 }
 close $fho;
 close $fh;
-system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
-system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
+system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
+system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
+say "";
 
 #map {
 #    say sprintf("%s/%s", $_, $hostip{$_});
 #} sortipv4( keys %hostip );
 
 exit;
+
+sub getJunOSRejectStaticRoute {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
+    undef $ssh;
+
+    return sortipv4(@ret);
+}
 
 sub getRTRejectStaticRoute {
     my $as = shift if @_;
