@@ -109,7 +109,8 @@ foreach my $netw ( keys %hostipj ) {
 say "";
 
 my (@netlist_old, @netlist_new);
-foreach my $netw ( 
+foreach my $netw ( sortipv4( keys %hostipj ) ) { push @netlist_old, sprintf("%s/%s", $netw, $hostipj{$netw}); }
+foreach my $netw ( sortipv4( keys %hostip ) ) { push @netlist_new, sprintf("%s/%s", $netw, $hostip{$netw}); }
 
 my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlist_new) );
 
