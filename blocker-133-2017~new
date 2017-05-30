@@ -42,7 +42,27 @@ unless (defined $opts{p} ) {
 
 my (%hostip, $fh, $fho, $hostip, $hostipold);
 
-if (0) {
+say "Формуємо список мереж для заданих AS-num…";
+foreach my $asnet (@asnum) {
+    my @networks = getRTRejectStaticRoute($asnet);
+    foreach my $netw ( @networks ) {
+        if ($netw !~ m{/32$}) {
+            my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
+            $hostip{$net} = 32 unless defined $hostip{$net};
+            $hostip{$net} = $mask if $mask<$hostip{$net};
+        }
+    }
+
+}
+
+say "Формуємо regexp для списку мереж…";
+my @ipnet;
+foreach my $net ( keys %hostip ) {
+    push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
+}
+my $ipnetre = create_iprange_regexp( @ipnet );
+say $ipnetre;
+
 say "Формуємо список ip-адрес для заданих імен хостів…";
 open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
 open $fho,">>:utf8", $fiphost or die "Can't open file $fiphost :$!\n";
@@ -51,25 +71,21 @@ while (<$fh>) {
     next if /^\s*#/;
     chomp;
     my @hosts = getHostIP($_);
-    foreach my $rr (@hosts) {
-        $hostip{$rr} = 32;
-        print $fho sprintf("%s %s\n", $rr, $_);
+    foreach my $ip (@hosts) {
+        unless (match_ip($ip, $ipnetre)) {
+            $hostip{$ip} = 32;
+            print $fho sprintf("%s %s\n", $ip, $_);
+        }
     }
 }
 close $fho;
 close $fh;
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fiphost, $fiphost."~" ));
 system(sprintf("mv /tmp/%s %s", $fiphost."~", $fiphost ));
-}
 
-map {
-    say sprintf("%s/%s", $_, $hostip{$_});
-} sortipv4( keys %hostip );
-
-say "Формуємо список мереж для заданих AS-num…";
-foreach my $asnet (@asnum) {
-}
-
+#map {
+#    say sprintf("%s/%s", $_, $hostip{$_});
+#} sortipv4( keys %hostip );
 
 exit;
 
