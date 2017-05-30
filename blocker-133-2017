@@ -11,12 +11,44 @@ use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
 use IPC::Open3;
 
+# for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+#    'AS47764', # Limited liability company Mail.Ru
+#    'AS51286', # Limited liability company Mail.Ru
+#    'AS60476', # Limited liability company Mail.Ru
+#    'AS60863', # Limited liability company Mail.Ru
+#    'AS49988', # Mail.Ru LLC
+#    'AS21051', # Limited liability company Mail.Ru
+
+# for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+#    'AS47541', # VKONTAKTE-SPB-AS
+#    'AS47542', # VKONTAKTE-MSK-CDN-AS
+#    'AS28709', # VKONTAKTE-REGIONAL-CDN
+
+# for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+#    'AS13238', # YANDEX LLC
+#    'AS43247', # "Yandex.Money" NBCO LLC
+#    'AS202611', # Yandex Cloud Technologies LLC
+#    'AS207207', # Yandex.OFD LLC
+
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
-    'AS47764', # mailru-as
-    'AS13238', # Yandex
-    'AS43247', # YAMONEY-AS
+    'AS47542', # VKONTAKTE-MSK-CDN-AS
+    'AS28709', # VKONTAKTE-REGIONAL-CDN
+
+    'AS47764', # Limited liability company Mail.Ru
+    'AS51286', # Limited liability company Mail.Ru
+    'AS60476', # Limited liability company Mail.Ru
+    'AS60863', # Limited liability company Mail.Ru
+    'AS49988', # Mail.Ru LLC
+    'AS21051', # Limited liability company Mail.Ru
+
+    'AS13238', # YANDEX LLC
+    'AS43247', # "Yandex.Money" NBCO LLC
+    'AS202611', # Yandex Cloud Technologies LLC
+    'AS207207', # Yandex.OFD LLC
+
     'AS197068', # QRATOR (drweb.ru)
+
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
 
@@ -58,6 +90,7 @@ foreach my $asnet (@asnum) {
     my @networks = getRTRejectStaticRoute($asnet);
     foreach my $netw ( @networks ) {
         if ($netw !~ m{/32$}) {
+#            say sprintf("%s : %s", $asnet, $netw);
             my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
             $hostip{$net} = 32 unless defined $hostip{$net};
             $hostip{$net} = $mask if $mask<$hostip{$net};
@@ -180,6 +213,7 @@ sub getRTRejectStaticRoute {
     open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
     while (<RT>) {
         next unless /^[0-9]/;
+        chomp;
         push @ret, $_;
     }
     close RT;
