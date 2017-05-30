@@ -33,7 +33,8 @@ my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
     'AS47764', # Limited liability company Mail.Ru
     'AS13238', # YANDEX LLC
-    'AS43247', # YAMONEY-AS
+    'AS43247', # "Yandex.Money" NBCO LLC
+    'AS202611', # Yandex Cloud Technologies LLC
     'AS197068', # QRATOR (drweb.ru)
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
