@@ -42,7 +42,7 @@ unless (defined $opts{p} ) {
 
 my (%hostip, %hostipj, $fh, $fho);
 
-say "Отримуємо список reject-мереж  та ip-адрес з бордера…";
+say "Отримуємо список reject-мереж та ip-адрес з бордера…";
 foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
     if ($netw =~ m{/}) {
         my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
@@ -117,7 +117,19 @@ my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlis
 say "Проводимо порівняння…";
 my $diff = diff \$netlist_old, \$netlist_new;
 
-say $diff;
+if (length($diff)>0) {
+    say "Вносимо зміни до конфігурації…";
+    setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p});
+
+    open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
+    print $fh $diff;
+    close $fh;
+}
+
+say "Записуємо нову версію списку заблокованих мереж та адрес…";
+open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
+print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
+close $fh;
 
 say "";
 
@@ -126,6 +138,28 @@ say "";
 #} sortipv4( keys %hostip );
 
 exit;
+
+sub setJunOSConfig {
+    my $diff = shift;
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+
+    my $ret = "";
+    foreach my $line ( split("\n", $diff) ) {
+        next unless $line =~ /^[+-]/;
+        $line =~ s/;$//;
+        if ($line =~ /^-/) {
+            $line =~ s/^-//;
+            $ret .= sprintf("delete routing-options static route %s\n", $line);
+        } else {
+            $line =~ s/^\+//;
+            $ret .= sprintf("set routing-options static route %s reject\n", $line);
+        }
+    }
+    doCmd( $router, $user, $pass, $ret );
+    return $ret;
+}
 
 sub getJunOSRejectStaticRoute {
     my $router = shift if @_;
@@ -183,6 +217,44 @@ sub jCmd {
     my @list = $ssh->capture($cmd);
     $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
     return @list;
+}
+
+sub doCmd {
+    my $router = shift if @_;
+    my $user = shift if @_;
+    my $pass = shift if @_;
+    my $cmdin = shift if @_;
+
+    sub diessh {
+        map { print; } @_ if @_;
+        die;
+    }
+
+    return unless length($cmdin)>0;
+
+#   open STDERR, '>', "/dev/null";
+    my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
+    $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
+    my ($pty, $pid) = $ssh->open2pty();
+    my $session = Net::Telnet->new( -fhopen => $pty, -prompt => '/.*[>#]\s+$/', -timeout=>60 );
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->cmd(String=>'configure private');
+    my $cmdc = 0;
+    foreach my $cmd ( split "\n", $cmdin ) {
+        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+        $session->cmd(String=>$cmd);
+        say "".$cmd;
+        $cmdc++;
+        sleep 1;
+    }
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->cmd(String=>'commit and-quit', Timeout=>10*$cmdc);
+    $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+    $session->close;
+    waitpid($pid, 0);
+    undef $session;
+    undef $ssh;
+#   open STDERR, '>', "/dev/stderr";
 }
 
 sub sortipv4 {
