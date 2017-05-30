@@ -101,16 +101,23 @@ foreach my $netw ( keys %hostipj ) {
         }
         next;
     }
-
-    
-
+    unless (match_ip($netw, $ipnetre)) {
+        $hostip{$netw} = $hostipj{$netw};
+    }
 }
 
 say "";
 
-#map {
-#    say sprintf("%s/%s", $_, $hostip{$_});
-#} sortipv4( keys %hostip );
+my (@netlist_old, @netlist_new);
+foreach my $netw ( 
+
+my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlist_new) );
+
+say "";
+
+map {
+    say sprintf("%s/%s", $_, $hostip{$_});
+} sortipv4( keys %hostip );
 
 exit;
 
