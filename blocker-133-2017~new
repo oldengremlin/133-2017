@@ -40,7 +40,14 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-my (%hostip, $fh, $fho, $hostip, $hostipold);
+my (%hostip, %hostipj, $fh, $fho);
+
+say "Отримуємо список reject-мереж  та ip-адрес з бордера…";
+foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
+    my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
+    $hostipj{$net} = 32 unless defined $hostipj{$net};
+    $hostipj{$net} = $mask if $mask<$hostipj{$net};
+}
 
 say "Формуємо список мереж для заданих AS-num…";
 foreach my $asnet (@asnum) {
@@ -99,6 +106,7 @@ sub getJunOSRejectStaticRoute {
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | no-more")) ));
+    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
     undef $ssh;
 
     return sortipv4(@ret);
@@ -138,6 +146,14 @@ sub getHostIP {
     }
 
     return @ret;
+}
+
+sub jCmd {
+    my $ssh = shift if @_;
+    my $cmd = shift if @_;
+    my @list = $ssh->capture($cmd);
+    $ssh->error && die "remote '$cmd' command failed: " . $ssh->error;
+    return @list;
 }
 
 sub sortipv4 {
