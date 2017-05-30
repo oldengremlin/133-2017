@@ -10,13 +10,16 @@ use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
 use IPC::Open3;
 
-#    'AS51286', # MAIL.RU NOC
-#    'AS60476', # MAIL.RU NOC
-#    'AS60863', # MAIL.RU NOC
+# for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+#    'AS51286', # Limited liability company Mail.Ru
+#    'AS60476', # Limited liability company Mail.Ru
+#    'AS60863', # Limited liability company Mail.Ru
+#    'AS49988', # Mail.Ru LLC
+#    'AS21051', # Limited liability company Mail.Ru
 
 my @asnum = (
     'AS47541', # VKONTAKTE-SPB-AS
-    'AS47764', # mailru-as
+    'AS47764', # Limited liability company Mail.Ru
     'AS13238', # Yandex
     'AS43247', # YAMONEY-AS
     'AS197068', # QRATOR (drweb.ru)
