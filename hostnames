@@ -37,6 +37,7 @@ api.weather.yandex.ru
 api-ws.ok.ru
 api.yandex.ru
 app.mail.ru
+app.vk.com
 audience.yandex.ru
 authdl.mail.ru
 auth.mail.ru
@@ -111,6 +112,7 @@ cdn.connect.mail.ru
 checker-amigo-api.e.mail.ru
 clck.yandex.ru
 clientapi.mail.ru
+cloclo19.cloud.mail.ru
 cloud-api.yandex.ua
 cloud-filin.mail.ru
 cloud.mail.ru
@@ -217,11 +219,13 @@ d5.c9.b5.a1.top.mail.ru
 d5.ca.b2.a2.top.mail.ru
 d5.ca.be.a1.top.mail.ru
 d5.cb.b4.a1.top.mail.ru
+d5.cb.bd.a1.top.mail.ru
 d5.cc.b2.a2.top.mail.ru
 d5.cc.b6.a1.top.mail.ru
 d5.ce.be.a1.top.mail.ru
 d5.ce.bf.a1.top.mail.ru
 d5.cf.b0.a2.top.mail.ru
+d6.c2.b0.a2.top.mail.ru
 d6.c2.ba.a0.top.mail.ru
 d6.c3.b1.a0.top.mail.ru
 d6.c3.b9.a1.top.mail.ru
@@ -235,6 +239,7 @@ d6.ca.b9.a1.top.mail.ru
 d6.ca.bc.a1.top.mail.ru
 d6.cb.b0.a1.top.mail.ru
 d6.cb.b1.a0.top.mail.ru
+d6.cb.bb.a1.top.mail.ru
 d6.cb.bc.a1.top.mail.ru
 d6.cd.b7.a1.top.mail.ru
 d7.c1.b4.a0.top.mail.ru
@@ -246,6 +251,7 @@ d7.c6.b9.a1.top.mail.ru
 d7.ca.bb.a1.top.mail.ru
 d7.cb.b0.a2.top.mail.ru
 d7.cb.b6.a1.top.mail.ru
+d7.cb.bb.a1.top.mail.ru
 d7.cd.be.a1.top.mail.ru
 d7.ce.b0.a0.top.mail.ru
 d7.cf.b5.a0.top.mail.ru
@@ -300,6 +306,7 @@ db.c3.b0.a0.top.mail.ru
 db.c3.b1.a2.top.mail.ru
 db.c3.bf.a1.top.mail.ru
 db.c4.bd.a1.top.mail.ru
+db.c5.bc.a1.top.mail.ru
 db.c7.b0.a2.top.mail.ru
 db.c8.b1.a2.top.mail.ru
 db.c8.b2.a2.top.mail.ru
@@ -339,6 +346,7 @@ dd.cd.bc.a1.top.mail.ru
 dd.cd.bd.a1.top.mail.ru
 dd.ce.bd.a1.top.mail.ru
 dd.cf.b8.a1.top.mail.ru
+dd.cf.bc.a1.top.mail.ru
 de.c0.b1.a2.top.mail.ru
 de.c0.be.a1.top.mail.ru
 de.c1.b0.a2.top.mail.ru
@@ -753,6 +761,7 @@ tc.mobile.yandex.ru
 team.mail.ru
 tech.yandex.ru
 test.ok.ru
+time.yandex.ru
 tjs.mail.ru
 t.mail.ru
 top-fwz1.mail.ru
@@ -796,6 +805,7 @@ webrowser.mail.ru
 wf.mail.ru
 widget.mail.ru
 widgets.yandex.ru
+wmf.ok.ru
 wordstat.yandex.ru
 wordstat.yandex.ua
 wthk.yandex.ru
