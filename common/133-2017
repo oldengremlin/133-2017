@@ -7,10 +7,17 @@ HN=133-2017-master/hostnames
 test -r master.zip && rm master.zip
 wget https://github.com/oldengremlin/133-2017/archive/master.zip
 unzip -o master.zip ${HN}
-cat ${HN} | egrep -v "^#" | awk '/^.+/ { printf("zone \"%s\" { type master; file \"/etc/bind/db.133-2017\"; };\n", $1); }' | sort -u > /etc/bind/named.conf.133-2017
+
+sort -u /etc/bind/named.conf.133-2017 > /tmp/named.conf.133-2017
+
+cat ${HN} | \
+    egrep -v "^#" | \
+    sed "s,^.*\.\([^.]*\.[^.]*\)$,\1," | grep -v "^$" | \
+    awk '/^.+/ { printf("zone \"%s\" { type master; file \"/etc/bind/db.133-2017\"; };\n", $1); }' >> /tmp/named.conf.133-2017
+
+sort -u /tmp/named.conf.133-2017 > /etc/bind/named.conf.133-2017
 
 #/etc/init.d/bind9 restart
 /usr/sbin/rndc reload
 
 cd ${CP}
-
