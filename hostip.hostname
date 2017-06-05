@@ -40,6 +40,9 @@
 62.128.100.53 ksn-crypto-stat.geo.kaspersky.com
 62.128.100.55 ksn-crypto-stat.geo.kaspersky.com
 62.128.100.57 ksn-crypto-stat.geo.kaspersky.com
+62.128.100.137 auto-activation2.kaspersky.com
+77.74.177.224 auto-activation3.kaspersky.com
+77.74.177.225 auto-activation4.kaspersky.com
 77.74.177.233 redirect.geo.kaspersky.com
 77.88.8.8 dns.yandex.ru
 77.88.21.14 clck.yandex.ru
@@ -58,6 +61,8 @@
 77.88.55.88 www.yandex.ru
 80.231.123.131 dnl-13.geo.kaspersky.com
 80.231.123.133 dnl-13.geo.kaspersky.com
+80.239.170.171 auto-activation5.kaspersky.com
+80.239.170.172 auto-activation6.kaspersky.com
 80.239.174.38 dnl-05.geo.kaspersky.com
 80.239.174.41 dnl-05.geo.kaspersky.com
 80.239.174.44 dnl-06.geo.kaspersky.com
