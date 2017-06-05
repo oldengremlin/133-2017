@@ -44,12 +44,12 @@
 77.88.55.66 www.yandex.ru
 77.88.55.77 www.yandex.ru
 77.88.55.88 www.yandex.ru
-80.231.123.131 dnl-16.geo.kaspersky.com
+80.231.123.131 dnl-15.geo.kaspersky.com
 80.231.123.133 dnl-15.geo.kaspersky.com
-80.239.174.38 dnl-11.geo.kaspersky.com
+80.239.174.38 dnl-05.geo.kaspersky.com
 80.239.174.41 dnl-07.geo.kaspersky.com
 80.239.174.44 dnl-08.geo.kaspersky.com
-80.239.174.47 dnl-10.geo.kaspersky.com
+80.239.174.47 dnl-09.geo.kaspersky.com
 81.176.67.172 update.drweb.com
 81.176.67.173 update.drweb.com
 82.112.185.98 c1.dev.drweb.com
@@ -211,6 +211,7 @@
 109.235.165.182 money.yandex.ru
 130.117.190.134 dnl-19.geo.kaspersky.com
 130.117.190.141 dnl-13.geo.kaspersky.com
+130.117.190.144 dnl-17.geo.kaspersky.com
 130.117.190.168 redirect.geo.kaspersky.com
 141.8.146.178 export.yandex.ru
 162.159.24.206 ns7.yandex.ru
@@ -241,7 +242,7 @@
 193.0.170.53 bar.love.mail.ru
 193.0.170.54 bar.love.mail.ru
 195.122.169.4 dnl-03.geo.kaspersky.com
-195.122.169.7 dnl-04.geo.kaspersky.com
+195.122.169.7 dnl-03.geo.kaspersky.com
 195.122.169.15 dnl-15.geo.kaspersky.com
 195.122.169.18 dnl-14.geo.kaspersky.com
 195.156.199.201 api-maps.yandex.ru
