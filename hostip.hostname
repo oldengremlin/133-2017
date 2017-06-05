@@ -28,6 +28,9 @@
 52.59.21.134 www.yandex.ru
 52.59.135.86 n.maps.yandex.ru
 52.59.155.141 n.maps.yandex.ru
+62.128.100.39 ksn-info.geo.kaspersky.com
+62.128.100.41 ksn-info.geo.kaspersky.com
+62.128.100.43 ksn-info.geo.kaspersky.com
 77.74.177.233 redirect.geo.kaspersky.com
 77.88.8.8 dns.yandex.ru
 77.88.21.14 clck.yandex.ru
@@ -45,11 +48,13 @@
 77.88.55.77 www.yandex.ru
 77.88.55.88 www.yandex.ru
 80.231.123.131 dnl-15.geo.kaspersky.com
-80.231.123.133 dnl-15.geo.kaspersky.com
+80.231.123.133 dnl-14.geo.kaspersky.com
 80.239.174.38 dnl-05.geo.kaspersky.com
 80.239.174.41 dnl-06.geo.kaspersky.com
-80.239.174.44 dnl-08.geo.kaspersky.com
+80.239.174.44 dnl-07.geo.kaspersky.com
 80.239.174.47 dnl-09.geo.kaspersky.com
+81.19.104.42 ksn-info.geo.kaspersky.com
+81.19.104.45 ksn-info.geo.kaspersky.com
 81.176.67.172 update.drweb.com
 81.176.67.173 update.drweb.com
 82.112.185.98 c1.dev.drweb.com
@@ -259,7 +264,7 @@
 195.211.131.162 pw.mail.ru
 195.248.234.27 ok.ua
 212.73.221.199 dnl-05.geo.kaspersky.com
-212.73.221.202 dnl-07.geo.kaspersky.com
+212.73.221.202 dnl-05.geo.kaspersky.com
 212.73.221.205 dnl-05.geo.kaspersky.com
 213.180.193.12 news.yandex.ru
 213.180.193.14 clck.yandex.ru
