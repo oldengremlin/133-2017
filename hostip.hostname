@@ -44,6 +44,8 @@
 62.128.100.53 ksn-crypto-stat.geo.kaspersky.com
 62.128.100.55 ksn-crypto-stat.geo.kaspersky.com
 62.128.100.57 ksn-crypto-stat.geo.kaspersky.com
+62.128.100.61 ksn-crypto-ipm.geo.kaspersky.com
+62.128.100.77 ksn-crypto-ipm.geo.kaspersky.com
 62.128.100.92 ksn-crypto-url.geo.kaspersky.com
 62.128.100.95 ksn-crypto-url.geo.kaspersky.com
 62.128.100.97 ksn-crypto-url.geo.kaspersky.com
@@ -53,6 +55,7 @@
 62.128.100.131 ksn-file.geo.kaspersky.com
 62.128.100.132 ksn-file.geo.kaspersky.com
 62.128.100.137 auto-activation2.kaspersky.com
+62.128.100.157 ksn-crypto-url.geo.kaspersky.com
 62.128.100.159 ksn-crypto-url.geo.kaspersky.com
 77.74.177.224 auto-activation3.kaspersky.com
 77.74.177.225 auto-activation4.kaspersky.com
@@ -80,7 +83,9 @@
 80.239.174.41 dnl-04.geo.kaspersky.com
 80.239.174.44 dnl-05.geo.kaspersky.com
 80.239.174.47 dnl-04.geo.kaspersky.com
+81.19.104.3 ksn-crypto-ipm.geo.kaspersky.com
 81.19.104.24 ksn-file.geo.kaspersky.com
+81.19.104.27 ksn-file.geo.kaspersky.com
 81.19.104.30 ksn-file.geo.kaspersky.com
 81.19.104.42 ksn-crypto-catm.geo.kaspersky.com
 81.19.104.45 ksn-crypto-catm.geo.kaspersky.com
@@ -95,10 +100,12 @@
 81.19.104.81 ksn-crypto-url.geo.kaspersky.com
 81.19.104.84 ksn-crypto-url.geo.kaspersky.com
 81.19.104.105 ksn-file.geo.kaspersky.com
+81.19.104.108 ksn-file.geo.kaspersky.com
 81.19.104.111 ksn-file.geo.kaspersky.com
 81.19.104.114 ksn-file.geo.kaspersky.com
 81.19.104.117 ksn-crypto-url.geo.kaspersky.com
 81.19.104.120 ksn-crypto-url.geo.kaspersky.com
+81.19.104.129 ksn-crypto-ipm.geo.kaspersky.com
 81.176.67.172 update.drweb.com
 81.176.67.173 update.drweb.com
 82.112.185.98 c1.dev.drweb.com
