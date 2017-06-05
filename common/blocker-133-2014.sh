@@ -6,8 +6,14 @@ PASSWORD=password
 
 CP=$( pwd )
 cd ~/133-2017/
-../blocker-133-2014 -r${BORDER} -u${USER} -p${PASSWORD}
+
+cp hostnames.rnbo hostnames
+ssh DNS-SERVER ./domains >> hostnames
+sort -u hostnames > hostnames~
+mv hostnames~ hostnames
+
+./blocker-133-2017 -r${BORDER} -u${USER} -p${PASSWORD}
 git commit -a -m "reglament run"
 git push origin master
-cd ${CP}
 
+cd ${CP}
