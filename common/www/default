@@ -1,0 +1,15 @@
+<VirtualHost *:80>
+… skip …
+	Redirect "/hostip.hostname/" "https://raw.githubusercontent.com/oldengremlin/133-2017/master/hostip.hostname"
+	Redirect "/hostnames/" "https://raw.githubusercontent.com/oldengremlin/133-2017/master/hostnames"
+	Redirect "/hostip/" "https://raw.githubusercontent.com/oldengremlin/133-2017/master/hostip"
+
+        <Directory /var/www/>
+                Options Indexes FollowSymLinks MultiViews
+                #AllowOverride None
+                AllowOverride All
+                Order allow,deny
+                # allow from all
+        </Directory>
+… skip …
+</VirtualHost>

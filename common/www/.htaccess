@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_URI} !=/index.php
+RewriteRule ^ /index.php [L,R=302]
+
+Allow from 212.90.160.0/19
+Allow from 94.125.120.0/21
+Allow from 185.151.104.0/22
