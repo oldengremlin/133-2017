@@ -50,7 +50,7 @@
 80.231.123.131 dnl-15.geo.kaspersky.com
 80.231.123.133 dnl-14.geo.kaspersky.com
 80.239.174.38 dnl-05.geo.kaspersky.com
-80.239.174.41 dnl-06.geo.kaspersky.com
+80.239.174.41 dnl-05.geo.kaspersky.com
 80.239.174.44 dnl-06.geo.kaspersky.com
 80.239.174.47 dnl-05.geo.kaspersky.com
 81.19.104.42 ksn-info.geo.kaspersky.com
@@ -238,6 +238,7 @@
 185.16.148.2 tamtam.ok.ru
 185.16.148.34 tamtam.ok.ru
 185.16.148.66 tamtam.ok.ru
+185.58.207.141 mc.yandex.re
 185.71.78.14 money.yandex.ru
 185.71.78.17 kassa.yandex.ru
 185.71.78.54 money.yandex.ru
