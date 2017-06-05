@@ -1,0 +1,14 @@
+#!/bin/sh
+
+D="auto.ru|drweb.ru|imgsmail.ru|kaspersky.ru|kinopoisk.ru|mail.ru|odnoklasniki.ru|odnoklasniki.ua|odnoklassniki.ru|odnoklassniki.ua|ok.ru|ok.ua|vk.com|yandexdatafactory.com|yandex.ru|yandex.ua"
+
+#( for D in $( echo ${D} | tr \| \  ); do echo ${D}; done ) | sed "s,.*\.\([^.]*\.[^.]*\)$,\1," | sort -u | awk '{ printf("%s|",$1); }'
+#exit
+
+D=$( echo ${D} | sed "s,\.,\\\.,g" )
+
+#cat /var/log/named/*.log /var/log/named/*.log.* | awk '$8~/('${D}')/ { print }' | sed "s,.*query,," | tr -d \': | sed "s, IN .*,,;s,/.*,,;s,^ *,," | sort -u| awk '/('${D}')$/'
+
+cat /var/log/named/query.log* | awk '{ print $8 }' | sort -u | awk '/(^|\.)('${D}')$/'
+sudo rm /var/log/named/query.log.* 2> /dev/null
+sudo cp /dev/null /var/log/named/query.log
