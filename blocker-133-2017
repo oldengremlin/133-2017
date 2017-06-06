@@ -69,6 +69,7 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         }
         $hostipj{$net} = 32 unless defined $hostipj{$net};
         $hostipj{$net} = $mask if $mask<$hostipj{$net};
+say sprintf("%s / %s", $net, $hostipj{$net});
     }
 } else {
     say "Зчитуємо з файлу '$fhostip' список reject-мереж та ip-адрес…";
@@ -77,7 +78,6 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         chomp;
         next if /^#/;
         next if /^$/;
-        next unless m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
 
         my ($net, $mask);
         if (m{/}) {
@@ -87,6 +87,7 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         }
         $hostipj{$net} = 32 unless defined $hostipj{$net};
         $hostipj{$net} = $mask if $mask<$hostipj{$net};
+say sprintf("%s / %s", $net, $hostipj{$net});
     }
     close $fho;
 }
