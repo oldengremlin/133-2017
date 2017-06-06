@@ -174,10 +174,12 @@ if (length($diff)>0) {
     close $fh;
 }
 
-say "Записуємо нову версію списку заблокованих мереж та адрес…";
-open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
-print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
-close $fh;
+if (defined $opts{o} || length($diff)>0) {
+    say "Записуємо нову версію списку заблокованих мереж та адрес…";
+    open $fh,">:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
+    print $fh join("\n", getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p}));
+    close $fh;
+}
 
 say "";
 
