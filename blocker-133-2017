@@ -161,10 +161,9 @@ say "Прибираємо 'зайві' /32…";
 foreach my $ip ( sortipv4( keys %hostipj ) ) {
     next if $hostipj{$ip}<32;
     if (match_ip($ip, $ipnetjre)) {
-        say $ip;
+         $diff .= sprintf("-%s/32\n", $ip);
     }
 }
-exit;
 
 if (length($diff)>0) {
     say "Вносимо зміни до конфігурації…";
