@@ -96,7 +96,6 @@ foreach my $asnet (@asnum) {
     my @networks = getRTRejectStaticRoute($asnet);
     foreach my $netw ( @networks ) {
         if ($netw !~ m{/32$}) {
-#            say sprintf("%s : %s", $asnet, $netw);
             my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
             $hostip{$net} = 32 unless defined $hostip{$net};
             $hostip{$net} = $mask if $mask<$hostip{$net};
@@ -108,6 +107,7 @@ foreach my $asnet (@asnum) {
 say "Формуємо regexp для списку мереж…";
 my @ipnet;
 foreach my $net ( keys %hostip ) {
+say $net, " / ", $hostip{$net};
     push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
 }
 my $ipnetre = create_iprange_regexp( @ipnet );
