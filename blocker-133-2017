@@ -42,7 +42,7 @@ my $fhostipdiff		= 'hostipdiff';
 my $fhostiphostname	= 'hostip.hostname';
 
 my %opts;
-getopts('u:p:r:', \%opts);
+getopts('u:p:r:o', \%opts);
 unless (defined $opts{r} ) {
     say "-rrouter";
     exit 254;
