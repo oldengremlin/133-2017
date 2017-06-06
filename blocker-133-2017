@@ -61,13 +61,14 @@ my (%hostip, %hostipj, $fh, $fho);
 if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
     say "Отримуємо список reject-мереж та ip-адрес з бордера…";
     foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
+        my ($net, $mask);
         if ($netw =~ m{/}) {
-            my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
-            $hostipj{$net} = 32 unless defined $hostipj{$net};
-            $hostipj{$net} = $mask if $mask<$hostipj{$net};
+            ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
         } else {
-            $hostipj{$netw} = 32;
+            ($net, $mask) = ($netw, 32 );
         }
+        $hostipj{$net} = 32 unless defined $hostipj{$net};
+        $hostipj{$net} = $mask if $mask<$hostipj{$net};
     }
 } else {
     say "Зчитуємо з файлу '$fhostip' список reject-мереж та ip-адрес…";
@@ -89,8 +90,6 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
     }
     close $fho;
 }
-
-#exit;
 
 say "Формуємо список мереж для заданих AS-num…";
 foreach my $asnet (@asnum) {
