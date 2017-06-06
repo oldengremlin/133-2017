@@ -107,7 +107,7 @@ foreach my $asnet (@asnum) {
 say "Формуємо regexp для списку мереж…";
 my @ipnet;
 foreach my $net ( keys %hostip ) {
-say $net, " / ", $hostip{$net};
+    # if $hostip{$net} == 32;
     push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
 }
 my $ipnetre = create_iprange_regexp( @ipnet );
@@ -132,7 +132,7 @@ close $fh;
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
-say "Додаємо мережі та хости бордера у список мереж…";
+say "Додаємо мережі та хости у список мереж…";
 foreach my $netw ( keys %hostipj ) {
     if (defined $hostip{$netw}) {
         if ($hostip{$netw}>$hostipj{$netw}) {
