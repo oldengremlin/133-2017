@@ -70,6 +70,7 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         }
     }
 } else {
+    say "Зчитуємо з файлу '$fhostip' список reject-мереж та ip-адрес…";
     open $fho,"<:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
     while (<$fho>) {
         chomp;
