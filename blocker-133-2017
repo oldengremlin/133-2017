@@ -157,6 +157,15 @@ my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlis
 say "Проводимо порівняння…";
 my $diff = diff \$netlist_old, \$netlist_new;
 
+say "Прибираємо 'зайві' /32…";
+foreach my $ip ( sortipv4( keys %hostipj ) ) {
+    next if $hostipj{$ip}<32;
+    if (match_ip($ip, $ipnetjre)) {
+        say $ip;
+    }
+}
+exit;
+
 if (length($diff)>0) {
     say "Вносимо зміни до конфігурації…";
     setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p});
