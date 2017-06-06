@@ -105,11 +105,15 @@ foreach my $asnet (@asnum) {
 }
 
 say "Формуємо regexp для списку мереж…";
-my @ipnet;
+my (@ipnetj, @ipnet);
+foreach my $net ( keys %hostipj ) {
+    next if $hostipj{$net} == 32;
+    push @ipnetj, sprintf("%s/%s", $net, $hostipj{$net});
+}
 foreach my $net ( keys %hostip ) {
-    # if $hostip{$net} == 32;
     push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
 }
+my $ipnetjre = create_iprange_regexp( @ipnetj );
 my $ipnetre = create_iprange_regexp( @ipnet );
 
 say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
