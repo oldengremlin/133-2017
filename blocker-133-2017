@@ -89,7 +89,7 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
     close $fho;
 }
 
-exit;
+#exit;
 
 say "Формуємо список мереж для заданих AS-num…";
 foreach my $asnet (@asnum) {
