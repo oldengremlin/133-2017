@@ -72,8 +72,19 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
 } else {
     open $fho,"<:utf8", $fhostip or die "Can't open file $fhostip :$!\n";
     while (<$fho>) {
-        next if /^\s*#/;
-        next if /^\s*$/;
+        chomp;
+        next if /^#/;
+        next if /^$/;
+        next unless m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
+
+        my ($net, $mask);
+        if (m{/}) {
+            ($net, $mask) = m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
+        } else {
+            ($net, $mask) = ($_, 32 );
+        }
+        $hostipj{$net} = 32 unless defined $hostipj{$net};
+        $hostipj{$net} = $mask if $mask<$hostipj{$net};
     }
     close $fho;
 }
