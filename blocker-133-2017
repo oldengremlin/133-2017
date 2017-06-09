@@ -56,7 +56,7 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 
-my (%hostip, %hostipj, $fh, $fho);
+my (%hostip, %hostip_jun, $fh, $fho);
 
 if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
     say "Отримуємо список reject-мереж та ip-адрес з бордера…";
@@ -67,8 +67,8 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         } else {
             ($net, $mask) = ($netw, 32 );
         }
-        $hostipj{$net} = 32 unless defined $hostipj{$net};
-        $hostipj{$net} = $mask if $mask<$hostipj{$net};
+        $hostip_jun{$net} = 32 unless defined $hostip_jun{$net};
+        $hostip_jun{$net} = $mask if $mask<$hostip_jun{$net};
     }
 } else {
     say "Зчитуємо з файлу '$fhostip' список reject-мереж та ip-адрес…";
@@ -84,8 +84,8 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         } else {
             ($net, $mask) = ($_, 32 );
         }
-        $hostipj{$net} = 32 unless defined $hostipj{$net};
-        $hostipj{$net} = $mask if $mask<$hostipj{$net};
+        $hostip_jun{$net} = 32 unless defined $hostip_jun{$net};
+        $hostip_jun{$net} = $mask if $mask<$hostip_jun{$net};
     }
     close $fho;
 }
@@ -104,15 +104,15 @@ foreach my $asnet (@asnum) {
 }
 
 say "Формуємо regexp для списку мереж…";
-my (@ipnetj, @ipnet);
-foreach my $net ( keys %hostipj ) {
-    next if $hostipj{$net} == 32;
-    push @ipnetj, sprintf("%s/%s", $net, $hostipj{$net});
+my (@ipnet_jun, @ipnet);
+foreach my $net ( keys %hostip_jun ) {
+    next if $hostip_jun{$net} == 32;
+    push @ipnet_jun, sprintf("%s/%s", $net, $hostip_jun{$net});
 }
 foreach my $net ( keys %hostip ) {
     push @ipnet, sprintf("%s/%s", $net, $hostip{$net});
 }
-my $ipnetjre = create_iprange_regexp( @ipnetj );
+my $ipnet_jun_re = create_iprange_regexp( @ipnet_jun );
 my $ipnetre = create_iprange_regexp( @ipnet );
 
 say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
@@ -136,21 +136,21 @@ system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
 say "Додаємо мережі та хости у список мереж…";
-foreach my $netw ( keys %hostipj ) {
+foreach my $netw ( keys %hostip_jun ) {
     if (defined $hostip{$netw}) {
-        if ($hostip{$netw}>$hostipj{$netw}) {
-            $hostip{$netw} = $hostipj{$netw};
+        if ($hostip{$netw}>$hostip_jun{$netw}) {
+            $hostip{$netw} = $hostip_jun{$netw};
         }
         next;
     }
     unless (match_ip($netw, $ipnetre)) {
-        $hostip{$netw} = $hostipj{$netw};
+        $hostip{$netw} = $hostip_jun{$netw};
     }
 }
 
 say "Формуємо списки для порівняння…";
 my (@netlist_old, @netlist_new);
-foreach my $netw ( sortipv4( keys %hostipj ) ) { push @netlist_old, sprintf("%s/%s", $netw, $hostipj{$netw}); }
+foreach my $netw ( sortipv4( keys %hostip_jun ) ) { push @netlist_old, sprintf("%s/%s", $netw, $hostip_jun{$netw}); }
 foreach my $netw ( sortipv4( keys %hostip ) ) { push @netlist_new, sprintf("%s/%s", $netw, $hostip{$netw}); }
 my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlist_new) );
 
@@ -158,9 +158,9 @@ say "Проводимо порівняння…";
 my $diff = diff \$netlist_old, \$netlist_new;
 
 say "Прибираємо 'зайві' /32…";
-foreach my $ip ( sortipv4( keys %hostipj ) ) {
-    next if $hostipj{$ip}<32;
-    if (match_ip($ip, $ipnetjre)) {
+foreach my $ip ( sortipv4( keys %hostip_jun ) ) {
+    next if $hostip_jun{$ip}<32;
+    if (match_ip($ip, $ipnet_jun_re)) {
          $diff .= sprintf("-%s/32\n", $ip);
     }
 }
