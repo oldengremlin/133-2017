@@ -125,8 +125,10 @@ while (<$fh>) {
     my @hosts = getHostIP($_);
     foreach my $ip (@hosts) {
         unless (match_ip($ip, $ipnetre)) {
-            $hostip{$ip} = 32;
-            print $fho sprintf("%s %s\n", $ip, $_);
+            unless (match_ip($ip, $ipnet_jun_re)) {
+                $hostip{$ip} = 32;
+                print $fho sprintf("%s %s\n", $ip, $_);
+            }
         }
     }
 }
