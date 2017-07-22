@@ -90,7 +90,7 @@
 35.158.147.203 avia.yandex.ru
 35.158.147.211 taxi.yandex.ru
 35.158.148.48 api.browser.yandex.ua
-35.158.150.27 sec.api.browser.yandex.ua
+35.158.150.27 api.browser.yandex.ua
 35.158.151.253 n.maps.yandex.ru
 35.158.153.82 avia.yandex.ru
 35.158.153.159 api.browser.yandex.ua
@@ -171,6 +171,7 @@
 52.28.167.147 n.maps.yandex.ru
 52.28.168.117 n.maps.yandex.ru
 52.28.175.54 api-maps.yandex.ru
+52.28.197.181 metro.yandex.ru
 52.28.226.103 api.browser.yandex.ua
 52.28.231.158 sec.api.browser.yandex.ua
 52.28.235.37 n.maps.yandex.ru
@@ -257,7 +258,7 @@
 52.58.175.254 rasp.yandex.ru
 52.58.177.85 n.maps.yandex.ru
 52.58.187.69 www.yandex.ru
-52.58.190.10 sec.api.browser.yandex.ua
+52.58.190.10 api.browser.yandex.ua
 52.58.191.198 api.browser.yandex.ua
 52.58.211.94 api.browser.yandex.ua
 52.58.227.234 api.browser.yandex.ua
