@@ -92,7 +92,7 @@
 35.157.134.250 addappter-api.mobile.yandex.net
 35.157.138.67 mail.yandex.fr
 35.157.141.111 mail.yandex.ua
-35.157.145.141 sec.api.browser.yandex.ua
+35.157.145.141 api.browser.yandex.ua
 35.157.154.208 n.maps.yandex.ru
 35.157.156.231 metro.yandex.ru
 35.157.166.9 mail.yandex.fr
@@ -278,6 +278,7 @@
 52.29.10.147 api.browser.yandex.ua
 52.29.21.16 api.browser.yandex.ua
 52.29.32.16 api.browser.yandex.ua
+52.29.34.14 mail.yandex.fr
 52.29.40.245 afisha.yandex.ru
 52.29.49.242 n.maps.yandex.ru
 52.29.79.222 metro.yandex.ru
