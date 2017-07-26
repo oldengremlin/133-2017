@@ -214,6 +214,7 @@
 35.158.236.219 api.browser.yandex.ua
 35.158.238.130 static-maps.yandex.ru
 35.158.238.231 pdd.yandex.ru
+35.158.240.84 mail.yandex.fr
 35.158.240.146 api.browser.yandex.ua
 35.158.242.41 mail.yandex.fr
 35.158.242.52 taxi.yandex.ru
@@ -540,7 +541,7 @@
 78.155.207.229 kosmos.kaspersky.ru
 80.231.123.131 dnl-12.geo.kaspersky.com
 80.231.123.133 dnl-13.geo.kaspersky.com
-80.239.169.147 edge.geo.kaspersky.com
+80.239.169.147 aes.geo.kaspersky.com
 80.239.169.152 inter-fe.geo.kaspersky.com
 80.239.170.162 activation.kaspersky.com
 80.239.170.171 auto-activation5.kaspersky.com
