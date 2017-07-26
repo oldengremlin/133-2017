@@ -440,6 +440,7 @@
 52.59.135.86 metro.yandex.ru
 52.59.137.20 api.browser.yandex.ua
 52.59.141.76 api.browser.yandex.ua
+52.59.141.255 sec.api.browser.yandex.ua
 52.59.153.179 n.maps.yandex.ru
 52.59.155.13 api.browser.yandex.ua
 52.59.155.141 n.maps.yandex.ru
@@ -458,6 +459,7 @@
 52.59.176.55 n.maps.yandex.ru
 54.93.188.25 sec.api.browser.yandex.ua
 54.93.216.216 api.browser.yandex.ua
+54.93.218.131 mail.yandex.fr
 62.76.24.147 dnl-01.geo.kaspersky.com
 62.76.24.153 dnl-03.geo.kaspersky.com
 62.128.100.35 ksn-crypto-verdict.geo.kaspersky.com
