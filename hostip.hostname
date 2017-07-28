@@ -91,6 +91,7 @@
 35.157.46.197 avia.yandex.ru
 35.157.50.230 api.browser.yandex.ua
 35.157.57.25 api.browser.yandex.ua
+35.157.61.193 afisha.yandex.ru
 35.157.65.77 rasp.yandex.ru
 35.157.67.70 api.browser.yandex.ua
 35.157.70.39 api.browser.yandex.ua
@@ -237,7 +238,7 @@
 35.158.206.13 api.browser.yandex.ua
 35.158.206.66 api.browser.yandex.ua
 35.158.207.58 api.browser.yandex.ua
-35.158.207.236 api.browser.yandex.ua
+35.158.207.236 afisha.yandex.ru
 35.158.209.67 api.browser.yandex.ua
 35.158.212.66 taxi.yandex.ru
 35.158.212.154 mail.yandex.fr
@@ -282,6 +283,7 @@
 35.158.236.219 api.browser.yandex.ua
 35.158.238.130 static-maps.yandex.ru
 35.158.238.231 pdd.yandex.ru
+35.158.240.9 api-maps.yandex.ru
 35.158.240.84 mail.yandex.fr
 35.158.240.146 api.browser.yandex.ua
 35.158.241.203 api.browser.yandex.ua
@@ -677,6 +679,7 @@
 80.239.174.44 dnl-03.geo.kaspersky.com
 80.239.174.47 dnl-04.geo.kaspersky.com
 80.239.197.100 dnl-01.geo.kaspersky.com
+80.239.197.116 dnl-01.geo.kaspersky.com
 81.19.104.3 ksn-crypto-ipm.geo.kaspersky.com
 81.19.104.24 ksn-file.geo.kaspersky.com
 81.19.104.27 ksn-file.geo.kaspersky.com
@@ -703,7 +706,7 @@
 81.19.104.117 ksn-crypto-url.geo.kaspersky.com
 81.19.104.120 ksn-crypto-url.geo.kaspersky.com
 81.19.104.129 ksn-crypto-ipm.geo.kaspersky.com
-81.176.67.172 rr.drweb.com
+81.176.67.172 download.geo.drweb.com
 81.176.67.173 rr.drweb.com
 82.112.185.98 c1.dev.drweb.com
 82.112.185.99 c2.dev.drweb.com
@@ -800,7 +803,7 @@
 87.250.251.198 avia.yandex.ru
 87.250.251.199 video.yandex.ru
 87.250.251.232 sba.yandex.net
-89.111.188.126 rr.drweb.com
+89.111.188.126 download.geo.drweb.com
 92.242.41.93 rns01.drweb.com
 93.158.134.14 clck.yandex.ru
 93.158.134.28 metrika.yandex.ru
@@ -1030,7 +1033,7 @@
 212.73.221.202 dnl-04.geo.kaspersky.com
 212.73.221.205 dnl-04.geo.kaspersky.com
 212.73.235.42 edge.geo.kaspersky.com
-213.59.3.178 online.drweb.com
+213.59.3.178 download.geo.drweb.com
 213.79.64.7 info.drweb.com
 213.79.64.12 info.drweb.com
 213.79.65.6 f4.drweb.com
