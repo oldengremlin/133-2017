@@ -132,6 +132,7 @@
 35.157.226.17 avia.yandex.ru
 35.157.226.73 n.maps.yandex.ru
 35.157.228.226 api.browser.yandex.ua
+35.157.242.233 api.browser.yandex.ua
 35.157.244.116 api.browser.yandex.ua
 35.157.248.14 api.browser.yandex.ua
 35.157.250.255 taxi.yandex.ru
@@ -403,7 +404,7 @@
 52.57.92.211 mail.yandex.fr
 52.57.102.59 rasp.yandex.ru
 52.57.103.91 taxi.yandex.ru
-52.57.110.79 pdd.yandex.ru
+52.57.110.79 api.browser.yandex.ua
 52.57.131.81 mail.yandex.fr
 52.57.133.4 api.browser.yandex.ua
 52.57.134.130 api.browser.yandex.ua
