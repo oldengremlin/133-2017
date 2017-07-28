@@ -69,6 +69,7 @@
 35.156.245.154 api.browser.yandex.ua
 35.156.246.152 api.browser.yandex.ua
 35.156.250.24 mail.yandex.fr
+35.156.252.214 api.browser.yandex.ua
 35.156.254.47 api.browser.yandex.ua
 35.157.3.18 api.browser.yandex.ua
 35.157.3.153 n.maps.yandex.ru
@@ -393,7 +394,7 @@
 52.57.31.86 api.browser.yandex.ua
 52.57.32.98 api.browser.yandex.ua
 52.57.51.86 mail.yandex.fr
-52.57.53.219 sec.api.browser.yandex.ua
+52.57.53.219 api.browser.yandex.ua
 52.57.54.163 n.maps.yandex.ru
 52.57.56.52 api.browser.yandex.ua
 52.57.56.77 api.browser.yandex.ua
@@ -478,6 +479,7 @@
 52.58.80.111 mail.yandex.fr
 52.58.80.112 n.maps.yandex.ru
 52.58.83.179 api.browser.yandex.ua
+52.58.85.0 mail.yandex.fr
 52.58.85.74 avia.yandex.ru
 52.58.93.160 api.browser.yandex.ua
 52.58.93.241 metro.yandex.ru
