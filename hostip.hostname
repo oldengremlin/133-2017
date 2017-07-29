@@ -322,6 +322,7 @@
 35.159.1.19 api.browser.yandex.ua
 35.159.1.200 api.browser.yandex.ua
 35.159.1.245 api.browser.yandex.ua
+35.159.3.200 metro.yandex.ru
 35.159.4.105 n.maps.yandex.ru
 35.159.4.120 api.browser.yandex.ua
 35.159.5.72 mail.yandex.fr
@@ -583,6 +584,7 @@
 52.59.71.133 api.browser.yandex.ua
 52.59.72.221 taxi.yandex.ru
 52.59.73.213 metro.yandex.ru
+52.59.74.235 mail.yandex.fr
 52.59.75.81 rasp.yandex.ru
 52.59.80.189 api.browser.yandex.ua
 52.59.83.190 n.maps.yandex.ru
