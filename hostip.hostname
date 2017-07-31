@@ -396,6 +396,7 @@
 37.9.109.60 forward10o.cmail.yandex.net
 37.9.109.217 forward19o.cmail.yandex.net
 37.48.82.67 dnl-00.geo.kaspersky.com
+38.113.165.113 ksn-crypto-url.geo.kaspersky.com
 38.117.98.199 dnl-09.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.124.168.116 dnl-01.geo.kaspersky.com
@@ -785,6 +786,8 @@
 62.128.100.219 ksn-a-p2p.geo.kaspersky.com
 62.128.100.221 ksn-a-p2p.geo.kaspersky.com
 62.128.100.223 ksn-a-p2p.geo.kaspersky.com
+66.110.49.34 ksn-crypto-url.geo.kaspersky.com
+66.110.49.36 ksn-crypto-url.geo.kaspersky.com
 77.74.177.165 forum.kaspersky.com
 77.74.177.224 auto-activation3.kaspersky.com
 77.74.177.225 auto-activation4.kaspersky.com
@@ -1117,6 +1120,9 @@
 178.154.131.217 yandex.st
 178.237.20.80 icq.mail.ru
 178.248.232.183 drweb.ru
+180.87.4.131 ksn-crypto-url.geo.kaspersky.com
+180.87.4.149 ksn-crypto-url.geo.kaspersky.com
+180.87.4.155 ksn-crypto-url.geo.kaspersky.com
 184.106.81.37 backup-bar-navig.yandex.ru
 185.16.148.2 tamtam.ok.ru
 185.16.148.34 tamtam.ok.ru
