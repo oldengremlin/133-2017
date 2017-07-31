@@ -1,4 +1,5 @@
  *.auto.ru
+4.28.136.36 dnl-17.geo.kaspersky.com
 4.28.136.42 dnl-06.geo.kaspersky.com
 4.59.181.141 americas.activation-v2.kaspersky.com
 5.45.217.5 taxi.yandex.ru
@@ -577,6 +578,7 @@
 52.57.170.19 api.browser.yandex.ua
 52.57.170.231 taxi.yandex.ru
 52.57.173.201 n.maps.yandex.ru
+52.57.174.17 pdd.yandex.ru
 52.57.176.16 api.browser.yandex.ua
 52.57.176.109 api.browser.yandex.ua
 52.57.176.134 metro.yandex.ru
@@ -1124,6 +1126,9 @@
 130.117.190.144 dnl-12.geo.kaspersky.com
 130.117.190.168 redirect.geo.kaspersky.com
 141.8.146.178 export.yandex.ru
+153.120.15.41 update.geo.drweb.com
+153.120.15.42 update.geo.drweb.com
+153.120.15.43 update.geo.drweb.com
 162.159.24.206 ns7.yandex.ru
 162.159.25.147 ns8.yandex.ru
 173.244.187.53 pirates.mail.ru
