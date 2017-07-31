@@ -9,6 +9,7 @@
 5.255.255.55 www.yandex.ru
 5.255.255.77 www.yandex.ru
 5.255.255.88 www.yandex.ru
+18.196.0.26 pdd.yandex.ru
 18.196.0.28 api.browser.yandex.ua
 31.44.85.37 rns02.drweb.com
 34.202.173.37 blog.kaspersky.com
@@ -456,6 +457,7 @@
 52.28.195.102 api.browser.yandex.ua
 52.28.197.181 metro.yandex.ru
 52.28.201.11 api.browser.yandex.ua
+52.28.210.146 pdd.yandex.ru
 52.28.216.174 api.browser.yandex.ua
 52.28.226.103 api.browser.yandex.ua
 52.28.230.133 mail.yandex.fr
