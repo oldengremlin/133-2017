@@ -12,6 +12,7 @@
 5.255.255.88 www.yandex.ru
 18.196.0.26 api.browser.yandex.ua
 18.196.0.28 api.browser.yandex.ua
+18.196.0.57 api.browser.yandex.ua
 18.196.0.220 api.browser.yandex.ua
 31.44.85.37 rns02.drweb.com
 34.202.173.37 blog.kaspersky.com
@@ -408,6 +409,7 @@
 35.159.1.200 api.browser.yandex.ua
 35.159.1.245 api.browser.yandex.ua
 35.159.2.38 mobile.navi.yandex.net
+35.159.2.180 api.browser.yandex.ua
 35.159.3.200 metro.yandex.ru
 35.159.4.105 n.maps.yandex.ru
 35.159.4.120 api.browser.yandex.ua
