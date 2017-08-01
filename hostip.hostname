@@ -575,7 +575,7 @@
 52.57.91.173 mail.yandex.fr
 52.57.92.205 api.browser.yandex.ua
 52.57.92.211 mail.yandex.fr
-52.57.94.51 api.browser.yandex.ua
+52.57.94.51 afisha.yandex.ru
 52.57.101.140 n.maps.yandex.ru
 52.57.102.59 rasp.yandex.ru
 52.57.103.91 taxi.yandex.ru
@@ -751,6 +751,7 @@
 52.59.93.15 metro.yandex.ru
 52.59.93.255 spdy3-proxy.maps.yandex.net
 52.59.95.19 n.maps.yandex.ru
+52.59.95.92 afisha.yandex.ru
 52.59.95.193 api.browser.yandex.ua
 52.59.96.11 informer.yandex.ru
 52.59.96.88 n.maps.yandex.ru
@@ -797,6 +798,7 @@
 52.59.163.12 n.maps.yandex.ru
 52.59.164.52 mail.yandex.fr
 52.59.164.55 www.yandex.ru
+52.59.165.2 mail.yandex.fr
 52.59.165.190 api.browser.yandex.ua
 52.59.166.214 api.browser.yandex.ua
 52.59.167.59 static-maps.yandex.ru
