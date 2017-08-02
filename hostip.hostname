@@ -432,6 +432,7 @@
 35.158.251.241 api.browser.yandex.ua
 35.158.252.34 api.browser.yandex.ua
 35.158.252.132 taxi.yandex.ru
+35.158.253.22 api.browser.yandex.ua
 35.158.253.135 rasp.yandex.ru
 35.158.254.49 api.browser.yandex.ua
 35.158.254.161 api.browser.yandex.ua
@@ -897,6 +898,7 @@
 62.128.100.219 ksn-a-p2p.geo.kaspersky.com
 62.128.100.221 ksn-a-p2p.geo.kaspersky.com
 62.128.100.223 ksn-a-p2p.geo.kaspersky.com
+66.110.49.6 dnl-12.geo.kaspersky.com
 66.110.49.30 ksn-crypto-catm.geo.kaspersky.com
 66.110.49.32 ksn-crypto-catm.geo.kaspersky.com
 66.110.49.34 ksn-crypto-url.geo.kaspersky.com
