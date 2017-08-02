@@ -443,7 +443,9 @@
 37.9.109.60 forward10o.cmail.yandex.net
 37.9.109.217 forward19o.cmail.yandex.net
 37.48.82.67 dnl-00.geo.kaspersky.com
+38.113.165.71 ksn-file.geo.kaspersky.com
 38.113.165.80 ksn-crypto-info.geo.kaspersky.com
+38.113.165.101 ksn-file.geo.kaspersky.com
 38.113.165.113 ksn-crypto-url.geo.kaspersky.com
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
@@ -1244,6 +1246,7 @@
 193.0.170.28 love.mail.ru
 193.0.170.53 bar.love.mail.ru
 193.0.170.54 bar.love.mail.ru
+193.45.6.7 dnl-17.geo.kaspersky.com
 193.45.6.10 dnl-00.geo.kaspersky.com
 195.27.181.65 inter-fe.geo.kaspersky.com
 195.27.252.50 eu.activation-v2.kaspersky.com
