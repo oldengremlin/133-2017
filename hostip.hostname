@@ -467,7 +467,7 @@
 38.117.98.199 dnl-09.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.124.168.116 dnl-01.geo.kaspersky.com
-38.124.168.119 dnl-16.geo.kaspersky.com
+38.124.168.119 dnl-00.geo.kaspersky.com
 38.124.168.125 dnl-14.geo.kaspersky.com
 43.249.37.43 dnl-10.geo.kaspersky.com
 46.46.160.203 download.geo.drweb.com
@@ -728,6 +728,7 @@
 52.58.130.238 avia.yandex.ru
 52.58.136.219 taxi.yandex.ru
 52.58.139.201 api.browser.yandex.ua
+52.58.140.204 sec.api.browser.yandex.ua
 52.58.147.196 mail.yandex.fr
 52.58.149.106 api.browser.yandex.ua
 52.58.150.31 n.maps.yandex.ru
