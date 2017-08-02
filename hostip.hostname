@@ -1,5 +1,5 @@
  *.auto.ru
-4.28.136.36 dnl-17.geo.kaspersky.com
+4.28.136.36 dnl-05.geo.kaspersky.com
 4.28.136.42 dnl-06.geo.kaspersky.com
 4.59.181.141 americas.activation-v2.kaspersky.com
 5.45.217.5 taxi.yandex.ru
@@ -290,6 +290,7 @@
 35.158.178.55 api.browser.yandex.ua
 35.158.178.154 avia.yandex.ru
 35.158.178.195 avia.yandex.ru
+35.158.178.196 api.browser.yandex.ua
 35.158.179.51 api.browser.yandex.ua
 35.158.180.201 api.browser.yandex.ua
 35.158.181.124 n.maps.yandex.ru
