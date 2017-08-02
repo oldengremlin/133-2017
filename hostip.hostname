@@ -448,6 +448,7 @@
 37.9.109.217 forward19o.cmail.yandex.net
 37.48.82.67 dnl-00.geo.kaspersky.com
 38.113.165.71 ksn-file.geo.kaspersky.com
+38.113.165.77 ksn-crypto-info.geo.kaspersky.com
 38.113.165.80 ksn-crypto-info.geo.kaspersky.com
 38.113.165.101 ksn-file.geo.kaspersky.com
 38.113.165.113 ksn-crypto-url.geo.kaspersky.com
@@ -1227,6 +1228,7 @@
 178.237.20.80 icq.mail.ru
 178.248.232.183 drweb.ru
 180.87.4.131 ksn-crypto-url.geo.kaspersky.com
+180.87.4.139 ksn-crypto-info.geo.kaspersky.com
 180.87.4.149 ksn-crypto-url.geo.kaspersky.com
 180.87.4.155 ksn-crypto-url.geo.kaspersky.com
 184.106.81.37 backup-bar-navig.yandex.ru
