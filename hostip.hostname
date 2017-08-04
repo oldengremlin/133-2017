@@ -250,7 +250,7 @@
 35.158.19.228 mail.yandex.fr
 35.158.20.252 api.browser.yandex.ua
 35.158.23.114 taxi.yandex.ru
-35.158.23.139 pdd.yandex.ru
+35.158.23.139 api.browser.yandex.ua
 35.158.23.219 avia.yandex.ru
 35.158.30.41 api.browser.yandex.ua
 35.158.35.8 sec.api.browser.yandex.ua
@@ -763,6 +763,7 @@
 52.57.250.41 api.browser.yandex.ua
 52.57.251.142 api.browser.yandex.ua
 52.57.251.227 mail.yandex.fr
+52.57.252.26 api.browser.yandex.ua
 52.57.252.113 api.browser.yandex.ua
 52.58.7.101 rasp.yandex.ru
 52.58.9.209 api.browser.yandex.ua
