@@ -203,6 +203,7 @@
 35.157.123.221 api.browser.yandex.ua
 35.157.124.14 n.maps.yandex.ru
 35.157.126.110 sec.api.browser.yandex.ua
+35.157.129.113 api.browser.yandex.ua
 35.157.129.189 api.browser.yandex.ua
 35.157.130.164 sec.api.browser.yandex.ua
 35.157.131.217 avia.yandex.ru
@@ -620,7 +621,7 @@
 52.28.104.125 api.browser.yandex.ua
 52.28.105.90 pass.yandex.ru
 52.28.116.45 rasp.yandex.ru
-52.28.118.5 sec.api.browser.yandex.ua
+52.28.118.5 api.browser.yandex.ua
 52.28.127.93 n.maps.yandex.ru
 52.28.128.37 api.browser.yandex.ua
 52.28.128.203 mail.yandex.fr
@@ -929,6 +930,7 @@
 52.58.200.127 mail.yandex.fr
 52.58.205.190 rasp.yandex.ru
 52.58.211.94 api.browser.yandex.ua
+52.58.211.95 mail.yandex.fr
 52.58.212.36 api.browser.yandex.ua
 52.58.220.50 api.browser.yandex.ua
 52.58.220.69 n.maps.yandex.ru
