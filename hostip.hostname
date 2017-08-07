@@ -1,5 +1,6 @@
  *.auto.ru
 4.28.136.36 dnl-05.geo.kaspersky.com
+4.28.136.39 dnl-07.geo.kaspersky.com
 4.28.136.42 dnl-06.geo.kaspersky.com
 4.59.181.141 americas.activation-v2.kaspersky.com
 5.45.217.5 taxi.yandex.ru
@@ -34,6 +35,7 @@
 35.156.30.185 mail.yandex.fr
 35.156.32.16 api.browser.yandex.ua
 35.156.32.156 pdd.yandex.ru
+35.156.34.243 sec.api.browser.yandex.ua
 35.156.35.236 api.browser.yandex.ua
 35.156.41.47 mail.yandex.fr
 35.156.41.182 api.browser.yandex.ua
@@ -963,6 +965,7 @@
 52.59.83.190 n.maps.yandex.ru
 52.59.87.123 api.browser.yandex.ua
 52.59.88.220 taxi.yandex.ru
+52.59.92.101 sec.api.browser.yandex.ua
 52.59.93.15 metro.yandex.ru
 52.59.93.255 spdy3-proxy.maps.yandex.net
 52.59.94.210 mail.yandex.fr
