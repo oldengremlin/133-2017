@@ -286,7 +286,7 @@
 35.157.240.53 api.browser.yandex.ua
 35.157.242.233 api.browser.yandex.ua
 35.157.244.116 api.browser.yandex.ua
-35.157.247.168 api.browser.yandex.ua
+35.157.247.168 addappter-api.mobile.yandex.net
 35.157.248.14 api.browser.yandex.ua
 35.157.250.255 taxi.yandex.ru
 35.158.8.117 disk.yandex.ua
@@ -416,6 +416,7 @@
 35.158.187.66 api.browser.yandex.ua
 35.158.187.86 mail.yandex.fr
 35.158.187.240 api.browser.yandex.ua
+35.158.187.248 addappter-api.mobile.yandex.net
 35.158.188.55 n.maps.yandex.ru
 35.158.188.77 api.browser.yandex.ua
 35.158.188.127 tv.yandex.ru
@@ -542,6 +543,7 @@
 35.158.242.41 mail.yandex.fr
 35.158.242.52 taxi.yandex.ru
 35.158.242.147 api.browser.yandex.ua
+35.158.242.193 mail.yandex.fr
 35.158.242.194 api.browser.yandex.ua
 35.158.242.201 api.browser.yandex.ua
 35.158.244.3 rasp.yandex.ru
