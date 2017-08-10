@@ -848,6 +848,7 @@
 52.57.148.145 api.browser.yandex.ua
 52.57.149.9 metro.yandex.ru
 52.57.149.23 api.browser.yandex.ua
+52.57.149.50 api.browser.yandex.ua
 52.57.149.127 taxi.yandex.ru
 52.57.150.157 mail.yandex.fr
 52.57.152.203 api.browser.yandex.ua
@@ -932,6 +933,7 @@
 52.58.15.159 mobileproxy.passport.yandex.ru
 52.58.17.111 n.maps.yandex.ru
 52.58.22.114 api.browser.yandex.ua
+52.58.22.232 api.browser.yandex.ua
 52.58.25.17 n.maps.yandex.ru
 52.58.27.100 mail.yandex.fr
 52.58.29.198 yandex.ua
@@ -1193,6 +1195,7 @@
 62.128.100.223 ksn-a-p2p.geo.kaspersky.com
 66.110.49.6 dnl-12.geo.kaspersky.com
 66.110.49.18 ksn-file.geo.kaspersky.com
+66.110.49.20 ksn-file.geo.kaspersky.com
 66.110.49.30 ksn-crypto-catm.geo.kaspersky.com
 66.110.49.32 ksn-crypto-catm.geo.kaspersky.com
 66.110.49.34 ksn-crypto-url.geo.kaspersky.com
