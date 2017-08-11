@@ -114,6 +114,7 @@
 35.156.201.35 api.browser.yandex.ua
 35.156.202.90 n.maps.yandex.ru
 35.156.202.145 mail.yandex.fr
+35.156.203.12 metro.yandex.ru
 35.156.204.36 mail.yandex.fr
 35.156.207.47 api.browser.yandex.ua
 35.156.209.101 api.browser.yandex.ua
@@ -1292,7 +1293,7 @@
 80.239.174.44 dnl-03.geo.kaspersky.com
 80.239.174.47 dnl-04.geo.kaspersky.com
 80.239.197.100 dnl-01.geo.kaspersky.com
-80.239.197.103 dnl-03.geo.kaspersky.com
+80.239.197.103 dnl-01.geo.kaspersky.com
 80.239.197.116 dnl-01.geo.kaspersky.com
 81.19.104.3 ksn-crypto-ipm.geo.kaspersky.com
 81.19.104.24 ksn-file.geo.kaspersky.com
