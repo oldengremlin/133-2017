@@ -16,7 +16,7 @@
 18.196.0.28 api.browser.yandex.ua
 18.196.0.57 api.browser.yandex.ua
 18.196.0.152 mail.yandex.fr
-18.196.0.212 rasp.yandex.ru
+18.196.0.212 mc.yandex.ru
 18.196.0.220 api.browser.yandex.ua
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
@@ -1048,6 +1048,7 @@
 52.58.112.140 mail.yandex.fr
 52.58.113.206 api.browser.yandex.ua
 52.58.118.201 n.maps.yandex.ru
+52.58.124.99 mc.yandex.ru
 52.58.128.48 avia.yandex.ru
 52.58.130.238 avia.yandex.ru
 52.58.132.222 mail.yandex.fr
@@ -1077,6 +1078,7 @@
 52.58.175.254 rasp.yandex.ru
 52.58.176.179 api.browser.yandex.ua
 52.58.177.85 n.maps.yandex.ru
+52.58.182.195 mc.yandex.ru
 52.58.187.69 www.yandex.ru
 52.58.190.10 api.browser.yandex.ua
 52.58.190.105 mail.yandex.fr
