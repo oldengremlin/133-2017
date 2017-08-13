@@ -324,7 +324,7 @@
 35.157.247.168 addappter-api.mobile.yandex.net
 35.157.248.14 api.browser.yandex.ua
 35.157.250.255 taxi.yandex.ru
-35.158.8.117 disk.yandex.ua
+35.158.8.117 cloud-api.yandex.ua
 35.158.9.19 api.browser.yandex.ua
 35.158.11.69 api.browser.yandex.ua
 35.158.12.73 api.browser.yandex.ua
@@ -651,6 +651,7 @@
 35.159.1.200 api.browser.yandex.ua
 35.159.1.245 api.browser.yandex.ua
 35.159.2.38 mobile.navi.yandex.net
+35.159.2.80 api.browser.yandex.ua
 35.159.2.180 api.browser.yandex.ua
 35.159.3.200 metro.yandex.ru
 35.159.4.105 n.maps.yandex.ru
