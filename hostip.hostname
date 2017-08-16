@@ -139,6 +139,7 @@
 35.156.227.247 api.browser.yandex.ua
 35.156.228.208 api.browser.yandex.ua
 35.156.230.90 mail.yandex.fr
+35.156.231.210 sec.api.browser.yandex.ua
 35.156.233.164 mail.yandex.ua
 35.156.233.187 sec.api.browser.yandex.ua
 35.156.234.53 api.browser.yandex.ua
@@ -360,6 +361,7 @@
 35.158.23.114 taxi.yandex.ru
 35.158.23.139 api.browser.yandex.ua
 35.158.23.219 avia.yandex.ru
+35.158.23.237 sec.api.browser.yandex.ua
 35.158.28.21 api.browser.yandex.ua
 35.158.30.41 api.browser.yandex.ua
 35.158.35.8 sec.api.browser.yandex.ua
@@ -725,7 +727,7 @@
 38.124.168.116 dnl-01.geo.kaspersky.com
 38.124.168.119 dnl-00.geo.kaspersky.com
 38.124.168.125 dnl-11.geo.kaspersky.com
-43.249.37.43 dnl-10.geo.kaspersky.com
+43.249.37.43 dnl-06.geo.kaspersky.com
 46.46.160.203 download.geo.drweb.com
 46.248.181.124 links.market.yandex.net
 52.28.2.121 taxi.yandex.ru
