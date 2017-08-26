@@ -1434,7 +1434,7 @@
 52.58.40.160 n.maps.yandex.ru
 52.58.40.255 n.maps.yandex.ru
 52.58.41.196 n.maps.yandex.ru
-52.58.41.230 news.yandex.ru
+52.58.41.230 api.browser.yandex.ua
 52.58.46.16 sec.api.browser.yandex.ua
 52.58.46.128 api.browser.yandex.ua
 52.58.48.203 mail.yandex.fr
@@ -1508,6 +1508,7 @@
 52.58.157.164 n.maps.yandex.ru
 52.58.157.244 api.browser.yandex.ua
 52.58.159.153 api.browser.yandex.ua
+52.58.159.178 api.browser.yandex.ua
 52.58.162.226 api.browser.yandex.ua
 52.58.165.176 mail.yandex.ua
 52.58.166.117 api.browser.yandex.ua
