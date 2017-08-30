@@ -73,6 +73,7 @@
 31.220.20.192 yandex.click
 34.202.173.37 blog.kaspersky.com
 34.251.249.209 cybermap.kaspersky.com
+35.156.0.102 api.browser.yandex.ua
 35.156.0.169 api.browser.yandex.ua
 35.156.1.184 api.browser.yandex.ua
 35.156.3.61 mail.yandex.fr
@@ -1886,6 +1887,7 @@
 54.93.54.15 mail.yandex.fr
 54.93.62.154 api.browser.yandex.ua
 54.93.73.234 pdd.yandex.ru
+54.93.78.188 api.browser.yandex.ua
 54.93.170.173 static-maps.yandex.ru
 54.93.188.25 sec.api.browser.yandex.ua
 54.93.216.216 api.browser.yandex.ua
