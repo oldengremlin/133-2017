@@ -13,6 +13,7 @@
 5.255.255.77 www.yandex.ru
 5.255.255.88 www.yandex.ru
 18.194.0.164 api.browser.yandex.ua
+18.194.0.195 api.browser.yandex.ua
 18.194.2.81 mail.yandex.fr
 18.194.2.213 informer.yandex.ru
 18.194.2.236 api.browser.yandex.ua
@@ -1707,6 +1708,7 @@
 52.58.241.137 api.browser.yandex.ua
 52.58.241.248 mail.yandex.fr
 52.58.242.148 mail.yandex.fr
+52.58.244.152 api.browser.yandex.ua
 52.58.246.53 pdd.yandex.ru
 52.58.246.117 api.browser.yandex.ua
 52.58.248.114 api.browser.yandex.ua
