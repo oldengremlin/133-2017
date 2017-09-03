@@ -1761,7 +1761,7 @@
 52.58.190.10 api.browser.yandex.ua
 52.58.190.105 mail.yandex.fr
 52.58.190.115 api.browser.yandex.ua
-52.58.190.156 passport.yandex.com
+52.58.190.156 api.browser.yandex.ua
 52.58.191.198 api.browser.yandex.ua
 52.58.192.71 api.browser.yandex.ua
 52.58.193.95 mail.yandex.fr
@@ -1860,6 +1860,7 @@
 52.59.66.79 api.browser.yandex.ua
 52.59.66.181 api.browser.yandex.ua
 52.59.66.196 api.browser.yandex.ua
+52.59.66.254 api.browser.yandex.ua
 52.59.68.8 api.browser.yandex.ua
 52.59.68.241 mail.yandex.fr
 52.59.69.0 mail.yandex.fr
