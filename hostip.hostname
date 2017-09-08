@@ -225,6 +225,7 @@
 35.156.71.42 redirect.appmetrica.yandex.com
 35.156.71.154 api.browser.yandex.ua
 35.156.72.208 api.browser.yandex.ua
+35.156.72.211 mail.yandex.fr
 35.156.73.19 mail.yandex.fr
 35.156.75.197 rasp.yandex.ru
 35.156.79.73 api.browser.yandex.ua
@@ -1825,6 +1826,7 @@
 52.58.9.177 api.browser.yandex.ua
 52.58.9.209 api.browser.yandex.ua
 52.58.10.69 n.maps.yandex.ru
+52.58.10.183 api.browser.yandex.ua
 52.58.11.21 static-maps.yandex.ru
 52.58.12.207 api.browser.yandex.ua
 52.58.13.38 api.browser.yandex.ua
