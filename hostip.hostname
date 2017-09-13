@@ -324,7 +324,7 @@
 35.156.120.48 api.browser.yandex.ua
 35.156.121.233 api.browser.yandex.ua
 35.156.124.225 api.browser.yandex.ua
-35.156.125.102 push.yandex.ua
+35.156.125.102 api.browser.yandex.ua
 35.156.127.230 sec.api.browser.yandex.ua
 35.156.129.166 api.browser.yandex.ua
 35.156.129.223 mail.yandex.fr
@@ -2008,6 +2008,7 @@
 52.58.57.181 api.browser.yandex.ua
 52.58.57.223 metro.yandex.ru
 52.58.60.52 api.browser.yandex.ua
+52.58.61.168 api.browser.yandex.ua
 52.58.61.177 mail.yandex.fr
 52.58.61.201 api.browser.yandex.ua
 52.58.61.236 mail.yandex.fr
