@@ -306,6 +306,7 @@
 18.194.110.6 taxi.yandex.ru
 18.194.111.81 mail.yandex.fr
 18.194.112.175 n.maps.yandex.ru
+18.194.113.173 api.browser.yandex.ua
 18.194.113.190 api.browser.yandex.ua
 18.194.113.197 api.browser.yandex.ua
 18.194.114.18 api.browser.yandex.ua
@@ -357,6 +358,7 @@
 34.251.249.209 cybermap.kaspersky.com
 35.156.0.102 api.browser.yandex.ua
 35.156.0.169 api.browser.yandex.ua
+35.156.1.98 mail.yandex.fr
 35.156.1.184 api.browser.yandex.ua
 35.156.2.37 api.browser.yandex.ua
 35.156.3.61 mail.yandex.fr
@@ -1865,7 +1867,7 @@
 52.29.198.55 mail.yandex.fr
 52.29.201.93 api.browser.yandex.ua
 52.29.201.134 mail.yandex.fr
-52.29.202.93 oauth.yandex.ru
+52.29.202.93 api.browser.yandex.ua
 52.29.203.168 mail.yandex.fr
 52.29.203.195 mail.yandex.fr
 52.29.204.153 sec.api.browser.yandex.ua
