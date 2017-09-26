@@ -330,6 +330,7 @@
 18.194.121.58 mail.yandex.ua
 18.194.121.255 api.browser.yandex.ua
 18.194.122.168 api.browser.yandex.ua
+18.194.122.217 api.browser.yandex.ua
 18.194.124.112 afisha.yandex.ru
 18.194.124.206 api.browser.yandex.ua
 18.194.125.72 api.browser.yandex.ua
@@ -2115,6 +2116,7 @@
 52.57.151.94 api.browser.yandex.ua
 52.57.151.217 api.browser.yandex.ua
 52.57.152.48 api.browser.yandex.ua
+52.57.152.63 api.browser.yandex.ua
 52.57.152.203 api.browser.yandex.ua
 52.57.153.43 api.browser.yandex.ua
 52.57.153.129 api.browser.yandex.ua
@@ -3108,6 +3110,7 @@
 109.235.165.22 money.yandex.ru
 109.235.165.142 money.yandex.ru
 109.235.165.182 money.yandex.ru
+119.255.133.27 ksn-crypto-ipm.geo.kaspersky.com
 119.255.133.57 ksn-crypto-url-mobile.geo.kaspersky.com
 127.0.0.1 ftp.kaspersky.com
 130.117.190.134 dnl-17.geo.kaspersky.com
@@ -3146,6 +3149,7 @@
 180.87.4.151 ksn-crypto-url.geo.kaspersky.com
 180.87.4.153 ksn-crypto-url.geo.kaspersky.com
 180.87.4.155 ksn-crypto-url.geo.kaspersky.com
+180.87.4.171 ksn-crypto-ipm.geo.kaspersky.com
 184.106.81.37 backup-bar-navig.yandex.ru
 184.168.221.90 yandex.ca
 185.16.148.2 tamtam.ok.ru
