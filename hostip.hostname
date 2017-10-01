@@ -407,6 +407,7 @@
 18.194.135.45 mail.yandex.fr
 18.194.135.131 oauth.yandex.ru
 18.194.135.220 rasp.yandex.ru
+18.194.136.96 sec.api.browser.yandex.ua
 18.194.136.150 api.browser.yandex.ua
 18.194.136.158 api.browser.yandex.ua
 18.194.136.247 n.maps.yandex.ru
@@ -556,6 +557,7 @@
 35.156.64.7 mail.yandex.fr
 35.156.66.189 api.browser.yandex.ua
 35.156.67.2 mail.yandex.fr
+35.156.67.69 sec.api.browser.yandex.ua
 35.156.67.245 api.browser.yandex.ua
 35.156.69.19 api.browser.yandex.ua
 35.156.69.237 informer.yandex.ru
@@ -2374,6 +2376,7 @@
 52.57.221.21 mail.yandex.fr
 52.57.221.99 api.browser.yandex.ua
 52.57.221.117 api.browser.yandex.ua
+52.57.222.58 taxi.yandex.ru
 52.57.222.189 mail.yandex.fr
 52.57.225.198 api.browser.yandex.ua
 52.57.227.3 avia.yandex.ru
