@@ -12,6 +12,7 @@
 5.255.255.55 www.yandex.ru
 5.255.255.77 www.yandex.ru
 5.255.255.88 www.yandex.ru
+18.194.0.49 mail.yandex.fr
 18.194.0.69 passport.yandex.com
 18.194.0.83 api.browser.yandex.ua
 18.194.0.117 mail.yandex.fr
@@ -370,6 +371,7 @@
 18.194.116.17 api.browser.yandex.ua
 18.194.118.218 api.browser.yandex.ua
 18.194.120.15 api.browser.yandex.ua
+18.194.120.116 api.browser.yandex.ua
 18.194.120.121 n.maps.yandex.ru
 18.194.121.54 addappter-api.mobile.yandex.net
 18.194.121.58 mail.yandex.ua
@@ -500,6 +502,8 @@
 18.194.184.112 api.browser.yandex.ua
 18.194.184.222 api.browser.yandex.ua
 18.194.186.49 api.browser.yandex.ua
+18.194.186.99 api.browser.yandex.ua
+18.194.193.81 sec.api.browser.yandex.ua
 18.196.0.26 api.browser.yandex.ua
 18.196.0.28 api.browser.yandex.ua
 18.196.0.37 api.browser.yandex.net
