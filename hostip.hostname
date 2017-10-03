@@ -243,7 +243,7 @@
 18.194.62.190 api.browser.yandex.ua
 18.194.62.236 api.browser.yandex.ua
 18.194.63.48 api.browser.yandex.ua
-18.194.63.118 tv.yandex.ru
+18.194.63.118 api.browser.yandex.ua
 18.194.64.21 api.browser.yandex.ua
 18.194.64.41 api.browser.yandex.ua
 18.194.64.93 api.browser.yandex.ua
@@ -460,6 +460,7 @@
 18.194.155.94 afisha.yandex.ru
 18.194.155.133 mail.yandex.fr
 18.194.155.168 api.browser.yandex.ua
+18.194.155.195 n.maps.yandex.ru
 18.194.155.220 api.browser.yandex.ua
 18.194.156.227 oauth.yandex.ru
 18.194.157.2 api.browser.yandex.ua
@@ -1278,7 +1279,7 @@
 35.158.65.162 mail.yandex.fr
 35.158.67.168 api.browser.yandex.ua
 35.158.67.253 mail.yandex.fr
-35.158.68.36 tv.yandex.ru
+35.158.68.36 api.browser.yandex.ua
 35.158.69.96 api.browser.yandex.ua
 35.158.70.12 api.browser.yandex.ua
 35.158.71.32 api.browser.yandex.ua
