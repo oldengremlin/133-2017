@@ -439,6 +439,7 @@
 18.194.135.131 oauth.yandex.ru
 18.194.135.220 rasp.yandex.ru
 18.194.136.30 api.browser.yandex.ua
+18.194.136.82 mail.yandex.fr
 18.194.136.96 sec.api.browser.yandex.ua
 18.194.136.150 api.browser.yandex.ua
 18.194.136.158 api.browser.yandex.ua
@@ -523,7 +524,7 @@
 18.194.170.70 mail.yandex.fr
 18.194.170.148 api.browser.yandex.ua
 18.194.170.250 api.browser.yandex.ua
-18.194.171.212 oauth.yandex.ru
+18.194.171.212 api.browser.yandex.ua
 18.194.171.251 metro.yandex.ru
 18.194.172.78 api.browser.yandex.ua
 18.194.172.226 sec.api.browser.yandex.ua
@@ -2325,6 +2326,7 @@
 52.57.64.22 api.browser.yandex.ua
 52.57.64.82 api.browser.yandex.ua
 52.57.65.34 mail.yandex.fr
+52.57.67.36 api.browser.yandex.ua
 52.57.67.185 api.browser.yandex.ua
 52.57.68.118 api.browser.yandex.ua
 52.57.68.193 mail.yandex.fr
