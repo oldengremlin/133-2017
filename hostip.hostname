@@ -1019,7 +1019,7 @@
 35.157.1.13 api.browser.yandex.ua
 35.157.1.190 taxi.yandex.ru
 35.157.3.18 api.browser.yandex.ua
-35.157.3.139 oauth.yandex.ru
+35.157.3.139 api.browser.yandex.ua
 35.157.3.153 n.maps.yandex.ru
 35.157.5.30 api.browser.yandex.ua
 35.157.5.107 mail.yandex.fr
@@ -3084,7 +3084,7 @@
 52.59.14.74 oauth.yandex.ru
 52.59.17.214 api.browser.yandex.ua
 52.59.20.33 mail.yandex.fr
-52.59.20.71 oauth.yandex.ru
+52.59.20.71 api.browser.yandex.ua
 52.59.20.221 api.browser.yandex.ua
 52.59.21.134 www.yandex.ru
 52.59.22.231 api.browser.yandex.ua
