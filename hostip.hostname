@@ -497,7 +497,7 @@
 18.194.134.244 api.browser.yandex.ua
 18.194.134.252 api.browser.yandex.ua
 18.194.135.0 api.browser.yandex.ua
-18.194.135.9 oauth.yandex.ru
+18.194.135.9 api.browser.yandex.ua
 18.194.135.45 mail.yandex.fr
 18.194.135.129 mail.yandex.fr
 18.194.135.131 oauth.yandex.ru
@@ -2304,6 +2304,7 @@
 52.28.180.251 api.browser.yandex.ua
 52.28.181.43 sec.api.browser.yandex.ua
 52.28.184.126 addappter-api.mobile.yandex.net
+52.28.184.161 api.browser.yandex.ua
 52.28.184.225 api.browser.yandex.ua
 52.28.187.191 api.browser.yandex.ua
 52.28.188.53 api.browser.yandex.ua
