@@ -805,11 +805,13 @@
 18.194.218.221 mail.yandex.fr
 18.194.222.119 oauth.yandex.ru
 18.194.223.5 api.browser.yandex.ua
+18.194.225.177 api.browser.yandex.ua
 18.194.226.60 api.browser.yandex.ua
 18.194.226.105 api.browser.yandex.ua
 18.194.226.123 api.browser.yandex.ua
 18.194.226.155 sec.api.browser.yandex.ua
 18.194.226.185 addappter-api.mobile.yandex.net
+18.194.227.7 api.browser.yandex.ua
 18.194.228.106 n.maps.yandex.ru
 18.194.228.207 api.browser.yandex.ua
 18.194.230.247 api.browser.yandex.ua
@@ -2955,6 +2957,7 @@
 52.57.243.160 mail.yandex.fr
 52.57.244.56 api.browser.yandex.ua
 52.57.245.54 api.browser.yandex.ua
+52.57.245.98 avia.yandex.ru
 52.57.246.126 api.browser.yandex.ua
 52.57.246.140 api.browser.yandex.ua
 52.57.246.177 api.browser.yandex.ua
