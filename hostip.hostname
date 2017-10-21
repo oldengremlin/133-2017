@@ -858,7 +858,7 @@
 18.194.237.142 sec.api.browser.yandex.ua
 18.194.241.248 metro.yandex.ru
 18.194.246.83 api.browser.yandex.ua
-18.194.246.85 redirect.appmetrica.yandex.com
+18.194.246.85 api.browser.yandex.ua
 18.194.248.20 passport.yandex.com
 18.194.248.181 mail.yandex.fr
 18.196.0.26 api.browser.yandex.ua
@@ -1202,6 +1202,7 @@
 35.157.7.17 api.browser.yandex.ua
 35.157.7.85 sec.api.browser.yandex.ua
 35.157.7.106 api.browser.yandex.ua
+35.157.7.203 mail.yandex.fr
 35.157.8.54 mail.yandex.fr
 35.157.9.109 api.browser.yandex.ua
 35.157.9.110 api.browser.yandex.ua
