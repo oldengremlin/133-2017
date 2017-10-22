@@ -502,6 +502,7 @@
 18.194.128.196 mail.yandex.fr
 18.194.129.184 mail.yandex.fr
 18.194.130.92 api.browser.yandex.ua
+18.194.130.151 api.browser.yandex.ua
 18.194.130.160 api.browser.yandex.ua
 18.194.130.200 api.browser.yandex.ua
 18.194.131.37 mail.yandex.fr
@@ -816,7 +817,7 @@
 18.194.204.10 n.maps.yandex.ru
 18.194.204.27 api.browser.yandex.ua
 18.194.204.96 api.browser.yandex.ua
-18.194.204.230 pdd.yandex.ru
+18.194.204.230 api.browser.yandex.ua
 18.194.204.244 mail.yandex.fr
 18.194.205.48 sec.api.browser.yandex.ua
 18.194.205.209 mail.yandex.fr
