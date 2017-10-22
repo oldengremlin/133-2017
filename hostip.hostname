@@ -132,7 +132,7 @@
 18.194.21.152 api.browser.yandex.ua
 18.194.21.192 mail.yandex.fr
 18.194.21.203 sec.api.browser.yandex.ua
-18.194.21.233 sec.api.browser.yandex.ua
+18.194.21.233 api.browser.yandex.ua
 18.194.22.12 mail.yandex.fr
 18.194.22.115 api.browser.yandex.ua
 18.194.22.147 api.browser.yandex.ua
@@ -563,6 +563,7 @@
 18.194.143.39 api.browser.yandex.ua
 18.194.143.70 api.browser.yandex.ua
 18.194.143.90 api.browser.yandex.ua
+18.194.143.210 api.browser.yandex.ua
 18.194.144.116 api.browser.yandex.ua
 18.194.144.211 yandex.st
 18.194.145.3 metro.yandex.ru
