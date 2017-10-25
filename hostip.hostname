@@ -1499,7 +1499,7 @@
 35.157.151.43 api.browser.yandex.ua
 35.157.152.14 informer.yandex.ru
 35.157.154.208 n.maps.yandex.ru
-35.157.155.94 sec.api.browser.yandex.ua
+35.157.155.94 api.browser.yandex.ua
 35.157.155.137 sec.api.browser.yandex.ua
 35.157.156.231 metro.yandex.ru
 35.157.158.152 api.browser.yandex.ua
@@ -3034,6 +3034,7 @@
 52.57.167.143 mail.yandex.fr
 52.57.168.29 informer.yandex.ru
 52.57.168.114 api.browser.yandex.ua
+52.57.168.129 api.browser.yandex.ua
 52.57.168.155 api.browser.yandex.ua
 52.57.170.19 api.browser.yandex.ua
 52.57.170.231 taxi.yandex.ru
