@@ -248,6 +248,7 @@
 18.194.52.30 api.browser.yandex.ua
 18.194.52.67 sec.api.browser.yandex.ua
 18.194.52.151 api.browser.yandex.ua
+18.194.52.167 api.browser.yandex.com
 18.194.52.206 informer.yandex.ru
 18.194.52.209 mail.yandex.fr
 18.194.54.56 mail.yandex.fr
@@ -3818,6 +3819,7 @@
 52.59.111.189 mail.yandex.fr
 52.59.112.12 api.browser.yandex.ua
 52.59.112.138 n.maps.yandex.ru
+52.59.113.41 api.browser.yandex.com
 52.59.113.232 n.maps.yandex.ru
 52.59.113.237 avia.yandex.ru
 52.59.114.153 mail.yandex.fr
