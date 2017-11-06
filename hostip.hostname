@@ -37,7 +37,7 @@
 18.194.4.23 api.browser.yandex.ua
 18.194.4.62 api.browser.yandex.ua
 18.194.4.104 api.browser.yandex.ua
-18.194.4.133 tv.yandex.ru
+18.194.4.133 api.browser.yandex.ua
 18.194.4.202 mail.yandex.fr
 18.194.4.204 metro.yandex.ru
 18.194.4.208 mail.yandex.fr
@@ -1015,6 +1015,7 @@
 18.194.229.134 addappter-api.mobile.yandex.net
 18.194.229.168 api.browser.yandex.ua
 18.194.229.242 api.browser.yandex.ua
+18.194.230.108 api.browser.yandex.ua
 18.194.230.161 api.browser.yandex.ua
 18.194.230.247 api.browser.yandex.ua
 18.194.231.3 api.browser.yandex.ua
