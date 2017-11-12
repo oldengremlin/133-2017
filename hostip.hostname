@@ -108,7 +108,7 @@
 18.194.14.142 api.browser.yandex.ua
 18.194.14.216 api.browser.yandex.ua
 18.194.14.227 mail.yandex.fr
-18.194.14.239 push.yandex.ua
+18.194.14.239 api.browser.yandex.ua
 18.194.15.10 api.browser.yandex.ua
 18.194.15.18 api.browser.yandex.ua
 18.194.15.83 api.browser.yandex.ua
@@ -1258,6 +1258,7 @@
 18.195.72.194 api.browser.yandex.ua
 18.195.73.226 sec.api.browser.yandex.ua
 18.195.74.244 api.browser.yandex.ua
+18.195.76.78 mail.yandex.fr
 18.195.76.194 api.browser.yandex.ua
 18.195.79.14 api.browser.yandex.ua
 18.195.79.133 api.browser.yandex.ua
