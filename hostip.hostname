@@ -2529,7 +2529,7 @@
 35.158.195.62 avia.yandex.ru
 35.158.195.95 mail.yandex.fr
 35.158.195.96 mail.yandex.fr
-35.158.195.191 mail.yandex.fr
+35.158.195.191 api.browser.yandex.ua
 35.158.195.242 api.browser.yandex.ua
 35.158.196.57 api.browser.yandex.ua
 35.158.196.110 api.browser.yandex.ua
@@ -4328,6 +4328,7 @@
 52.59.134.84 mail.yandex.ua
 52.59.134.96 mail.yandex.fr
 52.59.134.154 api.browser.yandex.ua
+52.59.134.224 api.browser.yandex.ua
 52.59.135.86 metro.yandex.ru
 52.59.136.31 api.browser.yandex.ua
 52.59.136.63 api.browser.yandex.ua
