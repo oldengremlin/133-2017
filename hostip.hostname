@@ -1243,6 +1243,7 @@
 18.195.43.138 passport.yandex.ru
 18.195.44.70 mail.yandex.fr
 18.195.44.147 api.browser.yandex.ua
+18.195.44.232 informer.yandex.ru
 18.195.45.107 www.yandex.ru
 18.195.45.110 mail.yandex.fr
 18.195.45.140 api.browser.yandex.ua
@@ -1719,6 +1720,7 @@
 35.157.7.85 sec.api.browser.yandex.ua
 35.157.7.106 api.browser.yandex.ua
 35.157.7.203 mail.yandex.fr
+35.157.8.22 informer.yandex.ru
 35.157.8.54 mail.yandex.fr
 35.157.9.44 api.browser.yandex.ua
 35.157.9.109 api.browser.yandex.ua
@@ -4450,6 +4452,7 @@
 52.59.166.70 sec.api.browser.yandex.ua
 52.59.166.89 mail.yandex.ua
 52.59.166.214 api.browser.yandex.ua
+52.59.166.224 informer.yandex.ru
 52.59.167.41 api.browser.yandex.ua
 52.59.167.59 static-maps.yandex.ru
 52.59.167.90 api.browser.yandex.ua
