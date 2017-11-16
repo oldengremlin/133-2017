@@ -493,6 +493,7 @@
 18.194.104.109 api.browser.yandex.ua
 18.194.104.125 pdd.yandex.ru
 18.194.104.167 mail.yandex.fr
+18.194.104.202 spdy3-proxy.maps.yandex.net
 18.194.104.218 mail.yandex.fr
 18.194.106.18 api.browser.yandex.ua
 18.194.106.60 api.browser.yandex.ua
@@ -953,6 +954,7 @@
 18.194.199.37 api.browser.yandex.ua
 18.194.199.44 afisha.yandex.ru
 18.194.199.202 api.browser.yandex.ua
+18.194.200.71 api.browser.yandex.ua
 18.194.200.93 api.browser.yandex.ua
 18.194.200.109 api.browser.yandex.ua
 18.194.200.136 api.browser.yandex.ua
@@ -2636,6 +2638,7 @@
 35.158.201.202 addappter-api.mobile.yandex.net
 35.158.201.252 api.browser.yandex.ua
 35.158.202.30 api.browser.yandex.ua
+35.158.202.60 api.browser.yandex.ua
 35.158.202.85 api.browser.yandex.ua
 35.158.202.189 api.browser.yandex.ua
 35.158.202.204 api.browser.yandex.ua
