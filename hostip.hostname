@@ -1221,6 +1221,7 @@
 18.195.18.94 api.browser.yandex.ua
 18.195.18.150 api.browser.yandex.ua
 18.195.18.165 api.browser.yandex.ua
+18.195.18.213 api.browser.yandex.ua
 18.195.18.229 api.browser.yandex.ua
 18.195.22.33 api.browser.yandex.ua
 18.195.22.111 api.browser.yandex.ua
@@ -1392,8 +1393,10 @@
 18.195.108.108 softexport.yandex.net
 18.195.109.169 mail.yandex.fr
 18.195.109.235 static.yandex.net
+18.195.110.96 api.browser.yandex.ua
 18.195.110.194 api-maps.yandex.ru
 18.195.111.232 api.browser.yandex.ua
+18.195.115.48 yandex.st
 18.195.115.64 api.browser.yandex.ua
 18.195.115.248 api.browser.yandex.ua
 18.195.118.8 api.browser.yandex.ua
