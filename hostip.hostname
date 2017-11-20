@@ -945,6 +945,7 @@
 18.194.193.76 tv.yandex.ru
 18.194.193.81 sec.api.browser.yandex.ua
 18.194.193.91 api.browser.yandex.ua
+18.194.193.96 api.browser.yandex.ua
 18.194.193.129 sec.api.browser.yandex.ua
 18.194.193.229 mail.yandex.fr
 18.194.193.247 spdy3-proxy.maps.yandex.net
@@ -2309,6 +2310,7 @@
 35.157.252.143 api.browser.yandex.ua
 35.157.252.184 mail.yandex.fr
 35.157.253.71 api.browser.yandex.ua
+35.157.253.209 api.browser.yandex.ua
 35.157.254.57 passport.yandex.com
 35.157.255.64 api.browser.yandex.ua
 35.157.255.247 api.browser.yandex.ua
