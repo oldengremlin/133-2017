@@ -77,7 +77,7 @@
 18.194.8.245 mail.yandex.fr
 18.194.8.254 api.browser.yandex.ua
 18.194.9.22 api.browser.yandex.ua
-18.194.9.44 api.browser.yandex.ua
+18.194.9.44 addappter-api.mobile.yandex.net
 18.194.9.106 api.browser.yandex.ua
 18.194.9.108 sec.api.browser.yandex.ua
 18.194.9.147 api.browser.yandex.ua
@@ -1524,6 +1524,7 @@
 18.195.143.163 api.browser.yandex.ua
 18.195.144.132 api.browser.yandex.ua
 18.195.146.171 api.browser.yandex.ua
+18.195.146.244 addappter-api.mobile.yandex.net
 18.195.147.71 mail.yandex.fr
 18.195.150.149 sec.api.browser.yandex.ua
 18.195.152.31 api.browser.yandex.ua
