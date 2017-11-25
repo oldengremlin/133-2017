@@ -1304,6 +1304,7 @@
 18.195.29.169 api.browser.yandex.ua
 18.195.29.180 api.browser.yandex.ua
 18.195.30.218 metro.yandex.ru
+18.195.30.236 api.browser.yandex.ua
 18.195.30.239 spdy3-proxy.maps.yandex.net
 18.195.31.0 sec.api.browser.yandex.ua
 18.195.31.62 mail.yandex.fr
@@ -1707,6 +1708,7 @@
 35.156.91.248 informer.yandex.ru
 35.156.93.8 api.browser.yandex.ua
 35.156.94.195 rasp.yandex.ru
+35.156.95.77 mail.yandex.fr
 35.156.98.116 api.browser.yandex.ua
 35.156.98.252 api.browser.yandex.ua
 35.156.99.44 api.browser.yandex.ua
@@ -3923,6 +3925,7 @@
 52.57.144.186 api.browser.yandex.ua
 52.57.144.210 sec.api.browser.yandex.ua
 52.57.145.108 api.browser.yandex.ua
+52.57.145.191 api.browser.yandex.ua
 52.57.146.126 mail.yandex.fr
 52.57.146.184 addappter-api.mobile.yandex.net
 52.57.146.234 mail.yandex.fr
