@@ -3388,6 +3388,7 @@
 52.28.128.203 mail.yandex.fr
 52.28.129.35 n.maps.yandex.ru
 52.28.129.108 api.browser.yandex.ua
+52.28.130.35 api.browser.yandex.ua
 52.28.130.231 api.browser.yandex.ua
 52.28.131.179 api.browser.yandex.ua
 52.28.132.164 api.browser.yandex.ua
@@ -4218,7 +4219,7 @@
 52.58.15.128 api.browser.yandex.ua
 52.58.15.159 mobileproxy.passport.yandex.ru
 52.58.17.111 n.maps.yandex.ru
-52.58.19.18 sec.api.browser.yandex.ua
+52.58.19.18 api.browser.yandex.ua
 52.58.20.148 sec.api.browser.yandex.ua
 52.58.22.114 api.browser.yandex.ua
 52.58.22.141 api.browser.yandex.ua
