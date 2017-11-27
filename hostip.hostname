@@ -1427,6 +1427,7 @@
 18.195.72.194 api.browser.yandex.ua
 18.195.73.83 api.browser.yandex.ua
 18.195.73.226 sec.api.browser.yandex.ua
+18.195.73.243 api.browser.yandex.ua
 18.195.74.36 api.browser.yandex.ua
 18.195.74.77 tv.yandex.ru
 18.195.74.244 api.browser.yandex.ua
@@ -1446,6 +1447,7 @@
 18.195.80.41 api.browser.yandex.ua
 18.195.80.152 passport.yandex.ru
 18.195.81.41 mail.yandex.fr
+18.195.81.56 mail.yandex.fr
 18.195.81.62 api.browser.yandex.ua
 18.195.81.188 avia.yandex.ru
 18.195.82.12 api.browser.yandex.ua
@@ -3077,6 +3079,7 @@
 35.158.231.107 n.maps.yandex.ru
 35.158.231.136 passport.yandex.com
 35.158.231.167 taxi.yandex.ru
+35.158.231.213 api.browser.yandex.ua
 35.158.231.227 api.browser.yandex.ua
 35.158.232.124 mail.yandex.fr
 35.158.232.155 n.maps.yandex.ru
@@ -5100,7 +5103,7 @@
 87.240.165.91 m.vk.com
 87.240.165.92 pu.vk.com
 87.242.75.52 autorenew.drweb.com
-87.242.75.105 free.drweb.ru
+87.242.75.105 free.drweb.com
 87.242.75.131 update.drweb.com
 87.242.75.178 sharon.drweb.com
 87.242.75.216 antifraud.drweb.ua
