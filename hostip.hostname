@@ -1654,12 +1654,13 @@
 18.195.155.131 mail.yandex.fr
 18.195.155.235 api.browser.yandex.ua
 18.195.156.198 mail.yandex.fr
+18.195.156.241 api.browser.yandex.ua
 18.195.158.106 api.browser.yandex.ua
 18.195.160.126 api.browser.yandex.ua
 18.195.160.159 api.browser.yandex.ua
 18.195.160.166 mail.yandex.fr
 18.195.160.189 api.browser.yandex.ua
-18.195.160.243 pdd.yandex.ru
+18.195.160.243 metro.yandex.ru
 18.195.161.10 api.browser.yandex.ua
 18.195.162.121 pdd.yandex.ru
 18.195.162.246 api.browser.yandex.ua
@@ -4286,6 +4287,7 @@
 52.57.235.194 api.browser.yandex.ua
 52.57.235.241 informer.yandex.ru
 52.57.236.203 api.browser.yandex.ua
+52.57.237.9 api.browser.yandex.ua
 52.57.237.91 api.browser.yandex.ua
 52.57.237.226 mail.yandex.fr
 52.57.238.33 api.browser.yandex.ua
