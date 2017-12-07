@@ -1,5 +1,5 @@
 4.28.136.36 dnl-01.geo.kaspersky.com
-4.28.136.39 dnl-07.geo.kaspersky.com
+4.28.136.39 dnl-05.geo.kaspersky.com
 4.28.136.42 dnl-06.geo.kaspersky.com
 4.59.181.141 americas.activation-v2.kaspersky.com
 5.17.144.107 jabber.drweb.ru
@@ -1436,6 +1436,7 @@
 18.195.37.251 api.browser.yandex.ua
 18.195.38.26 api.browser.yandex.ua
 18.195.38.148 api.browser.yandex.ua
+18.195.38.173 mail.yandex.fr
 18.195.38.198 api.browser.yandex.ua
 18.195.39.42 api.browser.yandex.ua
 18.195.40.93 mail.yandex.fr
