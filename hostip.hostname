@@ -989,6 +989,7 @@
 18.194.185.1 metro.yandex.ru
 18.194.185.5 api.browser.yandex.ua
 18.194.185.89 api.browser.yandex.ua
+18.194.185.147 api.browser.yandex.ua
 18.194.185.173 afisha.yandex.ru
 18.194.186.49 api.browser.yandex.ua
 18.194.186.99 api.browser.yandex.ua
@@ -3567,6 +3568,7 @@
 38.117.98.196 dnl-03.geo.kaspersky.com
 38.117.98.199 dnl-08.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
+38.117.98.230 redirect.geo.kaspersky.com
 38.117.98.245 auto-activation4.kaspersky.com
 38.117.98.253 dnl-10.geo.kaspersky.com
 38.124.168.116 dnl-00.geo.kaspersky.com
