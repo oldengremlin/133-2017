@@ -1744,6 +1744,7 @@
 18.195.144.132 api.browser.yandex.ua
 18.195.144.216 api.browser.yandex.ua
 18.195.145.88 mail.yandex.fr
+18.195.145.255 mail.yandex.fr
 18.195.146.3 mail.yandex.fr
 18.195.146.171 api.browser.yandex.ua
 18.195.146.244 addappter-api.mobile.yandex.net
@@ -1870,6 +1871,7 @@
 18.195.217.104 sec.api.browser.yandex.ua
 18.195.219.17 api.browser.yandex.ua
 18.195.221.186 api.browser.yandex.ua
+18.195.223.111 api.browser.yandex.ua
 18.195.226.83 mobile.navi.yandex.net
 18.196.0.26 api.browser.yandex.ua
 18.196.0.28 api.browser.yandex.ua
@@ -5132,7 +5134,7 @@
 52.59.106.185 metro.yandex.ru
 52.59.107.38 api.browser.yandex.ua
 52.59.107.116 api.browser.yandex.ua
-52.59.108.184 sec.api.browser.yandex.ua
+52.59.108.184 api.browser.yandex.ua
 52.59.108.204 api.browser.yandex.ua
 52.59.110.92 launcher-cache.mobile.yandex.net
 52.59.111.82 api.browser.yandex.ua
