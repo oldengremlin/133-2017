@@ -142,6 +142,7 @@
 18.194.17.134 mail.yandex.fr
 18.194.17.169 mail.yandex.fr
 18.194.17.200 mail.yandex.fr
+18.194.17.231 mail.yandex.fr
 18.194.18.50 api.browser.yandex.ua
 18.194.18.167 mail.yandex.fr
 18.194.18.203 api.browser.yandex.ua
@@ -1892,6 +1893,7 @@
 35.156.6.0 n.maps.yandex.ru
 35.156.6.42 api.browser.yandex.ua
 35.156.7.9 passport.yandex.ru
+35.156.7.128 api.browser.yandex.ua
 35.156.8.3 metro.yandex.ru
 35.156.8.153 mail.yandex.fr
 35.156.9.97 spdy3-proxy.maps.yandex.net
@@ -3567,7 +3569,7 @@
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
 38.117.98.196 dnl-03.geo.kaspersky.com
-38.117.98.199 dnl-08.geo.kaspersky.com
+38.117.98.199 dnl-07.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.117.98.230 redirect.geo.kaspersky.com
 38.117.98.245 auto-activation4.kaspersky.com
