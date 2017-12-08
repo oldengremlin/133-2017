@@ -1628,6 +1628,7 @@
 18.195.102.104 api.browser.yandex.ua
 18.195.102.110 api.browser.yandex.ua
 18.195.102.139 api.browser.yandex.ua
+18.195.103.29 api.browser.yandex.ua
 18.195.104.109 api.browser.yandex.ua
 18.195.104.124 api.browser.yandex.ua
 18.195.105.49 n.maps.yandex.ru
@@ -1842,6 +1843,7 @@
 18.195.185.190 api.browser.yandex.ua
 18.195.188.8 api.browser.yandex.ua
 18.195.188.39 api.browser.yandex.ua
+18.195.188.133 api.browser.yandex.ua
 18.195.188.238 api.browser.yandex.ua
 18.195.189.3 api.browser.yandex.ua
 18.195.189.69 mail.yandex.ua
@@ -4578,6 +4580,7 @@
 52.57.248.155 api.browser.yandex.ua
 52.57.248.167 api.browser.yandex.ua
 52.57.249.69 avia.yandex.ru
+52.57.249.103 static-maps.yandex.ru
 52.57.249.255 spdy3-proxy.maps.yandex.net
 52.57.250.41 api.browser.yandex.ua
 52.57.250.95 api.browser.yandex.ua
