@@ -273,6 +273,7 @@
 18.194.49.63 api.browser.yandex.ua
 18.194.49.166 api.browser.yandex.ua
 18.194.49.174 api.browser.yandex.ua
+18.194.49.182 api.browser.yandex.ua
 18.194.49.221 api.browser.yandex.ua
 18.194.49.250 api.browser.yandex.ua
 18.194.50.11 sec.api.browser.yandex.ua
@@ -1606,6 +1607,7 @@
 18.195.92.184 n.maps.yandex.ru
 18.195.93.60 sec.api.browser.yandex.ua
 18.195.94.10 api.browser.yandex.ua
+18.195.94.38 spdy3-proxy.maps.yandex.net
 18.195.94.63 api.browser.yandex.ua
 18.195.94.84 api.browser.yandex.ua
 18.195.94.127 api.browser.yandex.ua
