@@ -1449,7 +1449,7 @@
 18.195.31.100 softexport.yandex.net
 18.195.32.7 api.browser.yandex.ua
 18.195.32.25 api.browser.yandex.ua
-18.195.32.36 sec.api.browser.yandex.ua
+18.195.32.36 api.browser.yandex.ua
 18.195.32.170 avia.yandex.ru
 18.195.32.184 spdy3-proxy.maps.yandex.net
 18.195.32.209 api.browser.yandex.ua
@@ -1809,7 +1809,7 @@
 18.195.147.37 mail.yandex.fr
 18.195.147.71 mail.yandex.fr
 18.195.149.92 api.browser.yandex.ua
-18.195.149.145 sec.api.browser.yandex.ua
+18.195.149.145 api.browser.yandex.ua
 18.195.149.160 api.browser.yandex.ua
 18.195.150.83 api.browser.yandex.ua
 18.195.150.122 api.browser.yandex.ua
