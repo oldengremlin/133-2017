@@ -2011,6 +2011,8 @@
 18.196.0.179 api.browser.yandex.ua
 18.196.0.212 mc.yandex.ru
 18.196.0.220 api.browser.yandex.ua
+18.196.9.32 mail.yandex.fr
+18.196.10.244 sec.api.browser.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
@@ -2767,6 +2769,7 @@
 35.157.174.225 api.browser.yandex.ua
 35.157.175.16 mail.yandex.fr
 35.157.175.17 api.browser.yandex.ua
+35.157.175.25 sec.api.browser.yandex.ua
 35.157.175.45 mail.yandex.fr
 35.157.175.79 mail.yandex.fr
 35.157.176.105 api.browser.yandex.ua
