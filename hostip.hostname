@@ -1897,7 +1897,7 @@
 18.195.160.166 mail.yandex.fr
 18.195.160.189 api.browser.yandex.ua
 18.195.160.243 metro.yandex.ru
-18.195.161.9 tv.yandex.ru
+18.195.161.9 api.browser.yandex.ua
 18.195.161.10 api.browser.yandex.ua
 18.195.161.119 api.browser.yandex.ua
 18.195.162.121 pdd.yandex.ru
@@ -5617,6 +5617,7 @@
 52.59.166.89 mail.yandex.ua
 52.59.166.214 api.browser.yandex.ua
 52.59.166.224 informer.yandex.ru
+52.59.167.0 api.browser.yandex.ua
 52.59.167.41 api.browser.yandex.ua
 52.59.167.59 static-maps.yandex.ru
 52.59.167.90 api.browser.yandex.ua
