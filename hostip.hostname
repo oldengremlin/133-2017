@@ -2252,6 +2252,7 @@
 35.156.73.19 mail.yandex.fr
 35.156.74.22 sec.api.browser.yandex.ua
 35.156.74.97 api.browser.yandex.ua
+35.156.74.127 mail.yandex.fr
 35.156.74.134 spdy3-proxy.maps.yandex.net
 35.156.74.187 api.browser.yandex.ua
 35.156.75.12 api.browser.yandex.ua
@@ -3898,7 +3899,7 @@
 38.117.98.253 dnl-02.geo.kaspersky.com
 38.124.168.116 dnl-00.geo.kaspersky.com
 38.124.168.119 dnl-00.geo.kaspersky.com
-38.124.168.125 dnl-01.geo.kaspersky.com
+38.124.168.125 dnl-00.geo.kaspersky.com
 43.249.37.43 dnl-04.geo.kaspersky.com
 46.46.160.203 download.geo.drweb.com
 46.248.181.124 links.market.yandex.net
