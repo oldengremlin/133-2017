@@ -1617,6 +1617,7 @@
 18.195.74.36 api.browser.yandex.ua
 18.195.74.77 tv.yandex.ru
 18.195.74.89 api.browser.yandex.ua
+18.195.74.90 tv.yandex.ru
 18.195.74.244 api.browser.yandex.ua
 18.195.74.253 sec.api.browser.yandex.ua
 18.195.75.120 rasp.yandex.ru
@@ -2047,7 +2048,7 @@
 18.195.219.16 api.browser.yandex.ua
 18.195.219.17 api.browser.yandex.ua
 18.195.219.31 mail.yandex.fr
-18.195.219.32 api.browser.yandex.ua
+18.195.219.32 api.browser.yandex.com
 18.195.219.168 metro.yandex.ru
 18.195.219.230 mail.yandex.fr
 18.195.220.160 metro.yandex.ru
@@ -3601,7 +3602,7 @@
 35.158.205.212 api.browser.yandex.ua
 35.158.206.13 api.browser.yandex.ua
 35.158.206.66 api.browser.yandex.ua
-35.158.206.88 pdd.yandex.ru
+35.158.206.88 api.browser.yandex.com
 35.158.206.89 api.browser.yandex.ua
 35.158.206.132 taxi.yandex.ru
 35.158.206.153 pdd.yandex.ru
