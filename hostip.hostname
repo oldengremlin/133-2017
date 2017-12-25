@@ -1465,7 +1465,7 @@
 18.195.19.3 taxi.yandex.ru
 18.195.22.33 api.browser.yandex.ua
 18.195.22.111 api.browser.yandex.ua
-18.195.22.146 pdd.yandex.ru
+18.195.22.146 api.browser.yandex.ua
 18.195.23.1 api.browser.yandex.ua
 18.195.23.113 addappter-api.mobile.yandex.net
 18.195.23.161 api.browser.yandex.ua
@@ -2725,6 +2725,7 @@
 35.157.11.200 taxi.yandex.ru
 35.157.11.247 api.browser.yandex.ua
 35.157.12.64 api.browser.yandex.ua
+35.157.12.89 api.browser.yandex.ua
 35.157.13.125 api.browser.yandex.ua
 35.157.13.202 mail.yandex.fr
 35.157.13.231 n.maps.yandex.ru
