@@ -1715,7 +1715,7 @@
 18.195.86.55 push.yandex.ua
 18.195.86.112 sec.api.browser.yandex.ua
 18.195.86.236 rasp.yandex.ru
-18.195.86.250 api.browser.yandex.ua
+18.195.86.250 addappter-api.mobile.yandex.net
 18.195.87.6 api.browser.yandex.ua
 18.195.87.109 mail.yandex.fr
 18.195.87.158 api.browser.yandex.ua
@@ -4430,6 +4430,7 @@
 52.29.17.151 api.browser.yandex.ua
 52.29.17.161 push.yandex.ua
 52.29.18.36 api.browser.yandex.ua
+52.29.19.56 addappter-api.mobile.yandex.net
 52.29.20.140 api.browser.yandex.ua
 52.29.21.16 api.browser.yandex.ua
 52.29.21.187 sec.api.browser.yandex.ua
