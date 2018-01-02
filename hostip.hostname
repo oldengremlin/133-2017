@@ -2769,6 +2769,7 @@
 35.156.231.110 api.browser.yandex.ua
 35.156.231.210 sec.api.browser.yandex.ua
 35.156.233.121 api.browser.yandex.ua
+35.156.233.147 static-maps.yandex.ru
 35.156.233.164 api.browser.yandex.ua
 35.156.233.187 sec.api.browser.yandex.ua
 35.156.234.53 api.browser.yandex.ua
@@ -4958,6 +4959,7 @@
 52.57.70.16 mail.yandex.fr
 52.57.70.81 mail.yandex.fr
 52.57.70.140 api.browser.yandex.ua
+52.57.70.207 api.browser.yandex.com
 52.57.70.216 pdd.yandex.ru
 52.57.70.226 api.browser.yandex.ua
 52.57.71.135 spdy3-proxy.maps.yandex.net
@@ -5259,6 +5261,7 @@
 52.57.229.196 api.browser.yandex.ua
 52.57.229.221 mail.yandex.fr
 52.57.229.234 api.browser.yandex.ua
+52.57.229.240 api.browser.yandex.com
 52.57.230.26 api.browser.yandex.ua
 52.57.230.241 mail.yandex.fr
 52.57.231.159 mail.yandex.fr
