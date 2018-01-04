@@ -1815,7 +1815,7 @@
 18.195.102.226 api.browser.yandex.ua
 18.195.103.29 api.browser.yandex.ua
 18.195.104.34 mail.yandex.fr
-18.195.104.37 pdd.yandex.ru
+18.195.104.37 api.browser.yandex.ua
 18.195.104.109 api.browser.yandex.ua
 18.195.104.124 api.browser.yandex.ua
 18.195.104.135 api.browser.yandex.ua
@@ -2230,6 +2230,7 @@
 18.195.220.86 api.browser.yandex.ua
 18.195.220.160 metro.yandex.ru
 18.195.220.188 api.browser.yandex.ua
+18.195.220.209 news.yandex.ru
 18.195.220.224 api.browser.yandex.ua
 18.195.221.52 api.browser.yandex.ua
 18.195.221.186 api.browser.yandex.ua
@@ -2436,6 +2437,7 @@
 18.196.53.67 mail.yandex.fr
 18.196.54.11 api.browser.yandex.ua
 18.196.57.3 api.browser.yandex.ua
+18.196.59.185 api.browser.yandex.ua
 18.196.61.154 n.maps.yandex.ru
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
