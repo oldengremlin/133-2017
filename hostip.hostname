@@ -1,5 +1,5 @@
 4.28.136.36 dnl-01.geo.kaspersky.com
-4.28.136.39 dnl-05.geo.kaspersky.com
+4.28.136.39 dnl-02.geo.kaspersky.com
 4.28.136.42 dnl-05.geo.kaspersky.com
 4.59.181.141 americas.activation-v2.kaspersky.com
 5.17.144.107 jabber.drweb.ru
@@ -2036,6 +2036,7 @@
 18.195.156.192 api.browser.yandex.ua
 18.195.156.198 mail.yandex.fr
 18.195.156.225 api.browser.yandex.ua
+18.195.156.240 mail.yandex.fr
 18.195.156.241 api.browser.yandex.ua
 18.195.157.142 mail.yandex.fr
 18.195.158.7 api.browser.yandex.ua
@@ -2408,6 +2409,7 @@
 18.196.29.33 api.browser.yandex.ua
 18.196.29.162 api.browser.yandex.ua
 18.196.29.166 mail.yandex.fr
+18.196.33.10 api.browser.yandex.ua
 18.196.33.249 api.browser.yandex.ua
 18.196.34.6 api.browser.yandex.ua
 18.196.34.18 spdy3-proxy.maps.yandex.net
@@ -5222,6 +5224,7 @@
 52.57.160.237 api.browser.yandex.ua
 52.57.161.38 api.browser.yandex.ua
 52.57.161.129 api.browser.yandex.ua
+52.57.161.203 api.browser.yandex.ua
 52.57.162.52 metro.yandex.ru
 52.57.162.192 sec.api.browser.yandex.ua
 52.57.163.190 mail.yandex.fr
