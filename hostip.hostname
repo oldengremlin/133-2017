@@ -937,6 +937,7 @@
 18.194.165.118 api.browser.yandex.ua
 18.194.165.120 d.aws-proxy.disk.yandex.ua
 18.194.165.140 api.browser.yandex.ua
+18.194.165.144 api.browser.yandex.ua
 18.194.165.149 api.browser.yandex.ua
 18.194.165.251 sec.api.browser.yandex.ua
 18.194.166.2 pdd.yandex.ru
@@ -1892,6 +1893,7 @@
 18.195.123.252 afisha.yandex.ru
 18.195.124.21 api.browser.yandex.ua
 18.195.124.22 passport.yandex.ru
+18.195.124.45 api.browser.yandex.ua
 18.195.124.61 api.browser.yandex.ua
 18.195.124.63 api.browser.yandex.ua
 18.195.124.135 api.browser.yandex.ua
@@ -4292,6 +4294,7 @@
 35.158.253.215 sec.api.browser.yandex.ua
 35.158.254.49 api.browser.yandex.ua
 35.158.254.97 api.browser.yandex.ua
+35.158.254.99 mail.yandex.fr
 35.158.254.128 api.browser.yandex.ua
 35.158.254.161 api.browser.yandex.ua
 35.159.1.19 api.browser.yandex.ua
