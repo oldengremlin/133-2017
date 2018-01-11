@@ -2550,6 +2550,7 @@
 18.196.49.222 api.browser.yandex.ua
 18.196.50.163 api.browser.yandex.ua
 18.196.51.133 pdd.yandex.ru
+18.196.52.48 api.browser.yandex.ua
 18.196.53.67 mail.yandex.fr
 18.196.53.90 api.browser.yandex.ua
 18.196.54.11 api.browser.yandex.ua
@@ -4797,6 +4798,7 @@
 52.28.241.178 n.maps.yandex.ru
 52.28.242.185 spdy3-proxy.maps.yandex.net
 52.28.243.230 api.browser.yandex.ua
+52.28.245.158 api.browser.yandex.ua
 52.28.246.113 api.browser.yandex.ua
 52.28.250.15 mail.yandex.fr
 52.28.251.156 api.browser.yandex.ua
@@ -7014,7 +7016,7 @@
 213.180.204.232 sba.yandex.net
 213.180.204.242 vb-update.yandex.ru
 217.16.26.90 www.drweb.com
-217.16.26.165 www.drweb.kz
+217.16.26.165 solutions.drweb.kz
 217.16.26.166 free.drweb.fr
 217.16.27.61 rr.drweb.com
 217.20.152.205 up.odnoklassniki.ru
