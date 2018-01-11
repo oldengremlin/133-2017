@@ -2356,6 +2356,7 @@
 18.195.238.131 api.browser.yandex.ua
 18.195.238.164 api.browser.yandex.ua
 18.195.238.215 mail.yandex.fr
+18.195.238.235 api.browser.yandex.ua
 18.195.239.71 api.browser.yandex.ua
 18.195.239.96 api.browser.yandex.ua
 18.195.239.141 mail.yandex.fr
@@ -2774,6 +2775,7 @@
 35.156.113.185 yandex.st
 35.156.114.126 api.browser.yandex.ua
 35.156.114.247 api.browser.yandex.ua
+35.156.115.83 api.browser.yandex.ua
 35.156.115.119 translate.yandex.net
 35.156.116.112 api.browser.yandex.ua
 35.156.117.30 api.browser.yandex.ua
@@ -4504,7 +4506,7 @@
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
 38.117.98.196 dnl-00.geo.kaspersky.com
-38.117.98.199 dnl-04.geo.kaspersky.com
+38.117.98.199 dnl-02.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.117.98.230 redirect.geo.kaspersky.com
 38.117.98.245 auto-activation4.kaspersky.com
