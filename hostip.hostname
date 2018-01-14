@@ -1033,7 +1033,7 @@
 18.194.176.132 api.browser.yandex.ua
 18.194.176.159 sec.api.browser.yandex.ua
 18.194.176.168 mail.yandex.fr
-18.194.176.208 news.yandex.ru
+18.194.176.208 api.browser.yandex.ua
 18.194.176.212 api.browser.yandex.ua
 18.194.177.33 mail.yandex.fr
 18.194.177.68 api.browser.yandex.ua
@@ -5156,6 +5156,7 @@
 52.29.222.100 taxi.yandex.ru
 52.29.222.197 mail.yandex.fr
 52.29.223.89 static-maps.yandex.ru
+52.29.223.167 api.browser.yandex.ua
 52.29.224.130 api.browser.yandex.ua
 52.29.224.238 api.browser.yandex.ua
 52.29.225.102 mail.yandex.fr
