@@ -533,7 +533,7 @@
 18.194.91.231 api.browser.yandex.ua
 18.194.92.97 api.browser.yandex.ua
 18.194.92.180 sec.api.browser.yandex.ua
-18.194.93.9 sec.api.browser.yandex.ua
+18.194.93.9 api.browser.yandex.ua
 18.194.93.76 api.browser.yandex.ua
 18.194.93.117 api.browser.yandex.ua
 18.194.93.125 api.browser.yandex.ua
@@ -1234,6 +1234,7 @@
 18.194.210.221 api.browser.yandex.ua
 18.194.211.17 sec.api.browser.yandex.ua
 18.194.211.36 api.browser.yandex.ua
+18.194.211.37 api.browser.yandex.ua
 18.194.211.117 api.browser.yandex.ua
 18.194.211.146 api.browser.yandex.ua
 18.194.211.220 mail.yandex.fr
@@ -2238,6 +2239,7 @@
 18.195.193.18 api.browser.yandex.ua
 18.195.193.32 api.browser.yandex.ua
 18.195.193.37 api.browser.yandex.ua
+18.195.193.51 mail.yandex.fr
 18.195.193.129 api.browser.yandex.ua
 18.195.193.211 taxi.yandex.ru
 18.195.194.16 api.browser.yandex.ua
