@@ -1018,6 +1018,7 @@
 18.194.171.0 api.browser.yandex.ua
 18.194.171.19 api.browser.yandex.ua
 18.194.171.79 sec.api.browser.yandex.ua
+18.194.171.104 api.browser.yandex.ua
 18.194.171.111 sec.api.browser.yandex.ua
 18.194.171.155 mail.yandex.fr
 18.194.171.202 api.browser.yandex.ua
@@ -2687,6 +2688,8 @@
 18.196.105.29 api.browser.yandex.ua
 18.196.105.232 mail.yandex.fr
 18.196.111.254 mail.yandex.fr
+18.196.119.159 api.browser.yandex.ua
+18.196.119.188 mobile.navi.yandex.net
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
