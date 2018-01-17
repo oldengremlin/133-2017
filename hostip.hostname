@@ -1906,6 +1906,7 @@
 18.195.107.178 metro.yandex.ru
 18.195.108.73 api.browser.yandex.ua
 18.195.108.108 softexport.yandex.net
+18.195.108.128 mail.yandex.fr
 18.195.108.172 api.browser.yandex.ua
 18.195.108.177 mail.yandex.fr
 18.195.108.221 api.browser.yandex.ua
@@ -2747,6 +2748,7 @@
 35.156.11.120 api.browser.yandex.ua
 35.156.11.179 api.browser.yandex.ua
 35.156.11.189 api.browser.yandex.ua
+35.156.12.11 api.browser.yandex.ua
 35.156.12.106 redirect.appmetrica.yandex.com
 35.156.13.112 taxi.yandex.ru
 35.156.13.182 api.browser.yandex.ua
@@ -6546,6 +6548,7 @@
 52.59.152.0 api.browser.yandex.ua
 52.59.152.46 api.browser.yandex.ua
 52.59.152.109 mail.yandex.fr
+52.59.152.194 api.browser.yandex.ua
 52.59.153.11 api.browser.yandex.ua
 52.59.153.26 api-maps.yandex.ru
 52.59.153.179 n.maps.yandex.ru
