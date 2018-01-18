@@ -2536,7 +2536,7 @@
 18.196.11.217 api.browser.yandex.ua
 18.196.12.6 api.browser.yandex.ua
 18.196.12.51 api.browser.yandex.ua
-18.196.12.115 passport.yandex.com
+18.196.12.115 api.browser.yandex.ua
 18.196.12.205 taxi.yandex.ru
 18.196.13.74 api.browser.yandex.ua
 18.196.13.123 rasp.yandex.ru
@@ -5030,6 +5030,7 @@
 52.28.253.37 mobile.navi.yandex.net
 52.28.253.135 api.browser.yandex.ua
 52.28.253.171 api.browser.yandex.ua
+52.28.254.186 api.browser.yandex.ua
 52.29.0.12 rasp.yandex.ru
 52.29.0.44 api.browser.yandex.ua
 52.29.0.67 n.maps.yandex.ru
