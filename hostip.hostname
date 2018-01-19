@@ -958,6 +958,7 @@
 18.194.164.120 api.browser.yandex.ua
 18.194.164.172 mail.yandex.fr
 18.194.164.220 api.browser.yandex.ua
+18.194.164.237 api.browser.yandex.ua
 18.194.164.250 sec.api.browser.yandex.ua
 18.194.164.253 api.browser.yandex.ua
 18.194.164.254 api.browser.yandex.ua
@@ -2728,7 +2729,7 @@
 18.196.87.81 n.maps.yandex.ru
 18.196.87.158 sec.api.browser.yandex.ua
 18.196.87.217 api.browser.yandex.ua
-18.196.89.182 push.yandex.ua
+18.196.89.182 api.browser.yandex.ua
 18.196.91.45 api.browser.yandex.ua
 18.196.91.111 api.browser.yandex.ua
 18.196.92.193 passport.yandex.com
@@ -6589,6 +6590,7 @@
 52.59.139.116 api.browser.yandex.ua
 52.59.139.199 api.browser.yandex.ua
 52.59.139.219 api.browser.yandex.ua
+52.59.140.128 mail.yandex.fr
 52.59.140.214 api.browser.yandex.ua
 52.59.141.21 taxi.yandex.ru
 52.59.141.49 mail.yandex.fr
