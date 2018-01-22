@@ -120,6 +120,7 @@
 18.194.13.186 api.browser.yandex.ua
 18.194.13.190 api-maps.yandex.ru
 18.194.14.14 api.browser.yandex.ua
+18.194.14.29 betamaps-slb.maps.yandex.net
 18.194.14.33 mail.yandex.fr
 18.194.14.42 mail.yandex.fr
 18.194.14.100 api.browser.yandex.ua
@@ -1899,6 +1900,7 @@
 18.195.100.63 mail.yandex.fr
 18.195.100.89 mail.yandex.fr
 18.195.100.146 api.browser.yandex.ua
+18.195.100.208 api.browser.yandex.ua
 18.195.100.214 api.browser.yandex.ua
 18.195.100.251 push.yandex.ua
 18.195.102.104 api.browser.yandex.ua
@@ -1942,6 +1944,7 @@
 18.195.110.96 api.browser.yandex.ua
 18.195.110.112 api.browser.yandex.ua
 18.195.110.194 api-maps.yandex.ru
+18.195.111.73 api.browser.yandex.ua
 18.195.111.80 mail.yandex.fr
 18.195.111.81 api.browser.yandex.ua
 18.195.111.110 api.browser.yandex.ua
