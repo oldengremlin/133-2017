@@ -2534,7 +2534,7 @@
 18.195.253.157 api.browser.yandex.ua
 18.195.253.168 api.browser.yandex.ua
 18.195.254.21 rasp.yandex.ru
-18.195.254.171 push.yandex.com
+18.195.254.171 api.browser.yandex.ua
 18.195.254.178 metro.yandex.ru
 18.195.254.246 mail.yandex.fr
 18.195.255.64 api.browser.yandex.ua
@@ -2850,6 +2850,7 @@
 18.196.141.104 mail.yandex.fr
 18.196.142.247 api.browser.yandex.ua
 18.196.146.28 api.browser.yandex.ua
+18.196.151.189 api.browser.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
