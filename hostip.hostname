@@ -2895,6 +2895,7 @@
 18.196.155.58 api.browser.yandex.ua
 18.196.164.51 spdy3-proxy.maps.yandex.net
 18.196.167.108 api.browser.yandex.ua
+18.196.167.132 mail.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
@@ -6040,6 +6041,7 @@
 52.57.255.110 api.browser.yandex.ua
 52.57.255.153 mail.yandex.com
 52.57.255.201 metro.yandex.ru
+52.57.255.202 api.browser.yandex.ua
 52.58.1.169 api.browser.yandex.ua
 52.58.1.222 mail.yandex.fr
 52.58.1.233 api.browser.yandex.ua
