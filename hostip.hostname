@@ -391,6 +391,7 @@
 18.194.63.209 api.browser.yandex.ua
 18.194.64.21 api.browser.yandex.ua
 18.194.64.24 sec.api.browser.yandex.ua
+18.194.64.38 avia.yandex.ru
 18.194.64.41 api.browser.yandex.ua
 18.194.64.93 api.browser.yandex.ua
 18.194.65.74 api.browser.yandex.ua
@@ -2797,6 +2798,7 @@
 18.196.74.181 api.browser.yandex.ua
 18.196.75.112 api.browser.yandex.ua
 18.196.75.200 api.browser.yandex.ua
+18.196.76.54 mail.yandex.fr
 18.196.76.124 api.browser.yandex.ua
 18.196.76.231 metro.yandex.ru
 18.196.77.131 mail.yandex.fr
@@ -3775,6 +3777,7 @@
 35.157.161.100 api.browser.yandex.ua
 35.157.161.113 api.browser.yandex.ua
 35.157.161.170 metro.yandex.ru
+35.157.161.177 oauth.yandex.ru
 35.157.162.65 taxi.yandex.ru
 35.157.163.151 sec.api.browser.yandex.ua
 35.157.163.221 api.browser.yandex.ua
