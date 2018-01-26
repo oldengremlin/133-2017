@@ -2952,12 +2952,14 @@
 18.196.164.38 afisha.yandex.ru
 18.196.164.51 spdy3-proxy.maps.yandex.net
 18.196.164.83 metro.yandex.ru
+18.196.166.150 d.aws-proxy.disk.yandex.ua
 18.196.167.108 api.browser.yandex.ua
 18.196.167.132 mail.yandex.ua
 18.196.168.119 api.browser.yandex.ua
 18.196.168.185 afisha.yandex.ru
 18.196.170.67 pdd.yandex.ru
 18.196.170.244 afisha.yandex.ru
+18.196.171.157 avia.yandex.ru
 18.196.173.206 avia.yandex.ru
 18.196.175.221 avia.yandex.ru
 18.196.178.153 avia.yandex.ru
@@ -3079,6 +3081,7 @@
 35.156.55.186 api.browser.yandex.ua
 35.156.56.12 api.browser.yandex.ua
 35.156.56.148 api.browser.yandex.ru
+35.156.56.154 oauth.yandex.ru
 35.156.56.234 mail.yandex.fr
 35.156.56.238 mail.yandex.fr
 35.156.57.105 mail.yandex.fr
