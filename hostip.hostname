@@ -1430,7 +1430,7 @@
 18.194.236.180 informer.yandex.ru
 18.194.236.215 api.browser.yandex.ua
 18.194.236.233 api.browser.yandex.ua
-18.194.236.235 mail.yandex.fr
+18.194.236.235 api.browser.yandex.ua
 18.194.237.106 api.browser.yandex.ua
 18.194.237.122 api.browser.yandex.ua
 18.194.237.142 sec.api.browser.yandex.ua
@@ -3008,6 +3008,7 @@
 18.196.147.245 api.browser.yandex.ua
 18.196.149.87 afisha.yandex.ru
 18.196.150.105 mail.yandex.fr
+18.196.151.6 api.browser.yandex.ua
 18.196.151.189 api.browser.yandex.ua
 18.196.152.57 oauth.yandex.ru
 18.196.153.1 api.browser.yandex.ua
