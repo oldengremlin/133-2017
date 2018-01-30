@@ -1595,7 +1595,7 @@
 18.195.16.42 informer.yandex.ru
 18.195.16.123 api.browser.yandex.ua
 18.195.16.130 api.browser.yandex.ua
-18.195.16.155 sec.api.browser.yandex.ua
+18.195.16.155 api.browser.yandex.ua
 18.195.16.166 mail.yandex.fr
 18.195.16.196 api.browser.yandex.ua
 18.195.17.24 api.browser.yandex.ua
@@ -3071,6 +3071,7 @@
 18.196.192.181 mail.yandex.fr
 18.196.192.200 mail.yandex.fr
 18.196.192.218 api.browser.yandex.ua
+18.196.193.97 api.browser.yandex.ua
 18.196.195.49 api.browser.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
@@ -5795,6 +5796,7 @@
 52.57.26.113 api.browser.yandex.ua
 52.57.26.155 api.browser.yandex.ua
 52.57.26.238 api.browser.yandex.ua
+52.57.27.101 mail.yandex.fr
 52.57.27.204 mail.yandex.fr
 52.57.28.62 api.browser.yandex.ua
 52.57.28.94 api.browser.yandex.ua
