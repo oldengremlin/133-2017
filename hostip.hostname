@@ -2956,6 +2956,7 @@
 18.196.115.204 api.browser.yandex.ua
 18.196.115.208 mail.yandex.fr
 18.196.117.11 mail.yandex.fr
+18.196.117.22 mail.yandex.fr
 18.196.117.75 api.browser.yandex.ua
 18.196.117.100 api.browser.yandex.ua
 18.196.117.206 api.browser.yandex.ua
@@ -7256,7 +7257,7 @@
 54.93.220.70 mail.yandex.fr
 54.154.72.76 great.kaspersky.com
 62.76.24.147 dnl-01.geo.kaspersky.com
-62.76.24.153 dnl-02.geo.kaspersky.com
+62.76.24.153 dnl-01.geo.kaspersky.com
 62.128.100.35 ksn-crypto-verdict.geo.kaspersky.com
 62.128.100.37 ksn-crypto-verdict.geo.kaspersky.com
 62.128.100.39 ksn-crypto-catm.geo.kaspersky.com
