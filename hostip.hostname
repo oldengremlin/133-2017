@@ -1434,7 +1434,7 @@
 18.194.236.134 api.browser.yandex.ua
 18.194.236.170 api.browser.yandex.ua
 18.194.236.180 informer.yandex.ru
-18.194.236.203 push.yandex.ua
+18.194.236.203 api.browser.yandex.ua
 18.194.236.215 api.browser.yandex.ua
 18.194.236.233 api.browser.yandex.ua
 18.194.236.235 api.browser.yandex.ua
@@ -1908,6 +1908,7 @@
 18.195.85.51 api.browser.yandex.ua
 18.195.85.234 sec.api.browser.yandex.ua
 18.195.86.14 api.browser.yandex.ua
+18.195.86.44 disk.yandex.ua
 18.195.86.55 push.yandex.ua
 18.195.86.112 sec.api.browser.yandex.ua
 18.195.86.175 api.browser.yandex.ua
@@ -3221,6 +3222,7 @@
 18.196.209.134 api.browser.yandex.ua
 18.196.216.127 api.browser.yandex.ua
 18.196.220.207 api.browser.yandex.ua
+18.196.220.229 api.browser.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
 31.220.20.192 yandex.click
