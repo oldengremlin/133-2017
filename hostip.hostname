@@ -3050,6 +3050,7 @@
 18.196.132.158 avia.yandex.ru
 18.196.133.41 avia.yandex.ru
 18.196.133.46 api.browser.yandex.ua
+18.196.133.208 api.browser.yandex.ua
 18.196.133.226 api.browser.yandex.ua
 18.196.134.51 disk.yandex.ua
 18.196.134.66 static.yandex.net
@@ -3214,6 +3215,7 @@
 18.196.205.0 sec.api.browser.yandex.ua
 18.196.206.83 www.yandex.ru
 18.196.206.125 api.browser.yandex.ua
+18.196.209.134 api.browser.yandex.ua
 18.196.220.207 api.browser.yandex.ua
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
@@ -5272,7 +5274,7 @@
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
 38.117.98.196 dnl-00.geo.kaspersky.com
-38.117.98.199 dnl-02.geo.kaspersky.com
+38.117.98.199 dnl-01.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.117.98.225 redirect.geo.kaspersky.com
 38.117.98.230 redirect.geo.kaspersky.com
