@@ -3225,6 +3225,7 @@
 18.196.191.115 api.browser.yandex.ua
 18.196.191.117 mail.yandex.fr
 18.196.191.161 api.browser.yandex.ua
+18.196.191.166 api.browser.yandex.ua
 18.196.192.181 mail.yandex.fr
 18.196.192.183 api.browser.yandex.ua
 18.196.192.200 mail.yandex.fr
@@ -3763,6 +3764,7 @@
 35.156.249.159 mail.yandex.fr
 35.156.249.164 api.browser.yandex.ua
 35.156.250.24 mail.yandex.fr
+35.156.250.31 mc.yandex.ru
 35.156.252.214 api.browser.yandex.ua
 35.156.253.37 api.browser.yandex.ua
 35.156.253.107 mail.yandex.fr
@@ -4486,6 +4488,7 @@
 35.158.37.209 api.browser.yandex.ua
 35.158.37.216 api.browser.yandex.ua
 35.158.38.132 sec.api.browser.yandex.ua
+35.158.38.153 mc.yandex.ru
 35.158.38.188 sec.api.browser.yandex.ua
 35.158.39.0 mail.yandex.fr
 35.158.39.6 mail.yandex.fr
@@ -5608,6 +5611,7 @@
 52.28.202.148 api.browser.yandex.ua
 52.28.207.68 api.browser.yandex.ua
 52.28.207.100 api.browser.yandex.ua
+52.28.207.139 mc.yandex.ru
 52.28.207.238 mail.yandex.fr
 52.28.209.183 api.browser.yandex.ua
 52.28.210.146 pdd.yandex.ru
