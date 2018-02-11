@@ -3340,11 +3340,13 @@
 18.196.232.202 api.browser.yandex.ua
 18.196.233.147 api.browser.yandex.ua
 18.196.235.62 taxi.yandex.ru
+18.196.235.119 metro.yandex.ru
 18.196.236.147 rasp.yandex.ru
 18.196.236.168 api.browser.yandex.ua
 18.196.238.18 mail.yandex.fr
 18.196.241.64 mail.yandex.fr
 18.196.244.75 mail.yandex.fr
+18.196.248.2 api.browser.yandex.ua
 18.196.249.73 passport.yandex.com
 31.31.205.163 yandex.red
 31.44.85.37 rns02.drweb.com
@@ -4386,6 +4388,7 @@
 35.157.213.25 sec.api.browser.yandex.ua
 35.157.213.44 api.browser.yandex.ua
 35.157.213.164 api.browser.yandex.ua
+35.157.214.109 api.browser.yandex.ua
 35.157.214.136 api.browser.yandex.ua
 35.157.214.148 api.browser.yandex.ua
 35.157.215.113 api.browser.yandex.ua
