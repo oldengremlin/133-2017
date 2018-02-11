@@ -2310,7 +2310,7 @@
 18.195.165.18 mail.yandex.fr
 18.195.165.31 api.browser.yandex.ua
 18.195.165.74 passport.yandex.com
-18.195.165.118 pdd.yandex.ru
+18.195.165.118 api.browser.yandex.ua
 18.195.165.241 sec.api.browser.yandex.ua
 18.195.166.140 mail.yandex.fr
 18.195.166.205 api.browser.yandex.ua
@@ -3343,6 +3343,7 @@
 18.196.233.147 api.browser.yandex.ua
 18.196.235.62 taxi.yandex.ru
 18.196.235.119 metro.yandex.ru
+18.196.236.143 api.browser.yandex.ua
 18.196.236.147 rasp.yandex.ru
 18.196.236.168 api.browser.yandex.ua
 18.196.238.18 mail.yandex.fr
