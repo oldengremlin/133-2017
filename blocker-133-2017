@@ -297,8 +297,8 @@ sub doCmd {
     $session->cmd(String=>'configure private');
     my $cmdc = 0;
     foreach my $cmd ( split "\n", $cmdin ) {
-#        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
-#        $session->cmd(String=>$cmd);
+        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+        $session->cmd(String=>$cmd);
         say "".$cmd;
         $cmdc++;
         sleep 1;
