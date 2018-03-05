@@ -203,10 +203,12 @@ sub setJunOSConfig {
         $line =~ s/;$//;
         if ($line =~ /^-/) {
             $line =~ s/^-//;
-            $ret .= sprintf("delete routing-options static route %s\n", $line);
+#            $ret .= sprintf("delete routing-options static route %s\n", $line);
+            $ret .= sprintf("delete policy-options prefix-list 133-2017 %s\n", $line);
         } else {
             $line =~ s/^\+//;
-            $ret .= sprintf("set routing-options static route %s reject\n", $line);
+#            $ret .= sprintf("set routing-options static route %s reject\n", $line);
+            $ret .= sprintf("set policy-options prefix-list 133-2017 %s\n", $line);
         }
     }
     doCmd( $router, $user, $pass, $ret );
@@ -220,8 +222,9 @@ sub getJunOSRejectStaticRoute {
 
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
-    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | except 0.0.0.0/0 | no-more")) ));
-    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
+#    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | except 0.0.0.0/0 | no-more")) ));
+#    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
+    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration policy-options prefix-list 133-2017 | no-more")) ));
     undef $ssh;
 
     return sortipv4(@ret);
@@ -294,8 +297,8 @@ sub doCmd {
     $session->cmd(String=>'configure private');
     my $cmdc = 0;
     foreach my $cmd ( split "\n", $cmdin ) {
-        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
-        $session->cmd(String=>$cmd);
+#        $session->waitfor(-match => $session->prompt, -errmode => "return") || diessh "wait failed: " . $session->lastline;
+#        $session->cmd(String=>$cmd);
         say "".$cmd;
         $cmdc++;
         sleep 1;
