@@ -67,9 +67,7 @@ if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
         } else {
             ($net, $mask) = ($netw, 32 );
         }
-
 say "($net, $mask)";
-
         $hostip_jun{$net} = 32 unless defined $hostip_jun{$net};
         $hostip_jun{$net} = $mask if $mask<$hostip_jun{$net};
     }
@@ -99,6 +97,7 @@ foreach my $asnet (@asnum) {
     foreach my $netw ( @networks ) {
         if ($netw !~ m{/32$}) {
             my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
+say "($net, $mask)";
             $hostip{$net} = 32 unless defined $hostip{$net};
             $hostip{$net} = $mask if $mask<$hostip{$net};
         }
