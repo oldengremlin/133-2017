@@ -8165,6 +8165,7 @@
 77.74.177.224 auto-activation3.kaspersky.com
 77.74.177.225 auto-activation4.kaspersky.com
 77.74.177.233 redirect.geo.kaspersky.com
+77.74.178.24 kaspersky.com
 77.88.8.8 dns.yandex.ru
 77.88.21.14 clck.yandex.ru
 77.88.21.36 favicon.yandex.net
@@ -8553,9 +8554,9 @@
 195.27.252.50 eu.activation-v2.kaspersky.com
 195.88.252.30 sicarius.dev.drweb.com
 195.122.169.4 dnl-01.geo.kaspersky.com
-195.122.169.7 dnl-02.geo.kaspersky.com
-195.122.169.15 dnl-12.geo.kaspersky.com
-195.122.169.18 dnl-12.geo.kaspersky.com
+195.122.169.7 dnl-01.geo.kaspersky.com
+195.122.169.15 dnl-06.geo.kaspersky.com
+195.122.169.18 dnl-04.geo.kaspersky.com
 195.122.177.144 ksn-crypto-url.geo.kaspersky.com
 195.122.177.147 ksn-crypto-url.geo.kaspersky.com
 195.122.177.150 ksn-crypto-url.geo.kaspersky.com

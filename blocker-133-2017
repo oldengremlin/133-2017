@@ -85,6 +85,7 @@ say "($net, $mask)";
         } else {
             ($net, $mask) = ($_, 32 );
         }
+say "($net, $mask)";
         $hostip_jun{$net} = 32 unless defined $hostip_jun{$net};
         $hostip_jun{$net} = $mask if $mask<$hostip_jun{$net};
     }
