@@ -225,6 +225,7 @@ sub getJunOSRejectStaticRoute {
 #    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | except 0.0.0.0/0 | no-more")) ));
 #    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration policy-options prefix-list 133-2017 | no-more")) ));
+    map { s,;$,,; } @ret;
     undef $ssh;
 
     return sortipv4(@ret);
