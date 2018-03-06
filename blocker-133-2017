@@ -31,7 +31,7 @@ my @asnum = (
     'AS202611', # Yandex Cloud Technologies LLC
     'AS207207', # Yandex.OFD LLC
 
-    'AS197068', # QRATOR (drweb.ru)
+#    'AS197068', # QRATOR (drweb.ru)
 
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
