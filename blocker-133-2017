@@ -235,13 +235,13 @@ sub getRTRejectStaticRoute {
     my $as = shift if @_;
     return "" unless $as;
     my @ret;
-    say sprintf("# %s", $as);
+#    say sprintf("# %s", $as);
     open (RT, 'echo "@rtconfig printPrefixRanges \"%p/%m\n\" filter '.$as.'" | /usr/local/bin/rtconfig -protocol ripe -config junos |') || die "Failed run rtconfig: $!\n";
     while (<RT>) {
         next unless /^[0-9]/;
         chomp;
         push @ret, $_;
-        say sprintf("\t%s", $_);
+#        say sprintf("\t%s", $_);
     }
     close RT;
     return @ret;
