@@ -2078,6 +2078,7 @@
 18.195.108.73 api.browser.yandex.ua
 18.195.108.108 softexport.yandex.net
 18.195.108.128 mail.yandex.fr
+18.195.108.169 avia.yandex.ru
 18.195.108.172 api.browser.yandex.ua
 18.195.108.177 mail.yandex.fr
 18.195.108.193 sec.api.browser.yandex.ua
@@ -3834,6 +3835,7 @@
 18.197.80.44 mail.yandex.fr
 18.197.80.155 afisha.yandex.ru
 18.197.81.74 sec.api.browser.yandex.ua
+18.197.81.116 api.browser.yandex.ua
 18.197.81.244 mail.yandex.fr
 18.197.84.233 api.browser.yandex.ua
 18.197.85.132 api.browser.yandex.ua
@@ -8108,6 +8110,7 @@
 52.59.106.185 metro.yandex.ru
 52.59.107.38 api.browser.yandex.ua
 52.59.107.116 api.browser.yandex.ua
+52.59.107.220 api.browser.yandex.ua
 52.59.107.234 spdy3-proxy.maps.yandex.net
 52.59.108.179 pdd.yandex.ru
 52.59.108.184 api.browser.yandex.ua
