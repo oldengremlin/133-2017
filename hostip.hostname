@@ -1695,6 +1695,7 @@
 18.195.24.54 rasp.yandex.ru
 18.195.24.84 api.browser.yandex.ua
 18.195.24.101 api.browser.yandex.ua
+18.195.24.158 api.browser.yandex.ua
 18.195.24.184 sec.api.browser.yandex.ua
 18.195.24.195 api.browser.yandex.ua
 18.195.24.225 api.browser.yandex.net
@@ -4621,7 +4622,7 @@
 35.157.34.85 mail.yandex.fr
 35.157.34.196 afisha.yandex.ru
 35.157.34.245 n.maps.yandex.ru
-35.157.35.7 sec.api.browser.yandex.ua
+35.157.35.7 api.browser.yandex.ua
 35.157.35.101 api.browser.yandex.ua
 35.157.35.152 api.browser.yandex.ua
 35.157.35.220 afisha.yandex.ru
