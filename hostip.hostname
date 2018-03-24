@@ -3346,6 +3346,7 @@
 18.196.131.81 spdy3-proxy.maps.yandex.net
 18.196.131.82 api.browser.yandex.ua
 18.196.131.213 api.browser.yandex.ua
+18.196.131.235 informer.yandex.ru
 18.196.132.62 api.browser.yandex.ua
 18.196.132.133 mail.yandex.fr
 18.196.132.158 avia.yandex.ru
@@ -3538,6 +3539,7 @@
 18.196.180.238 afisha.yandex.ru
 18.196.180.250 api.browser.yandex.ua
 18.196.181.27 mail.yandex.ua
+18.196.181.43 informer.yandex.ru
 18.196.181.70 api.browser.yandex.ua
 18.196.182.59 api.browser.yandex.ua
 18.196.182.108 api.browser.yandex.net
@@ -3618,6 +3620,7 @@
 18.196.199.0 www.yandex.ru
 18.196.199.156 static-maps.yandex.ru
 18.196.199.167 api.browser.yandex.ua
+18.196.200.7 informer.yandex.ru
 18.196.201.16 mail.yandex.fr
 18.196.201.152 api.browser.yandex.ua
 18.196.202.27 api.browser.yandex.ua
