@@ -1309,7 +1309,7 @@
 18.194.202.52 mail.yandex.fr
 18.194.202.80 mail.yandex.fr
 18.194.202.116 api.browser.yandex.ua
-18.194.202.119 pdd.yandex.ru
+18.194.202.119 api.browser.yandex.ua
 18.194.202.164 mail.yandex.fr
 18.194.202.168 mail.yandex.fr
 18.194.202.174 api.browser.yandex.ua
@@ -4002,6 +4002,7 @@
 18.197.80.155 afisha.yandex.ru
 18.197.81.74 sec.api.browser.yandex.ua
 18.197.81.116 api.browser.yandex.ua
+18.197.81.220 api.browser.yandex.ua
 18.197.81.244 mail.yandex.fr
 18.197.84.233 api.browser.yandex.ua
 18.197.85.110 api.browser.yandex.ua
