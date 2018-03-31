@@ -13,6 +13,7 @@
 5.255.255.88 www.yandex.ru
 18.184.0.101 api.browser.yandex.ua
 18.184.0.137 addappter-api.mobile.yandex.net
+18.184.9.11 api.browser.yandex.ua
 18.184.11.52 api.browser.yandex.ua
 18.184.15.36 pdd.yandex.ru
 18.184.15.45 api.browser.yandex.ua
@@ -5283,6 +5284,7 @@
 35.157.202.169 pass.yandex.ru
 35.157.203.31 api.browser.yandex.ua
 35.157.203.73 metro.yandex.ru
+35.157.203.119 api.browser.yandex.ua
 35.157.204.67 yandex.st
 35.157.204.210 api.browser.yandex.ua
 35.157.205.9 api-maps.yandex.ru
