@@ -484,7 +484,7 @@
 18.194.73.70 api.browser.yandex.ua
 18.194.73.143 api.browser.yandex.ua
 18.194.73.193 taxi.yandex.ru
-18.194.73.202 mail.yandex.fr
+18.194.73.202 api.browser.yandex.ua
 18.194.73.204 n.maps.yandex.ru
 18.194.73.214 api.browser.yandex.ua
 18.194.74.59 n.maps.yandex.ru
@@ -3843,6 +3843,7 @@
 18.196.246.145 api.browser.yandex.ua
 18.196.246.191 api.browser.yandex.ua
 18.196.247.127 api.browser.yandex.ua
+18.196.247.169 taxi.yandex.ru
 18.196.248.2 api.browser.yandex.ua
 18.196.248.237 tv.yandex.ru
 18.196.249.41 api.browser.yandex.ua
