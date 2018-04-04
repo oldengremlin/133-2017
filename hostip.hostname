@@ -3999,6 +3999,7 @@
 18.197.59.84 api.browser.yandex.ua
 18.197.59.106 api.browser.yandex.ua
 18.197.59.239 sec.api.browser.yandex.ua
+18.197.61.169 api.browser.yandex.ua
 18.197.61.185 mail.yandex.fr
 18.197.61.209 mail.yandex.fr
 18.197.61.225 api.browser.yandex.ua
@@ -7708,7 +7709,7 @@
 52.57.215.217 static.yandex.net
 52.57.215.237 api.browser.yandex.ua
 52.57.216.6 api.browser.yandex.ua
-52.57.216.17 push.yandex.ua
+52.57.216.17 api.browser.yandex.ua
 52.57.216.116 pdd.yandex.ru
 52.57.216.149 rasp.yandex.ru
 52.57.217.100 informer.yandex.ru
