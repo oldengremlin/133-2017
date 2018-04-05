@@ -5177,7 +5177,7 @@
 35.157.130.22 avia.yandex.ru
 35.157.130.142 api.browser.yandex.ua
 35.157.130.164 sec.api.browser.yandex.ua
-35.157.130.182 taxi.yandex.ru
+35.157.130.182 api.browser.yandex.ua
 35.157.130.192 api.browser.yandex.ua
 35.157.130.237 api.browser.yandex.ua
 35.157.130.247 mail.yandex.fr
@@ -7810,6 +7810,7 @@
 52.57.242.201 sec.api.browser.yandex.ua
 52.57.242.204 mail.yandex.fr
 52.57.243.91 api.browser.yandex.ua
+52.57.243.124 api.browser.yandex.ua
 52.57.243.160 mail.yandex.fr
 52.57.243.199 api.browser.yandex.ua
 52.57.244.56 api.browser.yandex.ua
