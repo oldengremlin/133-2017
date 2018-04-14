@@ -2239,7 +2239,7 @@
 18.195.109.169 mail.yandex.fr
 18.195.109.202 sec.api.browser.yandex.ua
 18.195.109.235 static.yandex.net
-18.195.109.253 sec.api.browser.yandex.ua
+18.195.109.253 api.browser.yandex.ua
 18.195.110.29 api.browser.yandex.ua
 18.195.110.96 api.browser.yandex.ua
 18.195.110.112 api.browser.yandex.ua
@@ -5080,6 +5080,7 @@
 35.157.10.111 api.browser.yandex.ua
 35.157.10.130 api.browser.yandex.ua
 35.157.10.205 api.browser.yandex.ua
+35.157.11.89 api.browser.yandex.ua
 35.157.11.158 mail.yandex.fr
 35.157.11.200 taxi.yandex.ru
 35.157.11.247 api.browser.yandex.ua
