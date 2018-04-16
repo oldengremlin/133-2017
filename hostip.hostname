@@ -4923,6 +4923,7 @@
 35.156.192.51 mail.yandex.fr
 35.156.192.199 api.browser.yandex.ua
 35.156.192.237 mail.yandex.fr
+35.156.192.250 sec.api.browser.yandex.ua
 35.156.192.253 api.browser.yandex.ua
 35.156.194.30 sec.api.browser.yandex.ua
 35.156.196.23 mail.yandex.fr
@@ -6769,7 +6770,7 @@
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
 38.117.98.196 dnl-00.geo.kaspersky.com
-38.117.98.199 dnl-01.geo.kaspersky.com
+38.117.98.199 dnl-00.geo.kaspersky.com
 38.117.98.202 dnl-01.geo.kaspersky.com
 38.117.98.225 redirect.geo.kaspersky.com
 38.117.98.230 redirect.geo.kaspersky.com
