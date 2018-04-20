@@ -2207,7 +2207,7 @@
 18.195.90.3 api.browser.yandex.ua
 18.195.91.14 api.browser.yandex.ua
 18.195.91.115 api.browser.yandex.ua
-18.195.91.181 n.maps.yandex.ru
+18.195.91.181 api.browser.yandex.ua
 18.195.91.203 api.browser.yandex.ua
 18.195.92.1 api.browser.yandex.ua
 18.195.92.164 api.browser.yandex.ua
@@ -8581,6 +8581,7 @@
 52.58.178.196 api.browser.yandex.ua
 52.58.179.35 api.browser.yandex.ua
 52.58.181.71 mail.yandex.fr
+52.58.182.66 api.browser.yandex.ua
 52.58.182.145 api.browser.yandex.ua
 52.58.182.172 api.browser.yandex.ua
 52.58.182.195 mc.yandex.ru
