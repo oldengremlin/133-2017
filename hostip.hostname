@@ -2073,6 +2073,7 @@
 18.195.45.226 rasp.yandex.ru
 18.195.45.238 api.browser.yandex.ua
 18.195.46.41 api.browser.yandex.ua
+18.195.46.46 api.browser.yandex.ua
 18.195.46.90 api.browser.yandex.ua
 18.195.46.123 api.browser.yandex.ua
 18.195.46.149 api.browser.yandex.ua
@@ -3339,7 +3340,7 @@
 18.196.42.118 informer.yandex.ru
 18.196.42.189 api.browser.yandex.ua
 18.196.42.198 api.browser.yandex.ua
-18.196.42.225 spdy3-proxy.maps.yandex.net
+18.196.42.225 api.browser.yandex.ua
 18.196.42.247 api.browser.yandex.ua
 18.196.43.0 mail.yandex.ua
 18.196.43.19 api.browser.yandex.ua
