@@ -4074,7 +4074,7 @@
 18.196.198.49 api.browser.yandex.ua
 18.196.198.57 api.browser.yandex.ua
 18.196.198.139 rasp.yandex.ru
-18.196.198.141 afisha.yandex.ru
+18.196.198.141 addappter-api.mobile.yandex.net
 18.196.199.0 www.yandex.ru
 18.196.199.156 static-maps.yandex.ru
 18.196.199.167 api.browser.yandex.ua
@@ -4180,6 +4180,7 @@
 18.196.228.207 api.browser.yandex.ua
 18.196.228.210 api.browser.yandex.ua
 18.196.228.217 api.browser.yandex.ua
+18.196.228.220 addappter-api.mobile.yandex.net
 18.196.229.39 api.browser.yandex.ua
 18.196.229.44 api.browser.yandex.ua
 18.196.229.93 mail.yandex.fr
@@ -7839,6 +7840,7 @@
 52.29.249.1 mail.yandex.fr
 52.29.249.93 api.browser.yandex.ua
 52.29.249.229 api.browser.yandex.ua
+52.29.250.77 mail.yandex.fr
 52.29.250.84 api.browser.yandex.ua
 52.29.252.157 dictionary.yandex.net
 52.29.253.202 api.browser.yandex.ua
