@@ -51,7 +51,7 @@
 18.184.25.98 api.browser.yandex.ua
 18.184.26.122 api.browser.yandex.ua
 18.184.26.190 api.browser.yandex.ua
-18.184.27.108 tv.yandex.ru
+18.184.27.108 api.browser.yandex.ua
 18.184.27.138 api.browser.yandex.ua
 18.184.27.143 afisha.yandex.ru
 18.184.27.175 api.browser.yandex.ua
@@ -3672,6 +3672,7 @@
 18.196.93.118 api.browser.yandex.ua
 18.196.93.125 api.browser.yandex.ua
 18.196.93.146 api.browser.yandex.ua
+18.196.93.163 rasp.yandex.ru
 18.196.94.1 api.browser.yandex.ua
 18.196.94.8 mail.yandex.fr
 18.196.94.164 avia.yandex.ru
@@ -6808,6 +6809,7 @@
 35.158.207.61 taxi.yandex.ru
 35.158.207.236 afisha.yandex.ru
 35.158.207.247 api.browser.yandex.ua
+35.158.208.40 api.browser.yandex.ua
 35.158.208.45 api.browser.yandex.ua
 35.158.208.114 api.browser.yandex.ua
 35.158.208.184 api.browser.yandex.ua
