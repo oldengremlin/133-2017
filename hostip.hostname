@@ -297,6 +297,7 @@
 18.184.140.85 mail.yandex.fr
 18.184.140.250 api.browser.yandex.ua
 18.184.141.72 api.browser.yandex.ua
+18.184.143.26 api.browser.yandex.ua
 18.184.143.151 api.browser.yandex.ua
 18.184.144.11 api.browser.yandex.ua
 18.184.144.166 mail.yandex.fr
@@ -2607,6 +2608,7 @@
 18.195.126.243 mail.yandex.fr
 18.195.127.12 spdy3-proxy.maps.yandex.net
 18.195.127.32 informer.yandex.ru
+18.195.127.33 api.browser.yandex.ua
 18.195.127.99 api.browser.yandex.ua
 18.195.127.121 mail.yandex.fr
 18.195.127.134 api.browser.yandex.ua
