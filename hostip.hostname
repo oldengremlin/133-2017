@@ -5035,6 +5035,7 @@
 35.156.8.3 metro.yandex.ru
 35.156.8.153 mail.yandex.fr
 35.156.9.97 spdy3-proxy.maps.yandex.net
+35.156.10.45 api.browser.yandex.ua
 35.156.10.166 sec.api.browser.yandex.ua
 35.156.11.120 api.browser.yandex.ua
 35.156.11.179 api.browser.yandex.ua
@@ -9091,6 +9092,7 @@
 52.58.159.36 api.browser.yandex.ua
 52.58.159.153 api.browser.yandex.ua
 52.58.159.178 api.browser.yandex.ua
+52.58.160.27 static-maps.yandex.ru
 52.58.162.142 api.browser.yandex.ua
 52.58.162.226 api.browser.yandex.ua
 52.58.163.113 api.browser.yandex.ua
