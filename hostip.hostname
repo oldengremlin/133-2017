@@ -106,6 +106,7 @@
 18.184.41.6 metro.yandex.ru
 18.184.41.10 api.browser.yandex.ua
 18.184.41.86 mail.yandex.ua
+18.184.41.107 api.browser.yandex.ua
 18.184.41.172 api.browser.yandex.ua
 18.184.41.203 api.browser.yandex.ua
 18.184.41.210 api.browser.yandex.ua
@@ -10321,6 +10322,7 @@
 130.117.190.144 dnl-12.geo.kaspersky.com
 130.117.190.168 redirect.geo.kaspersky.com
 141.8.146.178 export.yandex.ru
+149.5.244.3 informer.yandex.ru
 149.5.244.21 informer.yandex.ru
 153.120.15.41 update.geo.drweb.com
 153.120.15.42 update.geo.drweb.com
