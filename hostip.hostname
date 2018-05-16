@@ -4415,6 +4415,7 @@
 18.196.190.0 api.browser.yandex.ua
 18.196.190.14 api.browser.yandex.ua
 18.196.190.23 n.maps.yandex.ru
+18.196.190.39 api.browser.yandex.ua
 18.196.190.51 api.browser.yandex.ua
 18.196.190.116 pdd.yandex.ru
 18.196.190.119 api.browser.yandex.ua
@@ -9238,7 +9239,7 @@
 52.58.51.14 mail.yandex.fr
 52.58.51.59 taxi.yandex.ru
 52.58.51.212 mail.yandex.fr
-52.58.52.0 mail.yandex.fr
+52.58.52.0 api.browser.yandex.ua
 52.58.52.138 tv.yandex.ru
 52.58.52.175 mail.yandex.fr
 52.58.52.193 api.browser.yandex.ua
