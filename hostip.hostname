@@ -4581,7 +4581,7 @@
 18.196.190.23 n.maps.yandex.ru
 18.196.190.39 api.browser.yandex.ua
 18.196.190.51 api.browser.yandex.ua
-18.196.190.116 pdd.yandex.ru
+18.196.190.116 api.browser.yandex.ua
 18.196.190.119 api.browser.yandex.ua
 18.196.190.218 metro.yandex.ru
 18.196.190.233 afisha.yandex.ru
@@ -8174,6 +8174,7 @@
 52.28.168.150 mail.yandex.fr
 52.28.168.179 api.browser.yandex.ua
 52.28.170.53 api.browser.yandex.ua
+52.28.170.113 api.browser.yandex.ua
 52.28.170.237 api.browser.yandex.ua
 52.28.171.49 api.browser.yandex.ua
 52.28.171.126 api.browser.yandex.ua
@@ -8513,6 +8514,7 @@
 52.29.136.192 mail.yandex.fr
 52.29.137.10 mail.yandex.fr
 52.29.137.15 metro.yandex.ru
+52.29.137.34 mail.yandex.fr
 52.29.137.192 updater.mobile.yandex.net
 52.29.138.53 api.browser.yandex.ua
 52.29.138.62 api.browser.yandex.ua
