@@ -219,6 +219,7 @@
 18.184.72.8 api.browser.yandex.ua
 18.184.72.47 metro.yandex.ru
 18.184.72.110 api.browser.yandex.ua
+18.184.72.183 api.browser.yandex.ua
 18.184.72.209 n.maps.yandex.ru
 18.184.75.3 api.browser.yandex.ua
 18.184.75.62 api.browser.yandex.ua
@@ -10758,6 +10759,8 @@
 78.155.207.229 kosmos.kaspersky.ru
 80.231.123.131 dnl-12.geo.kaspersky.com
 80.231.123.133 dnl-13.geo.kaspersky.com
+80.233.187.42 push.webmoney.ru
+80.233.187.43 analytics.webmoney.ru
 80.239.169.147 aes.geo.kaspersky.com
 80.239.169.152 inter-fe.geo.kaspersky.com
 80.239.170.162 activation.kaspersky.com
