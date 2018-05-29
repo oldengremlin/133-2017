@@ -5302,7 +5302,7 @@
 18.197.113.122 api.browser.yandex.ua
 18.197.113.131 api.browser.yandex.ua
 18.197.113.160 n.maps.yandex.ru
-18.197.113.179 pdd.yandex.ru
+18.197.113.179 api.browser.yandex.ua
 18.197.114.19 api.browser.yandex.ua
 18.197.114.64 api.browser.yandex.ua
 18.197.114.167 api.browser.yandex.ua
@@ -6443,6 +6443,7 @@
 35.157.73.209 api.browser.yandex.ua
 35.157.74.53 api.browser.yandex.ua
 35.157.74.234 mail.yandex.fr
+35.157.75.37 api.browser.yandex.ua
 35.157.75.74 api.browser.yandex.ua
 35.157.75.163 api.browser.yandex.ua
 35.157.75.237 mail.yandex.fr
@@ -8473,6 +8474,7 @@
 52.29.3.206 api.browser.yandex.ua
 52.29.4.43 api.browser.yandex.ua
 52.29.4.228 pdd.yandex.ru
+52.29.4.252 mobile.navi.yandex.net
 52.29.5.128 pdd.yandex.ru
 52.29.5.201 mail.yandex.fr
 52.29.6.165 api.browser.yandex.ua
