@@ -5178,6 +5178,7 @@
 18.197.59.157 api.browser.yandex.ua
 18.197.59.218 api.browser.yandex.ua
 18.197.59.239 sec.api.browser.yandex.ua
+18.197.61.154 api.browser.yandex.ua
 18.197.61.169 api.browser.yandex.ua
 18.197.61.185 mail.yandex.fr
 18.197.61.209 mail.yandex.fr
@@ -6323,6 +6324,7 @@
 35.157.20.210 oauth.yandex.ru
 35.157.22.37 api.browser.yandex.ua
 35.157.22.66 api.browser.yandex.ua
+35.157.22.122 api.browser.yandex.ua
 35.157.22.254 api.browser.yandex.ua
 35.157.23.78 api.browser.yandex.ua
 35.157.23.115 mail.yandex.fr
@@ -10989,7 +10991,7 @@
 91.203.69.175 arbitrage.webmoney.ua
 91.205.164.53 yalta-tv.ru
 91.217.153.39 mail.wmid.com
-91.227.52.14 events.webmoney.ru
+91.227.52.14 counter.webmoney.ru
 91.227.52.18 credit.webmoney.ru
 91.227.52.19 events.wmtransfer.com
 91.227.52.32 mini.wmtransfer.com
@@ -11314,7 +11316,7 @@
 188.93.57.46 money.mail.ru
 188.94.254.192 newsroom.kaspersky.eu
 188.130.254.8 minfindnr.ru
-188.254.56.226 online.drweb.com
+188.254.56.226 online1.drweb.com
 188.254.56.227 online.drweb.com
 188.254.56.228 online.drweb.com
 192.185.224.83 100kwt.com
@@ -11396,6 +11398,7 @@
 212.118.48.5 wmsc1.webmoney.ru
 212.118.48.6 wmsc1.webmoney.ru
 212.118.48.7 wmsc1.webmoney.ru
+212.118.48.14 counter.webmoney.ru
 212.118.48.46 exchanger.ru
 212.118.48.89 banking.guarantee.ru
 212.118.48.129 wmsc1.webmoney.ru
