@@ -6766,6 +6766,7 @@
 35.157.169.88 api.browser.yandex.ua
 35.157.169.164 api.browser.yandex.ua
 35.157.169.236 api.browser.yandex.ua
+35.157.170.18 api.browser.yandex.ua
 35.157.170.43 api.browser.yandex.ua
 35.157.170.48 rasp.yandex.ru
 35.157.170.52 mail.yandex.fr
@@ -8283,6 +8284,7 @@
 52.28.106.234 api.browser.yandex.ua
 52.28.109.57 oauth.yandex.ru
 52.28.109.134 api.browser.yandex.ua
+52.28.110.109 avia.yandex.ru
 52.28.111.65 api.browser.yandex.ua
 52.28.111.87 mail.yandex.fr
 52.28.111.108 api.browser.yandex.ua
@@ -9294,6 +9296,7 @@
 52.57.153.43 api.browser.yandex.ua
 52.57.153.129 api.browser.yandex.ua
 52.57.153.195 api.browser.yandex.ua
+52.57.154.45 api.browser.yandex.ua
 52.57.154.214 api.browser.yandex.ua
 52.57.155.43 api.browser.yandex.ua
 52.57.155.91 api.browser.yandex.ua
@@ -10997,6 +11000,7 @@
 91.200.28.191 banks.webmoney.ru
 91.200.28.212 passport.webmoney.ru
 91.200.28.214 passport.webmoney.ru
+91.200.28.225 cards.webmoney.ru
 91.203.69.175 arbitrage.webmoney.ua
 91.205.164.53 yalta-tv.ru
 91.217.153.39 mail.wmid.com
@@ -11045,6 +11049,7 @@
 91.227.52.210 www.capitaller.ru
 91.227.52.217 advisor.wmtransfer.com
 91.227.52.227 wiki.webmoney.ru
+91.227.52.246 escrow.webmoney.ru
 91.230.61.4 radiovera.ru
 91.241.168.35 Mprlnr.su
 91.241.168.47 Fgi-lnr.su
@@ -11428,6 +11433,8 @@
 212.118.48.178 wmsc2.webmoney.ru
 212.118.48.179 wmsc2.webmoney.ru
 212.118.48.180 wmsc2.webmoney.ru
+212.118.48.186 escrow.webmoney.ru
+212.118.48.204 cards.webmoney.ru
 212.118.48.206 arbitrage.webmoney.ru
 212.162.49.166 ksn-file.geo.kaspersky.com
 213.59.3.178 download.geo.drweb.com
