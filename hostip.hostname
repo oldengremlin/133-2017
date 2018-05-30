@@ -301,6 +301,7 @@
 18.184.98.106 mail.yandex.fr
 18.184.98.244 api.browser.yandex.ua
 18.184.100.68 api.browser.yandex.ua
+18.184.101.30 api.browser.yandex.ua
 18.184.101.33 avia.yandex.ru
 18.184.101.68 passport.yandex.com
 18.184.101.128 api.browser.yandex.ua
@@ -1261,6 +1262,7 @@
 18.194.91.13 api.browser.yandex.ua
 18.194.91.35 mail.yandex.fr
 18.194.91.36 api.browser.yandex.ua
+18.194.91.124 pdd.yandex.ru
 18.194.91.219 avia.yandex.ru
 18.194.91.231 api.browser.yandex.ua
 18.194.92.92 api.browser.yandex.ua
@@ -4257,6 +4259,7 @@
 18.196.91.165 api.browser.yandex.ua
 18.196.91.200 yandex.st
 18.196.92.62 api-maps.yandex.ru
+18.196.92.66 api.browser.yandex.ua
 18.196.92.78 taxi.yandex.ru
 18.196.92.146 api.browser.yandex.ua
 18.196.92.193 passport.yandex.com
@@ -11260,9 +11263,9 @@
 149.5.244.21 informer.yandex.ru
 149.202.205.9 eizvestia.com
 151.80.149.182 webmoney.ru
-153.120.15.41 update.geo.drweb.com
-153.120.15.42 update.geo.drweb.com
-153.120.15.43 update.geo.drweb.com
+153.120.15.41 esuite.geo.drweb.com
+153.120.15.42 esuite.geo.drweb.com
+153.120.15.43 esuite.geo.drweb.com
 154.47.36.41 static.yandex.net
 154.47.36.44 informer.yandex.ru
 162.159.24.206 ns7.yandex.ru
