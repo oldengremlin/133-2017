@@ -2942,6 +2942,7 @@
 18.195.105.49 n.maps.yandex.ru
 18.195.105.62 api.browser.yandex.ua
 18.195.105.104 mail.yandex.fr
+18.195.105.116 api.browser.yandex.ua
 18.195.105.168 api.browser.yandex.ua
 18.195.105.198 metro.yandex.ru
 18.195.105.219 spdy3-proxy.maps.yandex.net
@@ -6359,6 +6360,7 @@
 35.157.19.237 api.browser.yandex.ua
 35.157.20.151 mail.yandex.fr
 35.157.20.210 oauth.yandex.ru
+35.157.22.36 api.browser.yandex.ua
 35.157.22.37 api.browser.yandex.ua
 35.157.22.66 api.browser.yandex.ua
 35.157.22.122 api.browser.yandex.ua
@@ -10852,6 +10854,7 @@
 80.245.112.25 c-pravda.ru
 80.247.32.206 rtr-planeta.com
 80.247.32.208 amp.vesti.ru
+80.247.32.249 vstat2.vgtrk.com
 81.19.104.3 ksn-crypto-ipm.geo.kaspersky.com
 81.19.104.24 ksn-file.geo.kaspersky.com
 81.19.104.27 ksn-file.geo.kaspersky.com
@@ -11408,6 +11411,7 @@
 195.42.165.36 mobile.vgtrk.com
 195.88.252.30 sicarius.dev.drweb.com
 195.93.246.56 riarating.ru
+195.93.247.50 a.ria.ru
 195.93.247.64 id.sputniknews.com
 195.93.247.154 rsport.ria.ru
 195.122.169.4 dnl-01.geo.kaspersky.com
