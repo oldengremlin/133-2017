@@ -615,6 +615,7 @@
 18.184.223.36 pdd.yandex.ru
 18.184.223.47 mail.yandex.fr
 18.184.224.54 mail.yandex.fr
+18.184.225.201 api.browser.yandex.ua
 18.184.226.157 mail.yandex.fr
 18.184.227.25 api.browser.yandex.ua
 18.184.227.54 api.browser.yandex.ua
@@ -11350,8 +11351,10 @@
 185.98.81.120 gsi.drweb.com
 185.114.137.26 glavstat.govdnr.ru
 185.114.137.166 dnmchs.ru
+185.129.100.129 img2.ntv.ru
 185.129.100.135 ntv.ru
 185.129.100.136 www.ntv.ru
+185.129.100.145 img2.ntv.ru
 185.130.250.10 med.vesti.ru
 185.165.123.25 api2.auto.ru
 185.165.123.147 news-front.info
