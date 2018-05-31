@@ -3003,6 +3003,7 @@
 18.195.114.78 api.browser.yandex.ua
 18.195.114.103 mail.yandex.fr
 18.195.114.134 api.browser.yandex.ua
+18.195.114.183 api.browser.yandex.ua
 18.195.114.212 api.browser.yandex.ua
 18.195.115.42 mail.yandex.fr
 18.195.115.48 yandex.st
@@ -6730,6 +6731,7 @@
 35.157.145.206 tv.yandex.ru
 35.157.146.22 api.browser.yandex.ua
 35.157.146.52 mail.yandex.fr
+35.157.146.141 api.browser.yandex.ua
 35.157.146.201 n.maps.yandex.ru
 35.157.147.139 n.maps.yandex.ru
 35.157.147.147 mail.yandex.fr
@@ -11266,8 +11268,8 @@
 104.18.45.235 dan-news.info
 104.18.52.221 ikrim.net
 104.18.53.221 ikrim.net
-104.24.104.202 paymaster.ua
-104.24.105.202 paymaster.ua
+104.24.104.202 lmi.paymaster.ua
+104.24.105.202 lmi.paymaster.ua
 104.27.180.72 gorlovka.today
 104.27.181.72 gorlovka.today
 104.27.182.214 novoross.info
