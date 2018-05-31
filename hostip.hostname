@@ -1297,6 +1297,7 @@
 18.194.96.246 n.maps.yandex.ru
 18.194.97.99 mail.yandex.fr
 18.194.97.132 sec.api.browser.yandex.ua
+18.194.97.146 api.browser.yandex.ua
 18.194.97.236 metro.yandex.ru
 18.194.98.14 api.browser.yandex.ua
 18.194.98.52 api.browser.yandex.ua
@@ -4516,6 +4517,7 @@
 18.196.142.247 api.browser.yandex.ua
 18.196.143.69 api.browser.yandex.ua
 18.196.143.133 avia.yandex.ru
+18.196.143.135 api.browser.yandex.ua
 18.196.143.193 api.browser.yandex.ua
 18.196.144.94 metro.yandex.ru
 18.196.144.159 api.browser.yandex.ua
@@ -8958,7 +8960,7 @@
 52.29.254.15 pdd.yandex.ru
 52.29.254.99 api.browser.yandex.ua
 52.29.254.155 pdd.yandex.ru
-52.50.157.108 yandexdatafactory.com
+52.50.157.108 extract.yandexdatafactory.com
 52.57.0.33 api.browser.yandex.ua
 52.57.0.68 n.maps.yandex.ru
 52.57.0.76 api.browser.yandex.ua
