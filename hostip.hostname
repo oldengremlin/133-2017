@@ -2927,6 +2927,7 @@
 18.195.102.226 api.browser.yandex.ua
 18.195.102.231 api.browser.yandex.ua
 18.195.103.29 api.browser.yandex.ua
+18.195.103.105 api.browser.yandex.ua
 18.195.103.166 api.browser.yandex.ua
 18.195.104.34 mail.yandex.fr
 18.195.104.37 api.browser.yandex.ua
@@ -5679,6 +5680,7 @@
 35.156.8.3 metro.yandex.ru
 35.156.8.153 mail.yandex.fr
 35.156.9.97 spdy3-proxy.maps.yandex.net
+35.156.9.192 api.browser.yandex.ua
 35.156.10.45 api.browser.yandex.ua
 35.156.10.166 sec.api.browser.yandex.ua
 35.156.11.120 api.browser.yandex.ua
@@ -11353,6 +11355,7 @@
 185.114.137.26 glavstat.govdnr.ru
 185.114.137.166 dnmchs.ru
 185.129.100.129 img2.ntv.ru
+185.129.100.133 stat.ntv.ru
 185.129.100.135 ntv.ru
 185.129.100.136 www.ntv.ru
 185.129.100.145 img2.ntv.ru
