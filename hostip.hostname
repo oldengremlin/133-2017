@@ -7248,6 +7248,7 @@
 35.158.1.162 api.browser.yandex.ua
 35.158.1.176 mail.yandex.fr
 35.158.1.234 api.browser.yandex.ua
+35.158.1.239 n.maps.yandex.ru
 35.158.2.2 tv.yandex.ru
 35.158.2.219 api.browser.yandex.ua
 35.158.3.62 avia.yandex.ru
@@ -11084,7 +11085,7 @@
 80.239.174.47 dnl-04.geo.kaspersky.com
 80.239.197.100 dnl-00.geo.kaspersky.com
 80.239.197.103 dnl-00.geo.kaspersky.com
-80.239.197.106 dnl-18.geo.kaspersky.com
+80.239.197.106 dnl-00.geo.kaspersky.com
 80.239.197.116 dnl-00.geo.kaspersky.com
 80.245.112.25 c-pravda.ru
 80.247.32.206 assets.vgtrk.com
