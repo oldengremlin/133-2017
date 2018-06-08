@@ -2124,6 +2124,7 @@
 18.194.194.10 api.browser.yandex.ua
 18.194.194.40 api.browser.yandex.ua
 18.194.194.50 mail.yandex.fr
+18.194.194.83 api.browser.yandex.ua
 18.194.194.124 pdd.yandex.ru
 18.194.194.131 api.browser.yandex.ua
 18.194.194.153 mail.yandex.fr
@@ -8677,6 +8678,7 @@
 52.28.202.113 api.browser.yandex.ua
 52.28.202.148 api.browser.yandex.ua
 52.28.203.0 passport.yandex.com
+52.28.204.56 api.browser.yandex.ua
 52.28.206.43 api.browser.yandex.ua
 52.28.206.91 api.browser.yandex.ua
 52.28.206.118 d.aws-proxy.disk.yandex.ua
@@ -11235,6 +11237,8 @@
 87.250.251.198 avia.yandex.ru
 87.250.251.199 video.yandex.ru
 87.250.251.232 sba.yandex.net
+88.212.197.126 cdn.tnt-online.ru
+88.212.202.115 cdn.tnt-online.ru
 89.111.188.126 download.geo.drweb.com
 89.184.80.139 arbitrage.webmoney.ua
 90.156.142.158 spacelab.kaspersky.ru
