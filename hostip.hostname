@@ -762,6 +762,7 @@
 18.184.251.128 afisha.yandex.ru
 18.184.251.200 api.browser.yandex.ua
 18.184.252.42 api.browser.yandex.ua
+18.184.252.121 informer.yandex.ru
 18.184.255.174 api.browser.yandex.ua
 18.184.255.202 api.browser.yandex.ua
 18.185.0.66 api.browser.yandex.ua
@@ -798,6 +799,7 @@
 18.185.29.139 api.browser.yandex.ua
 18.185.31.152 api.browser.yandex.ua
 18.185.31.168 rasp.yandex.ru
+18.185.33.205 api.browser.yandex.ua
 18.185.33.235 api.browser.yandex.ua
 18.185.34.50 api.browser.yandex.ua
 18.185.36.89 api.browser.yandex.ua
@@ -808,6 +810,7 @@
 18.185.45.126 api.browser.yandex.ua
 18.185.46.107 mail.yandex.fr
 18.185.54.235 api.browser.yandex.ua
+18.185.55.62 informer.yandex.ru
 18.194.0.34 api.browser.yandex.ua
 18.194.0.49 mail.yandex.fr
 18.194.0.69 passport.yandex.com
@@ -2704,6 +2707,7 @@
 18.195.30.239 spdy3-proxy.maps.yandex.net
 18.195.31.0 sec.api.browser.yandex.ua
 18.195.31.62 mail.yandex.fr
+18.195.31.68 informer.yandex.ru
 18.195.31.73 api.browser.yandex.ua
 18.195.31.100 softexport.yandex.net
 18.195.31.119 api.browser.yandex.ua
@@ -7790,6 +7794,7 @@
 35.158.180.208 api.browser.yandex.ua
 35.158.180.215 api.browser.yandex.ua
 35.158.180.220 api.browser.yandex.ua
+35.158.180.239 api.browser.yandex.ua
 35.158.181.26 mail.yandex.fr
 35.158.181.50 api.browser.yandex.ua
 35.158.181.87 spdy3-proxy.maps.yandex.net
