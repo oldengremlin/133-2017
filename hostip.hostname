@@ -807,7 +807,7 @@
 18.185.34.50 api.browser.yandex.ua
 18.185.36.89 api.browser.yandex.ua
 18.185.37.57 api.browser.yandex.ua
-18.185.39.63 news.yandex.ru
+18.185.39.63 api.browser.yandex.ua
 18.185.39.76 api.browser.yandex.ua
 18.185.42.97 rasp.yandex.ru
 18.185.43.175 api.browser.yandex.ua
@@ -5111,6 +5111,7 @@
 18.196.229.133 api.browser.yandex.ua
 18.196.229.171 mail.yandex.fr
 18.196.229.242 mail.yandex.fr
+18.196.230.30 api.browser.yandex.ua
 18.196.230.129 api.browser.yandex.ua
 18.196.230.165 api.browser.yandex.ua
 18.196.230.211 api.browser.yandex.ua
