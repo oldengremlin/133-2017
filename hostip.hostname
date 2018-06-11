@@ -798,6 +798,7 @@
 18.185.17.225 api.browser.yandex.ua
 18.185.19.128 n.maps.yandex.ru
 18.185.20.28 api.browser.yandex.ua
+18.185.20.98 pdd.yandex.ru
 18.185.20.146 api.browser.yandex.ua
 18.185.21.224 tv.yandex.ru
 18.185.22.3 api.browser.yandex.ua
@@ -5765,6 +5766,7 @@
 18.197.179.145 api.browser.yandex.ua
 18.197.179.165 api.browser.yandex.ua
 18.197.179.211 api.browser.yandex.ua
+18.197.180.62 pdd.yandex.ru
 18.197.180.250 api.browser.yandex.ua
 18.197.181.42 tv.yandex.ru
 18.197.181.124 api.browser.yandex.ua
@@ -11712,10 +11714,12 @@
 185.114.137.26 glavstat.govdnr.ru
 185.114.137.166 dnmchs.ru
 185.129.100.129 img2.ntv.ru
+185.129.100.131 media.ntv.ru
 185.129.100.133 img.ntv.ru
 185.129.100.135 ntv.ru
 185.129.100.136 www.ntv.ru
 185.129.100.145 img2.ntv.ru
+185.129.100.147 media.ntv.ru
 185.129.100.151 www.ntv.ru
 185.130.250.10 med.vesti.ru
 185.165.123.25 api2.auto.ru
