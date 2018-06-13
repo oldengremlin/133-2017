@@ -760,6 +760,7 @@
 18.184.239.245 passport.yandex.com
 18.184.240.24 rasp.yandex.ru
 18.184.240.53 metro.yandex.ru
+18.184.240.107 api.browser.yandex.ua
 18.184.240.117 api.browser.yandex.ua
 18.184.240.143 api.browser.yandex.ua
 18.184.240.192 api.browser.yandex.ua
@@ -11272,6 +11273,7 @@
 80.247.32.206 assets.vgtrk.com
 80.247.32.208 amp.vesti.ru
 80.247.32.249 vstat2.vgtrk.com
+80.247.35.20 ns.vgtrk.com
 81.19.104.3 ksn-crypto-ipm.geo.kaspersky.com
 81.19.104.24 ksn-file.geo.kaspersky.com
 81.19.104.27 ksn-file.geo.kaspersky.com
