@@ -148,6 +148,7 @@
 18.184.44.59 api.browser.yandex.ua
 18.184.44.101 mail.yandex.fr
 18.184.44.102 api.browser.yandex.ua
+18.184.44.130 mail.yandex.fr
 18.184.44.210 api.browser.yandex.ua
 18.184.45.1 api.browser.yandex.ua
 18.184.45.58 api.browser.yandex.ua
@@ -880,6 +881,7 @@
 18.185.44.114 mail.yandex.fr
 18.185.45.126 api.browser.yandex.ua
 18.185.46.107 mail.yandex.fr
+18.185.46.176 api.browser.yandex.ua
 18.185.46.201 rasp.yandex.ru
 18.185.50.183 api.browser.yandex.ua
 18.185.54.92 api.browser.yandex.ua
@@ -10786,7 +10788,7 @@
 52.59.72.221 taxi.yandex.ru
 52.59.72.250 api.browser.yandex.ua
 52.59.73.125 api.browser.yandex.ua
-52.59.73.150 news.yandex.ru
+52.59.73.150 api.browser.yandex.ua
 52.59.73.213 metro.yandex.ru
 52.59.74.156 spdy3-proxy.maps.yandex.net
 52.59.74.235 mail.yandex.fr
@@ -11544,6 +11546,7 @@
 91.227.52.207 publicant.webmoney.ru
 91.227.52.210 www.capitaller.ru
 91.227.52.213 key.wmtransfer.com
+91.227.52.216 start.wmtransfer.com
 91.227.52.217 advisor.wmtransfer.com
 91.227.52.227 wiki.webmoney.ru
 91.227.52.246 escrow.webmoney.ru
@@ -11966,6 +11969,7 @@
 212.118.48.139 wmsc1.webmoney.ru
 212.118.48.143 files.webmoney.ru
 212.118.48.150 start.webmoney.ru
+212.118.48.153 start.wmtransfer.com
 212.118.48.154 advisor.wmtransfer.com
 212.118.48.176 wmsc2.webmoney.ru
 212.118.48.177 wmsc2.webmoney.ru
