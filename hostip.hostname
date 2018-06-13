@@ -1011,6 +1011,7 @@
 18.194.13.111 api.browser.yandex.ua
 18.194.13.186 api.browser.yandex.ua
 18.194.13.190 api-maps.yandex.ru
+18.194.14.3 mail.yandex.com
 18.194.14.14 api.browser.yandex.ua
 18.194.14.29 api.browser.yandex.ua
 18.194.14.33 mail.yandex.fr
@@ -4981,6 +4982,7 @@
 18.196.184.109 n.maps.yandex.ru
 18.196.184.127 cloud-api.yandex.ua
 18.196.184.139 pdd.yandex.ru
+18.196.184.155 news.yandex.ru
 18.196.184.223 api.browser.yandex.ua
 18.196.185.2 api.browser.yandex.ua
 18.196.185.6 api.browser.yandex.ua
@@ -10784,6 +10786,7 @@
 52.59.72.221 taxi.yandex.ru
 52.59.72.250 api.browser.yandex.ua
 52.59.73.125 api.browser.yandex.ua
+52.59.73.150 news.yandex.ru
 52.59.73.213 metro.yandex.ru
 52.59.74.156 spdy3-proxy.maps.yandex.net
 52.59.74.235 mail.yandex.fr
