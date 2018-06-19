@@ -5883,7 +5883,7 @@
 18.197.134.247 api.browser.yandex.ua
 18.197.135.35 api.browser.yandex.ua
 18.197.135.73 pdd.yandex.ru
-18.197.135.112 sec.api.browser.yandex.ua
+18.197.135.112 api.browser.yandex.ua
 18.197.135.118 mail.yandex.fr
 18.197.135.127 api.browser.yandex.ua
 18.197.135.158 mail.yandex.fr
@@ -7451,6 +7451,7 @@
 35.157.221.79 api.browser.yandex.ua
 35.157.221.176 predictor.yandex.net
 35.157.222.113 api.browser.yandex.ua
+35.157.222.162 api.browser.yandex.ua
 35.157.222.218 api.browser.yandex.ua
 35.157.223.36 mail.yandex.fr
 35.157.223.136 api.browser.yandex.ua
