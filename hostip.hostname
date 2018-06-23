@@ -4650,6 +4650,7 @@
 18.196.79.65 taxi.yandex.ru
 18.196.79.250 updater.mobile.yandex.net
 18.196.81.9 push.yandex.ua
+18.196.81.27 api.browser.yandex.ua
 18.196.83.30 api.browser.yandex.ua
 18.196.83.48 api.browser.yandex.ua
 18.196.83.164 downloader.disk.yandex.ua
@@ -11468,7 +11469,7 @@
 54.93.187.71 api.browser.yandex.ua
 54.93.188.25 sec.api.browser.yandex.ua
 54.93.188.112 api.browser.yandex.ua
-54.93.196.88 passport.yandex.com
+54.93.196.88 api.browser.yandex.ua
 54.93.197.148 avia.yandex.ru
 54.93.198.241 api.browser.yandex.ua
 54.93.200.86 api.browser.yandex.ua
