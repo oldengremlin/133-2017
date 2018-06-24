@@ -357,7 +357,7 @@
 18.184.101.68 passport.yandex.com
 18.184.101.128 api.browser.yandex.ua
 18.184.101.173 api.browser.yandex.ua
-18.184.101.174 pdd.yandex.ru
+18.184.101.174 api.browser.yandex.ua
 18.184.101.188 api.browser.yandex.ua
 18.184.101.223 api.browser.yandex.ua
 18.184.101.240 api.browser.yandex.ua
@@ -10208,6 +10208,7 @@
 52.57.223.184 api.browser.yandex.ua
 52.57.224.87 api.browser.yandex.ua
 52.57.225.198 api.browser.yandex.ua
+52.57.226.99 api.browser.yandex.ua
 52.57.226.101 api.browser.yandex.ua
 52.57.226.116 sec.api.browser.yandex.ua
 52.57.227.3 avia.yandex.ru
