@@ -1015,6 +1015,7 @@
 18.185.97.164 api.browser.yandex.ua
 18.185.102.45 api.browser.yandex.ua
 18.185.103.19 api.browser.yandex.ua
+18.185.107.35 pdd.yandex.ru
 18.185.108.166 api.browser.yandex.ua
 18.185.109.163 api.browser.yandex.ua
 18.185.110.166 mail.yandex.fr
@@ -11834,11 +11835,11 @@
 91.200.28.141 wmsc4.webmoney.ru
 91.200.28.142 wmsc4.webmoney.ru
 91.200.28.143 wmsc4.webmoney.ru
-91.200.28.144 wmsc2.webmoney.ru
-91.200.28.145 wmsc2.webmoney.ru
-91.200.28.146 wmsc2.webmoney.ru
-91.200.28.147 wmsc2.webmoney.ru
-91.200.28.148 wmsc2.webmoney.ru
+91.200.28.144 wmsc1.wmtransfer.com
+91.200.28.145 wmsc1.wmtransfer.com
+91.200.28.146 wmsc1.wmtransfer.com
+91.200.28.147 wmsc1.wmtransfer.com
+91.200.28.148 wmsc1.wmtransfer.com
 91.200.28.155 checksum.webmoney.ru
 91.200.28.156 telepay.wmtransfer.com
 91.200.28.157 merchant.wmtransfer.com
