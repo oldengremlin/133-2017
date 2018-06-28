@@ -1028,6 +1028,7 @@
 18.185.91.231 mail.yandex.ua
 18.185.92.243 mail.yandex.fr
 18.185.94.37 mail.yandex.ua
+18.185.94.110 api.browser.yandex.ua
 18.185.94.164 mail.yandex.fr
 18.185.95.76 api.browser.yandex.ua
 18.185.95.107 api.browser.yandex.ua
@@ -11573,6 +11574,7 @@
 54.93.116.75 api.browser.yandex.ua
 54.93.117.10 api.browser.yandex.ua
 54.93.117.60 api.browser.yandex.ua
+54.93.118.147 api.browser.yandex.ua
 54.93.122.62 sec.api.browser.yandex.ua
 54.93.124.154 api.browser.yandex.ua
 54.93.124.184 api.browser.yandex.ua
@@ -12342,6 +12344,7 @@
 195.93.246.230 audio1.video.ria.ru
 195.93.247.3 rs.sputniknews.com
 195.93.247.6 dc.ria.ru
+195.93.247.9 arabic.sputniknews.com
 195.93.247.24 pl.sputniknews.com
 195.93.247.50 a.ria.ru
 195.93.247.64 id.sputniknews.com
