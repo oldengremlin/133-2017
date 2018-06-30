@@ -5713,6 +5713,7 @@
 18.197.42.30 pdd.yandex.ru
 18.197.42.43 pdd.yandex.ru
 18.197.42.89 api.browser.yandex.ua
+18.197.43.7 api.browser.yandex.ua
 18.197.43.32 api.browser.yandex.ua
 18.197.43.42 sec.api.browser.yandex.ua
 18.197.43.66 api.browser.yandex.ua
@@ -11625,6 +11626,7 @@
 54.93.78.188 api.browser.yandex.ua
 54.93.79.217 api.browser.yandex.ua
 54.93.81.6 api.browser.yandex.ua
+54.93.82.88 api.browser.yandex.ua
 54.93.84.20 api.browser.yandex.ua
 54.93.84.26 metro.yandex.ru
 54.93.84.122 api.browser.yandex.ua
@@ -12487,6 +12489,7 @@
 212.5.89.37 eemea.activation-v2.kaspersky.com
 212.5.110.14 sync.manage-tablet.kaspersky.com
 212.5.110.18 moscow.center.kaspersky.com
+212.8.233.167 dnl-04.geo.kaspersky.com
 212.8.233.170 dnl-17.geo.kaspersky.com
 212.8.247.66 artv-news.ru
 212.12.70.52 mx1.karusel-tv.ru
