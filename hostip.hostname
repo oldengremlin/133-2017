@@ -10693,7 +10693,7 @@
 52.58.74.169 api.browser.yandex.ua
 52.58.74.220 api.browser.yandex.ua
 52.58.74.230 api.browser.yandex.ua
-52.58.75.125 pdd.yandex.ru
+52.58.75.125 api.browser.yandex.ua
 52.58.76.101 api.browser.yandex.ua
 52.58.76.169 api.browser.yandex.ua
 52.58.76.187 metro.yandex.ru
@@ -11775,6 +11775,7 @@
 54.93.191.207 n.maps.yandex.ru
 54.93.196.88 api.browser.yandex.ua
 54.93.196.181 api.browser.yandex.ua
+54.93.197.67 api.browser.yandex.ua
 54.93.197.148 avia.yandex.ru
 54.93.198.241 api.browser.yandex.ua
 54.93.200.86 api.browser.yandex.ua
@@ -12196,6 +12197,7 @@
 92.53.98.245 novosti-tchasa.com
 92.241.163.105 i-mult.tlum.ru
 92.242.41.93 rns01.drweb.com
+92.242.125.179 dnr-online.ru
 93.157.9.180 govdnr.ru
 93.157.10.114 r.tk-union.tv
 93.158.134.14 clck.yandex.ru
@@ -12395,6 +12397,7 @@
 149.5.244.33 rasp.yandex.ru
 149.5.244.42 rasp.yandex.ru
 149.5.244.50 n.maps.yandex.ru
+149.5.244.53 n.maps.yandex.ru
 149.5.244.72 metro.yandex.ru
 149.5.244.76 metro.yandex.ru
 149.5.244.82 metro.yandex.ru
