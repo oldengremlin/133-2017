@@ -8976,6 +8976,7 @@
 38.113.165.145 ksn-cinfo.geo.kaspersky.com
 38.113.165.148 ksn-cinfo.geo.kaspersky.com
 38.117.98.196 dnl-00.geo.kaspersky.com
+38.117.98.197 dnl-18.geo.kaspersky.com
 38.117.98.199 dnl-00.geo.kaspersky.com
 38.117.98.202 dnl-00.geo.kaspersky.com
 38.117.98.225 redirect.geo.kaspersky.com
@@ -12493,7 +12494,8 @@
 153.120.15.43 esuite.geo.drweb.com
 154.47.36.2 pdd.yandex.ru
 154.47.36.5 taxi.yandex.ru
-154.47.36.18 pdd.yandex.ru
+154.47.36.16 mail.yandex.fr
+154.47.36.18 api.browser.yandex.ua
 154.47.36.31 yandex.st
 154.47.36.35 rasp.yandex.ru
 154.47.36.39 mail.yandex.fr
