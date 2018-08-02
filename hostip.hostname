@@ -12449,7 +12449,7 @@
 149.5.244.11 taxi.yandex.ru
 149.5.244.12 api.browser.yandex.ua
 149.5.244.15 api.browser.yandex.ua
-149.5.244.17 tv.yandex.ru
+149.5.244.17 api.browser.yandex.ua
 149.5.244.19 yandex.fr
 149.5.244.20 rasp.yandex.ru
 149.5.244.21 informer.yandex.ru
@@ -12523,6 +12523,7 @@
 149.5.244.175 passport.yandex.com
 149.5.244.178 www.yandex.ua
 149.5.244.188 api.browser.yandex.ua
+149.5.244.191 www.yandex.ua
 149.5.244.195 yandex.ua
 149.5.244.198 yandex.fr
 149.5.244.199 mail.yandex.ua
