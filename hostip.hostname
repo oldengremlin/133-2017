@@ -12493,7 +12493,7 @@
 149.5.244.92 yandex.fr
 149.5.244.93 api.browser.yandex.ua
 149.5.244.94 api.browser.yandex.ua
-149.5.244.95 yandex.fr
+149.5.244.95 www.yandex.ua
 149.5.244.96 www.yandex.ua
 149.5.244.98 mail.yandex.fr
 149.5.244.102 avia.yandex.ru
@@ -12538,7 +12538,7 @@
 149.5.244.179 yandex.ua
 149.5.244.180 pdd.yandex.ru
 149.5.244.181 www.yandex.ua
-149.5.244.185 yandex.ua
+149.5.244.185 taxi.yandex.ru
 149.5.244.188 api.browser.yandex.ua
 149.5.244.191 www.yandex.ua
 149.5.244.195 yandex.ua
@@ -12566,6 +12566,7 @@
 154.47.36.16 mail.yandex.fr
 154.47.36.18 api.browser.yandex.ua
 154.47.36.19 yandex.ua
+154.47.36.20 n.maps.yandex.ru
 154.47.36.25 yandex.ua
 154.47.36.26 api.browser.yandex.ua
 154.47.36.30 api.browser.yandex.ua
@@ -12612,6 +12613,7 @@
 154.47.36.114 www.yandex.ua
 154.47.36.115 api.browser.yandex.ua
 154.47.36.116 mail.yandex.fr
+154.47.36.118 pdd.yandex.ru
 154.47.36.120 yandex.fr
 154.47.36.122 mail.yandex.fr
 154.47.36.123 yandex.fr
