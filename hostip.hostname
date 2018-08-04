@@ -12442,7 +12442,7 @@
 141.8.192.49 mgb-dnr.ru
 145.239.95.188 assets.webmoney.ru
 149.5.244.1 api.browser.yandex.ua
-149.5.244.2 yandex.fr
+149.5.244.2 n.maps.yandex.ru
 149.5.244.3 informer.yandex.ru
 149.5.244.4 api.browser.yandex.ua
 149.5.244.8 rasp.yandex.ru
@@ -12569,7 +12569,7 @@
 149.5.244.179 yandex.ua
 149.5.244.180 pdd.yandex.ru
 149.5.244.181 www.yandex.ua
-149.5.244.183 metro.yandex.ru
+149.5.244.183 avia.yandex.ru
 149.5.244.185 taxi.yandex.ru
 149.5.244.187 yandex.ua
 149.5.244.188 api.browser.yandex.ua
@@ -12595,6 +12595,7 @@
 154.47.36.1 www.yandex.ua
 154.47.36.2 pdd.yandex.ru
 154.47.36.5 taxi.yandex.ru
+154.47.36.6 afisha.yandex.ru
 154.47.36.9 www.yandex.ua
 154.47.36.10 www.yandex.ua
 154.47.36.13 pdd.yandex.ru
