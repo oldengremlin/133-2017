@@ -12527,7 +12527,7 @@
 149.5.244.104 api.browser.yandex.ua
 149.5.244.105 pdd.yandex.ru
 149.5.244.106 metro.yandex.ru
-149.5.244.108 www.yandex.ua
+149.5.244.108 taxi.yandex.ru
 149.5.244.110 www.yandex.ua
 149.5.244.111 afisha.yandex.ru
 149.5.244.112 rasp.yandex.ru
@@ -12540,7 +12540,7 @@
 149.5.244.119 n.maps.yandex.ru
 149.5.244.120 api.browser.yandex.ua
 149.5.244.121 pdd.yandex.ru
-149.5.244.122 yandex.ua
+149.5.244.122 yandex.fr
 149.5.244.123 avia.yandex.ru
 149.5.244.124 pdd.yandex.ru
 149.5.244.126 api.browser.yandex.ua
@@ -12711,7 +12711,7 @@
 154.47.36.128 avia.yandex.ru
 154.47.36.129 n.maps.yandex.ru
 154.47.36.130 informer.yandex.ru
-154.47.36.131 rasp.yandex.ru
+154.47.36.131 metro.yandex.ru
 154.47.36.132 afisha.yandex.ru
 154.47.36.133 www.yandex.ua
 154.47.36.134 api.browser.yandex.ua
@@ -12756,6 +12756,7 @@
 154.47.36.180 afisha.yandex.ru
 154.47.36.181 afisha.yandex.ru
 154.47.36.183 api.browser.yandex.ua
+154.47.36.184 afisha.yandex.ru
 154.47.36.185 api.browser.yandex.ua
 154.47.36.187 n.maps.yandex.ru
 154.47.36.188 n.maps.yandex.ru
