@@ -12403,8 +12403,8 @@
 104.18.53.221 cafe.ikrim.net
 104.24.104.202 lmi.paymaster.ua
 104.24.105.202 lmi.paymaster.ua
-104.24.120.155 www.news-front.info
-104.24.121.155 www.news-front.info
+104.24.120.155 social.news-front.info
+104.24.121.155 social.news-front.info
 104.27.180.59 miaistok.su
 104.27.180.72 gorlovka.today
 104.27.181.59 miaistok.su
@@ -12460,7 +12460,7 @@
 149.5.244.20 n.maps.yandex.ru
 149.5.244.21 informer.yandex.ru
 149.5.244.22 afisha.yandex.ru
-149.5.244.23 avia.yandex.ru
+149.5.244.23 afisha.yandex.ru
 149.5.244.24 yandex.ua
 149.5.244.25 api.browser.yandex.ua
 149.5.244.26 afisha.yandex.ru
@@ -12488,6 +12488,7 @@
 149.5.244.53 metro.yandex.ru
 149.5.244.54 afisha.yandex.ru
 149.5.244.55 pdd.yandex.ru
+149.5.244.56 avia.yandex.ru
 149.5.244.57 www.yandex.ua
 149.5.244.58 metro.yandex.ru
 149.5.244.59 yandex.fr
@@ -12616,6 +12617,7 @@
 154.47.36.14 mail.yandex.fr
 154.47.36.15 yandex.ua
 154.47.36.16 mail.yandex.fr
+154.47.36.17 pdd.yandex.ru
 154.47.36.18 api.browser.yandex.ua
 154.47.36.19 yandex.ua
 154.47.36.20 n.maps.yandex.ru
