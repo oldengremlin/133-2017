@@ -11943,6 +11943,7 @@
 80.231.123.133 dnl-13.geo.kaspersky.com
 80.233.187.42 push.webmoney.ru
 80.233.187.43 analytics.webmoney.ru
+80.239.142.146 ext-strm-telia02.strm.yandex.net
 80.239.169.147 aes.geo.kaspersky.com
 80.239.169.152 inter-fe.geo.kaspersky.com
 80.239.170.162 activation.kaspersky.com
@@ -12443,6 +12444,7 @@
 141.8.146.178 export.yandex.ru
 141.8.192.49 mgb-dnr.ru
 145.239.95.188 assets.webmoney.ru
+149.5.241.23 ext-strm-cogent07.strm.yandex.net
 149.5.244.1 api.browser.yandex.ua
 149.5.244.2 metro.yandex.ru
 149.5.244.3 informer.yandex.ru
@@ -12721,6 +12723,7 @@
 154.47.36.87 afisha.yandex.ru
 154.47.36.88 rasp.yandex.ru
 154.47.36.89 api.browser.yandex.ua
+154.47.36.90 yandex.ua
 154.47.36.91 avia.yandex.ru
 154.47.36.92 api.browser.yandex.ua
 154.47.36.93 metro.yandex.ru
