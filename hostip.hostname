@@ -12760,7 +12760,7 @@
 154.47.36.122 mail.yandex.fr
 154.47.36.123 pdd.yandex.ru
 154.47.36.124 yandex.ua
-154.47.36.125 www.yandex.ua
+154.47.36.125 api.browser.yandex.ua
 154.47.36.126 yandex.fr
 154.47.36.127 n.maps.yandex.ru
 154.47.36.128 avia.yandex.ru
@@ -12842,6 +12842,7 @@
 154.47.36.204 mail.yandex.fr
 154.47.36.205 rasp.yandex.ru
 154.47.36.206 www.yandex.ua
+154.47.36.207 yandex.ua
 154.47.36.208 metro.yandex.ru
 154.47.36.209 api.browser.yandex.ua
 154.47.36.210 yandex.ua
