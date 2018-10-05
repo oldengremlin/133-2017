@@ -97,7 +97,7 @@
 91.200.28.89 banking.guarantee.ru
 91.200.28.90 keeper.webmoney.ru
 91.200.28.104 bl.wmtransfer.com
-91.200.28.105 keeper.wmtransfer.com
+91.200.28.105 blog.wmtransfer.com
 91.200.28.108 banking.gdcert.com
 91.200.28.128 api4mini.webmoney.ru
 91.200.28.144 wmsc1.wmtransfer.com
@@ -134,7 +134,7 @@
 91.227.52.85 exchanger.ru
 91.227.52.90 keeper.webmoney.ru
 91.227.52.104 bl.wmtransfer.com
-91.227.52.105 keeper.wmtransfer.com
+91.227.52.105 blog.wmtransfer.com
 91.227.52.111 sms.webmoney.ru
 91.227.52.128 api4mini.webmoney.ru
 91.227.52.130 wmsc3.wmtransfer.com
@@ -407,7 +407,7 @@
 149.5.244.193 www.yandex.ua
 149.5.244.194 www.yandex.ua
 149.5.244.195 www.yandex.ua
-149.5.244.196 www.yandex.ua
+149.5.244.196 pdd.yandex.ru
 149.5.244.197 static.yandex.net
 149.5.244.198 www.yandex.ua
 149.5.244.199 api.browser.yandex.net
