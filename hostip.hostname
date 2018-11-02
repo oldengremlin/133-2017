@@ -22,7 +22,7 @@
 38.117.98.202 dnl-00.geo.kaspersky.com
 38.117.98.253 dnl-08.geo.kaspersky.com
 38.124.168.119 dnl-05.geo.kaspersky.com
-38.124.168.125 dnl-02.geo.kaspersky.com
+38.124.168.125 dnl-00.geo.kaspersky.com
 43.249.37.43 dnl-02.geo.kaspersky.com
 46.46.148.242 digitalrussia.tv
 46.46.160.203 download.geo.drweb.com
@@ -444,7 +444,7 @@
 149.5.244.201 static.yandex.sx
 149.5.244.202 www.yandex.ua
 149.5.244.203 www.yandex.ua
-149.5.244.204 rasp.yandex.ru
+149.5.244.204 pdd.yandex.ru
 149.5.244.205 yandex.ua
 149.5.244.206 mail.yandex.ua
 149.5.244.207 www.yandex.ua
