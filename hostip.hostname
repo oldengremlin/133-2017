@@ -52,6 +52,7 @@
 80.245.112.25 c-pravda.ru
 80.247.32.206 assets.vgtrk.com
 80.247.32.208 amp.vesti.ru
+80.247.35.20 ns.vgtrk.com
 81.27.251.41 ext-strm-rascom08.strm.yandex.net
 81.176.67.173 update.drweb.com
 82.112.185.98 c1.dev.drweb.com
@@ -245,7 +246,7 @@
 149.5.241.24 ext-strm-cogent08.strm.yandex.net
 149.5.241.26 ext-strm-cogent10.strm.yandex.net
 149.5.244.1 pdd.yandex.ru
-149.5.244.2 www.yandex.ua
+149.5.244.2 static.yandex.sx
 149.5.244.3 www.yandex.ua
 149.5.244.4 mail.yandex.ua
 149.5.244.5 api.browser.yandex.ru
