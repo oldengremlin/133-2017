@@ -39,7 +39,7 @@
 62.67.238.144 ksn-file.geo.kaspersky.com
 62.67.238.146 ksn-file.geo.kaspersky.com
 62.67.238.148 ksn-cinfo.geo.kaspersky.com
-62.67.238.150 ksn-verdict.geo.kaspersky.com
+62.67.238.150 ksn-crypto-wifiplus.geo.kaspersky.com
 69.172.201.153 yandex.ca
 77.222.56.73 rst-dnr.ru
 78.155.202.194 log.ren.tv
@@ -710,6 +710,7 @@
 178.248.236.20 de.sputniknews.com
 178.248.237.33 kotex.tnt-online.ru
 178.248.237.136 mundo.sputniknews.com
+184.106.81.37 backup-bar-navig.yandex.ru
 185.20.225.220 promedia.ru
 185.58.207.141 mc.yandex.re
 185.71.67.147 dnr-online.ru
