@@ -444,7 +444,7 @@
 149.5.244.187 rasp.yandex.ru
 149.5.244.188 news.yandex.ru
 149.5.244.189 metro.yandex.ru
-149.5.244.190 static.yandex.sx
+149.5.244.190 mail.yandex.fr
 149.5.244.191 n.maps.yandex.ru
 149.5.244.192 n.maps.yandex.ru
 149.5.244.193 www.yandex.ua
@@ -730,12 +730,12 @@
 185.114.137.166 dnmchs.ru
 185.125.219.235 sevastopol.press
 185.129.100.129 img2.ntv.ru
-185.129.100.131 xmedia.ntv.ru
+185.129.100.131 media.ntv.ru
 185.129.100.133 img.ntv.ru
 185.129.100.135 ntv.ru
 185.129.100.136 25.ntv.ru
 185.129.100.145 img2.ntv.ru
-185.129.100.147 xmedia.ntv.ru
+185.129.100.147 media.ntv.ru
 185.129.100.151 www.ntv.ru
 185.130.250.10 med.vesti.ru
 185.165.123.147 news-front.info
@@ -799,6 +799,7 @@
 195.93.247.144 oldimg1.ria.ru
 195.93.247.146 mobileimg.ria.ru
 195.93.247.150 fr.ria.ru
+195.93.247.174 arabic.sputniknews.com
 195.128.121.187 wbc.com.ru
 195.156.199.201 ns9.yandex.ru
 195.161.158.50 update.geo.drweb.com
