@@ -35,12 +35,12 @@
 51.254.201.70 assets.webmoney.ru
 52.58.15.159 ns6.yandex.ru
 62.67.238.136 ksn-catm.geo.kaspersky.com
-62.67.238.138 ksn-cinfo.geo.kaspersky.com
+62.67.238.138 ksn-catm.geo.kaspersky.com
 62.67.238.140 ksn-file.geo.kaspersky.com
 62.67.238.142 ksn-file.geo.kaspersky.com
 62.67.238.144 ksn-file.geo.kaspersky.com
 62.67.238.146 ksn-file.geo.kaspersky.com
-62.67.238.148 ksn-cinfo.geo.kaspersky.com
+62.67.238.148 ksn-catm.geo.kaspersky.com
 62.67.238.150 ksn-cinfo.geo.kaspersky.com
 69.172.201.153 yandex.ca
 77.222.56.73 rst-dnr.ru
@@ -386,7 +386,7 @@
 149.5.244.118 afisha.yandex.ru
 149.5.244.119 pdd.yandex.ru
 149.5.244.120 afisha.yandex.ru
-149.5.244.121 www.yandex.ua
+149.5.244.121 static.yandex.sx
 149.5.244.122 n.maps.yandex.ru
 149.5.244.123 avia.yandex.ru
 149.5.244.124 n.maps.yandex.ru
