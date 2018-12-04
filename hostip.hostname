@@ -321,7 +321,7 @@
 149.5.244.48 static.yandex.sx
 149.5.244.49 mail.yandex.fr
 149.5.244.50 push.yandex.ua
-149.5.244.51 n.maps.yandex.ru
+149.5.244.51 afisha.yandex.ru
 149.5.244.52 static.yandex.sx
 149.5.244.53 n.maps.yandex.ru
 149.5.244.54 static.yandex.sx
@@ -525,7 +525,7 @@
 154.47.36.27 metro.yandex.ru
 154.47.36.30 static.yandex.sx
 154.47.36.31 m.aws-proxy.disk.yandex.ua
-154.47.36.32 static.yandex.sx
+154.47.36.32 metro.yandex.ru
 154.47.36.33 static.yandex.sx
 154.47.36.34 afisha.yandex.ru
 154.47.36.35 www.yandex.ua
@@ -715,6 +715,7 @@
 154.47.36.227 www.yandex.ua
 154.47.36.229 yandex.ua
 154.47.36.231 pdd.yandex.ru
+154.47.36.235 static.yandex.sx
 159.69.8.55 dnr-live.ru
 162.159.24.206 ns7.yandex.ru
 162.159.25.147 ns8.yandex.ru
