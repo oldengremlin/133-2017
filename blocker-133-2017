@@ -40,9 +40,10 @@ my $fhostnames		= 'hostnames';
 my $fhostip		= 'hostip';
 my $fhostipdiff		= 'hostipdiff';
 my $fhostiphostname	= 'hostip.hostname';
+my $maxmask		= 33;
 
 my %opts;
-getopts('u:p:r:o', \%opts);
+getopts('u:p:r:om:', \%opts);
 unless (defined $opts{r} ) {
     say "-rrouter";
     exit 254;
@@ -54,6 +55,9 @@ unless (defined $opts{u} ) {
 unless (defined $opts{p} ) {
     say "-ppassword";
     exit 255;
+}
+if (defined $opts{p}) {
+    $maxmask = $opts{p} if int($opts{p})>0 && $opts{p}<33;
 }
 
 my (%hostip, %hostip_jun, $fh, $fho);
@@ -98,6 +102,7 @@ foreach my $asnet (@asnum) {
             my ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)};
             $hostip{$net} = 32 unless defined $hostip{$net};
             $hostip{$net} = $mask if $mask<$hostip{$net};
+            delete $hostip{$net} if $hostip{$net}>=$maxmask;
         }
     }
 
@@ -116,24 +121,26 @@ my $ipnet_jun_re = create_iprange_regexp( @ipnet_jun );
 my $ipnetre = create_iprange_regexp( @ipnet );
 
 say "Формуємо список ip-адрес для заданих імен хостів і додаємо їх, якщо вони не потрапляють у мережі AS-num…";
-open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
-open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
-while (<$fh>) {
-    next unless /^.+$/;
-    next if /^\s*#/;
-    chomp;
-    my @hosts = getHostIP($_);
-    foreach my $ip (@hosts) {
-        unless (match_ip($ip, $ipnetre)) {
-            unless (match_ip($ip, $ipnet_jun_re)) {
-                $hostip{$ip} = 32;
-                print $fho sprintf("%s %s\n", $ip, $_);
+if ($maxmask>31) {
+    open $fh,"<:utf8", $fhostnames or die "Can't open file $fhostnames :$!\n";
+    open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
+    while (<$fh>) {
+        next unless /^.+$/;
+        next if /^\s*#/;
+        chomp;
+        my @hosts = getHostIP($_);
+        foreach my $ip (@hosts) {
+            unless (match_ip($ip, $ipnetre)) {
+                unless (match_ip($ip, $ipnet_jun_re)) {
+                    $hostip{$ip} = 32;
+                    print $fho sprintf("%s %s\n", $ip, $_);
+                }
             }
         }
     }
+    close $fho;
+    close $fh;
 }
-close $fho;
-close $fh;
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
@@ -142,11 +149,13 @@ foreach my $netw ( keys %hostip_jun ) {
     if (defined $hostip{$netw}) {
         if ($hostip{$netw}>$hostip_jun{$netw}) {
             $hostip{$netw} = $hostip_jun{$netw};
+            delete $hostip{$netw} if $hostip{$netw}>=$maxmask;
         }
         next;
     }
     unless (match_ip($netw, $ipnetre)) {
         $hostip{$netw} = $hostip_jun{$netw};
+        delete $hostip{$netw} if $hostip{$netw}>=$maxmask;
     }
 }
 
