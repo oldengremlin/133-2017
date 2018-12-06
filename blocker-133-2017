@@ -21,21 +21,10 @@ my @asnum = (
     'AS21051',  # Limited liability company Mail.Ru
 
 # 06.12.2018
-'AS47764',
-'AS51286',
-'AS60476',
-'AS60863',
-'AS49988',
-'AS21051',
 'AS205830',
 'AS202447',
 'AS58116',
 'AS44903',
-
-# AS-M100
-# 06.12.2018
-'AS47764',
-'AS21051',
 
     # for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
     'AS47541',  # VKONTAKTE-SPB-AS
@@ -49,9 +38,7 @@ my @asnum = (
     'AS207207', # Yandex.OFD LLC
 
 # 06.12.2018
-'AS13238',
 'AS20144',
-'AS43247',
 'AS202611',
 
 #    'AS197068', # QRATOR (drweb.ru)
