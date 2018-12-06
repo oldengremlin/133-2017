@@ -56,8 +56,8 @@ unless (defined $opts{p} ) {
     say "-ppassword";
     exit 255;
 }
-if (defined $opts{p}) {
-    $maxmask = $opts{p} if int($opts{p})>0 && $opts{p}<33;
+if (defined $opts{m}) {
+    $maxmask = $opts{m} if int($opts{m})>0 && $opts{m}<33;
 }
 
 my (%hostip, %hostip_jun, $fh, $fho);
