@@ -41,9 +41,10 @@ my $fhostip		= 'hostip';
 my $fhostipdiff		= 'hostipdiff';
 my $fhostiphostname	= 'hostip.hostname';
 my $maxmask		= 33;
+my $commitcounter	= 10;
 
 my %opts;
-getopts('u:p:r:om:', \%opts);
+getopts('u:p:r:om:c:', \%opts);
 unless (defined $opts{r} ) {
     say "-rrouter";
     exit 254;
@@ -57,7 +58,10 @@ unless (defined $opts{p} ) {
     exit 255;
 }
 if (defined $opts{m}) {
-    $maxmask = $opts{m} if int($opts{m})>0 && $opts{m}<33;
+    $maxmask = int($opts{m}) if int($opts{m})>0 && $opts{m}<33;
+}
+if (defined $opts{c}) {
+    $commitcounter = int($opts{c}) if int($opts{c})>0;
 }
 
 my (%hostip, %hostip_jun, $fh, $fho);
@@ -178,7 +182,7 @@ foreach my $ip ( sortipv4( keys %hostip_jun ) ) {
 
 if (length($diff)>0) {
     say "Вносимо зміни до конфігурації…";
-    setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p});
+    setJunOSConfig($diff, $opts{r}, $opts{u}, $opts{p}, $commitcounter);
 
     open $fh,">:utf8", $fhostipdiff or die "Can't open file $fhostipdiff :$!\n";
     print $fh $diff;
@@ -205,20 +209,21 @@ sub setJunOSConfig {
     my $router = shift if @_;
     my $user = shift if @_;
     my $pass = shift if @_;
+    my $cc   = shift if @_;
 
-    my $ret = "";
+    my ($ret,$c) = ("",0);
     foreach my $line ( split("\n", $diff) ) {
         next unless $line =~ /^[+-]/;
+        next if $c>=$cc;
         $line =~ s/;$//;
         if ($line =~ /^-/) {
             $line =~ s/^-//;
-#            $ret .= sprintf("delete routing-options static route %s\n", $line);
             $ret .= sprintf("delete policy-options prefix-list 133-2017 %s\n", $line);
         } else {
             $line =~ s/^\+//;
-#            $ret .= sprintf("set routing-options static route %s reject\n", $line);
             $ret .= sprintf("set policy-options prefix-list 133-2017 %s\n", $line);
         }
+        $c++;
     }
     doCmd( $router, $user, $pass, $ret );
     return $ret;
@@ -231,8 +236,6 @@ sub getJunOSRejectStaticRoute {
 
     my $ssh = Net::OpenSSH->new( $router, user => $user, password => $pass, master_opts => [-o => "StrictHostKeyChecking=no"] );
     $ssh->error && die "Couldn't establish SSH connection: ". $ssh->error;
-#    my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration routing-options static | display set | match reject\$ | except 0.0.0.0/0 | no-more")) ));
-#    map { s,^[^0-9]+,,; s,\s+reject$,,; } @ret;
     my @ret = split("\n", join("", jCmd($ssh, sprintf("show configuration policy-options prefix-list 133-2017 | no-more")) ));
     map { s,;$,,; } @ret;
     undef $ssh;
