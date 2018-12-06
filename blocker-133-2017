@@ -212,9 +212,9 @@ sub setJunOSConfig {
     my $cc   = shift if @_;
 
     my ($ret,$c) = ("",0);
-    foreach my $line ( split("\n", $diff) ) {
+e:  foreach my $line ( split("\n", $diff) ) {
         next unless $line =~ /^[+-]/;
-        next if $c>=$cc;
+        next e if $c>=$cc;
         $line =~ s/;$//;
         if ($line =~ /^-/) {
             $line =~ s/^-//;
