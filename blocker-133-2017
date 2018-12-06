@@ -44,7 +44,26 @@ my $maxmask		= 33;
 my $commitcounter	= 10;
 
 my %opts;
-getopts('u:p:r:om:c:', \%opts);
+getopts('hu:p:r:om:c:', \%opts);
+if (defined $opts{h}) {
+    say "$0 -rrouter -uusername -ppassword [-mmask] [-cnum] [-h]
+
+    -r host - адреса маршрутизатора
+
+    -u username - користувач для доступу до маршрутизатора по ssh
+
+    -p password - пароль користувача для доступу до маршрутизатора по ssh
+
+    -m num - максимальна маска (більше 0, але менша чи дорівнює 32).
+    Мережі менші за максимальну маску мають ігноруватися.
+
+    -c num - лічильник команд за змінами, що мають виконатися за один
+    прохід (за замовченням - 10)
+
+    -h - ця довідка по опціям (вивести та припинити виконання)
+";
+    exit 253;
+}
 unless (defined $opts{r} ) {
     say "-rrouter";
     exit 254;
