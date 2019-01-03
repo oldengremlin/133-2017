@@ -21,7 +21,7 @@ my @asnum = (
     'AS21051',  # Limited liability company Mail.Ru
 
 # 06.12.2018
-'AS205830',
+'AS205830',		# MRGROUP INVESTMENTS LIMITED
 'AS202447',
 'AS58116',
 'AS44903',
@@ -40,6 +40,10 @@ my @asnum = (
 # 06.12.2018
 'AS20144',
 'AS202611',
+
+# 03.01.2019
+'AS199295',		# M100
+'AS49281',		# AS-M100
 
 #    'AS197068', # QRATOR (drweb.ru)
 
