@@ -11,9 +11,10 @@ afisha.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
+an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
-api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -29,8 +30,8 @@ bizdnr.ru
 bober-tv.ru
 browser.yandex.ru
 brttv.ru
+bs-metadsp.yandex.ru
 calendar.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -46,10 +47,13 @@ direct.yandex.ru
 disk.yandex.ru
 dnipress.com
 dnl-01.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -60,8 +64,6 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 domkino-premium.tv
 domkino.tv
@@ -87,13 +89,12 @@ govdnr.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 kaspersky.ru
 kassa.yandex.ru
 katyusha.tv
@@ -121,7 +122,6 @@ mail.ru
 mail.wmid.com
 mail.yandex.ua
 market.yandex.ru
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -163,7 +163,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
+mx3.marina.yandex.ru
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -177,12 +177,12 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns3.vkontakte.ru
-ns3.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth.vk.com
+oaut.vk.com
 on-line.lg.ua
 otr-online.ru
 partner.yandex.ru
@@ -191,6 +191,7 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 promedia.ru
+punto.yandex.ru
 rabota.yandex.ru
 radiovera.ru
 radio.yandex.ua
@@ -218,7 +219,6 @@ security.wmtransfer.com
 sevastopol.press
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3-proxy.maps.yandex.net
 speechkit.yandex.ru
@@ -235,6 +235,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.ru
 travel.yandex.ru
 tribunal.dnr-online.ru
@@ -248,9 +249,7 @@ tvzvezda.ru
 ubp.com.ua
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
-vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
@@ -265,11 +264,12 @@ wmsc2.webmoney.ru
 wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
+www.api.vk.com
 www.capitaller.ru
 www.kaspersky.ru
 www.kinopoisk.ru
 www.mail.ru
-www.oaut.vk.com
+www.m.vk.com
 www.ok.ru
 www.vk.com
 xml.yandex.ru
@@ -277,4 +277,4 @@ yalta-tv.ru
 yaltatv.ru
 yandexdatafactory.com
 yandex.ru
-ysa-static.passport.yandex.ru
+yandex.st
