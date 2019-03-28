@@ -12,10 +12,7 @@ use Text::Diff;
 use IPC::Open3;
 
 my @asnum = (
-	# ( ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-M100 | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
-	# ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'y
-    # ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'
-    # ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'
+	# ( ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-M100 | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( whois -h whois.ripe.net -- '-i mnt-by YANDEX-MNT' | awk '$1~/^aut-num:/ { print $2 }' ) ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
 
 'AS13238',
 'AS20144',
@@ -33,11 +30,12 @@ my @asnum = (
 'AS60476',
 'AS60863',
 'AS199295',
+'AS200350',
 'AS202447',
 'AS202611',
 'AS205830',
+'AS207207',
 
-    'AS207207', # Yandex.OFD LLC
 #    'AS197068', # QRATOR (drweb.ru)
     'AS200107'  # KL-EXT (kaspersky.ru)
 );
