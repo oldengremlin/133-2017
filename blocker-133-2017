@@ -45,6 +45,9 @@ my @asnum = (
 'AS199295',		# M100
 'AS49281',		# AS-M100
 
+# 28.03.2019
+'AS13238',		# YANDEX
+
 #    'AS197068', # QRATOR (drweb.ru)
 
     'AS200107'  # KL-EXT (kaspersky.ru)
