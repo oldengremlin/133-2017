@@ -11,6 +11,7 @@ use Net::IP::Match::Regexp qw( create_iprange_regexp match_ip );
 use Text::Diff;
 use IPC::Open3;
 
+# ( ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-M100 | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -u | sed "s/^/AS/"
 my @asnum = (
 	# ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'y
     'AS47764',  # Limited liability company Mail.Ru
