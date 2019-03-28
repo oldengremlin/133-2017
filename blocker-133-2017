@@ -12,8 +12,7 @@ use Text::Diff;
 use IPC::Open3;
 
 my @asnum = (
-	# ( ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-M100 | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( whois -h whois.ripe.net -- '-i mnt-by YANDEX-MNT' | awk '$1~/^aut-num:/ { print $2 }' ); ( whois -h whois.ripe.net -- '-i mnt-by KL-MNT' | awk '$1~/^aut-num:/ { print $2 }' ); ( whois -h whois.ripe.net -- '-i mnt-by MNT-QRATOR-LIR' | awk '$1~/^aut-num:/ { print $2 }' ) ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
-
+	# ( ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( for AS in $( whois AS-M100 | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ); ( whois -h whois.ripe.net -- '-i mnt-by YANDEX-MNT' | awk '$1~/^aut-num:/ { print $2 }' ); ( whois -h whois.ripe.net -- '-i mnt-by KL-MNT' | awk '$1~/^aut-num:/ { print $2 }' ); ( whois -h whois.ripe.net -- '-i mnt-by MNT-QRATOR-LIR' | awk '$1~/^aut-num:/ { print $2 }' ); ( whois -h whois.ripe.net -- '-i mnt-by MNT-NETBRIDGE' | awk '$1~/^aut-num:/ { print $2 }' ) ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
 'AS13238',
 'AS20144',
 'AS21051',
@@ -25,6 +24,7 @@ my @asnum = (
 'AS47542',
 'AS47764',
 'AS49281',
+'AS49797',
 'AS49988',
 'AS51286',
 'AS58116',
