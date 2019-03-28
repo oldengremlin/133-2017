@@ -12,7 +12,7 @@ use Text::Diff;
 use IPC::Open3;
 
 my @asnum = (
-    # for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+	# ( for AS in $( whois AS-MAILRU | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'y
     'AS47764',  # Limited liability company Mail.Ru
     'AS51286',  # Limited liability company Mail.Ru
     'AS60476',  # Limited liability company Mail.Ru
@@ -26,12 +26,12 @@ my @asnum = (
 'AS58116',
 'AS44903',
 
-    # for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+    # ( for AS in $( whois AS-VKONTAKTE | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'
     'AS47541',  # VKONTAKTE-SPB-AS
     'AS47542',  # VKONTAKTE-MSK-CDN-AS
     'AS28709',  # VKONTAKTE-REGIONAL-CDN
 
-    # for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done
+    # ( for AS in $( whois AS-YANDEX | awk '$1~/^members:/ { print $2 }'); do echo ${AS}; whois ${AS} | egrep "^(role|as-name|org-name)"; done ) | awk '/^AS[0-9]+/'
     'AS13238',  # YANDEX LLC
     'AS43247',  # "Yandex.Money" NBCO LLC
     'AS202611', # Yandex Cloud Technologies LLC
@@ -44,9 +44,6 @@ my @asnum = (
 # 03.01.2019
 'AS199295',		# M100
 'AS49281',		# AS-M100
-
-# 28.03.2019
-'AS13238',		# YANDEX
 
 #    'AS197068', # QRATOR (drweb.ru)
 
