@@ -171,12 +171,16 @@ if ($maxmask>31) {
         }
     }
 
-    print $fho sprintf("%s %s\n", '104.25.102.28', 'legalizer.info');
-    print $fho sprintf("%s %s\n", '104.25.103.28', 'legalizer.info');
 
     close $fho;
     close $fh;
 }
+
+open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
+    print $fho sprintf("%s %s\n", '104.25.102.28', 'legalizer.info');
+    print $fho sprintf("%s %s\n", '104.25.103.28', 'legalizer.info');
+close $fho;
+
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
