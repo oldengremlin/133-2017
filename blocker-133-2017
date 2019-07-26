@@ -170,8 +170,6 @@ if ($maxmask>31) {
             }
         }
     }
-
-
     close $fho;
     close $fh;
 }
