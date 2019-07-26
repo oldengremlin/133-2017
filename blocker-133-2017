@@ -176,11 +176,6 @@ if ($maxmask>31) {
     close $fh;
 }
 
-open $fho,">>:utf8", $fhostiphostname or die "Can't open file $fhostiphostname :$!\n";
-    print $fho sprintf("%s %s\n", '104.25.102.28', 'legalizer.info');
-    print $fho sprintf("%s %s\n", '104.25.103.28', 'legalizer.info');
-close $fho;
-
 system(sprintf("sort -u %s | sort -u -t . -k 1,1n -k 2,2n -k 3,3n -k 4,4n > /tmp/%s", $fhostiphostname, $fhostiphostname."~" ));
 system(sprintf("mv /tmp/%s %s", $fhostiphostname."~", $fhostiphostname ));
 
@@ -203,6 +198,11 @@ say "Формуємо списки для порівняння…";
 my (@netlist_old, @netlist_new);
 foreach my $netw ( sortipv4( keys %hostip_jun ) ) { push @netlist_old, sprintf("%s/%s", $netw, $hostip_jun{$netw}); }
 foreach my $netw ( sortipv4( keys %hostip ) ) { push @netlist_new, sprintf("%s/%s", $netw, $hostip{$netw}); }
+
+# https://nkrzi.gov.ua/index.php?r=site/index&pg=99&id=1746&language=uk
+push @netlist_new, '104.25.102.28/32' unless defined $hostip{'104.25.102.28'};
+push @netlist_new, '104.25.103.28/32' unless defined $hostip{'104.25.103.28'};
+
 my ($netlist_old, $netlist_new) = ( join("\n", @netlist_old), join("\n", @netlist_new) );
 
 say "Проводимо порівняння…";
