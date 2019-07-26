@@ -170,6 +170,10 @@ if ($maxmask>31) {
             }
         }
     }
+
+    print $fho sprintf("%s %s\n", '104.25.102.28', 'legalizer.info');
+    print $fho sprintf("%s %s\n", '104.25.103.28', 'legalizer.info');
+
     close $fho;
     close $fh;
 }
