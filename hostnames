@@ -16,7 +16,9 @@ api.browser.yandex.ru
 api.browser.yandex.ua
 api.vk.com
 api.weather.yandex.ru
+app-97271.games.s3.yandex.net
 app-97650.games.s3.yandex.net
+app-98630.games.s3.yandex.net
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -29,8 +31,10 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
+courier.online.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -39,6 +43,7 @@ crimea.ria.ru
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
+distbuild03d.search.yandex.net
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
@@ -72,10 +77,13 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
+informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -87,6 +95,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -98,6 +107,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.ru
 mchs-lnr.su
@@ -198,6 +208,8 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
+soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -214,9 +226,11 @@ trkekran.mybb.ru
 trk-luch.ru
 trkmillet.ru
 tsiklnr.su
+tune.yandex.ru
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
