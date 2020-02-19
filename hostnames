@@ -22,6 +22,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avia.yandex.ua
 banking.gdcert.com
 banking.guarantee.ru
@@ -114,6 +115,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -153,13 +155,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -176,7 +172,9 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -251,6 +249,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
@@ -292,6 +291,8 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+smtp.yandex.ru
+smtp.yandex.ua
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -307,6 +308,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -375,5 +377,5 @@ yandex.st
 yandex.tm
 yandex.ua
 yandex.uz
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 zen.yandex.ru
