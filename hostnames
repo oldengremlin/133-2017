@@ -11,7 +11,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
@@ -53,6 +52,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 drweb.server
 eizvestia.com
 elmi.ua
@@ -73,7 +73,6 @@ ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -87,10 +86,13 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 kp.cdn.yandex.net
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -106,6 +108,7 @@ maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -126,11 +129,9 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.navi.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
-money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -165,15 +166,12 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
@@ -189,7 +187,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -202,6 +199,7 @@ security.wmtransfer.com
 sevastopol.press
 site.yandex.net
 smdnr.ru
+soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -210,7 +208,7 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-translate.yandex.net
+touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -219,7 +217,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uniproxy.alice.yandex.net
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
@@ -240,7 +237,6 @@ wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.kz
-www.translate.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -249,12 +245,10 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
 yastroka.yandex.net
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
-zen.yandex.ru
