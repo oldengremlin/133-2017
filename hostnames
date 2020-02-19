@@ -11,6 +11,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
@@ -28,10 +29,10 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
-bs.yandex.ru
 c-eho.info
 c-inform.info
 cloud-api.yandex.net
+courier.online.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -74,7 +75,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -92,6 +92,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -105,10 +106,9 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -122,11 +122,12 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
+mail.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -164,6 +165,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -186,6 +188,8 @@ ntv.ru
 oauth.vk.com
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
+p16.upd.kaspersky.com
 p18.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
@@ -197,9 +201,9 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.ua
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
@@ -207,6 +211,7 @@ prd.geo.kaspersky.com
 promedia.ru
 proxy.mob.maps.yandex.net
 radiovera.ru
+radio.yandex.ru
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -216,7 +221,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -284,14 +288,10 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
 yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
-yandex.ua
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
-zen.yandex.com
-zen.yandex.ru
