@@ -21,7 +21,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -31,9 +30,7 @@ bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
-c1.dev.drweb.com
 c2.dev.drweb.com
-c6.dev.drweb.com
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -42,13 +39,12 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-cs628018.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
@@ -104,7 +100,9 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -116,8 +114,10 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
+maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -205,6 +205,7 @@ promedia.ru
 push.yandex.ua
 queuev4.vk.com
 radiovera.ru
+radio.yandex.ru
 realty.ria.ru
 ren.tv
 reporter-crimea.ru
@@ -219,12 +220,10 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
@@ -235,8 +234,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
-translate.yandex.by
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -245,8 +242,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.drweb.com
-update.geo.drweb.com
 vec01.maps.yandex.net
 vec02.maps.yandex.net
 vec03.maps.yandex.net
@@ -272,6 +267,7 @@ wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.com
 www.translate.yandex.ua
+www.yandex.com
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -284,8 +280,10 @@ yandex.fr
 yandex.net
 yandex.ru
 yandex.st
+yandex.ua
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
