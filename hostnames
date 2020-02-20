@@ -17,6 +17,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -45,7 +46,7 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -63,6 +64,7 @@ dommintrans.ru
 donbass.media
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -78,6 +80,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -89,6 +92,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1-file.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -102,8 +106,10 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -124,6 +130,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -140,7 +147,6 @@ music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -197,7 +203,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -233,6 +238,8 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.com
+xeno.mail.yandex.net
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -243,5 +250,6 @@ yaltatv.ru
 yandex.net
 yandex.ru
 yandex.st
+yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
