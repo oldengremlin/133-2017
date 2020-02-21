@@ -4,6 +4,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
 5-tv.ru
 61928.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -14,7 +15,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -44,14 +44,11 @@ dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -83,7 +80,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 im.vk.com
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -95,10 +91,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -132,7 +131,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -143,9 +141,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.kz
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -170,13 +165,16 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
-passport.yandex.tm
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -203,7 +201,6 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -225,6 +222,7 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
 vremya.tv
@@ -240,7 +238,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -248,8 +245,8 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.ru
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
