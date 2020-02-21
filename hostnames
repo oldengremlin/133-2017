@@ -16,7 +16,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 app.tanker.yandex.net
@@ -32,7 +31,6 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-bs-metadsp.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -43,6 +41,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
+crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -70,7 +69,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.yandex.ru
 eizvestia.com
 elmi.ua
@@ -101,7 +99,14 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -112,12 +117,10 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-mail.yandex.ru
-maps.yandex.ua
+maps.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ru.HomeGateway
 mc.yandex.ua
@@ -145,7 +148,6 @@ minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -155,7 +157,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -235,7 +236,6 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 top-fwz1.mail.ru.HomeGateway
-touch.kaspersky.com
 translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -245,7 +245,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
