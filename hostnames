@@ -23,7 +23,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
@@ -32,6 +31,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+cache-spb04.cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -71,6 +71,7 @@ events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
+funding.webmoney.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -151,7 +152,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -210,12 +210,12 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 storage.mds.yandex.net
 tapoc.trbo.yandex.net
@@ -225,9 +225,7 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 translate.yandex.by
-translate.yandex.fr
 translate.yandex.kz
-translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
