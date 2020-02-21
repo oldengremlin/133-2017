@@ -37,8 +37,6 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -52,7 +50,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -81,6 +78,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -179,8 +181,11 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
+share.yandex.ru
+site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -189,7 +194,7 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-translate.yandex.fr
+touch.kaspersky.com
 translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -201,7 +206,6 @@ tvzvezda.ru
 ubp.com.ua
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vremya.tv
 wbc.com.ru
@@ -228,4 +232,6 @@ yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
