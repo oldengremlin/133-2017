@@ -38,7 +38,9 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -154,8 +156,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns3.yandex.ru
-ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -165,12 +165,8 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.ee
-passport.yandex.kg
 passport.yandex.kz
-passport.yandex.md
 passport.yandex.ru
-passport.yandex.tj
 paymaster.ua
 poehali.tv
 promedia.ru
@@ -198,7 +194,6 @@ soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
-startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -244,4 +239,4 @@ yandex.st
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
