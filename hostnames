@@ -157,6 +157,7 @@ passport.yandex.az
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.kg
+passport.yandex.lt
 passport.yandex.md
 passport.yandex.tj
 passport.yandex.tm
@@ -164,6 +165,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+pp.vk.me
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -206,6 +208,7 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -230,4 +233,5 @@ yandex.ru
 yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
