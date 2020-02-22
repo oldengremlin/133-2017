@@ -12,6 +12,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.lbs.yandex.net
 api.lbs.yandex.ua
 api-maps.yandex.ru
 api.passport.yandex.ru
@@ -21,6 +22,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 avatars.mds.yandex.net
 awaps.yandex.ru
+awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -28,12 +30,14 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brontp.yandex.ru
+browser-updater.yandex.net
+browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
-bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+collections.yandex.ua
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -63,6 +67,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -93,6 +98,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
@@ -106,7 +112,6 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail.ru.HomeGateway
 mail.wmid.com
-mail.yandex.ua
 maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -163,12 +168,14 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -183,7 +190,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-pop.yandex.com
+pp.vk.me
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -211,6 +218,7 @@ sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -218,9 +226,11 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
-st.kp.yandex.net
+storage.mds.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
+suggest.yandex.net
+suggest.yandex.ru
 tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -243,6 +253,7 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -265,10 +276,11 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.net
 yandex.ru
-yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+zen.yandex.com
