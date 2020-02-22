@@ -1,5 +1,4 @@
 100kwt.com
-137715.redirect.appmetrica.yandex.com
 167360.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -17,11 +16,13 @@ an.yandex.ru
 any.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 avatars.mds.yandex.net
+avatars.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -29,9 +30,12 @@ banks.webmoney.ru
 bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
+browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
+captcha-backgrounds.s3.yandex.net
+cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -45,6 +49,9 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -66,6 +73,7 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
+ext.captcha.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 funding.webmoney.ru
@@ -99,10 +107,12 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 maps.yandex.ru
 maps.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -110,6 +120,7 @@ merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
+metrokit-service.maps.yandex.net
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -129,7 +140,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -147,6 +157,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx.yandex.net
 nashe.ru
 news-front.info
 nm-g.ru
@@ -156,6 +167,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -205,11 +218,12 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
-soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
+suggest.yandex.net
 suggest.yandex.ru
 tc.mobile.yandex.net
 telecafe.ru
@@ -227,12 +241,12 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uc.taxi.yandex.net
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -262,4 +276,3 @@ yandex.ua
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
