@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 aab-pub.s3.yandex.net
@@ -19,7 +20,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
@@ -78,6 +78,7 @@ glavstat.govdnr.ru
 gorlovka.today
 gorod.mfront01hp.yandex.ru
 gtklnr.su
+http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
@@ -91,7 +92,6 @@ kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
-keyboard.yandex.net
 kianews24.ru
 kianews.com.ua
 komtv.org
@@ -106,7 +106,9 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -114,6 +116,7 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrica.yandex.com
 metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
@@ -144,6 +147,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -163,11 +167,14 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
+p07.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -178,6 +185,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -185,6 +193,7 @@ pp.vk.me
 promedia.ru
 push.yandex.ru
 radiovera.ru
+radio.yandex.ru
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -206,13 +215,13 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+storage.ape.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -221,6 +230,7 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.kz
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -230,7 +240,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-ursa-major.keyboard.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -259,14 +268,13 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-ya-keyboard.s3.yandex.net
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
-yastroka.yandex.net
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
