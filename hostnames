@@ -31,15 +31,12 @@ brttv.ru
 bs.yandex.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
-courier.online.yandex.net
 c-pravda.ru
 crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -47,7 +44,9 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnmchs.ru
@@ -64,7 +63,6 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -84,7 +82,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-im-tub.yandex.com
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -116,7 +113,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -212,14 +208,18 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
+soft.export.yandex.ru
 sovminlnr.su
+spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.kz
 translate.yandex.net
 tribunal.dnr-online.ru
@@ -264,3 +264,4 @@ yandex.st
 yandex.ua
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
