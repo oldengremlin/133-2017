@@ -17,8 +17,8 @@ api.browser.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,9 +41,13 @@ dnipress.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -59,6 +63,7 @@ dommintrans.ru
 donbass.media
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -74,6 +79,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -84,10 +90,14 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -161,6 +171,7 @@ passport.yandex.az
 passport.yandex.ee
 passport.yandex.kg
 passport.yandex.lt
+passport.yandex.lv
 passport.yandex.md
 passport.yandex.tj
 passport.yandex.tm
@@ -187,10 +198,11 @@ russia.tv
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -233,3 +245,4 @@ yaltatv.ru
 yandex.com
 yandex.ru
 yandex.ua
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
