@@ -6,7 +6,6 @@
 1tvcrimea.ru
 4.redirect.appmetrica.yandex.com
 5-tv.ru
-634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 987338539.verify.yandex.ru
 admin-gorlovka.ru
@@ -36,6 +35,7 @@ browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 c2.dev.drweb.com
+c6.dev.drweb.com
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -54,6 +54,8 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -69,6 +71,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.geo.drweb.com
 download.yandex.ru
 eizvestia.com
 elmi.ua
@@ -90,7 +93,9 @@ http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
 imap.yandex.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -114,9 +119,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
-mail.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
@@ -127,7 +130,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -173,11 +175,12 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -217,6 +220,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 s3.yandex.net
+sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -224,7 +228,6 @@ sevastopol.press
 share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -235,7 +238,7 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
+translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -253,7 +256,6 @@ vk.com
 vk.me
 vremya.tv
 wbc.com.ru
-webasr.yandex.net
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -280,6 +282,7 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
