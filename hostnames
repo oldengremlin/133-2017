@@ -34,7 +34,6 @@ bs.yandex.ru
 c6.dev.drweb.com
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -47,6 +46,8 @@ digitalrussia.tv
 dnipress.com
 dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -94,7 +95,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-cinfo.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -103,9 +103,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.ru
-maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -180,6 +180,7 @@ paymaster.ua
 poehali.tv
 promedia.ru
 radiovera.ru
+rasp.yandex.ua
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -195,7 +196,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -204,11 +204,11 @@ share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static.yandex.sx
+st.kp.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -224,12 +224,14 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -244,6 +246,7 @@ wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
 www.yandex.com
+www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -251,7 +254,7 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.fr
+yandexnavi.s3.yandex.net
 yandex.ru
 yandex.st
 yandex.ua
