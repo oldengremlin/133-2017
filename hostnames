@@ -21,6 +21,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 avatars.yandex.net
 banking.gdcert.com
@@ -29,9 +30,7 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
-bs.yandex.ru
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -41,13 +40,16 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crl.kaspersky.com
 crossdist.yandex.net
 cs313330.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-12.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -66,6 +68,7 @@ download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -77,7 +80,6 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
@@ -94,6 +96,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -129,6 +132,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -155,11 +159,11 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -198,7 +202,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -210,17 +213,16 @@ sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
-tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+tr1.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -250,6 +252,7 @@ wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.kz
+www.translate.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -264,6 +267,5 @@ yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
