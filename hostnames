@@ -1,5 +1,6 @@
 100kwt.com
 19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -18,7 +19,6 @@ arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
-avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,9 +41,6 @@ dnipress.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -109,6 +106,7 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -131,8 +129,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mirror.yandex.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -148,7 +146,6 @@ music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -180,6 +177,7 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 promedia.ru
+push.yandex.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -210,7 +208,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -222,7 +219,9 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -236,6 +235,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.translate.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -247,3 +247,5 @@ yandex.ru
 yandex.ua
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+zen.yandex.ru
