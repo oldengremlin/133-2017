@@ -8,6 +8,7 @@
 1tvcrimea.ru
 29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -20,6 +21,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -33,6 +35,7 @@ bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -94,9 +97,11 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -214,6 +219,8 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
+update.geo.drweb.com
+updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -245,5 +252,6 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
