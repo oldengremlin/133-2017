@@ -16,13 +16,14 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars-fast.yandex.net
 avatars.mds.yandex.net
+awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -31,6 +32,8 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
+c1.dev.drweb.com
+c6.dev.drweb.com
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -39,7 +42,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -68,7 +70,6 @@ download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 favicon.yandex.net
@@ -80,11 +81,10 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
+http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
-imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -109,6 +109,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.com
 maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -144,12 +145,11 @@ mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
+m.taxi.yandex.ru
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.kz
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -171,8 +171,10 @@ ntv.ru
 oauth.vk.com
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
@@ -189,9 +191,9 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 promedia.ru
-push.yandex.ru
 radiovera.ru
 realty.ria.ru
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -210,7 +212,6 @@ searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
@@ -262,7 +263,6 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.fj
 yandex.fr
 yandexnavi.s3.yandex.net
 yandex.net
@@ -273,4 +273,3 @@ yastroka.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
