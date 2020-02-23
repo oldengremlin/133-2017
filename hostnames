@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -13,7 +14,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -21,7 +21,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
-awaps.yandex.ru
 awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
@@ -48,11 +47,11 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -67,8 +66,10 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.yandex.ru
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -85,20 +86,20 @@ ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
+im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-launcher-cache.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -107,6 +108,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 maps.yandex.ru
@@ -117,6 +119,7 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.ru
 metro.yandex.by
 metro.yandex.ru
 mgb-dnr.ru
@@ -136,7 +139,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -155,6 +157,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -170,9 +173,11 @@ ntvplus.ru
 ntv.ru
 on-line.lg.ua
 otr-online.ru
+p01.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -188,9 +193,11 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 radiovera.ru
 radio.yandex.ru
 realty.ria.ru
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -215,7 +222,7 @@ soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-suggest.yandex.ru
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -230,8 +237,8 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uniproxy.alice.yandex.net
 update.geo.drweb.com
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -267,6 +274,6 @@ yandex.st
 yandex.ua
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
-zen.yandex.ua
