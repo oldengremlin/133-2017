@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -14,10 +13,9 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
+api.lbs.yandex.net
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -31,6 +29,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+bs-metadsp.yandex.ru
 c6.dev.drweb.com
 c-eho.info
 c-inform.info
@@ -40,7 +39,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-cryprox.yandex.net
 cs623327.vk.me
 dan-news.info
 debt.wmtransfer.com
@@ -62,16 +60,15 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.geo.drweb.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
-free.drweb.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -82,6 +79,7 @@ gtklnr.su
 http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -104,6 +102,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.ru
 maps.yandex.com
 maps.yandex.ua
 matchid.adfox.yandex.ru
@@ -132,7 +131,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mondnr.ru
-money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -163,6 +161,8 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -170,7 +170,9 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -199,10 +201,9 @@ s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
-share.yandex.ru
 site.yandex.net
 smdnr.ru
+soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -228,7 +229,6 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -256,5 +256,8 @@ yandex.ru
 yandex.st
 yandex.ua
 ysa-static.passport.yandex.ru
-zakladki.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+zen.yandex.com
 zen.yandex.ru
