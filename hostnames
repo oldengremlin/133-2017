@@ -4,8 +4,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -17,6 +15,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
+api.passport.yandex.ru
 api.vk.com
 api.yandex.ru
 arbitrage.webmoney.ru
@@ -34,6 +33,9 @@ bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
+c1.dev.drweb.com
+c2.dev.drweb.com
+c6.dev.drweb.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -49,8 +51,7 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-02.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -72,6 +73,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+f2.drweb.com
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -81,12 +83,15 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 grade.market.yandex.ru
+gsi.drweb.com
 gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -94,6 +99,7 @@ kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
+keyboard.yandex.net
 kianews24.ru
 kianews.com.ua
 komtv.org
@@ -102,15 +108,16 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
@@ -155,7 +162,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -175,8 +181,8 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -196,7 +202,6 @@ radiovera.ru
 radio.yandex.ru
 realty.ria.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -233,6 +238,7 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.fr
 translate.yandex.net
 tribunal.dnr-online.ru
@@ -244,6 +250,7 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
+update.drweb.com
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
@@ -256,6 +263,7 @@ wbc.com.ru
 webdav.tst.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -273,11 +281,14 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.fr
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
