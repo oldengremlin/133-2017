@@ -6,8 +6,6 @@
 1tvcrimea.ru
 284530.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
-42989.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -35,17 +33,21 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
-bs-meta.yandex.ru
 bs.yandex.ru
+c1.dev.drweb.com
+c2.dev.drweb.com
+c6.dev.drweb.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
+crls.yandex.ru
 crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -56,6 +58,10 @@ dnl-03.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -103,6 +109,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+launcher-cache.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -115,7 +122,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 maps.yandex.com
-maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -126,7 +132,6 @@ merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
-metro.yandex.by
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -155,6 +160,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ru
 muz1.tv
 mvddnr.ru
@@ -181,8 +187,6 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
-passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -195,6 +199,7 @@ passport.yandex.ua
 paymaster.ua
 poehali.tv
 pop.yandex.com
+pp.vk.me
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -221,12 +226,10 @@ share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
 storage.ape.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -234,6 +237,7 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.fr
 translate.yandex.net
 translate.yandex.ru
@@ -247,6 +251,7 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+uptime-info.yandex.ru
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -257,6 +262,9 @@ vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webdav-proxy.disk.yandex.net
+webdav.tst.yandex.ru
+webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -283,7 +291,7 @@ yandex.ru
 yandex.st
 yandex.ua
 ysa-static.passport.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.ru
+zen.yandex.ua
