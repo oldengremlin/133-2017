@@ -15,8 +15,10 @@ an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
+api-maps.yandex.ru
 api-maps.yandex.ua
 api.vk.com
+appmetrica.yandex.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -27,12 +29,10 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
 c-eho.info
-chat.s3.yandex.net
 c-inform.info
 c-pravda.ru
 credit.webmoney.ru
@@ -76,7 +76,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
+download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -117,7 +117,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
+maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -180,6 +182,7 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -187,6 +190,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.uz
@@ -208,6 +212,7 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
+sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -215,7 +220,7 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
-sovetnik.market.yandex.ru
+soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -234,6 +239,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -263,11 +269,9 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandex.fr
 yandex.ru
 yandex.st
 yastroka.yandex.net
-ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
