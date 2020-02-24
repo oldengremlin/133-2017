@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -16,13 +17,13 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
@@ -40,6 +41,7 @@ bs-metadsp.yandex.ru
 bs.yandex.ru
 c1.dev.drweb.com
 c6.dev.drweb.com
+cache-mskstoredata12.cdn.yandex.net
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -54,6 +56,13 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-04.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -70,6 +79,7 @@ donbass.media
 download.yandex.ru
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 favicon.yandex.net
@@ -98,7 +108,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -110,7 +123,9 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 main.zdevx.yandex.ru
+maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -195,12 +210,14 @@ radiovera.ru
 radio.yandex.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -215,7 +232,6 @@ sevastopol.press
 share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.ios.mobile.yandex.net
@@ -223,6 +239,7 @@ startup.mobile.yandex.net
 static-mon.yandex.net
 strm.yandex.ru
 suggest.yandex.net
+suggest.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -242,9 +259,9 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 web-metrica.yandex.ru
@@ -273,6 +290,7 @@ yaltatv.ru
 yandex.ru
 yandex.st
 yandex.ua
+yastroka.yandex.net
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
