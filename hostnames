@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 29733.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -15,6 +14,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -22,7 +22,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
-awaps.yandex.ru
+avatars.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -32,6 +32,7 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 cloud-api.yandex.net
@@ -113,6 +114,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -122,10 +124,10 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -149,9 +151,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.music.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -188,6 +188,7 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
+passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
@@ -215,24 +216,25 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-sba.cdn.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
 share.yandex.ru
+site.yandex.net
 site.yandex.ru
 smdnr.ru
+soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
-spdy.mob.maps.yandex.net
 sputniknews.com
 srv0-141-240-87.vk.com
 srv100-42-213-95.vk.com
@@ -248,6 +250,7 @@ tnt-online.ru
 touch.kaspersky.com
 translate.yandex.fr
 translate.yandex.net
+translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -283,7 +286,6 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
-yandex.com
 yandex.fr
 yandex.net
 yandex.ru
@@ -292,3 +294,4 @@ yastroka.yandex.net
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ru
