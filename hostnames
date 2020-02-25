@@ -35,8 +35,6 @@ banks.webmoney.ru
 bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
-browser-updater.yandex.net
-browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
 cdn.yandex.net
@@ -56,9 +54,6 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-02.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnmchs.ru
@@ -100,6 +95,7 @@ informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -122,6 +118,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.ru
 maps.yandex.ua
@@ -156,7 +153,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -182,14 +178,14 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns7.yandex.ru
-ns8.yandex.ru
+ns1.vkontakte.ru
+ns3.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth.vk.com
-oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 p08.upd.kaspersky.com
@@ -240,11 +236,11 @@ share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+statchecker.yandex.ru
 static-mon.yandex.net
 storage.ape.yandex.net
 suggest.yandex.net
@@ -278,6 +274,7 @@ wbc.com.ru
 webdav-proxy.disk.yandex.net
 webdav.tst.yandex.ru
 webdav.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wi2geo.mobile.yandex.net
@@ -307,7 +304,6 @@ yandex.ua
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
