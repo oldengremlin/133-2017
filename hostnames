@@ -176,6 +176,7 @@ passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
+passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
@@ -186,6 +187,7 @@ paymaster.ua
 poehali.tv
 prd.geo.kaspersky.com
 promedia.ru
+queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -218,6 +220,11 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
+translate.yandex.com
+translate.yandex.kz
+translate.yandex.ru
+translate.yandex.ua
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
