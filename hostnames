@@ -11,12 +11,12 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -24,6 +24,10 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+cache-mskstoredata03.cdn.yandex.net
+cache-mskstoredata07.cdn.yandex.net
+cache-mskstoredata11.cdn.yandex.net
+cache-mskstoredata12.cdn.yandex.net
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -38,8 +42,10 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-02.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -57,7 +63,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.yandex.ru
+download.cdn.yandex.net
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -87,7 +93,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -153,11 +158,11 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
-passport.yandex.md
+passport.yandex.by
+passport.yandex.kz
 passport.yandex.tj
 paymaster.ua
 poehali.tv
-prd.geo.kaspersky.com
 promedia.ru
 queuev4.vk.com
 radiovera.ru
@@ -185,6 +190,7 @@ sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
