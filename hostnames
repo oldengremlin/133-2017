@@ -26,10 +26,6 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-cache-mskstoredata03.cdn.yandex.net
-cache-mskstoredata07.cdn.yandex.net
-cache-mskstoredata11.cdn.yandex.net
-cache-mskstoredata12.cdn.yandex.net
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -38,6 +34,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -46,14 +43,14 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -67,7 +64,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -87,7 +83,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
-ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -188,7 +183,6 @@ promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -211,7 +205,6 @@ smdnr.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -229,7 +222,9 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
