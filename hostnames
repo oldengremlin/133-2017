@@ -18,6 +18,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -35,6 +36,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -43,8 +45,6 @@ dnl-01.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -60,8 +60,10 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -75,7 +77,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
 i-mult.tlum.ru
 info.maps.yandex.net
 inosmi.ru
@@ -90,7 +91,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -99,9 +105,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
-mail.yandex.fr
 maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -159,7 +163,6 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.lv
-passport.yandex.ru
 paymaster.ua
 poehali.tv
 promedia.ru
@@ -201,7 +204,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
