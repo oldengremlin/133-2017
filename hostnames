@@ -14,6 +14,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -42,8 +43,6 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
@@ -89,7 +88,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -102,10 +100,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-dc1-st.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -118,7 +115,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -195,7 +191,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-prd.geo.kaspersky.com
 products.drweb.com
 promedia.ru
 push.yandex.ru
@@ -218,7 +213,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
@@ -226,6 +220,7 @@ spdy3.mob.maps.yandex.net
 spdy.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+static.yandex.net
 st.kp.yandex.net
 tc.mobile.yandex.net
 telecafe.ru
@@ -263,7 +258,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.translate.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -278,3 +272,4 @@ yandex.ru
 yandex.st
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.com
