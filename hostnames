@@ -1,6 +1,5 @@
 100kwt.com
 1206900.redirect.appmetrica.yandex.com
-167360.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -23,6 +22,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
@@ -32,8 +32,7 @@ barracuda.yandex.net
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-bs.yandex.ru
-calendar.yandex.ru
+bs-metadsp.yandex.ru
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -49,6 +48,7 @@ digitalrussia.tv
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -82,9 +82,9 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
+hermes.yandex.net
 ikrim.net
 ikstv.ru
-imap.yandex.com
 img.yandex.net
 i-mult.tlum.ru
 inosmi.ru
@@ -100,6 +100,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-cinfo.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -113,7 +114,6 @@ lvl3cdn-update.drweb.com
 mail4.yandex.net
 mail.wmid.com
 main.zdevx.yandex.ru
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -172,8 +172,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.vk.com
-oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -206,7 +204,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -217,13 +214,10 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-smtp.mail.yandex.net
-soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -246,8 +240,10 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
+visit-monitor.yandex.ru
 vk.com
 vk.me
 vkontakte.ru
@@ -277,12 +273,10 @@ yalta-tv.ru
 yaltatv.ru
 yandex.com
 yandex.fr
-yandex.kz
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
-ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
