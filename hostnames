@@ -34,6 +34,7 @@ bs-metadsp.yandex.ru
 c-eho.info
 c-inform.info
 c-pravda.ru
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -42,7 +43,6 @@ cs7009.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
-disk.yandex.ua
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
@@ -107,7 +107,7 @@ lugansk.site
 lug-info.com
 mailserver.yandex.net
 mail.wmid.com
-matchid.adfox.yandex.ru
+mail.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -131,6 +131,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -156,12 +157,11 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.net
-ns2.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -175,6 +175,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -193,12 +194,14 @@ riarating.ru
 ria.ru
 rk.gov.ru
 root.yandex.net
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -215,6 +218,8 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+translate.yandex.fr
+translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -228,7 +233,6 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -242,8 +246,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.translate.yandex.com
-www.translate.yandex.ua
 www.webmoney.ru
 www.yandex.net
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -253,13 +255,11 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.fr
 yandex.ru
 yandex.st
 yandex.ua
-ysa-static.passport.yandex.ru
-yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
