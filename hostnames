@@ -15,8 +15,9 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
+api-maps.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -29,7 +30,6 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-calls.vk.com
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -46,6 +46,8 @@ digitalrussia.tv
 dnipress.com
 dnl-08.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -65,7 +67,6 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -91,12 +92,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
+login.yandex.ru
 lug24.ru
 lugansk1.info
 lugansk-online.su
@@ -104,7 +104,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -129,6 +128,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+ml-ext.taxi.yandex.net
+mobile.navi.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
@@ -166,16 +167,16 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.fr
-passport.yandex.kg
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-pop3.yandex.ru
 portal-xiva.yandex.net
 promedia.ru
+proxy.mob.maps.yandex.net
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -194,7 +195,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 sba.yandex.net
-searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 server.yandex.net
@@ -227,6 +227,7 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -247,10 +248,9 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.by
