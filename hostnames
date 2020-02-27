@@ -43,6 +43,7 @@ dnl-05.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -71,7 +72,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -96,8 +96,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-file.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -109,6 +107,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.ru
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -132,6 +131,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -146,11 +146,9 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
-news.yandex.ru
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -166,11 +164,17 @@ on-line.lg.ua
 otr-online.ru
 p19.upd.kaspersky.com
 passport.webmoney.ru
+passport.yandex.az
+passport.yandex.by
+passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
+passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
+passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
@@ -200,16 +204,13 @@ searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 smdnr.ru
-soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
-storage.ape.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 telecafe.ru
@@ -226,8 +227,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.drweb.com
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -246,7 +245,6 @@ wmsc2.webmoney.ru
 wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
-ws5-766.yandex.ru
 www.capitaller.ru
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -265,3 +263,4 @@ yandex.ua
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.ru
