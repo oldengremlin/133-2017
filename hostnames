@@ -49,7 +49,6 @@ dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -88,6 +87,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -110,7 +110,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -135,6 +137,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mondnr.ru
+money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -168,6 +171,7 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
+passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
@@ -222,6 +226,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
@@ -249,4 +254,5 @@ yandex.com
 yandex.ru
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
