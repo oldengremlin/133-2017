@@ -12,12 +12,12 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,6 +41,7 @@ dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -65,7 +66,6 @@ events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
-gate.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -78,6 +78,7 @@ ikstv.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -90,6 +91,7 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -104,6 +106,7 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mailhost.vkontakte.ru
 mail.wmid.com
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -165,15 +168,16 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.ee
+passport.yandex.lv
+passport.yandex.tm
 paymaster.ua
 poehali.tv
 post.yandex.net
-prd.geo.kaspersky.com
 promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -196,6 +200,7 @@ smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
+startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -234,9 +239,8 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
-yandex.kz
-yandex.net
 yandex.ru
-yandex.st
+yandex.ua
+ysa-static.passport.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
