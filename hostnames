@@ -36,6 +36,7 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
@@ -76,6 +77,7 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -93,7 +95,10 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
+maps.yandex.ru
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -152,16 +157,12 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
-passport.yandex.md
 passport.yandex.tm
 passport.yandex.ua
-passport.yandex.uz
 paymaster.ua
 poehali.tv
 promedia.ru
@@ -188,6 +189,7 @@ soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+storage.ape.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -202,10 +204,10 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.drweb.com
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.com
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -230,4 +232,4 @@ yandex.ru
 yandex.st
 yandex.ua
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
