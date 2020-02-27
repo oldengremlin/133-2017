@@ -4,6 +4,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+2.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -12,7 +13,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
@@ -45,6 +45,8 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -61,6 +63,7 @@ dommintrans.ru
 donbass.media
 download.cdn.yandex.net
 download.yandex.ru
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -80,8 +83,8 @@ gw.yandex.net
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -92,8 +95,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -104,9 +109,11 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
+main.zdevx.yandex.ru
 maps.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -148,6 +155,7 @@ mvdlnr.ru
 m.vk.com
 mx10.yandex.net
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -173,13 +181,15 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
+passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
-products.drweb.com
 promedia.ru
 radiovera.ru
 realty.ria.ru
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -223,7 +233,6 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vkontakte.ru
 vremya.tv
