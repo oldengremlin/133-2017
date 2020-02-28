@@ -39,8 +39,9 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-05.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnmchs.ru
@@ -74,7 +75,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-im0-tub-ua.yandex.net
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -91,7 +91,6 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -106,6 +105,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
+maps.yandex.com
 maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -170,11 +170,14 @@ passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
+passport.yandex.lv
+passport.yandex.md
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+products.drweb.com
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -186,6 +189,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -209,7 +213,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 translate.yandex.fr
 translate.yandex.net
 tribunal.dnr-online.ru
@@ -228,7 +231,6 @@ vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webdav.yandex.ru
 webmoney.ru
 webmoney.ua
 wi2geo.mobile.yandex.net
@@ -255,4 +257,6 @@ yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.by
+zen.yandex.com
 zen.yandex.ru
