@@ -14,12 +14,12 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
-avatars-fast.yandex.net
 avatars.mds.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
@@ -31,6 +31,7 @@ bober-tv.ru
 brttv.ru
 bs.yandex.ru
 calls.vk.com
+cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -42,16 +43,14 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-01.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -65,6 +64,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 drweb.Cisco
 ds.kaspersky.com
 eizvestia.com
@@ -86,7 +86,6 @@ ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -113,13 +112,11 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-maps.yandex.com
-maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
-mdata.yandex.net
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -174,6 +171,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -204,7 +202,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -218,8 +215,8 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
-speller.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 telecafe.ru
@@ -236,7 +233,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -255,7 +251,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.vk.com
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -265,9 +260,5 @@ yalta-tv.ru
 yaltatv.ru
 yandex.com
 yandex.ru
-yandex.st
 yandex.ua
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kg
 zen.yandex.ru
