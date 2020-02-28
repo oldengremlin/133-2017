@@ -6,6 +6,7 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
+29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -31,7 +32,6 @@ beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -43,8 +43,9 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-02.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -59,7 +60,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 drweb.Cisco
 ds.kaspersky.com
 eizvestia.com
@@ -82,6 +82,7 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -91,7 +92,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -106,7 +108,6 @@ maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -129,7 +130,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -159,7 +159,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -189,7 +188,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -200,9 +198,9 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -217,9 +215,13 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
