@@ -12,6 +12,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -41,11 +42,9 @@ dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -61,6 +60,7 @@ dommintrans.ru
 donbass.media
 download.geo.drweb.com
 drweb.Cisco
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -68,6 +68,7 @@ events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
+funding.webmoney.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -79,7 +80,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -90,8 +90,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
@@ -194,7 +194,6 @@ security.wmtransfer.com
 sevastopol.press
 smdnr.ru
 smtp1.yandex.net
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
