@@ -1,7 +1,6 @@
 100kwt.com
 1097404515.verify.yandex.ru
 1759552272.verify.yandex.ru
-1890453727.verify.yandex.ru
 1prime.ru
 1sev.tv
 1tv.com
@@ -37,6 +36,7 @@ bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -52,7 +52,6 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -87,7 +86,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -100,9 +98,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -113,7 +109,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.ru
-maps.yandex.ua
+market.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
@@ -154,8 +150,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -176,6 +170,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -207,11 +202,11 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 s3.yandex.net
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
+soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -224,13 +219,11 @@ streaming.cdn.yandex.net
 strm.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
-taxi-routeinfo.taxi.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -240,7 +233,18 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uchebnik.s3.yandex.net
+update.drweb.com
+update.fr1.drweb.com
 update.geo.drweb.com
+update.kz.drweb.com
+update.msk11.drweb.com
+update.msk12.drweb.com
+update.msk5.drweb.com
+update.msk6.drweb.com
+update.msk.drweb.com
+update.nsk1.drweb.com
+update.us1.drweb.com
+update.us.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -248,6 +252,8 @@ vk.com
 vk.me
 vremya.tv
 wbc.com.ru
+webdav.tst.yandex.ru
+webdav.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -260,12 +266,12 @@ wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
 www.yandex.ru
+www.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.net
