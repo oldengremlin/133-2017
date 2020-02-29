@@ -1,5 +1,4 @@
 100kwt.com
-10180.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -16,9 +15,11 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.passport.yandex.ru
+api.music.yandex.net
+api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -35,7 +36,6 @@ bober-tv.ru
 browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -53,7 +53,10 @@ digitalrussia.tv
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -69,7 +72,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-drweb.Cisco
+download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -94,7 +97,6 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -112,7 +114,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-main.zdevx.yandex.ru
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -159,6 +160,7 @@ mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
+notify.vk.com
 novopressa.ru
 novorossia.today
 novorossiatv.com
@@ -221,7 +223,6 @@ spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-suggest.yandex.net
 suggest.yandex.ru
 tc.mobile.yandex.net
 telecafe.ru
@@ -236,6 +237,7 @@ trkekran.mybb.ru
 trk-luch.ru
 trkmillet.ru
 tsiklnr.su
+tune.yandex.ru
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
@@ -248,6 +250,7 @@ vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webdav.tst.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -271,8 +274,8 @@ yandex.net
 yandex.ru
 yandex.st
 yandex.ua
+ysa-static.passport.yandex.ru
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.ru
