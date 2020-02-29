@@ -5,6 +5,7 @@
 1tv.com
 1tvcrimea.ru
 228300.redirect.appmetrica.yandex.com
+336157825.verify.yandex.ru
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -14,7 +15,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -30,9 +30,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-bs-metadsp.yandex.ru
 bs.yandex.ru
-c1.dev.drweb.com
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -101,7 +99,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-maps.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -157,6 +154,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -165,11 +163,9 @@ passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -204,10 +200,11 @@ spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 st.kp.yandex.net
-storage.ape.yandex.net
-suggest.yandex.net
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 suggest.yandex.ru
 suggest.yandex.ua
+taxi-routeinfo.taxi.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -223,6 +220,12 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec01.maps.yandex.net
+vec02.maps.yandex.net
+vec03.maps.yandex.net
+vec04.maps.yandex.net
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -255,6 +258,7 @@ yandex.com
 yandex.kz
 yandex.ru
 yandex.ua
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
