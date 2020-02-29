@@ -7,6 +7,7 @@
 82.fskn.ru
 admin-gorlovka.ru
 advisor.wmtransfer.com
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -31,16 +32,16 @@ bober-tv.ru
 browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
-bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 cryprox.yandex.net
 csp-report.stable.qloud-b.yandex.net
 dan-news.info
@@ -52,7 +53,6 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
@@ -81,7 +81,6 @@ eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
-eu.activation-v2.kaspersky.com
 eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
@@ -97,10 +96,12 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
@@ -123,7 +124,6 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 main.zdevx.yandex.ru
-maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
@@ -133,7 +133,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -171,7 +170,6 @@ mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
-notify.vk.com
 novopressa.ru
 novorossia.today
 novorossiatv.com
@@ -203,6 +201,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
@@ -228,13 +227,11 @@ security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 srv216-198.vkontakte.ru
 startup.mobile.yandex.net
 static-mon.yandex.net
-storage.mds.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -252,7 +249,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-vertis-frontend.s3.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -288,8 +284,5 @@ yandex.net
 yandex.ru
 yandex.st
 yx549482.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.ru
