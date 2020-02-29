@@ -1,9 +1,9 @@
 100kwt.com
-10180.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4636.yandex.ru
 5-tv.ru
@@ -18,10 +18,12 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 awsync.yandex.ru
 banking.gdcert.com
@@ -47,7 +49,10 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
@@ -70,9 +75,9 @@ donbass.media
 download.cdn.yandex.net
 download.yandex.ru
 drweb.Cisco
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -108,7 +113,6 @@ ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -125,7 +129,8 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
+metro.yandex.by
+metro.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -159,11 +164,11 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
-notify.vk.com
 novopressa.ru
 novorossia.today
 novorossiatv.com
@@ -180,6 +185,7 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -206,6 +212,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -221,7 +228,6 @@ smdnr.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-storage.mds.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.ru
@@ -232,9 +238,6 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
-translate.yandex.fr
-translate.yandex.kz
-translate.yandex.net
 translate.yandex.ua
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -252,6 +255,7 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -265,8 +269,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.translate.yandex.com
-www.translate.yandex.ru
+www.translate.yandex.kz
 www.translate.yandex.ua
 www.yandex.fr
 www.yandex.ru
