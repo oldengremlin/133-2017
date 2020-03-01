@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -16,19 +15,16 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
@@ -40,7 +36,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -97,7 +92,6 @@ ikrim.net
 ikstv.ru
 img.yandex.net
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
@@ -127,8 +121,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.com
-maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -136,7 +128,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ua
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -166,8 +157,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.kz
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -186,6 +175,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
+oauth.yandex.ru
 olegruf.yandex.ru
 on-line.lg.ua
 otr-online.ru
@@ -195,7 +186,6 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -204,17 +194,17 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.ua
-passport.yandex.uz
 paymaster.ua
 poehali.tv
 prd.geo.kaspersky.com
 promedia.ru
+proxy.mob.maps.yandex.net
 push.yandex.ru
 push.yandex.ua
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -227,11 +217,9 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-rusvesna.su
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
 share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
@@ -239,7 +227,6 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.net
 storage.mds.yandex.net
 tapoc.trbo.yandex.net
 telecafe.ru
@@ -256,6 +243,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+uniproxy.alice.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -283,9 +271,9 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
 yandex.ru
 yandex.st
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
