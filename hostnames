@@ -16,7 +16,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -30,9 +29,6 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-bs.yandex.ru
-c1.dev.drweb.com
-c2.dev.drweb.com
 c-eho.info
 cid.yandex.net
 c-inform.info
@@ -42,12 +38,16 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -93,10 +93,8 @@ keyboard.yandex.net
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -109,6 +107,7 @@ mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
+market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -163,6 +162,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -183,7 +183,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 ps.vk.com
 push.yandex.ru
@@ -206,12 +205,10 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 sba.cdn.yandex.net
-sba.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
 share.yandex.ru
 site.yandex.net
 smdnr.ru
@@ -228,8 +225,8 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.kz
-translate.yandex.ru
 translate.yandex.ua
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -260,6 +257,7 @@ wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.kz
 www.translate.yandex.ru
+www.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -268,8 +266,6 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandex.fr
-yandex.net
 yandex.ru
 yandex.st
 yandex.ua
