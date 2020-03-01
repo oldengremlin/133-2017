@@ -26,6 +26,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+cache-mskstoredata10.cdn.yandex.net
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -71,12 +72,12 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -90,7 +91,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -107,6 +107,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -116,6 +117,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
@@ -194,6 +196,7 @@ promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -201,7 +204,6 @@ riarating.ru
 ria.ru
 rk.gov.ru
 rsport.ria.ru
-rsproject55.yandex.ru
 rst-dnr.ru
 rtr-planeta.com
 ruscrimea.ru
@@ -215,6 +217,11 @@ smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
+srv101-153-240-87.vk.com
+srv126-121-213-95.vk.com
+srv200-89-213-95.vk.com
+srv206-99-213-95.vk.com
+srv42-179-240-87.vk.com
 startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -223,6 +230,7 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -236,7 +244,6 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
-vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
@@ -258,11 +265,10 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.net
 yandex.ru
-yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
