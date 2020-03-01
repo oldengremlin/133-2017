@@ -17,6 +17,7 @@ api.browser.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -38,10 +39,6 @@ dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -57,6 +54,7 @@ dommintrans.ru
 donbass.media
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -84,11 +82,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -122,7 +116,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.shell.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -137,7 +130,6 @@ music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -159,6 +151,7 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.fr
 passport.yandex.kz
+passport.yandex.lt
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
@@ -186,7 +179,6 @@ russia.tv
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 smdnr.ru
 sovminlnr.su
 sputniknews.com
@@ -206,9 +198,7 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
-vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -234,4 +224,4 @@ yandex.net
 yandex.ru
 yandex.st
 yandex.ua
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
