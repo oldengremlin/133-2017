@@ -11,10 +11,10 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
-aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
+an.yandex.ru
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -22,8 +22,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -67,8 +65,10 @@ dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -96,7 +96,6 @@ drweb.kz
 drweb.ua
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -152,6 +151,8 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -162,7 +163,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mail.ru.cn
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -210,7 +210,6 @@ music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 nashe.ru
 news-front.info
@@ -243,11 +242,11 @@ passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.lv
-passport.yandex.tm
 passport.yandex.ua
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+prd.geo.kaspersky.com
 products.drweb.com
 products.drweb.ua
 promedia.ru
@@ -283,6 +282,7 @@ spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
+startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
