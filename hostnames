@@ -16,7 +16,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.ok.ru.Home
 api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -32,8 +31,8 @@ banks.webmoney.ru
 bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
-browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
+bs-metadsp.yandex.ru
 bs.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -46,12 +45,12 @@ crimea.ria.ru
 crls.yandex.net
 crossdist.yandex.net
 cryprox.yandex.net
-cs540108.vk.me
-cs607729.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-03.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -66,6 +65,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
@@ -85,6 +85,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -100,7 +101,6 @@ komtv.org
 ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-liveut2-dp.ok.ru.Home
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -172,6 +172,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -186,7 +187,6 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -204,11 +204,14 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 sba.yandex.net
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -223,7 +226,6 @@ touch.kaspersky.com
 translate.yandex.by
 translate.yandex.fr
 translate.yandex.net
-translate.yandex.ru
 translate.yandex.ua
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -235,6 +237,7 @@ tvzvezda.ru
 ubp.com.ua
 uchebnik.s3.yandex.net
 uniproxy.alice.yandex.net
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -272,6 +275,7 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
