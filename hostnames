@@ -12,12 +12,10 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
@@ -40,6 +38,7 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-02.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnmchs.ru
@@ -74,7 +73,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -86,8 +84,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -98,9 +98,9 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -158,6 +158,7 @@ passport.yandex.ee
 passport.yandex.kg
 passport.yandex.lt
 passport.yandex.lv
+passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
@@ -166,6 +167,7 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -190,7 +192,6 @@ smdnr.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.sx
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -205,6 +206,10 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.kz.drweb.com
+update.msk6.drweb.com
+update.nsk1.drweb.com
+update.us1.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
@@ -230,7 +235,6 @@ yalta-tv.ru
 yaltatv.ru
 yandex.net
 yandex.ru
-yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
