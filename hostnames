@@ -14,13 +14,10 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
-api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
@@ -31,6 +28,7 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
+bs.yandex.ru
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -38,6 +36,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -45,6 +44,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -76,7 +76,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
 img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -84,13 +83,17 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -135,7 +138,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -144,7 +146,6 @@ mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
-news.yandex.by
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -175,7 +176,6 @@ paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
 promedia.ru
-ps.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -203,8 +203,8 @@ sovminlnr.su
 spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+st.kp.yandex.net
 streaming.cdn.yandex.net
-tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -224,7 +224,10 @@ tvzvezda.ru
 ubp.com.ua
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -246,8 +249,10 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.ru
 yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.ru
