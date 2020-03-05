@@ -20,7 +20,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
@@ -84,12 +83,7 @@ enterprise.vec04.maps.yandex.net
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-ext-strm-kivretn12.strm.yandex.net
 ext-strm-kivretn19.strm.yandex.net
-ext-strm-mskretn01.strm.yandex.net
-ext-strm-mskretn25.strm.yandex.net
-ext-strm-rascom12.strm.yandex.net
-ext-strm-rascom17.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -118,9 +112,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -133,7 +129,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
@@ -195,6 +190,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -203,6 +199,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tm
 passport.yandex.ua
+passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
@@ -210,14 +207,12 @@ promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -229,14 +224,15 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
+spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 streaming.cdn.yandex.net
 strm-mskm908.strm.yandex.net
-strm.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -246,6 +242,7 @@ touch.kaspersky.com
 tr1.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
+translate.yandex.net
 translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -255,11 +252,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
-vec01.maps.yandex.net
-vec02.maps.yandex.net
-vec03.maps.yandex.net
-vec04.maps.yandex.net
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -291,7 +283,7 @@ yaltatv.ru
 yandex.net
 yandex.ru
 yandex.ua
-ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.s3.yandex.net
 zen.yandex.ru
