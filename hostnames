@@ -40,7 +40,6 @@ digitalrussia.tv
 dnipress.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -55,7 +54,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -87,9 +85,14 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -102,7 +105,6 @@ mail.wmid.com
 mail.yandex.ru
 maps.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -151,11 +153,12 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns3.yandex.ru
+ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.vk.com
 on-line.lg.ua
 otr-online.ru
@@ -200,6 +203,7 @@ searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 smdnr.ru
 softexport.yandex.net
@@ -207,6 +211,7 @@ soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 static.vk.com
 telecafe.ru
 telepay.webmoney.ru
