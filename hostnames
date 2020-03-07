@@ -46,7 +46,6 @@ dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -66,6 +65,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -77,6 +77,7 @@ files.wmtransfer.com
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
+geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -98,6 +99,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -139,6 +142,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -176,7 +180,7 @@ otr-online.ru
 outmail.yandex.net
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -269,8 +273,7 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
-yandex.kz
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
