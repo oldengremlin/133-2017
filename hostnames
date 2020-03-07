@@ -36,9 +36,11 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-02.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -67,6 +69,7 @@ files.wmtransfer.com
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
+geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -78,12 +81,15 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -118,6 +124,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -169,6 +176,8 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
+pu.vk.com
+queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -186,6 +195,9 @@ russian.oplot.tv
 russia.tv
 s01.upd.kaspersky.com
 s03.upd.kaspersky.com
+s05.upd.kaspersky.com
+s07.upd.kaspersky.com
+s09.upd.kaspersky.com
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -200,8 +212,12 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
+translate.yandex.by
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
+translate.yandex.ua
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -213,6 +229,7 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
 vremya.tv
@@ -242,4 +259,5 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 zen.yandex.ru
