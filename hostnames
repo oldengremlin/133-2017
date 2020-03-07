@@ -14,6 +14,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.messenger.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -28,8 +29,6 @@ banks.webmoney.ru
 beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
-browser-updater.yandex.net
-browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 c-eho.info
 c-inform.info
@@ -86,6 +85,7 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
+gw.yandex.net
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
@@ -112,11 +112,11 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail01.yandex.net
 mail1.yandex.net
+mail4.yandex.net
 mailin.yandex.net
+mails.yandex.net
 mail.wmid.com
-mail.yandex.ru
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -126,6 +126,7 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -158,7 +159,6 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -168,8 +168,7 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns3.yandex.ru
-ns4.yandex.ru
+ns2.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -208,7 +207,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -227,13 +225,15 @@ sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
+static.yandex.sx
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 touch.kaspersky.com
+translate.yandex.kz
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -269,10 +269,9 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.net
 yandex.ru
+yandex.st
 yandex.ua
-yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
