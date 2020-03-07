@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -16,8 +17,8 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.messenger.yandex.net
+api.passport.yandex.ru
 api.vk.com
-api.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -32,7 +33,6 @@ beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
-bs.yandex.ru
 c2.dev.drweb.com
 c6.dev.drweb.com
 c-eho.info
@@ -51,6 +51,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
@@ -58,6 +59,7 @@ dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
@@ -91,13 +93,14 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-gw.yandex.net
 ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
+info.maps.yandex.net
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -109,6 +112,9 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -119,19 +125,18 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+mail01.yandex.net
 mail6.yandex.net
 mail.comune.yandex.net
+mailhost.yandex.net
 mailrelay.yandex.net
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.com
 maps.yandex.ru
-maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -178,7 +183,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns2.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -203,6 +207,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+pop.yandex.net
 prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
@@ -223,6 +228,8 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
+sba.yandex.net
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -243,7 +250,6 @@ tnt-online.ru
 tools.messenger.yandex.net
 touch.kaspersky.com
 translate.yandex.by
-translate.yandex.kz
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -280,12 +286,14 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
