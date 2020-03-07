@@ -17,7 +17,6 @@ api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -52,14 +51,10 @@ dnl-02.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -98,7 +93,6 @@ imap.yandex.com
 im-tub.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
-ipmcloud.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -128,13 +122,13 @@ maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
-matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -170,8 +164,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx02.yandex.net
-mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -181,8 +174,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns3.yandex.ru
-ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -209,7 +200,6 @@ paymaster.ua
 poehali.tv
 prd.geo.kaspersky.com
 promedia.ru
-push.yandex.ru
 push.yandex.ua
 radiovera.ru
 realty.ria.ru
@@ -228,7 +218,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -246,8 +235,6 @@ static-mon.yandex.net
 strm-mskm914.strm.yandex.net
 strm-mskstoredata02.strm.yandex.net
 strm.yandex.net
-suggest.yandex.ru
-tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -265,7 +252,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vec03.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -287,7 +273,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.com
 www.yandex.ru
 xeno.mail.yandex.net
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -305,7 +290,6 @@ yastroka.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
