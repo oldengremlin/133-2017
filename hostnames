@@ -31,7 +31,6 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-box.yandex.net
 brttv.ru
 calls.vk.com
 c-eho.info
@@ -51,8 +50,8 @@ dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -69,7 +68,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -87,6 +85,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -100,12 +99,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -116,7 +113,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mail1.yandex.net
+mail12.yandex.net
 mail.wmid.com
 mail.yandex.net
 mail.yandex.ru
@@ -124,6 +121,7 @@ maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -159,7 +157,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.kz
 music.yandex.ru
 muz1.tv
 mvddnr.ru
@@ -195,7 +192,6 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -205,7 +201,6 @@ poehali.tv
 portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -228,13 +223,11 @@ security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
 smdnr.ru
-soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
-spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static.yandex.net
+storage.ape.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -256,6 +249,7 @@ vk.com
 vk.me
 vremya.tv
 wbc.com.ru
+webasr.yandex.net
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -275,10 +269,8 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandex.fr
 yandex.net
 yandex.ru
-yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
