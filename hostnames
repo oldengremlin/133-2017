@@ -8,6 +8,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
+360438337.verify.yandex.ru
 3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -22,11 +23,13 @@ api-maps.yandex.ru
 api.music.yandex.net
 api.passport.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
+awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 banking.gdcert.com
@@ -41,7 +44,6 @@ browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -52,11 +54,15 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -84,11 +90,11 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 interstroydv.yandex.ru
 izpp.govdnr.ru
@@ -117,6 +123,7 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
+main.zdevx.yandex.ru
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -190,6 +197,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -203,6 +211,7 @@ radiovera.ru
 radio.yandex.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -232,7 +241,6 @@ static-mon.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm-mskm901.strm.yandex.net
-strm-mskm906.strm.yandex.net
 strm-mskm912.strm.yandex.net
 strm-mskm915.strm.yandex.net
 strm-mskm919.strm.yandex.net
@@ -244,6 +252,8 @@ strm-mskstoredata05.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata08.strm.yandex.net
 strm.yandex.net
+strm.yandex.ru
+suggest-maps.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
@@ -264,6 +274,7 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
@@ -284,7 +295,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -299,11 +309,7 @@ yandex.net
 yandex.ru
 yandex.ua
 yapic.yandex.net
-yastroka.yandex.net
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
-zen.yandex.ua
