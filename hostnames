@@ -1,7 +1,5 @@
 100kwt.com
-1495528196.verify.yandex.ru
 1679771.redirect.appmetrica.yandex.com
-1919542270.verify.yandex.ru
 19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -19,6 +17,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.music.yandex.net
 api.passport.yandex.ru
@@ -42,6 +41,8 @@ bober-tv.ru
 browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
+bs-metadsp.yandex.ru
+bs.yandex.ru
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -80,6 +81,7 @@ ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -108,7 +110,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -121,7 +122,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 main.zdevx.yandex.ru
 maps.yandex.ru
@@ -133,7 +133,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 metro.yandex.com
 mgb-dnr.ru
 mgblnr.org
@@ -153,9 +152,9 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 m.maps.yandex.ru
-mobile.navi.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -166,12 +165,12 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.kz
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -229,7 +228,6 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
@@ -240,18 +238,8 @@ startup.mobile.yandex.net
 static-mon.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
-strm-mskm901.strm.yandex.net
-strm-mskm912.strm.yandex.net
-strm-mskm915.strm.yandex.net
-strm-mskm919.strm.yandex.net
-strm-mskm922.strm.yandex.net
-strm-mskm924.strm.yandex.net
-strm-mskstoredata01.strm.yandex.net
-strm-mskstoredata03.strm.yandex.net
-strm-mskstoredata05.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata08.strm.yandex.net
-strm.yandex.net
 strm.yandex.ru
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
@@ -304,10 +292,13 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
+yandex.by
+yandex.com
+yandex.fr
 yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
-yandex.ua
+yandex.st
 yapic.yandex.net
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
