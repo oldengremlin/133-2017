@@ -17,6 +17,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
@@ -33,7 +34,9 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
+browser.yandex.ru
 brttv.ru
+bs-metadsp.yandex.ru
 bs.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -43,6 +46,11 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cs402722.vk.me
+cs403019.vk.me
+cs543104.vk.me
+cs625319.vk.me
+cs7001.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -71,8 +79,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
-download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -81,10 +87,12 @@ events.wmtransfer.com
 exchanger.ru
 ext-strm-kivretn03.strm.yandex.net
 ext-strm-kivretn06.strm.yandex.net
+ext-strm-kivretn13.strm.yandex.net
 ext-strm-m9mts15.strm.yandex.net
 ext-strm-mskretn05.strm.yandex.net
 ext-strm-mskretn07.strm.yandex.net
 ext-strm-mskretn13.strm.yandex.net
+ext-strm-mskretn14.strm.yandex.net
 ext-strm-mskretn27.strm.yandex.net
 ext-strm-mskttk01.strm.yandex.net
 ext-strm-mskttk02.strm.yandex.net
@@ -93,9 +101,11 @@ ext-strm-rascom09.strm.yandex.net
 ext-strm-rascom12.strm.yandex.net
 ext-strm-rascom13.strm.yandex.net
 ext-strm-rascom21.strm.yandex.net
+ext-strm-spbretn01.strm.yandex.net
 ext-strm-spbretn06.strm.yandex.net
 ext-strm-spbretn11.strm.yandex.net
 ext-strm-spbretn12.strm.yandex.net
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 frontend.vh.yandex.ru
@@ -109,10 +119,12 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ua
 img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -128,6 +140,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -139,7 +152,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.ru
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -169,6 +181,7 @@ mobile.music.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
+money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -216,6 +229,7 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -233,6 +247,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 sba.yandex.net
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -244,11 +259,14 @@ sovminlnr.su
 sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
+static.yandex.sx
+storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm-spb02.strm.yandex.net
 strm-spb08.strm.yandex.net
 strm.yandex.net
 strm.yandex.ru
+tapoc.trbo.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -285,7 +303,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.webmoney.ru
 www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -301,10 +318,10 @@ yandexnavi.s3.yandex.net
 yandex.ru
 yandex.st
 yandex.ua
+yastroka.yandex.net
 ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yxdf50a6ca056f45ee84bcf982821943be.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
