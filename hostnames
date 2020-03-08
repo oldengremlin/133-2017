@@ -1,4 +1,5 @@
 100kwt.com
+137715.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -21,7 +22,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -32,7 +32,6 @@ browser.yandex.ru
 brttv.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
 collections.yandex.ua
 c-pravda.ru
 credit.webmoney.ru
@@ -50,9 +49,9 @@ dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -105,6 +104,7 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -122,6 +122,8 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metro.yandex.by
+metro.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -140,7 +142,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -150,7 +151,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -172,7 +172,6 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
-passport.yandex.az
 passport.yandex.ee
 passport.yandex.kg
 passport.yandex.lt
@@ -185,6 +184,8 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
+prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
 queuev4.vk.com
@@ -214,6 +215,7 @@ sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static-maps.yandex.ru
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -231,7 +233,6 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vk.me
 vremya.tv
@@ -258,6 +259,6 @@ yandex.kz
 yandex.net
 yandex.ru
 yandex.ua
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
+zen.yandex.ru
