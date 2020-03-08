@@ -1,5 +1,6 @@
 100kwt.com
 137715.redirect.appmetrica.yandex.com
+1679771.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -23,9 +24,11 @@ api.lbs.yandex.net
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
@@ -72,8 +75,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
-download.geo.drweb.com
 download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
@@ -82,6 +83,7 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 f2.drweb.com
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -92,7 +94,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gsi.drweb.com
 gtklnr.su
 ikrim.net
@@ -101,6 +102,7 @@ i-mult.tlum.ru
 info.maps.yandex.net
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -114,7 +116,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -124,6 +125,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mailer.yandex.net
 mail.wmid.com
 main.zdevx.yandex.ru
@@ -138,6 +140,8 @@ merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
+metro.yandex.by
+metro.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -207,6 +211,7 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
+pp.vk.me
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -238,12 +243,15 @@ sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 storage.ape.yandex.net
 storage.mds.yandex.net
+strm-mskm902.strm.yandex.net
 strm-mskm904.strm.yandex.net
 strm-mskm913.strm.yandex.net
 strm-mskm915.strm.yandex.net
 strm-mskm924.strm.yandex.net
+strm-mskstoredata04.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata07.strm.yandex.net
 strm-mskstoredata08.strm.yandex.net
@@ -251,13 +259,14 @@ strm-mskstoredata09.strm.yandex.net
 strm.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
+tapoc.trbo.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 time.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.kz
+touch.kaspersky.com
 translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -297,8 +306,10 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
@@ -306,5 +317,6 @@ yapic.yandex.net
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 zen.yandex.com
 zen.yandex.ru
