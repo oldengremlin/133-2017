@@ -29,7 +29,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.net
 awaps.yandex.ru
-awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,7 +40,6 @@ browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -51,8 +49,12 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-00.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -89,6 +91,7 @@ ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -110,6 +113,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.com
+maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -118,6 +122,7 @@ mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -135,8 +140,10 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+m.maps.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -146,10 +153,12 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -160,7 +169,10 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns3.vkontakte.ru
 ns3.yandex.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -186,9 +198,11 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+pp.vk.me
 promedia.ru
 push.yandex.ru
 radiovera.ru
+radio.yandex.ru
 realty.ria.ru
 ren.tv
 reporter-crimea.ru
@@ -214,8 +228,9 @@ smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
-sprav.yandex.ru
+spdy.mob.maps.yandex.net
 sputniknews.com
+startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static.yandex.net
 storage.mds.yandex.net
@@ -226,9 +241,9 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.fr
 translate.yandex.net
-travel.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -257,7 +272,6 @@ wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
 www.yandex.ru
-xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -266,12 +280,14 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.fr
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
 yapic.yandex.net
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
