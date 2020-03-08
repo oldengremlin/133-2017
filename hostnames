@@ -178,7 +178,6 @@ passport.yandex.ee
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
@@ -190,9 +189,11 @@ po.yandex.net
 prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -212,6 +213,7 @@ sevastopol.press
 smdnr.ru
 smtp.comune.yandex.net
 smtp.mail.yandex.net
+soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -257,6 +259,7 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.net
 yandex.ru
 yandex.ua
 yastroka.yandex.net
