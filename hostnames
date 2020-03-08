@@ -7,6 +7,7 @@
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -45,12 +46,11 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -62,6 +62,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.NET
+dns2.yandex.NET
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
@@ -94,7 +96,6 @@ kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
-keyboard.yandex.net
 kianews24.ru
 kianews.com.ua
 kiks.yandex.ru
@@ -103,7 +104,6 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -116,11 +116,14 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
+media.kaspersky.com
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -153,15 +156,13 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.com
-music.yandex.kz
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -182,7 +183,9 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -195,7 +198,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -222,10 +224,10 @@ sevastopol.press
 share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -261,6 +263,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.kaspersky.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -272,7 +275,6 @@ yandex.com
 yandex.net
 yandex.ru
 yandex.st
+yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-zen.yandex.ru
