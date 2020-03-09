@@ -27,7 +27,6 @@ artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
-awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,9 +40,7 @@ browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
-c1.dev.drweb.com
 c2.dev.drweb.com
-c6.dev.drweb.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -62,8 +59,10 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-05.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
+dnl-00.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -97,6 +96,7 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
+http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
@@ -112,11 +112,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
@@ -135,7 +133,6 @@ maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -159,6 +156,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -189,10 +187,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.vk.com
 on-line.lg.ua
 otr-online.ru
-partner.market.yandex.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
@@ -235,6 +231,7 @@ share.yandex.net
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 srv160-90-213-95.vk.com
@@ -243,6 +240,7 @@ static-mon.yandex.net
 storage.mds.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
+suggest.yandex.net
 taxi-routeinfo.taxi.yandex.net
 tc.mobile.yandex.net
 telecafe.ru
@@ -250,6 +248,8 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
+translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -300,9 +300,8 @@ yandex.st
 yandex.ua
 yapic.yandex.net
 yastroka.yandex.net
-ysa-static.passport.yandex.net
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.ru
+zen.yandex.ua
