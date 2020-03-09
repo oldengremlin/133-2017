@@ -18,7 +18,9 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.passport.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 app.tanker.yandex.net
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -33,6 +35,7 @@ banks.webmoney.ru
 bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
+browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
@@ -44,8 +47,8 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 crls.yandex.net
+cryprox.yandex.net
 cs618817.vk.me
 cs622025.vk.me
 dan-news.info
@@ -53,7 +56,8 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-01.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -73,7 +77,6 @@ ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -88,6 +91,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+im.vk.com
 informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
@@ -102,7 +106,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -115,7 +120,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 main.zdevx.yandex.ru
-maps.yandex.com
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -142,6 +146,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+ml-ext.taxi.yandex.net
+mobile.navi.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -220,21 +226,22 @@ russian.oplot.tv
 russia.tv
 s12.upd.kaspersky.com
 s15.upd.kaspersky.com
-s16.upd.kaspersky.com
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
+spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
 storage.mds.yandex.net
 suggest.yandex.net
-tapoc.trbo.yandex.net
 tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -251,7 +258,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
-update.geo.drweb.com
 uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
@@ -282,7 +288,7 @@ yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandex.kz
+yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
