@@ -6,6 +6,7 @@
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -40,6 +41,8 @@ digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -77,6 +80,7 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -89,7 +93,6 @@ ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -137,7 +140,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -154,11 +156,9 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
-passport.yandex.az
 passport.yandex.ee
 passport.yandex.kg
 passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
 passport.yandex.tj
 passport.yandex.tm
@@ -168,7 +168,6 @@ paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -190,7 +189,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
@@ -210,7 +208,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
@@ -237,8 +234,7 @@ yaltatv.ru
 yandex.com
 yandex.kz
 yandex.ru
-yandex.ua
 yastroka.yandex.net
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
+zen.yandex.ru
