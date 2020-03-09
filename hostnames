@@ -42,6 +42,9 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -90,7 +93,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -106,11 +108,9 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
-maps.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -141,9 +141,11 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 nashe.ru
 news-front.info
@@ -163,18 +165,14 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.ee
-passport.yandex.fr
-passport.yandex.kz
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tm
 passport.yandex.ua
 paymaster.ua
 poehali.tv
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -195,7 +193,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -205,6 +202,7 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
