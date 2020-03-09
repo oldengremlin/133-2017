@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -33,6 +32,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+bs-metadsp.yandex.ru
 bs.yandex.ru
 c1.dev.drweb.com
 c2.dev.drweb.com
@@ -75,7 +75,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-downloads.upd.kaspersky.com
+download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -113,6 +113,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -125,6 +126,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 main.zdevx.yandex.ru
+maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -135,10 +137,6 @@ merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
-metro.yandex.by
-metro.yandex.com
-metro.yandex.ru
-metro.yandex.ua
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -156,6 +154,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -186,16 +185,14 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.vk.com
 on-line.lg.ua
 otr-online.ru
-p15.upd.kaspersky.com
-p18.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -222,6 +219,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -232,8 +230,10 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 smdnr.ru
+smtps.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -248,6 +248,7 @@ streaming.cdn.yandex.net
 strm.yandex.ru
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
+suggest.yandex.net
 suggest.yandex.ru
 tapoc.trbo.yandex.net
 telecafe.ru
@@ -276,6 +277,7 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
@@ -300,8 +302,6 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
-yandex.by
-yandex.com
 yandex.fr
 yandex.net
 yandex.ru
@@ -312,5 +312,4 @@ ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
