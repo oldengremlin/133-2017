@@ -4,7 +4,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
+29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -17,7 +17,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
-api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
@@ -56,6 +55,7 @@ dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -86,6 +86,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -99,6 +100,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -116,13 +119,12 @@ maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metro.yandex.by
-metro.yandex.com
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -151,7 +153,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
+music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -159,6 +161,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -197,7 +200,6 @@ promedia.ru
 push.yandex.ru
 push.yandex.ua
 radiovera.ru
-radio.yandex.ru
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -220,14 +222,12 @@ security.wmtransfer.com
 sevastopol.press
 site.yandex.net
 smdnr.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static.yandex.sx
 storage.ape.yandex.net
 strm.yandex.ru
-suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -252,7 +252,6 @@ vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -275,10 +274,9 @@ yalta-tv.ru
 yaltatv.ru
 yandex.com
 yandex.ru
+yandex.st
 yandex.ua
 yapic.yandex.net
-ysa-static.passport.yandex.net
-ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
