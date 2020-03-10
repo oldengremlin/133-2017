@@ -3,11 +3,11 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
+activation-v2.geo.kaspersky.com
+activation-v2.kaspersky.com
 admin-gorlovka.ru
 advisor.wmtransfer.com
 agroprom.msdnr.ru
@@ -30,7 +30,6 @@ bober-tv.ru
 brttv.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -58,6 +57,8 @@ donbass.media
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
+eu.activation-v2.kaspersky.com
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -74,7 +75,9 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -87,8 +90,12 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -98,12 +105,11 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mailrelay.yandex.net
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -126,8 +132,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-ml-ext.taxi.yandex.net
-mobile.navi.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -159,11 +163,11 @@ ntvplus.ru
 ntv.ru
 on-line.lg.ua
 otr-online.ru
+p08.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.com
-passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -175,13 +179,12 @@ passport.yandex.tm
 passport.yandex.ua
 paymaster.ua
 poehali.tv
-pop.yandex.com
 promedia.ru
 push.yandex.ru
 radiovera.ru
 realty.ria.ru
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -194,7 +197,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -203,7 +205,6 @@ share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
-spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 telecafe.ru
@@ -220,7 +221,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uniproxy.alice.yandex.net
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
@@ -250,7 +250,6 @@ yaltatv.ru
 yandex.com
 yandex.fr
 yandex.kz
-yandexnavi.s3.yandex.net
 yandex.ru
 yandex.st
 yandex.ua
