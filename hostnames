@@ -32,7 +32,6 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -42,7 +41,6 @@ brttv.ru
 calendar.yandex.ru
 c-eho.info
 c-inform.info
-cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -50,8 +48,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-cs305514.vk.me
-cs618131.vk.me
 cs630227.vk.me
 dan-news.info
 debt.wmtransfer.com
@@ -63,7 +59,6 @@ direct.yandex.ua
 disk.yandex.ua
 dnipress.com
 dnl-05.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -107,6 +102,7 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -147,7 +143,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-kas.geoksn.kaspersky.com
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -157,9 +155,11 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -287,6 +287,7 @@ share.yandex.ru
 site.yandex.ua
 smdnr.ru
 smtpseguro.yandex.net
+soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
@@ -296,7 +297,7 @@ startup.mobile.yandex.net
 static.vk.com
 stat.yandex.ru
 stat.yandex.ua
-storage.ape.yandex.net
+storage.mds.yandex.net
 taxi.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -318,6 +319,7 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -347,6 +349,7 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -361,6 +364,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kz
 yandex.lt
 yandex.lv
@@ -374,5 +378,4 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
