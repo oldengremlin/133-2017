@@ -14,6 +14,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
@@ -43,7 +44,6 @@ digitalrussia.tv
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -93,10 +93,14 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -108,7 +112,6 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
 maps.yandex.ru
-market.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -138,6 +141,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mondnr.ru
+money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -146,6 +150,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.kz
 music.yandex.ru
 muz1.tv
@@ -183,9 +188,11 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -203,7 +210,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s07.upd.kaspersky.com
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -235,7 +241,6 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
-vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
