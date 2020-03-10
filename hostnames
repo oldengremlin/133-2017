@@ -1,5 +1,4 @@
 100kwt.com
-1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -45,6 +44,7 @@ digitalrussia.tv
 dnipress.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -90,9 +90,6 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -135,9 +132,11 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -156,11 +155,13 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
+passport.yandex.az
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
+passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.tm
@@ -196,7 +197,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -205,7 +205,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -232,5 +231,6 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.ru
+yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
