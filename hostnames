@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+2.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -16,7 +17,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
@@ -40,6 +40,9 @@ dnl-01.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -55,7 +58,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -87,8 +89,6 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -106,6 +106,9 @@ mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metro.yandex.com
+metro.yandex.ru
+metro.yandex.ua
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -167,7 +170,6 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.uz
@@ -194,7 +196,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -213,7 +214,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -239,6 +239,8 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.by
+yandex.com
 yandex.kz
 yandex.net
 yandex.ru
