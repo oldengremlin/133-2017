@@ -39,6 +39,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -160,11 +161,13 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.ua
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
 promedia.ru
+push.yandex.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -233,5 +236,6 @@ yandex.com
 yandex.kz
 yandex.net
 yandex.ru
+yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
