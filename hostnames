@@ -13,6 +13,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -37,6 +38,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cs629105.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -96,6 +98,9 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -108,6 +113,7 @@ lug-info.com
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -144,8 +150,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
-music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -154,7 +158,6 @@ mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
-news.yandex.ru
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -166,13 +169,13 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 p11.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -183,14 +186,12 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
 pp.vk.me
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -207,15 +208,13 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
-share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -260,7 +259,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.by
@@ -268,7 +266,4 @@ yandex.fr
 yandex.ru
 yandex.st
 yandex.ua
-ysa-static.passport.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.s3.yandex.net
 zen.yandex.ru
