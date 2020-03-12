@@ -20,7 +20,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
@@ -30,8 +29,9 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
+browser-updater.yandex.net
+browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
-bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -50,7 +50,6 @@ digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
@@ -95,7 +94,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -138,7 +136,6 @@ matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -169,6 +166,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -188,6 +186,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
+oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -208,10 +208,10 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
-prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
 radiovera.ru
+radio.yandex.ru
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -231,7 +231,9 @@ s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
+soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -257,7 +259,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uchebnik.s3.yandex.net
 update.geo.drweb.com
 vec01.maps.yandex.net
 vec02.maps.yandex.net
@@ -269,9 +270,9 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
-vk.me
 vremya.tv
 wbc.com.ru
+webasr.yandex.net
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
