@@ -35,6 +35,7 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-02.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -70,7 +71,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -83,9 +83,8 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-dc1.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -95,11 +94,9 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-mail.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -151,13 +148,15 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
 passport.yandex.com
-passport.yandex.ee
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -172,6 +171,7 @@ radiovera.ru
 radio.yandex.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -184,12 +184,12 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -233,5 +233,6 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.ru
 yandex.ua
