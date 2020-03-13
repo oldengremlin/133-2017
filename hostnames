@@ -44,6 +44,7 @@ dnl-02.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -78,6 +79,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+info.weather.yandex.net
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -93,8 +95,8 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -105,7 +107,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mchs-lnr.su
 mc.yandex.ru
@@ -174,7 +175,6 @@ passport.yandex.tm
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-prd.geo.kaspersky.com
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -197,6 +197,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 tapoc.trbo.yandex.net
@@ -246,11 +247,9 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
 yandex.fr
 yandex.ru
 yandex.st
-yandex.ua
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
