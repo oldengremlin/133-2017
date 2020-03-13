@@ -38,8 +38,8 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -89,6 +89,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -158,7 +159,6 @@ passport.yandex.fr
 passport.yandex.kg
 passport.yandex.lt
 passport.yandex.lv
-passport.yandex.md
 passport.yandex.tj
 passport.yandex.tm
 paymaster.ua
@@ -186,6 +186,8 @@ smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
+startup.mobile.yandex.net
+tc.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -227,5 +229,4 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.ru
-yandex.ua
 yastroka.yandex.net
