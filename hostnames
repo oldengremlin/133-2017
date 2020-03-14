@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-21925.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -50,6 +49,9 @@ digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -72,6 +74,7 @@ events.wmtransfer.com
 exchanger.ru
 favicon.yandex.net
 fgi-lnr.su
+files.webmoney.ru
 files.wmtransfer.com
 gazetacrimea.ru
 gazeta.ok-crimea.ru
@@ -79,7 +82,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -100,7 +102,6 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -112,6 +113,7 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
+main.zdevx.yandex.ru
 maps.yandex.ru
 market.yandex.ru
 matchid.adfox.yandex.ru
@@ -177,6 +179,7 @@ p01.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -190,6 +193,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -222,9 +226,10 @@ sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static-mon.yandex.net
-suggest-maps.yandex.net
+static.yandex.net
+static.yandex.sx
+storage.mds.yandex.net
 suggest-maps.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -240,17 +245,13 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.drweb.com
 update.geo.drweb.com
 vb-update.yandex.ru
 vec01.maps.yandex.net
-vec02.maps.yandex.net
 vec03.maps.yandex.net
-vec04.maps.yandex.net
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vk.me
 vkontakte.ru
@@ -275,9 +276,10 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
-yandex.com
+yandex.fr
 yandex.ru
 yandex.st
 yastroka.yandex.net
@@ -288,3 +290,4 @@ yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
+zen.yandex.ru
