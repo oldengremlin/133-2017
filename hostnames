@@ -5,7 +5,6 @@
 1tvcrimea.ru
 28554.redirect.appmetrica.yandex.com
 5-tv.ru
-66793559.verify.yandex.ru
 82.fskn.ru
 admin-gorlovka.ru
 adsdk.yandex.ru
@@ -16,6 +15,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -36,6 +36,7 @@ browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 c-eho.info
 c-inform.info
+cloud-api.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -54,7 +55,6 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
@@ -72,6 +72,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -92,6 +93,7 @@ ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -102,7 +104,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -116,6 +117,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.ru
 main.zdevx.yandex.ru
 maps.yandex.ru
 matchid.adfox.yandex.ru
@@ -161,6 +163,7 @@ mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
+news.yandex.ru
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -176,9 +179,11 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -200,7 +205,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -213,7 +217,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -221,8 +224,13 @@ sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
+streaming.cdn.yandex.net
+strm-mskm921.strm.yandex.net
+strm-mskstoredata02.strm.yandex.net
+strm.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
+tapoc.trbo.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -239,12 +247,10 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.drweb.com
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
 vremya.tv
