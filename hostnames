@@ -57,7 +57,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-extmaps-api.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -75,6 +74,7 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
+kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -92,6 +92,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.ru
 maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -116,13 +117,13 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
-mtr-transport-regions.s3.yandex.net
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
@@ -163,11 +164,9 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -190,12 +189,10 @@ russia.tv
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
+site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
-spdy3.mob.maps.yandex.net
-spdy3-proxy.maps.yandex.net
 sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
@@ -235,6 +232,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.webmoney.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -247,7 +245,4 @@ yandex.st
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
+zen.yandex.ru
