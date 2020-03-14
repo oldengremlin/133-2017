@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-3.redirect.appmetrica.yandex.com
 477125127.verify.yandex.ru
 5-tv.ru
 82.fskn.ru
@@ -13,6 +12,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -35,6 +35,7 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-08.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -52,7 +53,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -85,7 +85,6 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -97,9 +96,9 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
+mail.yandex.ru
 market.yandex.ua
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
@@ -134,7 +133,6 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -153,21 +151,10 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
-passport.yandex.az
-passport.yandex.by
-passport.yandex.com
-passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
-passport.yandex.lv
-passport.yandex.md
 passport.yandex.ru
-passport.yandex.tj
-passport.yandex.tm
-passport.yandex.ua
-passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
@@ -191,7 +178,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -213,7 +199,7 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
-vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -238,5 +224,5 @@ yaltatv.ru
 yandex.com
 yandex.net
 yandex.ru
+yandex.st
 ysa-static.passport.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
