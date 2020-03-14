@@ -27,7 +27,6 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
-api.music.yandex.net
 api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -63,6 +62,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
+crossdist.yandex.net
 cryprox.yandex.net
 cs624617.vk.me
 dan-news.info
@@ -95,7 +95,6 @@ donbass.media
 download.cdn.yandex.net
 download.yandex.ru
 drweb.ru
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -113,7 +112,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.ru
 img.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -131,8 +129,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -184,9 +180,9 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -222,6 +218,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -242,7 +239,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
 rabota.yandex.ru
@@ -265,7 +261,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s3.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -273,7 +268,6 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 site.yandex.ua
-slovari.yandex.ru
 smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -281,7 +275,6 @@ speechkit.yandex.ru
 sprav.yandex.ua
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
 stat.yandex.ru
 storage.mds.yandex.net
 streaming.cdn.yandex.net
@@ -321,6 +314,7 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
+vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
@@ -347,6 +341,7 @@ yabs.yandex.ru
 yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
+yandex.com
 yandex.fr
 yandex.net
 yandex.ru
@@ -355,7 +350,7 @@ yandex.ua
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
 zen.yandex.ru
 zen.yandex.ua
 zno.yandex.ua
