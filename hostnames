@@ -5,7 +5,6 @@
 1tvcrimea.ru
 29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -29,13 +28,13 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -43,13 +42,10 @@ crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
 crossdist.yandex.net
-cs624617.vk.me
-cs636524.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-04.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
@@ -75,7 +71,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -89,7 +84,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -164,8 +158,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns7.yandex.ru
-ns8.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -192,10 +184,8 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
-pp.vk.me
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -215,8 +205,11 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
+soft.export.yandex.ru
 sovminlnr.su
+spdy.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
@@ -224,11 +217,7 @@ static-mon.yandex.net
 static.yandex.net
 storage.mds.yandex.net
 strm-mskm911.strm.yandex.net
-strm-mskm915.strm.yandex.net
-strm-mskm927.strm.yandex.net
 strm-mskstoredata03.strm.yandex.net
-strm-mskstoredata04.strm.yandex.net
-strm-mskstoredata05.strm.yandex.net
 suggest-maps.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -265,7 +254,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -283,6 +271,5 @@ ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
