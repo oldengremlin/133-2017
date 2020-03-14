@@ -15,7 +15,6 @@ api.passport.yandex.ua
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -37,6 +36,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -83,8 +83,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -153,8 +153,6 @@ passport.yandex.by
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.tj
-passport.yandex.ua
-passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
