@@ -47,12 +47,11 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -72,6 +71,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+export.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -147,6 +147,7 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -169,10 +170,10 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
@@ -205,7 +206,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -214,7 +215,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -226,7 +226,9 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
