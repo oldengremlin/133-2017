@@ -1,4 +1,5 @@
 100kwt.com
+167360.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -43,12 +44,17 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -129,6 +135,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -179,7 +186,9 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+pop.yandex.com
 portal-xiva.yandex.net
+prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -219,7 +228,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
