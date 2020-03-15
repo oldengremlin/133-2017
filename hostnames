@@ -2,12 +2,13 @@
 1108966643.verify.yandex.ru
 1110118087.verify.yandex.ru
 139281909.verify.yandex.ru
-1565688954.verify.yandex.ru
+1430959100.verify.yandex.ru
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 29733.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
 363507811.verify.yandex.ru
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -63,6 +64,7 @@ dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -72,11 +74,14 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.yandex.ru
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -97,6 +102,8 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im0-tub-ru.yandex.net
+imap.yandex.com
+img-fotki.yandex.ru
 im-tub.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -121,7 +128,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-mail.yandex.ru
 main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
@@ -153,7 +159,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -168,7 +173,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 nashe.ru
 news-front.info
 nm-g.ru
@@ -202,6 +206,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -229,17 +234,16 @@ searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 slovari.yandex.ru
 smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
+spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static-maps.yandex.ru
 static-mon.yandex.net
-static.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 suggest.yandex.net
@@ -279,6 +283,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.webmoney.ru
 www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -294,7 +299,8 @@ yandex.net
 yandex.ru
 yandex.st
 yandex.ua
+yapic.yandex.net
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-zen.yandex.com
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
