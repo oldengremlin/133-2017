@@ -7,7 +7,6 @@
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
-activation-v2.geo.kaspersky.com
 admin-gorlovka.ru
 advisor.wmtransfer.com
 agroprom.msdnr.ru
@@ -49,6 +48,7 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -75,8 +75,6 @@ ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
-eu.activation-v2.kaspersky.com
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -92,6 +90,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.ru
 i-mult.tlum.ru
+im.vk.com
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -122,7 +121,6 @@ mail.wmid.com
 maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -177,13 +175,17 @@ p18.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
+passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -219,7 +221,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -247,6 +248,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -255,5 +257,8 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.net
 yandex.ru
-zen.yandex.ru
+yandex.ua
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
