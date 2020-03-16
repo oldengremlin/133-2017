@@ -46,6 +46,9 @@ dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -106,6 +109,7 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
+main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
@@ -170,6 +174,8 @@ passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
+passport.yandex.lv
+passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
@@ -236,15 +242,18 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
 yandex.net
 yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
