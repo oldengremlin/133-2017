@@ -16,7 +16,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api-maps.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -71,6 +70,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
@@ -93,7 +94,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -122,8 +122,6 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
-mail.yandex.ru
-main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ua
 matchid.adfox.yandex.ru
@@ -208,14 +206,12 @@ promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -235,6 +231,7 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+static.yandex.sx
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -242,6 +239,9 @@ threats.kaspersky.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.fr
+translate.yandex.kz
+translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -250,11 +250,13 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+uniproxy.alice.yandex.net
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
 vk.me
+voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -270,13 +272,11 @@ wmtransfer.com
 wp.geo.kaspersky.com
 www.capitaller.ru
 www.yandex.ru
-xeno.mail.yandex.net
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
@@ -285,5 +285,3 @@ yandex.ru
 yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
-zen.yandex.ru
