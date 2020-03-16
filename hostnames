@@ -5,8 +5,6 @@
 1tvcrimea.ru
 29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -27,10 +25,12 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+beta.tst.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 box.yandex.ru
 brttv.ru
+bs.yandex.ru
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -43,12 +43,7 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-04.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -102,6 +97,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -113,9 +109,15 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 main.zdevx.yandex.ru
-maps.yandex.com
+maps.yandex.az
+maps.yandex.by
+maps.yandex.ee
+maps.yandex.fr
+maps.yandex.kz
+maps.yandex.lv
+maps.yandex.md
 maps.yandex.ru
-maps.yandex.ua
+maps.yandex.tm
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -142,6 +144,7 @@ mobile.navi.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
+money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -176,7 +179,6 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -187,11 +189,9 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -269,6 +269,7 @@ yaltatv.ru
 yandex.com
 yandexnavi.s3.yandex.net
 yandex.ru
+yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
