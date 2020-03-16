@@ -20,7 +20,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -44,6 +43,8 @@ dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -58,8 +59,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.yandex.ru
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -145,6 +144,7 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 nashe.ru
 news-front.info
@@ -170,12 +170,13 @@ passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
-passport.yandex.lv
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 paymaster.ua
 poehali.tv
+portal-xiva.yandex.net
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -219,7 +220,9 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -243,4 +246,5 @@ yaltatv.ru
 yandex.com
 yandex.net
 yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 zen.yandex.ru
