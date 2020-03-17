@@ -3,8 +3,10 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+217550.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -14,7 +16,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
@@ -24,7 +25,6 @@ artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.net
-awaps.yandex.ru
 awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
@@ -32,8 +32,7 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-browser-updater.yandex.net
-browser-web-balancer.stable.qloud-b.yandex.net
+browser-api.store.yandex.net
 brttv.ru
 bs.yandex.ru
 c-eho.info
@@ -45,6 +44,9 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 cryprox.yandex.net
+cs622625.vk.me
+cs622923.vk.me
+cs629202.vk.me
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -100,7 +102,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -199,6 +203,7 @@ push.yandex.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -219,17 +224,12 @@ sevastopol.press
 share.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
-static.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 suggest-maps.yandex.net
-suggest-maps.yandex.ru
-suggest.yandex.net
 suggest.yandex.ru
 tc.mobile.yandex.net
 telecafe.ru
@@ -249,7 +249,6 @@ tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
 vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -275,7 +274,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
@@ -283,10 +281,6 @@ yandex.fr
 yandex.net
 yandex.ru
 yandex.st
-yandex.ua
-yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-zen.yandex.ru
