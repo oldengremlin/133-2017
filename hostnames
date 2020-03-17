@@ -4,6 +4,7 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -18,7 +19,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -38,9 +38,11 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-04.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -82,11 +84,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -103,6 +101,10 @@ mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metro.yandex.by
+metro.yandex.com
+metro.yandex.ru
+metro.yandex.ua
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -122,7 +124,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -138,7 +139,6 @@ music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -158,16 +158,13 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.lt
 passport.yandex.lv
-passport.yandex.md
 passport.yandex.tj
-passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -194,7 +191,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
@@ -213,10 +209,11 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -237,6 +234,7 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
+yandex.by
 yandex.com
 yandex.ru
 yandex.ua
