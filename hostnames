@@ -6,7 +6,6 @@
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
-549740606.verify.yandex.ru
 5-tv.ru
 712692.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -22,8 +21,8 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
-awaps.yandex.net
 awaps.yandex.ru
 awsync.yandex.ru
 banking.gdcert.com
@@ -45,6 +44,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 cryprox.yandex.net
 cs311528.vk.me
 cs416818.vk.me
@@ -53,12 +53,16 @@ cs605419.vk.me
 cs608917.vk.me
 cs624131.vk.me
 cs7061.vk.me
+csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-02.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -79,6 +83,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 frontend.vh.yandex.ru
@@ -92,13 +97,13 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im0-tub-ru.yandex.net
+img-fotki.yandex.ru
 im-tub.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -129,11 +134,11 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
+main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
-matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -160,7 +165,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mobile.yandex.net
 mondnr.ru
 mprlnr.su
@@ -189,7 +193,6 @@ novosti-tchasa.com
 ns1.vkontakte.ru
 ns1.yandex.ru
 ns2.vkontakte.ru
-ns2.yandex.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 ns4.yandex.ru
@@ -220,7 +223,6 @@ poehali.tv
 promedia.ru
 push.yandex.ru
 radiovera.ru
-radio.yandex.ru
 realty.ria.ru
 ren.tv
 report.appmetrica.yandex.net
@@ -240,7 +242,6 @@ searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -251,7 +252,6 @@ static-mon.yandex.net
 static.yandex.net
 storage.mds.yandex.net
 strm-mskm916.strm.yandex.net
-strm-mskm922.strm.yandex.net
 strm-mskstoredata11.strm.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -273,12 +273,12 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webasr.yandex.net
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -299,7 +299,9 @@ yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.fr
 yandex.ru
+yandex.site
 yandex.st
 yandex.ua
 yapic.yandex.net
