@@ -26,7 +26,6 @@ artv-news.ru
 autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
-awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -38,7 +37,6 @@ browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
 c1.dev.drweb.com
-c2.dev.drweb.com
 c6.dev.drweb.com
 cdn.yandex.net
 c-eho.info
@@ -49,14 +47,12 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
@@ -112,7 +108,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
@@ -125,7 +120,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-launcher-cache.mobile.yandex.net
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -136,19 +132,18 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
-main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -169,6 +164,7 @@ minzdrav.govdnr.ru
 mobile.vgtrk.com
 mobile.yandex.net
 mondnr.ru
+money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -243,6 +239,7 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
@@ -259,6 +256,7 @@ suggest-maps.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
+taxi.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -277,8 +275,6 @@ tvzvezda.ru
 ubp.com.ua
 update.drweb.com
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -287,8 +283,6 @@ vk.me
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webasr.yandex.net
-webmaster.yandex.ru
 web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -304,6 +298,7 @@ www.capitaller.ru
 www.vk.com
 www.yandex.com
 www.yandex.ru
+www.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -324,4 +319,3 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.ru
-zen.yandex.ua
