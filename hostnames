@@ -16,6 +16,8 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.browser.yandex.ua
+api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -26,6 +28,7 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
+browser.yandex.ru
 brttv.ru
 c-eho.info
 c-inform.info
@@ -43,7 +46,9 @@ dnl-04.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -89,12 +94,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -105,7 +110,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.com
-maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -132,6 +136,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -145,6 +150,7 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -202,11 +208,12 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+storage.ape.yandex.net
 storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
@@ -214,6 +221,7 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -222,6 +230,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
@@ -238,6 +247,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
