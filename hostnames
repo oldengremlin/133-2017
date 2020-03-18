@@ -25,6 +25,7 @@ artv-news.ru
 avatars.mds.yandex.net
 avatars.yandex.net
 awaps.yandex.net
+awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -36,6 +37,8 @@ browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
+cache-mskstoredata01.cdn.yandex.net
+cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -52,6 +55,9 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
+dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -66,6 +72,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.yandex.ru
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -109,6 +116,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.com
+maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -118,7 +126,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -146,12 +153,13 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
+music.yandex.kz
 music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -163,7 +171,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -211,6 +218,7 @@ s3.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -245,7 +253,6 @@ vkontakte.ru
 voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
-webasr.yandex.net
 web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -278,5 +285,4 @@ ysa-static.passport.yandex.ru
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.ru
