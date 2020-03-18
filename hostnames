@@ -33,10 +33,9 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-browser-updater.yandex.net
-browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
+c1.dev.drweb.com
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -54,6 +53,8 @@ dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -105,13 +106,12 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
-login.yandex.ru
 lug24.ru
 lugansk1.info
 lugansk-online.su
@@ -119,7 +119,6 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 maps.yandex.com
-maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -172,6 +171,7 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -183,6 +183,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -222,6 +223,7 @@ security.wmtransfer.com
 sevastopol.press
 share.yandex.net
 share.yandex.ru
+site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -245,7 +247,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -276,6 +277,7 @@ yalta-tv.ru
 yaltatv.ru
 yandex.com
 yandex.fr
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
