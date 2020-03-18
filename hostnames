@@ -22,6 +22,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
@@ -34,6 +35,7 @@ bober-tv.ru
 brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
+cache-default06h.cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
@@ -43,6 +45,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -53,7 +56,7 @@ dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -69,6 +72,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -91,7 +95,6 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -106,6 +109,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -172,8 +176,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.vkontakte.ru
-ns2.vkontakte.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 nslnr.su
@@ -202,9 +204,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -238,8 +238,6 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
-translate.yandex.kz
 translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -268,7 +266,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.webmoney.ru
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -281,6 +278,7 @@ yaltatv.ru
 yandex.ru
 yandex.st
 yastroka.yandex.net
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
