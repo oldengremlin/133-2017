@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -16,6 +15,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -31,6 +31,7 @@ bober-tv.ru
 brttv.ru
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -40,10 +41,8 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -74,13 +73,11 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-img.yandex.net
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -92,7 +89,6 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -108,13 +104,9 @@ maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 mchs-lnr.su
-mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metro.yandex.by
-metro.yandex.com
-metro.yandex.ua
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -166,7 +158,6 @@ ntvplus.ru
 ntv.ru
 on-line.lg.ua
 otr-online.ru
-p09.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
@@ -206,6 +197,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
+soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -215,7 +207,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -228,6 +219,7 @@ update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.com
+vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -243,6 +235,7 @@ wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.com
 www.translate.yandex.ua
+www.yandex.com
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -250,10 +243,10 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.by
 yandex.com
 yandex.ru
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zomb-vikin.zombie.yandex.net
