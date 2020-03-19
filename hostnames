@@ -17,7 +17,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -25,6 +24,7 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brttv.ru
+bs.yandex.ru
 cache-mskm901.cdn.yandex.net
 cache-mskm902.cdn.yandex.net
 cache-mskm904.cdn.yandex.net
@@ -47,7 +47,6 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -99,9 +98,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -148,6 +145,7 @@ music.yandex.kz
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -160,6 +158,8 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
+ns2.vkontakte.ru
+ns3.vkontakte.ru
 ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
@@ -172,7 +172,6 @@ passport.yandex.az
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -183,7 +182,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-portal-xiva.yandex.net
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -203,9 +201,8 @@ russia.tv
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 smdnr.ru
-soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
 startup.mobile.yandex.net
@@ -223,6 +220,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -241,6 +239,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -248,9 +247,7 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.net
 yandex.ru
 yandex.ua
-yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
-yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.ru
