@@ -41,6 +41,8 @@ dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -131,6 +133,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -141,6 +144,7 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 nslnr.su
@@ -151,11 +155,13 @@ on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
 passport.yandex.by
+passport.yandex.ee
 passport.yandex.fr
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -182,6 +188,7 @@ smdnr.ru
 sovminlnr.su
 spider-178-154-189-32.yandex.com
 sputniknews.com
+startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -213,6 +220,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.com
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -222,3 +230,4 @@ yalta-tv.ru
 yaltatv.ru
 yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
