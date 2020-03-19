@@ -8,9 +8,7 @@
 217550.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
-618af8b1-7359-447e-a4c9-0c833742d4d3.vb.extension.yandex.net
 712692.redirect.appmetrica.yandex.com
 82.fskn.ru
 admin-gorlovka.ru
@@ -23,6 +21,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.music.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -37,11 +36,12 @@ banks.webmoney.ru
 bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
+browser-updater.yandex.net
 brttv.ru
 bs.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
 credit.webmoney.ru
@@ -52,7 +52,10 @@ crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
+direct.yandex.ru
 dnipress.com
+dnl-08.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -66,7 +69,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.yandex.ru
 ds.kaspersky.com
 eizvestia.com
@@ -118,8 +120,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
-mail.yandex.ua
-maps.yandex.com
+mail.yandex.ru
 maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
@@ -164,6 +165,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -229,7 +231,8 @@ spdy3.mob.maps.yandex.net
 sputniknews.com
 srv235-129-240-87.vk.com
 startup.mobile.yandex.net
-suggest.yandex.ru
+static-mon.yandex.net
+static.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -244,18 +247,21 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
 vk.cc
 vk.com
 vk.me
 vkontakte.ru
+vk.ru
 vremya.tv
 wbc.com.ru
+webdav.tst.yandex.ru
+webdav.yandex.ru
 web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -267,7 +273,6 @@ wmtransfer.com
 www.capitaller.ru
 www.yandex.com
 www.yandex.ru
-www.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -275,7 +280,6 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.com
 yandex.fr
 yandex.ru
 yandex.st
@@ -283,6 +287,4 @@ yandex.ua
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
