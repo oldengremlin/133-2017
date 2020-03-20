@@ -1,4 +1,5 @@
 100kwt.com
+167360.redirect.appmetrica.yandex.com
 19531.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
 1prime.ru
@@ -6,6 +7,7 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -17,13 +19,11 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.ru
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -110,7 +110,7 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
@@ -123,6 +123,7 @@ lugansk.site
 lug-info.com
 mailserver.yandex.ru
 mail.wmid.com
+mail.yandex.net
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
@@ -198,7 +199,6 @@ paymaster.ua
 poczta.yandex.net
 poehali.tv
 pop3.yandex.net
-pop.yandex.ru
 prd.geo.kaspersky.com
 promedia.ru
 radiovera.ru
@@ -223,7 +223,7 @@ security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
 smdnr.ru
-sovetnik.market.yandex.ru
+smtp.yandex.net
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
@@ -234,7 +234,6 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
