@@ -50,6 +50,7 @@ dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -171,8 +172,12 @@ otr-online.ru
 p18.upd.kaspersky.com
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -209,6 +214,7 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -223,6 +229,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
