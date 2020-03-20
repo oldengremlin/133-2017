@@ -41,7 +41,6 @@ browser-web-balancer.stable.qloud-b.yandex.net
 browser.yandex.ru
 brttv.ru
 bs.yandex.ru
-cache-mskstoredata09.cdn.yandex.net
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -70,10 +69,10 @@ dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -140,7 +139,6 @@ maps.yandex.ua
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -191,7 +189,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.vk.com
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -223,7 +220,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -250,7 +246,6 @@ st6.kp.yandex.net
 st7.kp.yandex.net
 startup.mobile.yandex.net
 st.kp.yandex.net
-suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -294,14 +289,12 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.by
 yandex.com
-yandex.net
 yandex.ru
 yandex.st
-yandex.ua
 ysa-static.passport.yandex.net
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
+yxdf50a6ca056f45ee84bcf982821943be.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
