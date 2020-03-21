@@ -33,6 +33,7 @@ browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs-metadsp.yandex.ru
+bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
@@ -51,11 +52,9 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -71,7 +70,6 @@ dommintrans.ru
 donbass.media
 download.cdn.yandex.net
 download.yandex.ru
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -96,16 +94,12 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 launcher-cache.mobile.yandex.net
 light.webmoney.ru
@@ -148,8 +142,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -159,8 +153,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -201,7 +193,6 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
-pop3.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -225,6 +216,8 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
+site.yandex.net
 smdnr.ru
 softexport.yandex.net
 soft.export.yandex.ru
@@ -234,7 +227,6 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static-mon.yandex.net
 static.yandex.net
 storage.mds.yandex.net
@@ -243,6 +235,7 @@ strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
 strm-mskstoredata12.strm.yandex.net
 suggest-maps.yandex.net
+suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -262,7 +255,6 @@ ubp.com.ua
 uchebnik.s3.yandex.net
 update.geo.drweb.com
 vec02.maps.yandex.net
-vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
@@ -298,10 +290,10 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
