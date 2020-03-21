@@ -8,6 +8,7 @@
 25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -20,14 +21,13 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api.weather.yandex.ru
+appmetrica.yandex.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
-avatars.mds.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -50,7 +50,6 @@ dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -100,10 +99,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+livejournal.yandex.net
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -112,6 +114,7 @@ lugansk.site
 lug-info.com
 mail.wmid.com
 mail.yandex.ru
+maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -139,7 +142,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mondnr.ru
-money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
@@ -148,6 +150,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
@@ -163,6 +166,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -191,12 +196,14 @@ promedia.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -210,7 +217,6 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
-soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -222,8 +228,6 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.fr
-translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -232,6 +236,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
@@ -261,7 +266,7 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.fr
+yandex.com
 yandex.ru
 yandex.st
 yandex.ua
@@ -269,4 +274,3 @@ yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
-zen.yandex.ru
