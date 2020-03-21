@@ -16,7 +16,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -41,21 +40,11 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-00.geo.kaspersky.com
-dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -103,7 +92,6 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -114,7 +102,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mailer.yandex.net
 mail.wmid.com
 mail.yandex.ru
 maps.yandex.ru
@@ -208,7 +195,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -224,6 +210,7 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -264,7 +251,6 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.ru
-yandex.st
 yandex.ua
 yastroka.yandex.net
 yx549482.oauth.yandex.ru
@@ -273,3 +259,4 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+zen.yandex.ru
