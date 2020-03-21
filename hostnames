@@ -1,4 +1,5 @@
 100kwt.com
+1024147354.verify.yandex.ru
 167360.redirect.appmetrica.yandex.com
 1951118743.verify.yandex.ru
 1prime.ru
@@ -24,7 +25,6 @@ arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 autorenew.drweb.com
-autoru-mag.s3.yandex.net
 avatars.mds.yandex.net
 awaps.yandex.net
 awaps.yandex.ru
@@ -72,7 +72,6 @@ dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -89,7 +88,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -113,7 +111,6 @@ ikstv.ru
 im0-tub-ru.yandex.net
 im2-tub-com.yandex.net
 im2-tub-ru.yandex.net
-imap.yandex.ru
 im-tub.yandex.com
 im-tub.yandex.ru
 i-mult.tlum.ru
@@ -130,7 +127,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -152,7 +154,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -200,7 +201,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -222,12 +222,12 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 portal-xiva.yandex.net
-postmaster.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -247,13 +247,17 @@ sevastopol.press
 share.yandex.ru
 site.yandex.net
 smdnr.ru
+soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
+static.yandex.net
 storage.ape.yandex.net
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -261,6 +265,8 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
+translate.yandex.com
 translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -292,7 +298,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -307,11 +312,10 @@ yandex.net
 yandex.ru
 yandex.st
 yandex.ua
+yapic.yandex.net
 yastroka.yandex.net
 ysa-static.passport.yandex.net
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
