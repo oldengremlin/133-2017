@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -17,6 +16,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -29,12 +29,10 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-browser-updater.yandex.net
 brttv.ru
 bs.yandex.ru
 c-eho.info
 c-inform.info
-collections.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -44,11 +42,13 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-00.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
@@ -92,7 +92,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
@@ -109,9 +108,7 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -123,6 +120,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 maps.yandex.com
+maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
@@ -150,6 +148,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -201,10 +200,10 @@ paymaster.ua
 poehali.tv
 prd.geo.kaspersky.com
 promedia.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -234,9 +233,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
-translate.yandex.by
-translate.yandex.kz
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -245,6 +241,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -263,7 +260,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -277,9 +273,6 @@ yandex.st
 yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
 zen.yandex.com
 zen.yandex.ru
