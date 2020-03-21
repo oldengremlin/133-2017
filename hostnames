@@ -1,4 +1,5 @@
 100kwt.com
+19531.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -19,7 +20,7 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
+auth.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,6 +42,8 @@ debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
 dnl-01.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -78,13 +81,15 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
@@ -98,7 +103,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail2.yandex.net
-mailer.yandex.net
 mailserver.yandex.ru
 mail.wmid.com
 maps.yandex.com
@@ -170,7 +174,6 @@ passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
-passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
@@ -198,7 +201,6 @@ russia.tv
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
 smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -207,14 +209,13 @@ sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 static.yandex.sx
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.fr
-translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -224,14 +225,16 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+update.kz.drweb.com
+update.us1.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
 vk.com
-vk.me
 vremya.tv
 wbc.com.ru
 webmail.yandex.net
+webmail.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -253,7 +256,6 @@ yaltatv.ru
 yandex.com
 yandex.fr
 yandex.ru
-yandex.st
 yandex.ua
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
 yx549482.oauth.yandex.ru
