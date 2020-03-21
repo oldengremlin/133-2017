@@ -17,6 +17,7 @@ an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
+api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -79,7 +80,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -112,6 +112,7 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.by
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -143,10 +144,12 @@ music.yandex.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
+news.yandex.ru
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -208,16 +211,16 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
-st.drweb.com
-strm-mskm911.strm.yandex.net
-strm-mskstoredata01.strm.yandex.net
+strm-mskm913.strm.yandex.net
+strm-mskstoredata05.strm.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
+translate.yandex.fr
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -231,7 +234,6 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -245,6 +247,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -259,7 +262,11 @@ yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
+yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 zen.yandex.ru
