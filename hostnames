@@ -93,7 +93,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -111,7 +110,6 @@ imap.yandex.ru
 im-tub.yandex.com
 im-tub.yandex.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -126,9 +124,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -139,8 +135,8 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mailer.yandex.net
 mail.wmid.com
+mail.yandex.ru
 main.zdevx.yandex.ru
 maps.yandex.ru
 matchid.adfox.yandex.ru
@@ -152,6 +148,7 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metro.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -203,7 +200,6 @@ otr-online.ru
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -224,7 +220,6 @@ promedia.ru
 push.yandex.ru
 radiovera.ru
 realty.ria.ru
-relay.yandex.net
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -256,7 +251,6 @@ streaming.cdn.yandex.net
 strm-mskstoredata12.strm.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
-suggest.yandex.ua
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -264,7 +258,9 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.fr
 translate.yandex.kz
+translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -273,13 +269,13 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 video-preview.s3.yandex.net
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 web-metrica.yandex.ru
@@ -316,8 +312,10 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
