@@ -14,6 +14,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
@@ -21,7 +22,6 @@ api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-auto-export.s3.yandex.net
 autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.net
@@ -35,11 +35,9 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -52,13 +50,9 @@ dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -74,7 +68,6 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.yandex.ru
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -91,7 +84,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -101,9 +93,9 @@ im2-tub-com.yandex.net
 im2-tub-ru.yandex.net
 im-tub.yandex.com
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -122,8 +114,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
+mailout.yandex.net
 mail.wmid.com
-mail.yandex.ru
 main.zdevx.yandex.ru
 maps.yandex.ru
 market.yandex.ru
@@ -153,6 +146,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -181,6 +175,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -204,7 +199,6 @@ poehali.tv
 portal-xiva.yandex.net
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -248,6 +242,7 @@ strm-mskstoredata12.strm.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
+suggest.yandex.ua
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -263,7 +258,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uchebnik.s3.yandex.net
 update.geo.drweb.com
 vec01.maps.yandex.net
 vec.maps.yandex.net
@@ -299,10 +293,13 @@ yaltatv.ru
 yandex.com
 yandex.ru
 yandex.st
+yandex.ua
 yapic.yandex.net
 yastroka.yandex.net
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+zen.yandex.com
 zen.yandex.ru
