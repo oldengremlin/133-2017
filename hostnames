@@ -2,8 +2,6 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
 1383993473.verify.yandex.ru
-19531.redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -26,7 +24,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.net
 awaps.yandex.ru
@@ -42,7 +39,6 @@ bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-courier.online.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -123,17 +119,16 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail.wmid.com
-main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.ru
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -151,9 +146,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 mprlnr.su
 msdnr.ru
@@ -168,7 +161,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -204,6 +196,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
+pop3.yandex.net
 promedia.ru
 push.yandex.ru
 radiovera.ru
@@ -240,6 +233,7 @@ sputniknews.com
 startup.mobile.yandex.net
 static-maps.yandex.ru
 static-mon.yandex.net
+static.sovetnik.yandex.net
 streaming.cdn.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -259,14 +253,12 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec03.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -292,7 +284,6 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
-yandex.by
 yandex.com
 yandex.net
 yandex.ru
@@ -304,5 +295,6 @@ ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-zakladki.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
