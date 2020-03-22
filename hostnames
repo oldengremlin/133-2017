@@ -6,6 +6,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -19,6 +20,8 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.passport.yandex.ru
+api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -37,18 +40,19 @@ browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
-calls.vk.com
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
 cloud-api.yandex.net
+company.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
+csp-report.stable.qloud-b.yandex.net
+csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -89,6 +93,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+im-tub.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -99,7 +104,6 @@ kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
-keyboard.yandex.net
 kianews24.ru
 kianews.com.ua
 komtv.org
@@ -118,6 +122,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 main.zdevx.yandex.ru
 maps.yandex.ru
@@ -164,6 +169,7 @@ m.vk.com
 mx.yandex.net
 nashe.ru
 news-front.info
+news.yandex.ru
 nm-g.ru
 novopressa.ru
 novorossia.today
@@ -215,6 +221,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 s3.yandex.net
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -248,6 +255,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -278,6 +286,8 @@ xn--mstk-53d0gyhb.su
 yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
+yandex.by
+yandex.com
 yandex.net
 yandex.ru
 yandex.st
