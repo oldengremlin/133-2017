@@ -13,6 +13,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -46,6 +47,7 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
@@ -68,7 +70,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
+download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -116,6 +118,7 @@ lug-info.com
 mail.comune.yandex.net
 mailgw.yandex.net
 mail.wmid.com
+maps.yandex.ru
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -153,6 +156,8 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
+mx02.yandex.net
 mx.yandex.net
 nashe.ru
 news-front.info
@@ -170,18 +175,13 @@ ntv.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
-passport.yandex.az
 passport.yandex.by
-passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
-passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
-passport.yandex.tm
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -209,6 +209,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
+smtp1.yandex.net
 smtp3.yandex.net
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -231,9 +232,7 @@ tvzvezda.ru
 ubp.com.ua
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
-vk.me
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -256,7 +255,4 @@ yalta-tv.ru
 yaltatv.ru
 yandex.ru
 yandex.st
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
