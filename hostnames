@@ -38,6 +38,7 @@ dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -85,7 +86,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -137,7 +138,6 @@ mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
-notify.vk.com
 novopressa.ru
 novorossia.today
 novorossiatv.com
@@ -164,6 +164,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -190,6 +191,8 @@ smdnr.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
+startup.mobile.yandex.net
+storage.mds.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -198,6 +201,7 @@ tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
+translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -239,5 +243,5 @@ yandex.com
 yandex.ru
 yandex.ua
 yastroka.yandex.net
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
