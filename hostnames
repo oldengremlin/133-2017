@@ -15,7 +15,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
-api-maps.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -42,7 +41,6 @@ digitalrussia.tv
 dnipress.com
 dnl-07.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -61,6 +59,7 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
+exchange.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 gazetacrimea.ru
@@ -72,7 +71,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -86,7 +84,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -98,7 +102,6 @@ lug-info.com
 mail3.yandex.net
 mailgw.yandex.net
 mail.wmid.com
-mailx.yandex.net
 maps.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -106,7 +109,6 @@ mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
-metrika.yandex.by
 mgb-dnr.ru
 mgblnr.org
 miaistok.su
@@ -136,14 +138,13 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.com
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx20.yandex.net
 mx3.yandex.net
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -159,8 +160,6 @@ ns.yandex.net
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
-oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -203,7 +202,6 @@ security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
 smdnr.ru
-smtp.mail.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -228,7 +226,6 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vk.me
 vkontakte.ru
@@ -255,7 +252,6 @@ yalta-tv.ru
 yaltatv.ru
 yandex.ru
 yandex.st
-yandex.ua
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
