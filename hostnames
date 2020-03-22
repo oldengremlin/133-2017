@@ -21,6 +21,7 @@ api.browser.yandex.ua
 api-maps.yandex.ru
 api.messenger.yandex.net
 api.passport.yandex.ru
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -39,6 +40,7 @@ brttv.ru
 c-eho.info
 cid.yandex.net
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -52,6 +54,9 @@ digitalrussia.tv
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnmchs.ru
@@ -67,7 +72,9 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 downloader.yandex.net
+download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -86,6 +93,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+im0-tub-ru.yandex.net
 im1-tub-ru.yandex.net
 im2-tub-com.yandex.net
 im2-tub-ru.yandex.net
@@ -106,7 +114,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -146,6 +159,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 m.market.yandex.ru
+mobile.market.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -162,6 +176,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
@@ -212,6 +227,7 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
+s3.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -243,8 +259,12 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+vec02.maps.yandex.net
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
+video-preview.s3.yandex.net
 vk.cc
 vk.com
 vk.me
@@ -263,6 +283,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.yandex.com
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -274,6 +295,7 @@ yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
