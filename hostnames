@@ -1,4 +1,5 @@
 100kwt.com
+1206900.redirect.appmetrica.yandex.com
 1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -19,6 +20,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -36,10 +38,10 @@ browser-updater.yandex.net
 browser-web-balancer.stable.qloud-b.yandex.net
 brttv.ru
 bs.yandex.ru
-c2.dev.drweb.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -64,7 +66,6 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-download.yandex.ru
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -72,12 +73,14 @@ events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
+funding.webmoney.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -95,7 +98,6 @@ kianews.com.ua
 komtv.org
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -176,6 +178,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -213,7 +216,6 @@ spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -221,8 +223,8 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
-translate.yandex.kz
 translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -236,10 +238,8 @@ update.geo.drweb.com
 vertis-frontend.s3.yandex.net
 vesti.ru
 vgtrk.com
-vk.cc
 vk.com
 vk.me
-vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmoney.ru
@@ -253,8 +253,9 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.translate.yandex.com
 www.translate.yandex.kz
-www.translate.yandex.ru
+www.translate.yandex.ua
 www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
