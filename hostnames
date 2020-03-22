@@ -3,12 +3,10 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-21925.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
-602869.redirect.appmetrica.yandex.com
 82.fskn.ru
 admin-gorlovka.ru
 advisor.wmtransfer.com
@@ -18,7 +16,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -33,6 +30,7 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 bs.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -41,6 +39,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -50,6 +49,8 @@ dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -65,7 +66,6 @@ dommintrans.ru
 donbass.media
 download.cdn.yandex.net
 download.yandex.ru
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -87,7 +87,6 @@ imap.yandex.com
 imap.yandex.net
 img-fotki.yandex.ru
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -115,6 +114,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+mail7.yandex.net
 mail.wmid.com
 maps.yandex.com
 maps.yandex.ru
@@ -163,6 +163,7 @@ mx.yandex.ru
 nashe.ru
 news-front.info
 nm-g.ru
+notify.vk.com
 novopressa.ru
 novorossia.today
 novorossiatv.com
@@ -195,7 +196,6 @@ paymaster.ua
 poehali.tv
 po.yandex.net
 promedia.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -218,7 +218,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 smdnr.ru
-sniper.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -226,14 +225,12 @@ spdy3.mob.maps.yandex.net
 sputniknews.com
 srv.yandex.net
 startup.mobile.yandex.net
-st.kp.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.net
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -268,12 +265,12 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.net
 yandex.ru
 yandex.st
 yandex.ua
 ysa-static.passport.yandex.ru
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-zen.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
