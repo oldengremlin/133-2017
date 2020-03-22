@@ -1,7 +1,6 @@
 100kwt.com
 1667283966.verify.yandex.ru
 167360.redirect.appmetrica.yandex.com
-1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -24,6 +23,7 @@ api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -51,7 +51,6 @@ browser.yandex.ua
 brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -63,7 +62,6 @@ crimea.gov.ru
 crimea.ria.ru
 cryprox.yandex.net
 cs616916.vk.me
-cs619916.vk.me
 csp-report.stable.qloud-b.yandex.net
 csp.yandex.net
 dan-news.info
@@ -77,6 +75,7 @@ disk.yandex.ua
 dnipress.com
 dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnmchs.ru
@@ -174,6 +173,7 @@ ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -324,6 +324,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -387,8 +388,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.kz
-www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -412,6 +411,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
@@ -420,6 +420,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yapic.yandex.net
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
