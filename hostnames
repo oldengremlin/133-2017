@@ -18,10 +18,10 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
-api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -29,7 +29,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.net
 awaps.yandex.ru
-awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -43,7 +42,7 @@ bs.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -99,7 +98,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -122,6 +120,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mail.wmid.com
+mail.yandex.ua
 maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
@@ -148,6 +147,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -178,6 +178,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 on-line.lg.ua
 otr-online.ru
 passport.webmoney.ru
@@ -217,8 +218,6 @@ rtr-planeta.com
 ruscrimea.ru
 russian.oplot.tv
 russia.tv
-s3.yandex.net
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -229,6 +228,7 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 storage.mds.yandex.net
 suggest.yandex.ru
 telecafe.ru
@@ -236,7 +236,6 @@ telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -276,7 +275,6 @@ yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.com
-yandex.net
 yandex.ru
 yandex.st
 yandex.ua
