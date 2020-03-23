@@ -18,6 +18,7 @@ api.browser.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
+autorenew.drweb.com
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -63,8 +64,6 @@ exchanger.ru
 exchange.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
-funding.webmoney.ru
-gate.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -88,14 +87,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -107,11 +101,8 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail01.yandex.net
 mail2.yandex.net
-mail7.yandex.net
-mailhost.yandex.net
 mail.wmid.com
 maps.yandex.ru
-mbox.yandex.net
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -202,10 +193,12 @@ security.wmtransfer.com
 server1.yandex.net
 sevastopol.press
 smdnr.ru
+smtpauth.yandex.net
 smtps.yandex.net
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 sputniknews.com
+srv.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
