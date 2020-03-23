@@ -23,7 +23,6 @@ api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
-autorenew.drweb.com
 avatars.mds.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
@@ -41,7 +40,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 digitalrussia.tv
@@ -78,7 +76,6 @@ dommintrans.ru
 donbass.media
 download.cdn.yandex.net
 download.yandex.ru
-edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -93,7 +90,6 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-host.yandex.net
 ikrim.net
 ikstv.ru
 imap.yandex.com
@@ -112,6 +108,7 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -120,10 +117,12 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+mail01.yandex.net
 mail.wmid.com
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -163,6 +162,7 @@ m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
+newmail.yandex.net
 news-front.info
 nm-g.ru
 notify.vk.com
@@ -191,6 +191,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -198,6 +199,7 @@ passport.yandex.uz
 paymaster.ua
 poehali.tv
 postmaster.yandex.net
+prd.geo.kaspersky.com
 promedia.ru
 radiovera.ru
 realty.ria.ru
@@ -233,6 +235,8 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.kz
+translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -258,6 +262,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.translate.yandex.kz
 www.translate.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
@@ -269,5 +274,8 @@ yaltatv.ru
 yandex.ru
 yandex.st
 yandex.ua
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
+zen.yandex.ru
