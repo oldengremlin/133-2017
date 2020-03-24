@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 admin-gorlovka.ru
@@ -17,6 +16,7 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
+api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -31,8 +31,8 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 browser-updater.yandex.net
-browser.yandex.ru
 brttv.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -83,7 +83,6 @@ inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
-kaspersky.com
 katyusha.tv
 keeper.webmoney.ru
 keeper.wmtransfer.com
@@ -102,6 +101,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
@@ -128,6 +128,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 mprlnr.su
@@ -142,6 +143,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -164,7 +166,6 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -172,6 +173,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -188,7 +190,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -200,8 +201,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
-share.yandex.ru
-site.yandex.net
 smdnr.ru
 soft.export.yandex.ru
 sovminlnr.su
@@ -209,13 +208,17 @@ sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
 strm.yandex.ru
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
+tapoc-beta.trbo.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
 translate.yandex.fr
 translate.yandex.kz
@@ -231,6 +234,7 @@ tvzvezda.ru
 ubp.com.ua
 uchebnik.s3.yandex.net
 update.geo.drweb.com
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -251,6 +255,8 @@ wmtransfer.com
 www.capitaller.ru
 www.translate.yandex.kz
 www.translate.yandex.ru
+www.yandex.fr
+www.yandex.ru
 xn--c1acbl2abdlkab1og.xn--p1ai
 xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
@@ -261,7 +267,7 @@ yaltatv.ru
 yandex.fr
 yandex.ru
 yandex.st
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
