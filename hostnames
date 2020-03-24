@@ -44,8 +44,6 @@ dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -92,6 +90,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
@@ -102,9 +101,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mail1.yandex.net
 mail.wmid.com
-maps.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
@@ -142,7 +139,6 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -201,8 +197,6 @@ smdnr.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 sputniknews.com
-startup.ios.mobile.yandex.net
-startup.mobile.yandex.net
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -221,6 +215,7 @@ ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
 vremya.tv
