@@ -8,7 +8,6 @@
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
-aab-pub.s3.yandex.net
 admin-gorlovka.ru
 advisor.wmtransfer.com
 agroprom.msdnr.ru
@@ -18,7 +17,6 @@ an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.passport.yandex.ru
-api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -34,6 +32,8 @@ brttv.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
+courier.online.yandex.net
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -94,6 +94,7 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -101,8 +102,8 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 ip246.244.odnoklassniki.ru.Home
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.com
@@ -134,7 +135,6 @@ matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -168,7 +168,6 @@ multvkino.tlum.ru
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -195,7 +194,6 @@ passport.yandex.kg
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -208,7 +206,6 @@ pp.vk.me
 prd.geo.kaspersky.com
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 radiovera.ru
 realty.ria.ru
 ren.tv
@@ -241,6 +238,7 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.fr
 tribunal.dnr-online.ru
 trkekran.mybb.ru
 trk-luch.ru
@@ -250,11 +248,11 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-uptime-info.yandex.ru
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
+vk.cc
 vk.com
 vk.me
 vremya.tv
@@ -277,8 +275,6 @@ xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
-yandex.by
-yandex.com
 yandex.net
 yandex.ru
 yandex.st
@@ -288,4 +284,3 @@ ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
