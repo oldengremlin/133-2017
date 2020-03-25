@@ -17,6 +17,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -31,6 +32,7 @@ bizdnr.ru
 bober-tv.ru
 brttv.ru
 calls.vk.com
+cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -108,6 +110,7 @@ maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -223,7 +226,9 @@ telepay.wmtransfer.com
 tk-union.tv
 tnt-online.ru
 translate.yandex.by
+translate.yandex.fr
 translate.yandex.kz
+translate.yandex.net
 translate.yandex.ru
 tribunal.dnr-online.ru
 trkekran.mybb.ru
@@ -263,6 +268,7 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.fr
 yandex.ru
 yandex.st
 yandex.ua
