@@ -1,6 +1,5 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -24,6 +23,7 @@ api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
+api.music.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -49,7 +49,6 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs-metadsp.yandex.ru
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.NET
 cdn.yandex.net
@@ -74,6 +73,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
@@ -133,11 +133,11 @@ grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
 inosmi.ru
-ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -179,7 +179,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -220,7 +219,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -283,6 +281,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+pop.yandex.com
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -310,6 +309,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -324,7 +324,6 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
@@ -341,6 +340,7 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
+streaming.cdn.yandex.net
 strm-mskm909.strm.yandex.net
 strm-mskstoredata02.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
@@ -401,6 +401,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -438,6 +439,5 @@ yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zakladki.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
