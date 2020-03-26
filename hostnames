@@ -5,6 +5,7 @@
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -19,6 +20,7 @@ an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
+app.tanker.yandex.net
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -124,6 +126,7 @@ free.drweb.ua
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
+geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -135,6 +138,7 @@ imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -161,6 +165,7 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
+kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -192,6 +197,7 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.com
 mc.yandex.ru
@@ -220,13 +226,18 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobile-maps-common.s3.yandex.net
+mobile-maps-sounds.s3.yandex.net
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
+mtr-transport-regions.s3.yandex.net
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
@@ -252,7 +263,9 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.yandex.net
+ns1.yandex.RU
 ns2.yandex.net
+ns2.yandex.RU
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -303,6 +316,7 @@ realty.ria.ru
 realty.yandex.ru
 redirect.geo.kaspersky.com
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -394,6 +408,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -421,6 +436,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
 yx549482.oauth.yandex.ru
