@@ -21,12 +21,14 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -43,7 +45,6 @@ brttv.ru
 calendar.yandex.ru
 c-eho.info
 c-inform.info
-clck.yandex.ru
 collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
@@ -53,14 +54,9 @@ crimea.gov.ru
 crimea.ria.ru
 crl.kaspersky.com
 crls.yandex.net
-crossdist.yandex.net
 cs10697.vk.me
-cs11082.vk.me
 cs313816.vk.me
-cs403128.vk.me
 cs405317.vk.me
-cs411023.vk.me
-cs417126.vk.me
 cs419327.vk.me
 cs425830.vk.me
 cs5260.vk.me
@@ -68,7 +64,6 @@ cs606125.vk.me
 cs607124.vk.me
 cs617418.vk.me
 cs618325.vk.me
-cs620418.vk.me
 cs621217.vk.me
 cs621821.vk.me
 cs622021.vk.me
@@ -76,8 +71,6 @@ cs622022.vk.me
 cs622431.vk.me
 cs622821.vk.me
 cs623221.vk.me
-cs623223.vk.me
-cs623719.vk.me
 cs623829.vk.me
 cs623831.vk.me
 cs624318.vk.me
@@ -90,7 +83,6 @@ cs625319.vk.me
 cs625320.vk.me
 cs625325.vk.me
 cs625431.vk.me
-cs625620.vk.me
 cs625829.vk.me
 cs627524.vk.me
 cs627927.vk.me
@@ -162,8 +154,10 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -184,6 +178,7 @@ img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -226,7 +221,6 @@ ksn-dc1-st.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -244,6 +238,7 @@ market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -298,8 +293,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.RU
-ns2.yandex.RU
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -392,6 +385,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -467,6 +461,7 @@ yandex.uz
 yastroka.yandex.net
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
