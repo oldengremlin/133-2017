@@ -6,7 +6,6 @@
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
-42989.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -20,6 +19,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -29,7 +29,6 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -54,7 +53,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -75,11 +73,11 @@ dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -101,7 +99,6 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -126,7 +123,6 @@ ikstv.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -155,6 +151,7 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -165,7 +162,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -278,7 +274,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -298,6 +293,7 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -331,7 +327,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
