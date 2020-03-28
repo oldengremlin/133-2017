@@ -79,10 +79,12 @@ dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -116,6 +118,8 @@ exchanger.ru
 ext-strm-cogent03.strm.yandex.net
 ext-strm-level303.strm.yandex.net
 ext-strm-mskttk01.strm.yandex.net
+ext-strm-mskttk08.strm.yandex.net
+ext-strm-mskttk13.strm.yandex.net
 ext-strm-mskttk19.strm.yandex.net
 ext-strm-telia13.strm.yandex.net
 favicon.yandex.net
@@ -169,8 +173,10 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -217,6 +223,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile-partners.maps.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -334,6 +341,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.ios.mobile.yandex.net
+startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-maps.yandex.ru
 static-mon.yandex.net
@@ -347,6 +355,8 @@ strm-mskm919.strm.yandex.net
 strm-mskm921.strm.yandex.net
 strm-mskstoredata01.strm.yandex.net
 strm-mskstoredata02.strm.yandex.net
+strm-mskstoredata04.strm.yandex.net
+strm-mskstoredata05.strm.yandex.net
 strm-mskstoredata07.strm.yandex.net
 strm-rad04.strm.yandex.net
 strm.yandex.net
@@ -362,6 +372,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -442,6 +453,8 @@ ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
+zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
