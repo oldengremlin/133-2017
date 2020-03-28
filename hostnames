@@ -25,6 +25,7 @@ api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.messenger.yandex.net
+api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -46,6 +47,7 @@ bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
 browser-updater.yandex.net
+browser-web-balancer.stable.qloud-b.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
@@ -63,6 +65,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
+cryprox.yandex.NET
 cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -73,6 +76,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-08.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -121,6 +125,7 @@ i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -166,6 +171,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -251,6 +257,9 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p02.upd.kaspersky.com
+p08.upd.kaspersky.com
+p12.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -319,6 +328,7 @@ sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
+static.vk.com
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -349,6 +359,7 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
