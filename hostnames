@@ -3,9 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -19,8 +17,8 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -50,7 +48,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -66,6 +63,7 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
@@ -88,7 +86,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.com
 download.drweb.ru
 download.drweb.ua
@@ -160,10 +157,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -177,7 +174,6 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
-maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
@@ -191,7 +187,6 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -226,6 +221,7 @@ mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
 music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -249,6 +245,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -284,6 +281,7 @@ promedia.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
+radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -311,8 +309,6 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -326,7 +322,6 @@ startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
-suggest.yandex.ua
 taxi.yandex.ru
 tc.mobile.yandex.net
 tech.yandex.ru
@@ -363,7 +358,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webasr.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -416,4 +410,5 @@ ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+zen.yandex.ru
 zno.yandex.ua
