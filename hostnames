@@ -24,10 +24,12 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
+api.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -38,6 +40,8 @@ avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.net
+awaps.yandex.ru
+awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -50,11 +54,9 @@ browser.yandex.ua
 brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
-calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -76,10 +78,7 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -111,8 +110,6 @@ events.wmtransfer.com
 exchanger.ru
 ext-strm-cogent12.strm.yandex.net
 ext-strm-mskttk02.strm.yandex.net
-ext-strm-mskttk09.strm.yandex.net
-ext-strm-mskttk11.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -262,6 +259,7 @@ odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
 p00.upd.kaspersky.com
+p11.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -318,6 +316,8 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
@@ -328,9 +328,7 @@ sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
-startup.mobile.yandex.NET
 startup.mobile.yandex.net
 static-mon.yandex.net
 static.yandex.net
@@ -338,9 +336,7 @@ stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
 strm-mskm902.strm.yandex.net
-strm-mskm906.strm.yandex.net
 strm-mskm907.strm.yandex.net
-strm-rad18.strm.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 taxi.yandex.ru
@@ -351,6 +347,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
@@ -366,8 +363,6 @@ tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -381,7 +376,6 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
