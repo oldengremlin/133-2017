@@ -13,7 +13,6 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
-aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -28,9 +27,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
-avatars-fast.yandex.net
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.ru
@@ -42,10 +38,11 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
+browser-updater.yandex.net
+browser-web-balancer.stable.qloud-b.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -60,7 +57,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crossdist.yandex.net
-cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -99,10 +95,8 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -150,6 +144,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
@@ -175,7 +170,6 @@ matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
-mdata.yandex.net
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -309,7 +303,6 @@ sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
-speller.yandex.net
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.private.voice.yandex.net
@@ -333,6 +326,7 @@ tk-union.tv
 tnt-online.ru
 translate.yandex.by
 translate.yandex.com
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -343,7 +337,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -415,6 +408,12 @@ ysa-static.passport.yandex.ru
 yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
