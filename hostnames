@@ -4,6 +4,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -49,6 +50,7 @@ browser.yandex.ua
 brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
@@ -71,6 +73,8 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -145,8 +149,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -177,6 +183,7 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -238,6 +245,7 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 partner2.yandex.ru
@@ -308,6 +316,7 @@ spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
 stat.yandex.ru
@@ -393,6 +402,7 @@ xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yabs.yandex.ru
+yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
 yandex.az
