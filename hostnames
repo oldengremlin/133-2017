@@ -187,6 +187,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -273,6 +274,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -375,6 +377,8 @@ strm-rad16.strm.yandex.net
 strm-rad18.strm.yandex.net
 strm-rad19.strm.yandex.net
 strm.yandex.net
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
 tapoc.trbo.yandex.net
@@ -403,6 +407,7 @@ tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
 vec01.maps.yandex.net
+vec02.maps.yandex.net
 vec03.maps.yandex.net
 vec.maps.yandex.net
 vec.map.yandex.net
@@ -468,6 +473,9 @@ ysa-static.passport.yandex.net
 yx549482.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
+zakladki.yandex.ru
+zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
