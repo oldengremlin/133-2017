@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -17,7 +16,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -40,6 +38,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-meta.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
@@ -63,8 +62,10 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-00.geo.kaspersky.com
-dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -114,6 +115,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 img.yandex.net
+img.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -146,6 +148,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-dc1.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -222,8 +226,6 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
-ns2.vkontakte.ru
-ns3.vkontakte.ru
 ns4.vkontakte.ru
 ns8.yandex.ru
 nslnr.su
@@ -231,6 +233,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -273,7 +276,6 @@ realty.ria.ru
 realty.yandex.ru
 refresh-bkg.activation-v2.kaspersky.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -293,10 +295,10 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -314,7 +316,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.fr
 translate.yandex.net
 translate.yandex.ru
@@ -326,6 +327,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
