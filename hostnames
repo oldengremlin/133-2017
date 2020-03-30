@@ -1,11 +1,9 @@
 100kwt.com
-10180.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -13,11 +11,11 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -26,7 +24,6 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -65,8 +62,6 @@ dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -86,7 +81,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -151,6 +145,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -165,9 +160,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
-maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -226,7 +218,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns3.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -243,11 +234,9 @@ partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -299,7 +288,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.ape.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -309,7 +297,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
@@ -352,7 +339,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -360,7 +346,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -383,5 +368,4 @@ yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
-zen.yandex.ru
 zno.yandex.ua
