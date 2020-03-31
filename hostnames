@@ -51,6 +51,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -65,12 +66,10 @@ dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -147,10 +146,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -159,12 +159,10 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
-maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
@@ -197,7 +195,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -231,7 +228,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
@@ -265,7 +261,6 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -314,10 +309,7 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
-translate.yandex.com
-translate.yandex.fr
 translate.yandex.kz
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -375,7 +367,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
