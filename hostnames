@@ -53,6 +53,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 cloud-api.yandex.net
 collections.yandex.ru
 c-pravda.ru
@@ -62,6 +63,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cryprox.yandex.net
 cs621519.vk.me
 dan-news.info
 debt.wmtransfer.com
@@ -74,6 +76,7 @@ dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -85,8 +88,6 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -100,14 +101,12 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ua
 familysearch.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
@@ -124,14 +123,12 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im2-tub-com.yandex.net
-imap.yandex.ru
 img-fotki.yandex.net
 img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -180,9 +177,9 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -220,7 +217,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -306,7 +302,9 @@ rusvesna.su
 s103vla.storage.yandex.net
 s155iva.storage.yandex.net
 s322iva.storage.yandex.net
+s35vla.storage.yandex.net
 s42man.storage.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -323,7 +321,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.net
+static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -373,6 +371,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -404,6 +403,7 @@ yandex.lv
 yandex.md
 yandex.net
 yandex.ru
+yandex.ru.Home
 yandex.st
 yandex.tj
 yandex.tm
