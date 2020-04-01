@@ -28,6 +28,8 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
+avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.ru
@@ -42,9 +44,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 calendar.yandex.ru
-cdn.yandex.net
 c-eho.info
-cid.yandex.net
 c-inform.info
 collections.yandex.ru
 c-pravda.ru
@@ -64,8 +64,9 @@ disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -100,6 +101,7 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -158,6 +160,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -166,17 +169,16 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -302,6 +304,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -317,7 +320,6 @@ startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 sync.browser.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -371,6 +373,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -398,7 +401,8 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yastroka.yandex.net
+ysa-static.passport.yandex.net
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
