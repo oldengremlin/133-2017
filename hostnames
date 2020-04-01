@@ -45,6 +45,7 @@ bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
+cid.yandex.net
 c-inform.info
 collections.yandex.ru
 c-pravda.ru
@@ -66,6 +67,7 @@ dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -82,7 +84,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -109,7 +110,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -144,8 +144,6 @@ ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -160,7 +158,6 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -202,7 +199,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -227,7 +223,6 @@ ns1.vkontakte.ru
 ns2.vkontakte.RU
 ns2.vkontakte.ru
 ns3.vkontakte.ru
-ns3.yandex.ru
 ns4.vkontakte.RU
 ns4.vkontakte.ru
 nslnr.su
@@ -269,7 +264,6 @@ promedia.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
-radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -295,9 +289,11 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -307,6 +303,7 @@ startup.mobile.yandex.NET
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 strm.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
@@ -360,7 +357,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
-www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -390,6 +386,5 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
 zen.yandex.ru
 zno.yandex.ua
