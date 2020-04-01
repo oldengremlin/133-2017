@@ -23,8 +23,7 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
-api.passport.yandex.ru
-api.weather.yandex.ru
+api.vk.com
 app.tanker.yandex.net
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -36,6 +35,7 @@ avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.net
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -46,7 +46,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-meta.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
@@ -122,8 +121,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -155,7 +152,6 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -166,6 +162,7 @@ kianews.com.ua
 komtv.org
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 login.yandex.ru
 lug24.ru
@@ -177,6 +174,7 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -209,7 +207,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-ml-ext.taxi.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -223,9 +220,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.com
 music.yandex.kz
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -303,6 +298,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -310,6 +306,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s3.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -329,9 +327,13 @@ static-mon.yandex.net
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 streaming.cdn.yandex.net
 sync.browser.yandex.net
+taxi-promotions.s3.yandex.net
 taxi.yandex.ru
+tc.mobile.yandex.net
+tc.mobile.yandex.ru
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -343,6 +345,7 @@ touch.kaspersky.com
 tracking.ott.yandex.net
 translate.yandex.by
 translate.yandex.com
+translate.yandex.fr
 translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
@@ -418,8 +421,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yastroka.yandex.net
-yx549482.oauth.yandex.ru
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
