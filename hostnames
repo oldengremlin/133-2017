@@ -39,13 +39,13 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
+bro-bg-store.s3.yandex.net
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
@@ -79,6 +79,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -99,6 +101,7 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+ext-strm-m9mts06.strm.yandex.net
 familysearch.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
@@ -146,17 +149,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-cinfo.geoksn.kaspersky.com
-ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-pp.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -175,6 +169,7 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -247,7 +242,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.yandex.ru
+oauth.vk.com
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -315,7 +310,6 @@ slovari.yandex.ru
 smdnr.ru
 smtp.mail.yandex.ru
 soft.export.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -323,6 +317,8 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
+strm.yandex.ru
 suggest.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
@@ -335,6 +331,7 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.com
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -400,6 +397,7 @@ yandex.lv
 yandex.md
 yandex.net
 yandex.ru
+yandex.ru.Home
 yandex.st
 yandex.tj
 yandex.tm
