@@ -35,7 +35,6 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -55,6 +54,7 @@ bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
+chat.s3.yandex.net
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
@@ -73,7 +73,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-04.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -114,7 +114,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-im2-tub-com.yandex.net
 imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
@@ -147,7 +146,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
@@ -210,7 +211,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -234,6 +234,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -262,8 +263,8 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+pop.yandex.com
 pop.yandex.ru
-pp.vk.me
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -279,7 +280,6 @@ realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -295,6 +295,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.cdn.yandex.net
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -318,7 +319,9 @@ stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
 storage.mds.yandex.net
+suggest.yandex.NET
 suggest.yandex.net
+suggest.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -327,6 +330,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.com
 translate.yandex.kz
 translate.yandex.net
@@ -348,14 +352,13 @@ vgtrk.com
 vk.cc
 vk.com
 vk.me
-vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
-web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -371,6 +374,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.com
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
