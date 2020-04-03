@@ -16,6 +16,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -25,7 +26,6 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -97,6 +97,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -119,7 +120,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -130,17 +130,24 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
 kaspersky.ru
+kaspersky.se
+kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -148,10 +155,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -160,7 +168,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mailhost.yandex.net
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -169,7 +177,6 @@ market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -257,11 +264,13 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
+passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 postmaster.yandex.net
 post.yandex.net
 prd.geo.kaspersky.com
@@ -336,9 +345,9 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -359,6 +368,7 @@ wmsc2.webmoney.ru
 wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
+www2.yandex.net
 www.capitaller.ru
 www.drweb.ru
 www.drweb.ua
@@ -396,6 +406,5 @@ yandex.ua
 yandex.uz
 yapic.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 zen.yandex.ru
 zno.yandex.ua
