@@ -69,6 +69,7 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -194,6 +195,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -225,6 +227,10 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns2.vkontakte.ru
+ns3.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -257,6 +263,7 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 postmaster.yandex.net
+post.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -279,6 +286,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -295,6 +303,7 @@ site.yandex.ua
 smdnr.ru
 smtp2.yandex.net
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -316,6 +325,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -355,6 +365,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
