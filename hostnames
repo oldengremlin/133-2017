@@ -20,7 +20,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -56,8 +55,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crl.kaspersky.com
-crls.yandex.net
-crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -249,6 +246,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -294,6 +293,7 @@ realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -318,7 +318,6 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
-smtps.yandex.net
 smtp.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
@@ -332,10 +331,10 @@ static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.ape.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm-mskm915.strm.yandex.net
+strm.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
