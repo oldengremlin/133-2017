@@ -8,7 +8,6 @@
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -21,7 +20,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -34,7 +32,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
@@ -67,11 +64,10 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -101,7 +97,6 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 familysearch.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -115,6 +110,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -145,9 +141,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -236,20 +229,17 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
 p03.upd.kaspersky.com
 p04.upd.kaspersky.com
 p09.upd.kaspersky.com
-p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -273,6 +263,7 @@ paymaster.ua
 pda.news.yandex.ru
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -306,12 +297,14 @@ rusvesna.su
 s10sas.storage.yandex.net
 s21vla.storage.yandex.net
 s297iva.storage.yandex.net
-s318iva.storage.yandex.net
+s311iva.storage.yandex.net
+s572sas.storage.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
@@ -328,6 +321,8 @@ stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
 streaming.cdn.yandex.net
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -382,6 +377,7 @@ www.kaspersky.ua
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
+www.webmoney.ru
 www.yandex.com
 www.yandex.ru
 xml.yandex.ru
@@ -416,5 +412,6 @@ yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zakladki.yandex.ru
+zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
