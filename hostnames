@@ -25,7 +25,6 @@ api.browser.yandex.ua
 api.lbs.yandex.net
 api.vk.com
 api.vk.com.Home
-api.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -52,6 +51,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+cloud-api.yandex.net
 collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
@@ -112,6 +112,7 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -212,7 +213,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -246,12 +246,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.vkontakte.RU
-ns1.vkontakte.ru
 ns2.vkontakte.RU
 ns2.vkontakte.ru
-ns4.vkontakte.RU
-ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -263,8 +259,6 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p15.upd.kaspersky.com
-p16.upd.kaspersky.com
 p18.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -295,13 +289,13 @@ queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
+radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -316,8 +310,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s02.upd.kaspersky.com
-s03.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
@@ -338,7 +330,6 @@ static-maps.yandex.ru
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-st.kp.yandex.net
 streaming.cdn.yandex.net
 sync.browser.yandex.net
 taxi.yandex.ru
@@ -389,6 +380,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
