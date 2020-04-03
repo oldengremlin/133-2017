@@ -21,6 +21,8 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.messenger.yandex.net
 api.vk.com
@@ -45,9 +47,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-c2.dev.drweb.com
 calendar.yandex.ru
-calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -60,6 +60,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -68,9 +69,21 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -89,7 +102,6 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
-downloader.yandex.net
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -146,7 +158,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -165,8 +183,8 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.by
 mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
@@ -241,7 +259,6 @@ p00.upd.kaspersky.com
 p02.upd.kaspersky.com
 p12.upd.kaspersky.com
 p14.upd.kaspersky.com
-p15.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -293,11 +310,11 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s200vla.storage.yandex.net
 s281sas.storage.yandex.net
+s285myt.storage.yandex.net
 s58sas.storage.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
-sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
@@ -318,8 +335,8 @@ startup.mobile.yandex.net
 static.yandex.NET
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 streaming.cdn.yandex.net
-suggest.yandex.ua
 sync.browser.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -331,7 +348,6 @@ tk-union.tv
 tnt-online.ru
 tools.messenger.yandex.net
 touch.kaspersky.com
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -390,7 +406,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -404,7 +419,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
