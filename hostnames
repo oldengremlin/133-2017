@@ -21,6 +21,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.lbs.yandex.ru
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -32,10 +33,12 @@ avatars.mds.yandex.net
 avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -43,12 +46,13 @@ browser-updater.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
+bs-metadsp.yandex.ru
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 cloud-api.yandex.net
 collections.yandex.ru
 c-pravda.ru
@@ -80,6 +84,8 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
+download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -91,6 +97,7 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
+export.yandex.ru
 familysearch.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
@@ -111,6 +118,7 @@ informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -194,7 +202,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -214,14 +221,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.vkontakte.RU
-ns1.vkontakte.ru
 ns2.vkontakte.RU
 ns2.vkontakte.ru
-ns3.yandex.ru
-ns4.vkontakte.RU
-ns4.vkontakte.ru
-ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -258,11 +259,10 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-postmaster.yandex.net
+products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-ps.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -274,6 +274,7 @@ realty.yandex.ru
 redirect.appmetrica.yandex.com
 remote.yandex.net
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -290,9 +291,12 @@ russia.tv
 rusvesna.su
 s116iva.storage.yandex.net
 s12sas.storage.yandex.net
+s158iva.storage.yandex.net
 s317sas.storage.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -310,9 +314,11 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 sync.browser.yandex.net
@@ -356,6 +362,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -398,7 +405,6 @@ yandex.lv
 yandex.md
 yandex.net
 yandex.ru
-yandex.ru.Home
 yandex.st
 yandex.tj
 yandex.tm
