@@ -39,7 +39,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -124,7 +123,6 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -156,6 +154,8 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -202,8 +202,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.navi.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -216,6 +214,7 @@ mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
 music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -281,7 +280,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -297,15 +295,17 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.cdn.yandex.net
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtp2.yandex.net
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -318,7 +318,6 @@ sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.NET
 startup.mobile.yandex.net
-static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
