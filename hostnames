@@ -22,7 +22,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -37,7 +36,6 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.net
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -62,6 +60,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 cryprox.yandex.NET
 cs316222.vk.me
 cs6139.vk.me
@@ -136,8 +135,6 @@ grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
-im2-tub-com.yandex.net
-imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -174,6 +171,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mailhost.yandex.net
 mail.wmid.com
 mail.yandex.ru
@@ -248,8 +246,10 @@ novoross.info
 novosti-tchasa.com
 ns1.vkontakte.RU
 ns1.vkontakte.ru
+ns1.yandex.ru
 ns2.vkontakte.RU
 ns2.vkontakte.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -299,6 +299,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -321,7 +322,7 @@ sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
+site.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -333,16 +334,15 @@ speller.yandex.net
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-statchecker.yandex.ru
 static-maps.yandex.ru
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
-storage.mds.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.ru
+sync.disk.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -351,6 +351,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.by
 translate.yandex.com
 translate.yandex.fr
 translate.yandex.net
@@ -367,6 +368,7 @@ tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 uniproxy.messenger.yandex.ua
+update.geo.drweb.com
 vec04.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -379,8 +381,10 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -398,7 +402,6 @@ www.kaspersky.ua
 www.translate.yandex.com
 www.translate.yandex.ua
 www.vk.com
-www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -414,6 +417,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
