@@ -1,12 +1,10 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
 19531.redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2171938.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
@@ -16,7 +14,6 @@
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
-adsdk.yandex.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
@@ -25,9 +22,9 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api.vk.com
+appmetrica.yandex.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -46,10 +43,10 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
-cid.yandex.net
 c-inform.info
 c-pravda.ru
 craig.drweb.com
@@ -106,7 +103,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -128,6 +124,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 ipm-klca.kaspersky.com
@@ -170,6 +167,8 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -267,7 +266,6 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -294,6 +292,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -323,6 +322,7 @@ spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.NET
 startup.mobile.yandex.net
@@ -337,6 +337,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -380,7 +381,6 @@ www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
-www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -407,10 +407,9 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
