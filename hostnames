@@ -1,4 +1,5 @@
 100kwt.com
+167360.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -20,7 +21,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -55,10 +55,7 @@ crimea.ria.ru
 crls.yandex.net
 crls.yandex.ru
 cryprox.yandex.net
-cs307707.vk.me
 cs619823.vk.me
-csp-report.stable.qloud-b.yandex.net
-csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -115,6 +112,8 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+ext-strm-mskttk25.strm.yandex.net
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -151,6 +150,7 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
+kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -162,6 +162,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -172,12 +173,12 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail1.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 main.zdevx.yandex.ru
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -210,7 +211,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -244,6 +244,9 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
+ns2.vkontakte.ru
+ns3.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -307,7 +310,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -324,12 +326,14 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static-mon.yandex.net
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
-suggest.yandex.ru
+streaming.cdn.yandex.net
+strm-mskstoredata09.strm.yandex.net
+strm.yandex.net
+strm.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -339,7 +343,9 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -350,11 +356,10 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -383,7 +388,6 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
-www.translate.yandex.ua
 www.vk.com
 www.yandex.com
 www.yandex.ru
@@ -415,8 +419,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yapic.yandex.net
-ysa-static.passport.yandex.net
-ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
