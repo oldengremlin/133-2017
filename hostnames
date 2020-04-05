@@ -38,6 +38,7 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -58,7 +59,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-crls.yandex.ru
 cryprox.yandex.net
 csp-report.stable.qloud-b.yandex.net
 csp.yandex.net
@@ -67,7 +67,6 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -108,11 +107,11 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -130,6 +129,7 @@ fotki.yandex.ru
 fox.market.yandex.ru
 free.drweb.ru
 free.drweb.ua
+frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 gknslnr.su
@@ -140,6 +140,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 img.yandex.net
+img.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -161,9 +162,9 @@ kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -172,9 +173,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -189,12 +187,14 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
+market-click2.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -222,8 +222,10 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -261,13 +263,13 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
 panoramas.api-maps.yandex.ru
 partner2.yandex.ru
 partner.yandex.ru
@@ -286,6 +288,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.UA
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -293,6 +296,7 @@ pdd.yandex.ru
 poehali.tv
 portal-xiva.yandex.net
 prd.geo.kaspersky.com
+products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -306,6 +310,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
+remote.yandex.net
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -329,6 +334,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ru
 site.yandex.ua
 smdnr.ru
@@ -366,12 +372,14 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
+video-preview.s3.yandex.net
 vk.cc
 vk.com
 vk.me
@@ -396,6 +404,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
