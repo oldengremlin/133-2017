@@ -5,9 +5,7 @@
 1tv.com
 1tvcrimea.ru
 2171938.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -22,7 +20,6 @@ an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -57,6 +54,8 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
+crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -158,7 +157,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-info.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -171,7 +169,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -237,11 +234,12 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
+ns1.yandex.ru
 ns2.vkontakte.ru
+ns2.yandex.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 nslnr.su
-ns.yandex.net
 nts-tv.com
 ntvplus.ru
 ntv.ru
@@ -307,7 +305,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sdk.vk.com
-secure.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -322,12 +319,10 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static-pano.maps.yandex.ru
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
-sync.browser.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -337,6 +332,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -349,7 +345,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -376,9 +371,11 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
+www.translate.yandex.ua
 www.vk.com
-www.yandex.ru
+www.yandex.com
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -407,9 +404,7 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 zen.yandex.ru
 zno.yandex.ua
