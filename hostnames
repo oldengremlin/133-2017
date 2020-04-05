@@ -1,4 +1,5 @@
 100kwt.com
+10180.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -17,10 +18,11 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.ru
+api.browser.yandex.net
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -153,8 +155,6 @@ kianews.com.ua
 komtv.org
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -163,6 +163,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -171,8 +172,9 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -199,7 +201,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.metro.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -213,13 +214,14 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
+music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -295,6 +297,7 @@ rusvesna.su
 s00.upd.kaspersky.com
 s01.upd.kaspersky.com
 s17.upd.kaspersky.com
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -336,7 +339,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -397,7 +399,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.com
+zen.yandex.ru
 zno.yandex.ua
