@@ -1,13 +1,10 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
-167360.redirect.appmetrica.yandex.com
-1971205.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 2922046.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -22,16 +19,13 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -53,7 +47,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -72,6 +65,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
@@ -106,7 +100,6 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
-download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
@@ -131,7 +124,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im0-tub-ua.yandex.net
-imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -177,7 +169,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -227,7 +218,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.kz
 music.yandex.ua
 muz1.tv
@@ -280,6 +270,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -287,7 +278,6 @@ promedia.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
-radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -301,7 +291,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -309,7 +298,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -319,7 +307,6 @@ site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
-sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -350,10 +337,10 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -412,9 +399,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
