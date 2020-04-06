@@ -71,6 +71,7 @@ dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -119,8 +120,8 @@ grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -149,6 +150,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
@@ -160,6 +162,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -196,8 +199,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-ml-ext.taxi.yandex.net
-mobile.navi.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -211,6 +212,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -233,6 +235,7 @@ novoross.info
 novosti-tchasa.com
 ns1.yandex.NET
 ns1.yandex.RU
+ns1.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -243,6 +246,7 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 p01.upd.kaspersky.com
@@ -274,7 +278,6 @@ products.drweb.ua
 promedia.ru
 push.yandex.ru
 push.yandex.ua
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -301,24 +304,25 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s10sas.storage.yandex.net
-s297iva.storage.yandex.net
 s311iva.storage.yandex.net
 s572sas.storage.yandex.net
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
+searchlib.yandex.net
 sec.api.browser.yandex.ru
+sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
-site.yandex.net
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 smtp.yandex.com
 smtp.yandex.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -389,6 +393,7 @@ www.translate.yandex.ru
 www.vk.com
 www.yandex.com
 www.yandex.ru
+www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -409,7 +414,6 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
-yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
@@ -418,10 +422,11 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
-yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
