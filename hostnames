@@ -18,7 +18,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
-api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -38,7 +37,6 @@ banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
-browser-resources.s3.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
@@ -144,7 +142,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -158,6 +155,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -168,7 +166,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -214,8 +211,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -248,9 +243,6 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p02.upd.kaspersky.com
-p08.upd.kaspersky.com
-p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -301,6 +293,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -342,7 +336,6 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -352,7 +345,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
