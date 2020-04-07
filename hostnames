@@ -4,9 +4,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -49,7 +46,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -66,7 +62,6 @@ dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
@@ -149,7 +144,6 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -161,10 +155,8 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -177,7 +169,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -240,7 +231,9 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.yandex.RU
+ns1.yandex.ru
 ns2.yandex.RU
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -257,7 +250,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -272,6 +264,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.com
 products.drweb.ru
@@ -300,8 +293,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s05.upd.kaspersky.com
-s07.upd.kaspersky.com
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -327,7 +318,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 translate.yandex.by
 translate.yandex.com
 translate.yandex.ru
@@ -401,6 +391,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zd9eg.vk.com
 zno.yandex.ua
