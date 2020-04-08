@@ -98,7 +98,6 @@ donbass.media
 download.drweb.ru
 download.drweb.ua
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -149,7 +148,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-dc1.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -165,6 +165,7 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -221,23 +222,18 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.ru
-ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
-p01.upd.kaspersky.com
-p03.upd.kaspersky.com
-p15.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -334,7 +330,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -366,7 +361,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.ru
-www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
