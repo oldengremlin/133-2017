@@ -17,9 +17,10 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api4mini.webmoney.ru
 api.browser.yandex.ru
+api.lbs.yandex.net
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -39,7 +40,6 @@ bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
-browser-updater.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
@@ -58,9 +58,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-crossdist.yandex.net
-csp-report.stable.qloud-b.yandex.net
-csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -86,7 +83,6 @@ dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -115,14 +111,11 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
-frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 gknslnr.su
@@ -131,12 +124,10 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-im0-tub-ru.yandex.net
 imap.yandex.com
 imap.yandex.ru
-im-tub.yandex.ru
 i-mult.tlum.ru
-im.vk.com
+informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -172,6 +163,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -184,8 +176,8 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-main.zdevx.yandex.ru
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -253,6 +245,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
@@ -268,7 +261,6 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -286,7 +278,6 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -296,7 +287,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -389,7 +379,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -414,6 +403,7 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
+zakladki.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
