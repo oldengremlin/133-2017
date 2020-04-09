@@ -152,6 +152,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -226,11 +227,14 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -249,6 +253,7 @@ passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
+passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
@@ -257,6 +262,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -299,6 +305,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-pano.maps.yandex.ru
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -321,6 +328,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+vec01.maps.yandex.net
 vesti.ru
 vgtrk.com
 video-preview.s3.yandex.net
@@ -375,6 +383,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
