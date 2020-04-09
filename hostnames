@@ -5,7 +5,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -48,7 +47,6 @@ brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
 c2.dev.drweb.com
-c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -66,6 +64,7 @@ crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
+dialogs.s3.yandex.net
 digitalrussia.tv
 direct.yandex.ru
 disk.yandex.ru
@@ -109,6 +108,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+download.geo.drweb.com
 drweb.cn
 drweb.ru
 drweb.ua
@@ -133,7 +133,9 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+im2-tub-com.yandex.net
 img.yandex.net
+im-tub.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -170,6 +172,8 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -190,6 +194,7 @@ matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -251,12 +256,14 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p03.upd.kaspersky.com
 p09.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -264,7 +271,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -285,6 +291,7 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
+push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -329,11 +336,10 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static.yandex.net
+static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
-suggest.yandex.ru
-suggest.yandex.ua
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -342,7 +348,9 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.fr
 translate.yandex.kz
 translate.yandex.net
@@ -395,6 +403,7 @@ www.translate.yandex.ua
 www.vk.com
 www.yandex.fr
 www.yandex.ru
+www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -423,9 +432,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 ysa-static.passport.yandex.ru
-yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
