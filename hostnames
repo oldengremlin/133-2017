@@ -17,6 +17,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
@@ -45,6 +46,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 crash-reports.browser.yandex.net
@@ -52,13 +54,11 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
-direct-dna.s3.yandex.net
 direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
@@ -70,7 +70,6 @@ dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
@@ -103,7 +102,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -112,6 +110,7 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 ext-strm-mskttk04.strm.yandex.net
+ext-strm-mskttk05.strm.yandex.net
 ext-strm-mskttk09.strm.yandex.net
 ext-strm-mskttk17.strm.yandex.net
 ext-strm-mskttk26.strm.yandex.net
@@ -128,8 +127,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-img-fotki.yandex.net
-img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -170,7 +167,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -181,7 +178,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -288,6 +284,7 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -296,7 +293,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -312,9 +308,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s3.yandex.net
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -327,23 +321,21 @@ spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
-strm-mskm904.strm.yandex.net
 strm-mskm909.strm.yandex.net
 strm-mskm917.strm.yandex.net
 strm-mskm926.strm.yandex.net
 strm-mskmar15.strm.yandex.net
+strm-mskmar18.strm.yandex.net
 strm-mskmar20.strm.yandex.net
+strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata09.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
-strm.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
