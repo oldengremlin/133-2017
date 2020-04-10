@@ -31,6 +31,7 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
+avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.ru
@@ -48,6 +49,7 @@ bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
+cid.yandex.net
 c-inform.info
 clck.yandex.ru
 collections.yandex.ru
@@ -58,8 +60,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
-crls.yandex.ru
 cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -84,6 +84,7 @@ dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
@@ -127,7 +128,6 @@ gazeta.ok-crimea.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -166,11 +166,11 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -184,6 +184,8 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -211,7 +213,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -246,6 +247,7 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns3.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -296,14 +298,12 @@ realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -319,6 +319,7 @@ share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+social.yandex.ru
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -334,9 +335,11 @@ stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
 strm-mskm917.strm.yandex.net
+strm-mskm921.strm.yandex.net
 strm-mskmar02.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
+strm.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -432,7 +435,5 @@ yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kg
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-zakladki.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
