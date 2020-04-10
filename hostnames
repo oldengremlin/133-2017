@@ -69,6 +69,7 @@ crls.yandex.net
 crls.yandex.ru
 crossdist.yandex.net
 cryprox.yandex.net
+csp-report.stable.qloud-b.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -144,6 +145,7 @@ gtklnr.su
 hankey.drweb.com
 ikrim.net
 ikstv.ru
+imap.yandex.com
 i-mult.tlum.ru
 im.vk.com
 inosmi.ru
@@ -175,7 +177,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -197,6 +201,7 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -307,6 +312,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -339,12 +345,15 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.NET
 startup.mobile.yandex.net
+static-maps.yandex.ru
 static-mon.yandex.net
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm-mskm922.strm.yandex.net
+strm-mskmar07.strm.yandex.net
 strm-mskmar11.strm.yandex.net
 strm-mskmar18.strm.yandex.net
 strm-mskmar20.strm.yandex.net
@@ -363,6 +372,7 @@ tk-union.tv
 tnt-online.ru
 translate.yandex.by
 translate.yandex.com
+translate.yandex.fr
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -375,6 +385,8 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.drweb.com
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
