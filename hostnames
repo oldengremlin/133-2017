@@ -27,7 +27,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -55,9 +54,9 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
+crossdist.yandex.net
 cryprox.yandex.NET
 cryprox.yandex.net
-cs624224.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -71,7 +70,6 @@ dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
@@ -101,12 +99,15 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 enterprise.api-maps.yandex.ru
@@ -115,7 +116,6 @@ enterprise.vec01.maps.yandex.net
 enterprise.vec02.maps.yandex.net
 enterprise.vec03.maps.yandex.net
 enterprise.vec04.maps.yandex.net
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 ext-strm-mskttk19.strm.yandex.net
@@ -170,10 +170,11 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-catm.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -182,6 +183,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -284,6 +286,7 @@ pdd.yandex.ru
 poehali.tv
 portal-xiva.yandex.net
 prd.geo.kaspersky.com
+products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -302,7 +305,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -310,6 +312,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -330,8 +333,10 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
+strm-mskm905.strm.yandex.net
 strm-mskm919.strm.yandex.net
 strm-mskmar07.strm.yandex.net
+strm-mskmar18.strm.yandex.net
 strm-mskstoredata01.strm.yandex.net
 strm-mskstoredata05.strm.yandex.net
 taxi.yandex.ru
@@ -356,6 +361,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -416,6 +422,5 @@ yandex.uz
 yapic.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
