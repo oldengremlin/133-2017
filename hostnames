@@ -3,6 +3,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -23,6 +24,7 @@ api.browser.yandex.ua
 api-maps.yandex.ru
 apinotify.mail.ru.Home
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -54,6 +56,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crl.kaspersky.com
 crls.yandex.net
 crls.yandex.ru
 cryprox.yandex.net
@@ -115,7 +118,6 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 ext-strm-mskttk12.strm.yandex.net
-ext-strm-mskttk16.strm.yandex.net
 ext-strm-mskttk24.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
@@ -187,6 +189,7 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -249,6 +252,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p01.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -302,7 +306,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -322,10 +325,11 @@ stat.yandex.ua
 st.kp.yandex.net
 streaming.cdn.yandex.net
 strm-mskm912.strm.yandex.net
+strm-mskmar10.strm.yandex.net
 strm-mskmar11.strm.yandex.net
-strm-mskmar13.strm.yandex.net
 strm-mskmar16.strm.yandex.net
 strm-mskstoredata01.strm.yandex.net
+strm-mskstoredata02.strm.yandex.net
 strm.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
@@ -336,6 +340,8 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
+tr1.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
@@ -349,7 +355,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -380,6 +385,7 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -410,8 +416,5 @@ yapic.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 zen.yandex.ru
 zno.yandex.ua
