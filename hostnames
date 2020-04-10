@@ -41,11 +41,11 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -70,6 +70,7 @@ dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
@@ -112,6 +113,7 @@ exchanger.ru
 ext-strm-mskttk04.strm.yandex.net
 ext-strm-mskttk05.strm.yandex.net
 ext-strm-mskttk09.strm.yandex.net
+ext-strm-mskttk12.strm.yandex.net
 ext-strm-mskttk17.strm.yandex.net
 ext-strm-mskttk26.strm.yandex.net
 fgi-lnr.su
@@ -252,7 +254,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -267,6 +268,7 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
+passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -323,16 +325,18 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
 strm-mskm909.strm.yandex.net
+strm-mskm912.strm.yandex.net
 strm-mskm917.strm.yandex.net
 strm-mskm926.strm.yandex.net
+strm-mskmar04.strm.yandex.net
 strm-mskmar15.strm.yandex.net
 strm-mskmar18.strm.yandex.net
 strm-mskmar20.strm.yandex.net
+strm-mskstoredata01.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata09.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
@@ -344,6 +348,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.fr
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -355,10 +360,9 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-update.drweb.com
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -400,6 +404,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
