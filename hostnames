@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -14,7 +13,6 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
-aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -22,6 +20,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -29,10 +28,10 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -44,12 +43,12 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 collections.yandex.ua
 c-pravda.ru
 craig.drweb.com
@@ -61,6 +60,7 @@ crl.kaspersky.com
 crls.yandex.net
 cryprox.yandex.NET
 cryprox.yandex.net
+cs625122.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -70,6 +70,8 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-02.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -81,13 +83,14 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.com
 download.drweb.ru
 download.drweb.ua
@@ -98,9 +101,9 @@ drweb.fr
 drweb.kz
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -162,12 +165,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-cinfo.geoksn.kaspersky.com
-ksn-crypto-wifiplus.geoksn.kaspersky.com
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-pp.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -180,11 +180,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -218,7 +216,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -231,7 +228,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -256,8 +252,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -320,10 +314,10 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 share.yandex.ru
 site.yandex.net
 site.yandex.ua
-slovari.yandex.ru
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
@@ -333,7 +327,6 @@ spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
 stat.yandex.ru
@@ -349,8 +342,8 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 tools.messenger.yandex.net
+translate.yandex.by
 translate.yandex.fr
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -364,7 +357,6 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
@@ -393,7 +385,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ua
+www.translate.yandex.kz
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -424,8 +416,12 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.net
+ysa-static.passport.yandex.ru
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
