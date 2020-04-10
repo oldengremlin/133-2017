@@ -3,6 +3,8 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
+42989.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -18,6 +20,7 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
+apinotify.mail.ru.Home
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -114,6 +117,9 @@ events.wmtransfer.com
 exchanger.ru
 ext-strm-mskttk02.strm.yandex.net
 ext-strm-mskttk09.strm.yandex.net
+ext-strm-mskttk15.strm.yandex.net
+ext-strm-mskttk18.strm.yandex.net
+ext-strm-mskttk23.strm.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -158,6 +164,7 @@ kaspersky.pt
 kaspersky.ro
 kaspersky.ru
 kaspersky.se
+kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -166,6 +173,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 launcher-cache.mobile.yandex.net
 light.webmoney.ru
@@ -186,6 +194,7 @@ market.yandex.ua
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
+mc.yandex.ru.Home
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
@@ -247,6 +256,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -263,6 +273,7 @@ passport.yandex.ee
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
+passport.yandex.lv
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
@@ -321,9 +332,14 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
+strm-mskm904.strm.yandex.net
 strm-mskm909.strm.yandex.net
+strm-mskm918.strm.yandex.net
 strm-mskm920.strm.yandex.net
+strm-mskmar03.strm.yandex.net
 strm-mskmar09.strm.yandex.net
+strm-mskmar16.strm.yandex.net
+strm-mskmar18.strm.yandex.net
 strm.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
@@ -406,5 +422,7 @@ yapic.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
