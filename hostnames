@@ -16,7 +16,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -56,6 +55,7 @@ crimea.gov.ru
 crimea.ria.ru
 crossdist.yandex.net
 cryprox.yandex.net
+cs624224.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -94,6 +94,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -112,7 +114,6 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 ext-strm-mskttk10.strm.yandex.net
-ext-strm-mskttk12.strm.yandex.net
 ext-strm-mskttk25.strm.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -128,7 +129,9 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im2-tub-com.yandex.net
+im-tub.yandex.com
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -181,6 +184,7 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -221,6 +225,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
+music.yandex.UA
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -265,6 +270,7 @@ passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
+passport.yandex.tj
 passport.yandex.tm
 passport.yandex.UA
 passport.yandex.ua
@@ -277,7 +283,6 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -324,12 +329,8 @@ storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm-mskm912.strm.yandex.net
 strm-mskm925.strm.yandex.net
-strm-mskmar04.strm.yandex.net
 strm-mskmar07.strm.yandex.net
 strm-mskmar12.strm.yandex.net
-strm-mskmar18.strm.yandex.net
-strm-mskstoredata01.strm.yandex.net
-strm-mskstoredata06.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
 strm.yandex.ru
 taxi.yandex.ru
@@ -373,7 +374,9 @@ vkontakte.ru
 voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
+webdav.yandex.ru
 webmaster.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -411,6 +414,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.NET
 yandex.net
 yandex.ru
 yandex.st
@@ -419,8 +423,11 @@ yandex.tm
 yandex.ua
 yandex.uz
 yapic.yandex.net
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
