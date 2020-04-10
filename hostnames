@@ -32,6 +32,7 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -42,6 +43,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -57,6 +59,7 @@ crimea.gov.ru
 crimea.ria.ru
 cryprox.yandex.net
 cs636524.vk.me
+csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -105,6 +108,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -112,8 +116,7 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
-ext-strm-mskttk01.strm.yandex.net
-ext-strm-mskttk02.strm.yandex.net
+ext-strm-mskmts01.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -130,9 +133,7 @@ ikrim.net
 ikstv.ru
 im0-tub-fr.yandex.net
 im0-tub-ru.yandex.net
-im0-tub-ua.yandex.net
 im1-tub-ru.yandex.net
-im2-tub-com.yandex.net
 im2-tub-ru.yandex.net
 im3-tub-ru.yandex.net
 imap.yandex.com
@@ -151,18 +152,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
 kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -170,6 +178,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -196,11 +207,13 @@ market.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
+metrika.yandex.com
 metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
@@ -223,7 +236,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mobile.yandex.net
 mondnr.ru
 money.yandex.ru
@@ -295,7 +307,6 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -322,7 +333,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s3.yandex.net
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -345,11 +356,7 @@ stat.yandex.ru
 stat.yandex.ua
 st.kp.yandex.net
 streaming.cdn.yandex.net
-strm-mskmar19.strm.yandex.net
-strm-mskstoredata12.strm.yandex.net
 strm.yandex.ru
-suggest.yandex.net
-suggest.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
 tc.mobile.yandex.net
@@ -419,7 +426,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
@@ -441,7 +447,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yapic.yandex.net
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
