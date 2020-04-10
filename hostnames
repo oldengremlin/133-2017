@@ -42,7 +42,6 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
-c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -113,8 +112,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-ext-strm-mskttk10.strm.yandex.net
-ext-strm-mskttk25.strm.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -133,6 +130,7 @@ im-tub.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -175,7 +173,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -187,7 +184,6 @@ matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -249,6 +245,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -306,7 +303,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -322,15 +318,11 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 streaming.cdn.yandex.net
-strm-mskm912.strm.yandex.net
-strm-mskm925.strm.yandex.net
 strm-mskmar07.strm.yandex.net
-strm-mskmar12.strm.yandex.net
+strm-mskstoredata01.strm.yandex.net
 strm-mskstoredata10.strm.yandex.net
 strm.yandex.ru
 taxi.yandex.ru
@@ -353,10 +345,8 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-uniproxy.alice.yandex.net
 update.geo.drweb.com
 vec01.maps.yandex.net
 vec02.maps.yandex.net
@@ -371,7 +361,6 @@ vk.com
 vk.me
 vkontakte.com
 vkontakte.ru
-voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
 webdav.yandex.ru
@@ -394,6 +383,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
