@@ -40,8 +40,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-common-public.stable.qloud-b.yandex.net
-company.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -149,10 +147,10 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -241,10 +239,8 @@ partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -304,8 +300,8 @@ stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
 streaming.cdn.yandex.net
-strm.yandex.ru
 taxi.yandex.ru
+tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -384,6 +380,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yx549482.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
