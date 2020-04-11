@@ -18,7 +18,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.disk.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -50,7 +49,8 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.ru
+common-public.stable.qloud-b.yandex.net
+company.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -125,11 +125,13 @@ gazeta.ok-crimea.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 im.vk.com
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -158,8 +160,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
@@ -175,7 +177,6 @@ mail.yandex.ru
 mail.yandex.ua
 main.zdevx.yandex.ru
 maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -188,6 +189,7 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -246,14 +248,12 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p03.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -282,7 +282,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 proxy.mob.maps.yandex.net
-push.yandex.ru
 queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
@@ -312,10 +311,12 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
@@ -346,12 +347,12 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 vec01.maps.yandex.net
 vec02.maps.yandex.net
 vec03.maps.yandex.net
-vec04.maps.yandex.net
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -381,7 +382,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.com
-www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -415,6 +415,7 @@ ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
+zen.yandex.com
 zen.yandex.ru
+zen.yandex.ua
 zno.yandex.ua
