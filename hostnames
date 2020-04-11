@@ -17,7 +17,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -33,7 +32,6 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -46,8 +44,7 @@ cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
-common-public.stable.qloud-b.yandex.net
-company.yandex.ru
+core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -155,6 +152,7 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -169,7 +167,6 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -201,7 +198,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -297,6 +293,7 @@ russia.tv
 rusvesna.su
 s175vla.storage.yandex.net
 sdk.vk.com
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -336,6 +333,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -394,9 +392,10 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx549482.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 zen.yandex.ua
