@@ -4,8 +4,7 @@
 1tv.com
 1tvcrimea.ru
 2.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -45,8 +44,8 @@ browser-web-balancer.stable.qloud-b.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-c6.dev.drweb.com
 calendar.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 core-jams-rdr.maps.yandex.net
@@ -57,7 +56,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 cryprox.yandex.net
-cs425121.vk.me
 csp-report.stable.qloud-b.yandex.net
 csp.yandex.net
 dan-news.info
@@ -111,7 +109,6 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
-enterprise.api-maps.yandex.ru
 enterprise.static-maps.yandex.ru
 esuite.geo.drweb.com
 events.wmtransfer.com
@@ -132,7 +129,6 @@ gtklnr.su
 http-check-headers.yandex.ru
 ikrim.net
 ikstv.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -168,7 +164,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -188,7 +184,9 @@ market.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -225,6 +223,7 @@ mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
+mssngr-tools.search.yandex.net
 m.taxi.yandex.ru
 mtspdnr.ru
 mtur.rk.gov.ru
@@ -257,7 +256,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -297,7 +295,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -315,7 +312,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -326,7 +322,6 @@ smtp.yandex.com
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
-spdy3.mob.maps.yandex.net
 spdy3-proxy.maps.yandex.net
 spdy.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -339,10 +334,11 @@ st4.kp.yandex.net
 st5.kp.yandex.net
 st6.kp.yandex.net
 st7.kp.yandex.net
-startup.mobile.yandex.NET
+startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-maps.yandex.ru
 static-mon.yandex.net
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 st.kp.yandex.net
@@ -441,9 +437,10 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.net
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
