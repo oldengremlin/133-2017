@@ -4,7 +4,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-42989.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -20,7 +20,6 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -45,10 +44,8 @@ brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
 calls.vk.com
-cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
-cid.yandex.net
 c-inform.info
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
@@ -57,6 +54,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -73,8 +71,11 @@ dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
@@ -162,7 +163,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -235,6 +235,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -292,9 +293,11 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 share.yandex.ru
 site.yandex.net
 site.yandex.ua
@@ -357,7 +360,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ua
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -388,9 +390,6 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zen.yandex.ua
 zno.yandex.ua
