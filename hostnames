@@ -66,6 +66,7 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -146,6 +147,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -238,6 +240,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -281,6 +284,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -317,6 +321,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 vesti.ru
@@ -346,6 +351,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -373,6 +379,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
