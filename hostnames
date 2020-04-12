@@ -6,7 +6,6 @@
 25378.redirect.appmetrica.yandex.com
 29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 602869.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -19,7 +18,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -50,6 +48,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -57,6 +56,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -100,7 +100,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.geo.drweb.com
@@ -126,7 +125,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-img.yandex.net
 i-mult.tlum.ru
 im.vk.com
 inosmi.ru
@@ -157,7 +155,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -170,7 +167,6 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -215,7 +211,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -251,7 +246,6 @@ partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -311,7 +305,6 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 st0.vk.me
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 static.yandex.sx
 stat.yandex.ru
@@ -333,10 +326,9 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -350,8 +342,6 @@ webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
-wimg.yandex.net
-wi.yandex.net
 wm.exchanger.money
 wm-factor.com.ua
 wmsc1.webmoney.ru
