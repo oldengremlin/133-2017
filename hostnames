@@ -6,11 +6,9 @@
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
-aab-pub.s3.yandex.net
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
@@ -55,12 +53,13 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
+cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -113,7 +112,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-ext-strm-mskttk16.strm.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -191,6 +189,7 @@ matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -216,7 +215,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 misc.mobile.yandex.net
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -255,6 +253,8 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -321,6 +321,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -336,8 +337,7 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
-strm-mskm916.strm.yandex.net
-strm-mskmar07.strm.yandex.net
+strm-mskm910.strm.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -360,7 +360,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
 vk.cc
@@ -391,6 +390,7 @@ www.kaspersky.ua
 www.translate.yandex.ru
 www.vk.com
 www.yandex.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -418,7 +418,10 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yapic.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
