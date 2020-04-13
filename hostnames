@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -17,6 +16,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api.lbs.yandex.ru
@@ -44,6 +44,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -100,7 +101,6 @@ download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -133,24 +133,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -175,6 +168,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -222,7 +216,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -231,7 +224,6 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -264,6 +256,7 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -275,6 +268,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.com
 products.drweb.ru
@@ -345,9 +339,9 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -404,6 +398,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yapic.yandex.net
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
