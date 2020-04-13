@@ -10,13 +10,11 @@
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
-a787201302-cdn.ngenix.strm.yandex.net
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
 agroprom.msdnr.ru
-akamai.strm.yandex.net
 allcrimea.net
 antimaydan.info
 an.yandex.ru
@@ -33,8 +31,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.net
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -45,7 +41,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -58,7 +53,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -110,11 +104,14 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
+enterprise.api-maps.yandex.ru
+enterprise.static-maps.yandex.ru
+enterprise.vec02.maps.yandex.net
+enterprise.vec04.maps.yandex.net
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
-ext-strm-telia15.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -126,6 +123,7 @@ gazeta.ok-crimea.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -181,7 +179,10 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -227,6 +228,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -243,6 +245,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -284,7 +287,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -304,8 +306,8 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 share.yandex.ru
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -318,11 +320,10 @@ sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.NET
 startup.mobile.yandex.net
+static-maps.yandex.ru
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
-strm-kiv07.strm.yandex.net
-strm-mskm912.strm.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -351,10 +352,7 @@ tvzvezda.ru
 ubp.com.ua
 update.drweb.com
 update.geo.drweb.com
-vec01.maps.yandex.net
-vec02.maps.yandex.net
-vec03.maps.yandex.net
-vec04.maps.yandex.net
+vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
@@ -396,8 +394,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
-yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -421,5 +417,4 @@ yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
-zen.yandex.ua
 zno.yandex.ua
