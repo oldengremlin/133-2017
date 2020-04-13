@@ -19,7 +19,6 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.disk.yandex.net
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -51,6 +50,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 cloud-api.yandex.net
 cloud-api.yandex.ru
 c-pravda.ru
@@ -59,7 +59,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 cryprox.yandex.net
 csp.yandex.net
 dan-news.info
@@ -71,7 +70,10 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
+dnl-02.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
@@ -125,6 +127,7 @@ im2-tub-ru.yandex.net
 im3-tub-ru.yandex.net
 imap.yandex.com
 imap.yandex.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -157,7 +160,7 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-ds.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -179,7 +182,6 @@ mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
-mdata.yandex.net
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -204,6 +206,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobile.market.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
@@ -304,6 +307,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -362,6 +366,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
