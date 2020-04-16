@@ -43,7 +43,6 @@ cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -56,7 +55,6 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -75,7 +73,6 @@ dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
@@ -95,13 +92,10 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.com
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -113,7 +107,6 @@ exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
-free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -135,24 +128,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -165,7 +151,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -208,6 +194,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -241,7 +228,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -262,14 +248,12 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
-passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
 prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -288,6 +272,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+root.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -312,7 +297,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.ape.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -332,11 +316,10 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-upics.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -358,7 +341,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -373,6 +355,7 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -393,4 +376,5 @@ yandex.tm
 yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zno.yandex.ua
