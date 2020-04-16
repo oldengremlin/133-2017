@@ -4,13 +4,14 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
+adsdk.yandex.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
@@ -19,11 +20,13 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.by
 api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
+api.messenger.yandex.net
 api.vk.com
 api.weather.yandex.ru
 app.tanker.yandex.net
@@ -37,6 +40,7 @@ avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.ru
+awaps.yandex.ru.Home
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -67,8 +71,10 @@ crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
+dialogs.s3.yandex.net
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -76,7 +82,6 @@ dnl-00.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -122,10 +127,12 @@ geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -179,8 +186,8 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
+market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
@@ -191,6 +198,8 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.by
+metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -277,7 +286,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pop.yandex.ru
+pop.yandex.com
 portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
@@ -310,6 +319,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s3.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -336,8 +346,6 @@ storage.ape.yandex.net
 strm-kiv15.strm.yandex.net
 strm-mskmar10.strm.yandex.net
 strm-rad17.strm.yandex.net
-suggest-maps.yandex.net
-suggest-maps.yandex.ru
 suggest.yandex.com
 suggest.yandex.net
 sync.disk.yandex.net
@@ -349,6 +357,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 touch.kaspersky.com
 translate.yandex.by
 translate.yandex.com
