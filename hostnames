@@ -5,6 +5,7 @@
 1tvcrimea.ru
 2524426.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
+42989.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -12,11 +13,11 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
-aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
 api.vk.com
@@ -25,7 +26,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avatars.yandex.net
 avia.yandex.ru
@@ -34,7 +34,6 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -53,6 +52,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -100,7 +100,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.com
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -111,10 +111,8 @@ events.wmtransfer.com
 exchanger.ru
 favicon.yandex.net
 fgi-lnr.su
-files.messenger.yandex.net
 files.wmtransfer.com
 fotki.yandex.ru
-free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -132,7 +130,6 @@ i-mult.tlum.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -145,15 +142,12 @@ kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.ru
-kaspersky.se
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -163,6 +157,8 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
@@ -211,6 +207,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mirror.yandex.ru
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -323,6 +320,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 suggest.yandex.com
 suggest.yandex.net
 taxi.yandex.ru
@@ -369,7 +367,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -409,5 +406,4 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zakladki.yandex.ru
 zen.yandex.ru
-zen.yandex.ua
 zno.yandex.ua
