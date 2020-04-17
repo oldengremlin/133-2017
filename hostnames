@@ -17,7 +17,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -40,11 +39,11 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-metadsp.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -52,7 +51,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -96,7 +94,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -104,6 +101,7 @@ drweb.cn
 drweb.com
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -129,7 +127,6 @@ ikstv.ru
 imap.yandex.com
 img-fotki.yandex.ru
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
@@ -156,10 +153,8 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -170,9 +165,9 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -186,7 +181,6 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -228,6 +222,9 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
+music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -281,7 +278,6 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -293,7 +289,11 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
+redirect.geo.kaspersky.com
+redirect.kaspersky.com
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -325,8 +325,9 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 strm.yandex.ru
+suggest.yandex.com
+suggest.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -378,6 +379,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -405,8 +407,9 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zakladki.yandex.ru
 zen.yandex.ru
 zen.yandex.ua
 zno.yandex.ua
