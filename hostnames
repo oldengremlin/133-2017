@@ -14,6 +14,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.ru
 api.vk.com
@@ -40,6 +41,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -93,6 +95,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -100,6 +103,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -131,15 +135,12 @@ kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.ru
-kaspersky.se
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -172,7 +173,6 @@ market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -216,6 +216,7 @@ m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
+news.drweb.com
 news-front.info
 news.yandex.ru
 news.yandex.ua
@@ -287,14 +288,13 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s00.upd.kaspersky.com
-sdk.vk.com
 searchlib.yandex.net
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -306,6 +306,7 @@ startup.mobile.yandex.net
 static-maps.yandex.ru
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -340,6 +341,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -385,6 +387,5 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
 zen.yandex.ru
 zno.yandex.ua
