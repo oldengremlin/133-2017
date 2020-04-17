@@ -14,7 +14,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -58,9 +57,7 @@ dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
@@ -73,14 +70,13 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 drweb.cn
@@ -138,7 +134,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
@@ -186,9 +181,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.music.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -242,6 +235,7 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
+passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -282,7 +276,9 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -305,6 +301,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -372,5 +369,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
