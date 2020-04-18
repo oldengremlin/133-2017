@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -19,7 +18,6 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api-maps.yandex.ru
-api.music.yandex.net
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
@@ -40,8 +38,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-c2.dev.drweb.com
-c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -54,12 +50,15 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
+crls.yandex.net
+crls.yandex.ru
+csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -99,6 +98,7 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -115,6 +115,7 @@ favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
+free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -127,6 +128,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 img.yandex.net
 i-mult.tlum.ru
 informer.yandex.ru
@@ -160,11 +162,9 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -207,9 +207,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.music.yandex.net
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mobile.yandex.net
 mondnr.ru
 money.yandex.ru
@@ -242,10 +240,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.vkontakte.ru
-ns2.vkontakte.ru
-ns3.vkontakte.ru
-ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -286,7 +280,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -305,7 +298,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -313,7 +305,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s18.upd.kaspersky.com
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -329,6 +321,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+st.kp.yandex.net
 strm.yandex.net
 strm.yandex.ru
 suggest-maps.yandex.net
@@ -386,7 +379,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.vk.com
 www.yandex.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -406,7 +398,6 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
-yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
@@ -415,7 +406,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-yx549482.oauth.yandex.ru
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
