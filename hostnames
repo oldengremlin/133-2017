@@ -5,6 +5,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -46,6 +47,7 @@ collections.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -70,7 +72,6 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
@@ -100,6 +101,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -121,6 +123,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -134,19 +137,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
+kaspersky.se
 kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -199,7 +208,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mirror.yandex.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -279,6 +288,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -292,6 +302,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -307,7 +318,6 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
@@ -320,6 +330,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -329,7 +340,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -360,7 +370,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
-www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
