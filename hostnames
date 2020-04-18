@@ -21,7 +21,6 @@ api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -75,8 +74,10 @@ dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
@@ -101,6 +102,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -135,18 +137,24 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
+kaspersky.se
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -156,7 +164,6 @@ kianews.com.ua
 komtv.org
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -169,7 +176,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -219,7 +225,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx1.yandex.ru
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -301,6 +306,7 @@ sba.cdn.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -335,7 +341,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -351,11 +356,9 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -370,9 +373,8 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ua
 www.vk.com
-www.yandex.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -400,7 +402,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
