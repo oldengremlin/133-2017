@@ -32,6 +32,7 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+beta.maps.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -55,6 +56,7 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -106,6 +108,7 @@ exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
+free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -130,10 +133,12 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
 kaspersky.ie
 kaspersky.it
@@ -142,7 +147,6 @@ kaspersky.ma
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -233,7 +237,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -249,7 +252,6 @@ passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -290,7 +292,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -305,7 +306,6 @@ spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -317,7 +317,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -328,7 +327,6 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 vesti.ru
@@ -384,4 +382,5 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zno.yandex.ua
