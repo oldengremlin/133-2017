@@ -11,7 +11,6 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
-aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -109,6 +108,11 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+enterprise.api-maps.yandex.ru
+enterprise.vec01.maps.yandex.net
+enterprise.vec02.maps.yandex.net
+enterprise.vec03.maps.yandex.net
+enterprise.vec04.maps.yandex.net
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
@@ -128,7 +132,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -157,9 +160,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -168,6 +170,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -215,6 +218,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -222,6 +226,7 @@ mvdlnr.ru
 m.vk.com
 mx.yandex.net
 mx.yandex.ru
+narod.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -238,8 +243,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
-oauth.yandex.ru
+oauth.vk.com
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -252,6 +256,7 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -312,6 +317,8 @@ static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -333,6 +340,11 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec01.maps.yandex.net
+vec02.maps.yandex.net
+vec03.maps.yandex.net
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -380,6 +392,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.NET
 yandex.net
 yandex.ru
 yandex.st
