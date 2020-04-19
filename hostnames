@@ -21,7 +21,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.passport.yandex.ru
 api.vk.com
@@ -70,7 +69,6 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -89,9 +87,7 @@ dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -113,7 +109,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.com
 drweb.kz
 drweb.ru
 drweb.ua
@@ -143,6 +138,7 @@ ikstv.ru
 imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -152,23 +148,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -270,8 +260,6 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
-p04.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -333,15 +321,12 @@ sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
-speller.yandex.net
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-suggest.yandex.net
-suggest.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -350,9 +335,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
-translate.yandex.fr
-translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -363,7 +345,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -414,7 +395,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
