@@ -15,9 +15,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-any.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api-maps.yandex.ru
 api.passport.yandex.ua
 api.vk.com
@@ -36,21 +34,20 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
-bar-widgets.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-metadsp.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
-cid.yandex.net
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -58,7 +55,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -79,6 +75,7 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -102,7 +99,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -115,8 +111,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -133,7 +127,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -209,9 +202,9 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobile.music.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -306,6 +299,7 @@ russia.tv
 rusvesna.su
 s3.yandex.net
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -333,6 +327,8 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.fr
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
