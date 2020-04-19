@@ -1,10 +1,10 @@
 100kwt.com
 19531.redirect.appmetrica.yandex.com
+1971205.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2524426.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -17,14 +17,13 @@ afisha.yandex.ru
 afisha.yandex.ua
 agroprom.msdnr.ru
 allcrimea.net
-antifraud.drweb.ru
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -51,7 +50,6 @@ c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -85,8 +83,8 @@ dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -119,7 +117,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -139,7 +136,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -183,7 +179,6 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -227,6 +222,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+misc.mobile.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -307,6 +303,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -324,6 +321,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -340,10 +338,8 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-st.kp.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
-support.drweb.com
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -352,6 +348,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -423,21 +420,8 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ee
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kg
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
