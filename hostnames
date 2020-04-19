@@ -4,9 +4,9 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2524426.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
+4636.yandex.ru
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -57,6 +57,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cryprox.yandex.net
 csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -97,6 +98,7 @@ dnr-online.ru
 dnr-pravda.ru
 dns.yandex.ru
 dns.yandex.ua
+docviewer.yandex.ru
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
@@ -129,7 +131,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -156,7 +157,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
 kaspersky.se
 kaspersky.ua
@@ -171,6 +171,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -219,7 +220,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 misc.mobile.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -243,17 +243,18 @@ news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
 nm-g.ru
+not-for-mail.yandex.net
 novopressa.ru
 novorossia.today
 novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -311,11 +312,11 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
@@ -327,6 +328,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -340,6 +342,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
@@ -416,7 +419,6 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 ysa-static.passport.yandex.ru
-yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
