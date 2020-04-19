@@ -1,4 +1,6 @@
 100kwt.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -19,8 +21,6 @@ an.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
-apinotify.mail.ru.Home
-api.ok.ru.Home
 api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -31,6 +31,7 @@ audience.yandex.ua
 autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -44,6 +45,7 @@ brttv.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
+cid.yandex.net
 c-inform.info
 clck.yandex.ru
 c-pravda.ru
@@ -66,6 +68,7 @@ dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
@@ -101,7 +104,6 @@ drweb.cn
 drweb.ru
 drweb.ua
 ds.kaspersky.com
-dsm.ok.ru.Home
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -126,7 +128,6 @@ imap.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
-ip69.246.odnoklassniki.ru.Home
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
@@ -155,11 +156,8 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-liveut2-kv.ok.ru.Home
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -170,10 +168,10 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -202,7 +200,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -214,6 +211,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
+music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -223,7 +221,6 @@ m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
-news.drweb.com
 news-front.info
 news.yandex.ru
 news.yandex.ua
@@ -268,8 +265,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -297,7 +292,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-S1mVkg715Ho0vshn.drweb.com
 sba.yandex.net
 searchlib.yandex.net
 security.webmoney.ru
@@ -337,9 +331,12 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -398,6 +395,5 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
