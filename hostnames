@@ -17,7 +17,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -44,7 +43,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
+bs-metadsp.yandex.ru
 calendar.yandex.ru
 c-eho.info
 cid.yandex.net
@@ -135,6 +134,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -164,6 +164,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -213,7 +214,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -224,6 +224,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -248,7 +249,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -325,7 +325,6 @@ static-maps.yandex.ru
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-st.kp.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
 suggest.yandex.net
@@ -395,6 +394,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
