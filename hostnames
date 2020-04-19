@@ -38,9 +38,7 @@ banking.wmeuro.eu
 banks.webmoney.ru
 bizdnr.ru
 bober-tv.ru
-brontp.yandex.ru
 brouser.yandex.ru
-browser-resources.s3.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
@@ -131,7 +129,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -177,7 +174,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
@@ -194,7 +190,6 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
@@ -229,7 +224,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -247,6 +241,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
+mx.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -263,6 +258,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -337,7 +333,6 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
-sprav.yandex.ua
 sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
@@ -395,8 +390,10 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.ru
 www.vk.com
 www.webmoney.ru
+www.yandex.com
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -411,6 +408,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -423,7 +421,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
