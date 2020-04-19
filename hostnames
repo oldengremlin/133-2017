@@ -17,7 +17,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -54,7 +53,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -131,6 +129,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
+im.vk.com
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -158,11 +157,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -207,7 +205,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -247,6 +244,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -258,6 +256,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
@@ -285,6 +284,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -299,7 +299,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -311,9 +310,9 @@ sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
+sprav.yandex.ua
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
 static.vk.com
 static.yandex.net
 stat.yandex.ru
@@ -373,7 +372,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -401,7 +399,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zno.yandex.ua
