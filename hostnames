@@ -38,6 +38,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 calendar.yandex.ru
+cdn.yandex.net
 c-eho.info
 c-inform.info
 core-jams-rdr.maps.yandex.net
@@ -52,7 +53,6 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -125,6 +125,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
+im.vk.com
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -168,7 +169,6 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -182,6 +182,7 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -225,11 +226,13 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
+music.yandex.com
 music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -307,6 +310,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -331,7 +335,9 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -375,6 +381,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
