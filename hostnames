@@ -18,6 +18,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
@@ -27,9 +28,11 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -40,6 +43,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -51,8 +55,8 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-csp-report.stable.qloud-b.yandex.net
-csp.yandex.net
+crls.yandex.net
+crls.yandex.ru
 dan-news.info
 d.aws-proxy.disk.yandex.net
 d.aws-proxy.disk.yandex.ua
@@ -75,10 +79,13 @@ dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -95,6 +102,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -104,6 +112,7 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -118,10 +127,10 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-help.yandex.ru
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -153,8 +162,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
-ksn-dc1-st.geoksn.kaspersky.com
+ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -163,6 +175,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -239,6 +252,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p02.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -262,6 +276,7 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 portal-xiva.yandex.net
+prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -282,6 +297,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -333,6 +349,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -382,6 +399,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.NET
 yandex.net
 yandex.ru
 yandex.st
@@ -392,6 +410,6 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+zakladki.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
