@@ -6,6 +6,8 @@
 1tvcrimea.ru
 2524426.redirect.appmetrica.yandex.com
 252558859.verify.yandex.ru
+25378.redirect.appmetrica.yandex.com
+2922046.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 325198384.verify.yandex.ru
 3.redirect.appmetrica.yandex.com
@@ -115,6 +117,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -141,8 +144,10 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+im2-tub-com.yandex.net
 imap.yandex.com
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -153,17 +158,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
+kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -234,6 +247,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -327,6 +341,7 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -336,6 +351,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-maps.yandex.ru
 static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
@@ -354,6 +370,8 @@ strm-mskstoredata10.strm.yandex.net
 strm-rad13.strm.yandex.net
 strm.yandex.net
 strm.yandex.ru
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -363,6 +381,8 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -373,9 +393,14 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec01.maps.yandex.net
+vec03.maps.yandex.net
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 video-preview.s3.yandex.net
@@ -387,6 +412,7 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -403,6 +429,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.vk.com
 www.yandex.ru
 www.yandex.ua
@@ -421,6 +448,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
