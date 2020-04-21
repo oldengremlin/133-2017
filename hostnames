@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -15,7 +14,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -158,8 +156,9 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -249,10 +248,9 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -305,7 +303,6 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -386,7 +383,5 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx549482.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
