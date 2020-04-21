@@ -160,8 +160,6 @@ ksn-dc1-pp.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -316,7 +314,6 @@ startup.mobile.yandex.net
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -325,7 +322,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
