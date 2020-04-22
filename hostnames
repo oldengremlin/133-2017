@@ -5,6 +5,7 @@
 1tvcrimea.ru
 28554.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
+312.yandex.ru
 40135.redirect.appmetrica.yandex.com
 4636.yandex.ru
 5-tv.ru
@@ -39,7 +40,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -60,9 +60,8 @@ disk.yandex.ua
 dnipress.com
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -82,7 +81,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.com
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -94,7 +93,6 @@ exchanger.ru
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
-free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -112,6 +110,7 @@ im.vk.com
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -119,24 +118,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -146,8 +138,6 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -158,6 +148,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -167,7 +158,9 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -194,7 +187,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -233,6 +225,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -265,7 +259,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -353,7 +346,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -361,7 +353,6 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
-www.translate.yandex.ua
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -392,6 +383,7 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
