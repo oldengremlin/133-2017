@@ -5,7 +5,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2216086.redirect.appmetrica.yandex.com
 2524426.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 312.yandex.ru
@@ -53,6 +52,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs-metadsp.yandex.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -63,7 +63,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 cryprox.yandex.net
 csp.yandex.net
 dan-news.info
@@ -99,6 +98,7 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 ext-strm-cogent17.strm.yandex.net
@@ -151,8 +151,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -203,7 +201,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -242,7 +239,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -286,6 +283,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -311,11 +309,9 @@ smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
-spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
 static.yandex.net
@@ -332,7 +328,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
@@ -413,7 +408,5 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.com
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
