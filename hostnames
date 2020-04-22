@@ -30,7 +30,6 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -54,6 +53,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cs406618.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -64,8 +64,6 @@ disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -115,8 +113,8 @@ i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -124,23 +122,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -164,6 +156,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -236,11 +229,14 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p13.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -268,6 +264,7 @@ products.drweb.ua
 promedia.ru
 ps.vk.com
 push.yandex.ru
+pu.vk.com
 queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
@@ -310,7 +307,6 @@ sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 suggest.yandex.ru
@@ -334,6 +330,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -362,6 +359,7 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
+www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -393,5 +391,8 @@ yandex.uz
 yastroka.yandex.net
 ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
