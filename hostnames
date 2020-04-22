@@ -1,5 +1,5 @@
 100kwt.com
-10180.redirect.appmetrica.yandex.com
+10267.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -17,6 +17,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -112,6 +113,7 @@ ikstv.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -145,10 +147,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -162,6 +167,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -215,6 +221,7 @@ mvdlnr.ru
 m.vk.com
 mx.yandex.net
 mx.yandex.ru
+narod.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -231,7 +238,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -245,7 +251,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -261,7 +266,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pop.yandex.com
 portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
@@ -296,12 +300,13 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
+spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
@@ -320,7 +325,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 translate.yandex.by
-translate.yandex.com
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -362,7 +366,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.com
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
@@ -395,6 +398,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yx800c706257584781a536474b0db13c23.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
