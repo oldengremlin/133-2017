@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2524426.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -16,7 +15,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
@@ -26,7 +24,6 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -58,10 +55,11 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -146,10 +144,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -231,19 +229,14 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
 p03.upd.kaspersky.com
-p12.upd.kaspersky.com
-p13.upd.kaspersky.com
 p17.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -254,7 +247,6 @@ passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
-passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -310,7 +302,6 @@ spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -323,7 +314,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.com
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -365,8 +356,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.com
-www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -403,6 +392,5 @@ yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
