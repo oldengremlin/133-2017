@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -47,6 +46,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 cs319718.vk.me
 cs406924.vk.me
 cs416529.vk.me
@@ -168,10 +168,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
@@ -187,18 +188,17 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
-metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -252,7 +252,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -264,7 +263,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -284,7 +282,6 @@ prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-push.yandex.ru
 queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
@@ -302,7 +299,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -424,7 +420,4 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 zno.yandex.ua
