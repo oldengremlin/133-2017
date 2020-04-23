@@ -6,6 +6,8 @@
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
+activation-v2.geo.kaspersky.com
+activation-v2.kaspersky.com
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
@@ -14,6 +16,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
@@ -40,6 +43,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -57,6 +61,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-06.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -82,6 +89,7 @@ drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
+edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -142,6 +150,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -155,6 +164,7 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
+maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
@@ -185,6 +195,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mirror.yandex.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -233,6 +245,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -258,6 +271,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -277,6 +291,7 @@ sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -292,6 +307,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+tapoc.trbo.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -312,6 +328,7 @@ tvkultura.ru
 tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -365,7 +382,9 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ua
 zno.yandex.ua
