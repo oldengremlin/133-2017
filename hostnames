@@ -37,7 +37,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -84,6 +83,7 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -136,8 +136,11 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -223,6 +226,7 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 partner2.yandex.ru
@@ -231,13 +235,11 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.tm
+passport.yandex.ru
 passport.yandex.ua
-passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
@@ -255,7 +257,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -269,6 +270,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s05.upd.kaspersky.com
+s07.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -299,6 +302,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
@@ -333,6 +337,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
