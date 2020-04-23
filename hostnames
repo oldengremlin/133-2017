@@ -4,6 +4,7 @@
 1tv.com
 1tvcrimea.ru
 40135.redirect.appmetrica.yandex.com
+42989.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -42,10 +43,12 @@ calls.vk.com
 cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
+cid.yandex.net
 c-inform.info
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -59,7 +62,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
@@ -70,7 +72,6 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -143,6 +144,7 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
+kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -152,10 +154,8 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-dc1-st.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -164,7 +164,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -234,6 +233,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -267,6 +267,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
 passport.yandex.kg
+passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
@@ -293,7 +294,6 @@ realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -307,15 +307,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s03.upd.kaspersky.com
-s04.upd.kaspersky.com
-s06.upd.kaspersky.com
-s07.upd.kaspersky.com
-s09.upd.kaspersky.com
-s10.upd.kaspersky.com
-s13.upd.kaspersky.com
-s14.upd.kaspersky.com
-s15.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -330,10 +321,10 @@ sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 suggest.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -355,7 +346,6 @@ tvkultura.ru
 tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -413,4 +403,5 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.com
 zno.yandex.ua
