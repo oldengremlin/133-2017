@@ -15,9 +15,9 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -44,6 +44,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -51,6 +52,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 cs625128.vk.me
+csp-report.stable.qloud-b.yandex.net
 csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -60,8 +62,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -97,11 +98,13 @@ export.yandex.ru
 ext-strm-cogent12.strm.yandex.net
 ext-strm-level315.strm.yandex.net
 ext-strm-mskrt07.strm.yandex.net
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
+frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -113,6 +116,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 imap.yandex.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -149,9 +153,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -166,6 +173,7 @@ mail.yandex.ru
 mail.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -193,6 +201,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -204,7 +213,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -238,6 +246,7 @@ partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
+passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
@@ -249,6 +258,7 @@ passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
+passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
@@ -326,6 +336,7 @@ tvkultura.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+vec02.maps.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
