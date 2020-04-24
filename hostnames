@@ -61,9 +61,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
@@ -107,7 +105,6 @@ drweb.com
 drweb.kz
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -127,6 +124,8 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+img-fotki.yandex.net
+img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -162,9 +161,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-ds.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -174,7 +175,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -224,9 +224,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.kz
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -263,12 +260,8 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
-passport.yandex.ee
-passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
-passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
@@ -292,7 +285,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.kaspersky.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -315,7 +307,6 @@ sevastopol.press
 share.yandex.ru
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -325,7 +316,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-tapoc.trbo.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -334,7 +324,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -344,7 +333,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -372,13 +360,11 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
