@@ -10,7 +10,6 @@
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
-634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 97600.redirect.appmetrica.yandex.com
@@ -55,6 +54,7 @@ cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -62,9 +62,9 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 crls.yandex.net
 crls.yandex.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -74,14 +74,16 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-00.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -107,6 +109,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+downloader.yandex.net
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -166,10 +169,9 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-ds.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
@@ -253,7 +255,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -282,10 +283,12 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+portal-xiva.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
+push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -315,6 +318,7 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 share.yandex.ru
 site.yandex.net
 site.yandex.ua
@@ -351,6 +355,7 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
@@ -368,6 +373,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -418,5 +424,6 @@ yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
