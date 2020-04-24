@@ -1,9 +1,11 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
+1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
+3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -17,9 +19,8 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
-api.lbs.yandex.net
+api.passport.yandex.ru
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
@@ -41,11 +42,12 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -95,7 +97,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -104,6 +105,7 @@ drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -124,13 +126,11 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-im2-tub-com.yandex.net
-img-fotki.yandex.ru
+img.yandex.net
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -145,17 +145,13 @@ kaspersky.es
 kaspersky.eu
 kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -165,10 +161,10 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -213,6 +209,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -224,6 +221,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -231,7 +229,6 @@ mvdlnr.ru
 m.vk.com
 mx.yandex.net
 mx.yandex.ru
-m.yandex.by
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -297,7 +294,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -311,7 +307,6 @@ security.wmtransfer.com
 sevastopol.press
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -341,7 +336,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -403,6 +397,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
