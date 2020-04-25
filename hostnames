@@ -46,13 +46,13 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 cs633826.vk.me
 dan-news.info
 debt.wmtransfer.com
@@ -69,6 +69,7 @@ dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
@@ -123,6 +124,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+im0-tub-ru.yandex.net
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -155,7 +157,6 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
-ksn-dc1-st.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -175,6 +176,8 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -214,7 +217,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -300,6 +302,7 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -323,6 +326,7 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -334,7 +338,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -361,6 +364,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.com
 www.translate.yandex.kz
 www.translate.yandex.ua
 www.vk.com
@@ -393,8 +397,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 ysa-static.passport.yandex.ru
-yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
