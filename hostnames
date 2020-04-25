@@ -17,7 +17,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
@@ -50,11 +49,14 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
+crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -106,7 +108,6 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-ext-strm-mskneun12.strm.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -152,13 +153,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -171,7 +171,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -241,12 +240,12 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p01.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -273,6 +272,7 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+pu.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -282,8 +282,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.geo.kaspersky.com
-redirect.kaspersky.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -316,9 +314,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-strm-ams06.strm.yandex.net
-strm-mskmar06.strm.yandex.net
-strm-spb14.strm.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -327,7 +322,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-touch.kaspersky.com
 translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
@@ -399,6 +393,5 @@ yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
