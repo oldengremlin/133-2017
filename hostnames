@@ -21,6 +21,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -43,7 +44,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -88,6 +88,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -151,7 +153,6 @@ kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
@@ -164,12 +165,14 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -209,13 +212,12 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx.yandex.net
 mx.yandex.ru
 nashe.ru
 news-front.info
@@ -229,11 +231,14 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns1.yandex.ru
+ns2.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -269,6 +274,7 @@ push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
+radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -292,9 +298,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s193vla.storage.yandex.net
 sba.yandex.net
-sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -334,6 +338,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -343,6 +348,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
