@@ -1,5 +1,6 @@
 100kwt.com
 167360.redirect.appmetrica.yandex.com
+1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -18,6 +19,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.lbs.yandex.net
 api.lbs.yandex.ua
 api-maps.yandex.ru
 api.vk.com
@@ -40,7 +42,8 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
+bs.yandex.ru
+c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -99,6 +102,7 @@ dommintrans.ru
 donbass.media
 download.drweb.ru
 download.drweb.ua
+downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -106,6 +110,7 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+enterprise.static-maps.yandex.ru
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -153,8 +158,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -200,7 +208,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mirror.yandex.ru
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -246,14 +253,13 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
-p02.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -298,7 +304,14 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s01.upd.kaspersky.com
+s06.upd.kaspersky.com
 s07.upd.kaspersky.com
+s11.upd.kaspersky.com
+s12.upd.kaspersky.com
+s14.upd.kaspersky.com
+s15.upd.kaspersky.com
+s16.upd.kaspersky.com
 s17.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
@@ -316,6 +329,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static-maps.yandex.ru
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
@@ -330,6 +344,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 touch.kaspersky.com
 translate.yandex.ru
 translate.yandex.ua
@@ -342,6 +357,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+vec01.maps.yandex.net
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -356,7 +372,6 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -406,7 +421,6 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
