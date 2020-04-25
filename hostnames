@@ -1,4 +1,5 @@
 100kwt.com
+10180.redirect.appmetrica.yandex.com
 137715.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
@@ -16,6 +17,7 @@
 8o.vk.cc
 admin-gorlovka.ru
 adsdk.yandex.ru
+ads.yandex.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
@@ -24,7 +26,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -57,8 +58,8 @@ cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
+clck.yandex.ru
 cloud-api.yandex.net
-collections.yandex.ru
 collections.yandex.ua
 c-pravda.ru
 craig.drweb.com
@@ -66,6 +67,11 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
+crls.yandex.ru
+cs616018.vk.me
+cs617520.vk.me
+cs623725.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -93,7 +99,6 @@ dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -103,11 +108,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
-docviewer.yandex.ru
 domkino-premium.tv
 domkino.tv
 dommintrans.ru
@@ -116,7 +118,6 @@ download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
-dr2.yandex.net
 drweb.cn
 drweb.ru
 drweb.ua
@@ -127,7 +128,6 @@ elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -175,7 +175,6 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -191,6 +190,7 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -218,7 +218,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -320,7 +319,6 @@ sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -333,10 +331,12 @@ sprav.yandex.ru
 sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
+static-mon.yandex.net
 static-pano.maps.yandex.ru
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
+suggest.yandex.net
 suggest.yandex.ru
 sync.browser.yandex.net
 taxi.yandex.ru
@@ -361,6 +361,9 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -427,6 +430,5 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
