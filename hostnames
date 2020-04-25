@@ -4,7 +4,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3206476.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -21,6 +21,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.lbs.yandex.ua
 api-maps.yandex.ru
 api.passport.yandex.ua
 api.vk.com
@@ -34,6 +35,7 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -50,9 +52,11 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 core-jams-rdr.maps.yandex.net
 c-pravda.ru
 craig.drweb.com
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -128,6 +132,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 img.yandex.net
 i-mult.tlum.ru
 im.vk.com
@@ -163,6 +168,8 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -212,7 +219,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -244,6 +250,7 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -306,6 +313,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s571sas.storage.yandex.net
+s589sas.storage.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -395,6 +404,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
