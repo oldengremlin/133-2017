@@ -22,9 +22,7 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
-api.messenger.yandex.net
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -99,12 +97,10 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.com
 drweb.kz
 drweb.ru
 drweb.ua
@@ -120,7 +116,6 @@ enterprise.vec04.maps.yandex.net
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -138,6 +133,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
@@ -155,16 +151,13 @@ kaspersky.es
 kaspersky.eu
 kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
-kaspersky.se
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -192,13 +185,13 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -223,7 +216,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yandex.net
 mondnr.ru
@@ -255,6 +247,11 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns1.yandex.ru
+ns2.vkontakte.ru
+ns3.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -275,6 +272,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -291,11 +289,11 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -327,7 +325,6 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -347,7 +344,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-tools.messenger.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -428,5 +424,4 @@ yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-zen.yandex.com
 zno.yandex.ua
