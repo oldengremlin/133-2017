@@ -1,12 +1,10 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
-1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -72,12 +70,14 @@ dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -97,12 +97,12 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -123,6 +123,7 @@ imap.yandex.com
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -152,8 +153,10 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -209,7 +212,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
+music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -246,7 +249,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -292,12 +294,12 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
@@ -311,7 +313,6 @@ startup.mobile.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-suggest.yandex.ru
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -325,7 +326,6 @@ touch.kaspersky.com
 translate.yandex.by
 translate.yandex.com
 translate.yandex.kz
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -397,7 +397,6 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 ysa-static.passport.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
