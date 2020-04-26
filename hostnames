@@ -1,4 +1,6 @@
 100kwt.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -19,15 +21,18 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
+api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,8 +46,10 @@ brttv.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
+cid.yandex.net
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -51,6 +58,7 @@ crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
 crls.yandex.ru
+cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -127,9 +135,8 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
+img-fotki.yandex.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
@@ -171,7 +178,7 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -218,7 +225,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -230,7 +236,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.com
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -261,6 +266,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p11.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -329,9 +335,10 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.net
+static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
 storage.mds.yandex.net
 suggest.yandex.net
 suggest.yandex.ua
@@ -343,6 +350,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.com
 translate.yandex.fr
 translate.yandex.net
@@ -369,7 +377,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webattach.mail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -388,6 +395,8 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.com
+www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
