@@ -17,9 +17,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
-api.lbs.yandex.ua
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -34,6 +32,7 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -44,7 +43,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -60,6 +58,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-07.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnmchs.ru
@@ -95,7 +95,7 @@ enterprise.static-maps.yandex.ru
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ua
+export.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -139,7 +139,6 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -150,7 +149,8 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -165,6 +165,7 @@ mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
+market.yandex.ua
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -195,6 +196,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -242,6 +244,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -288,14 +291,13 @@ rusvesna.su
 s00.upd.kaspersky.com
 sba.yandex.net
 searchlib.yandex.net
-sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -309,9 +311,6 @@ stat.yandex.ru
 stat.yandex.ua
 st.kp.yandex.net
 storage.ape.yandex.net
-storage.mds.yandex.net
-suggest-maps.yandex.net
-suggest-maps.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -321,7 +320,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 translate.yandex.by
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -334,8 +332,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -348,6 +344,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -363,7 +360,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.com
-www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
@@ -382,6 +378,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
