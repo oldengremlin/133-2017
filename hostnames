@@ -22,13 +22,11 @@ api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -43,11 +41,13 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs-meta.yandex.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
+clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -66,10 +66,15 @@ dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -95,7 +100,6 @@ drweb.ua
 dr.yandex.net
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -109,6 +113,7 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -140,6 +145,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -151,6 +157,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -159,6 +166,8 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -187,7 +196,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -198,6 +206,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.com
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -222,7 +231,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -290,6 +299,7 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
@@ -320,6 +330,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -330,6 +341,7 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -362,6 +374,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
