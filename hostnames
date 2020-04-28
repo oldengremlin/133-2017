@@ -23,6 +23,7 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
+avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -59,8 +60,6 @@ disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -108,7 +107,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-images.yandex.ru
 imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
@@ -163,14 +161,15 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -230,6 +229,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -241,6 +241,7 @@ partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
+passport.yandex.by
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.lv
@@ -269,7 +270,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -284,6 +284,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -323,9 +324,9 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
-video.yandex.ru
 vk.cc
 vk.com
 vk.me
@@ -336,7 +337,6 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wg6-bro.yandex.ru
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -381,4 +381,5 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zno.yandex.ua
