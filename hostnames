@@ -9,7 +9,6 @@
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
-634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
@@ -21,6 +20,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -60,7 +60,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-csp.yandex.net
+crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -71,6 +71,7 @@ disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -118,6 +119,8 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 imap.yandex.ru
+img-fotki.yandex.net
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -149,13 +152,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -173,6 +174,7 @@ market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -199,7 +201,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mirror.yandex.ru
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -211,6 +212,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -304,6 +306,7 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -323,7 +326,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -339,6 +341,7 @@ ubp.com.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 update.nsk1.drweb.com
+vec01.maps.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -367,7 +370,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
-www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
