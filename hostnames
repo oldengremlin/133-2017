@@ -4,7 +4,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -20,6 +20,7 @@ api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -29,6 +30,7 @@ avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.ru
+awsync.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -52,7 +54,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -88,7 +89,6 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -141,7 +141,6 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
@@ -155,6 +154,8 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
+mailer.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -260,6 +261,7 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -286,7 +288,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -302,10 +303,12 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.ios.mobile.yandex.net
+startup.mobile.yandex.NET
 startup.mobile.yandex.net
 static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -324,9 +327,11 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -355,7 +360,6 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.ru
 www.vk.com
-www.yandex.fr
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -371,7 +375,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
