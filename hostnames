@@ -19,6 +19,7 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.messenger.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -45,7 +46,6 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -58,6 +58,7 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -99,6 +100,8 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.com
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -106,11 +109,11 @@ eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
+free.drweb.com
 free.drweb.ru
 free.drweb.ua
 gazetacrimea.ru
@@ -134,19 +137,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
 kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
+kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -154,8 +163,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -266,7 +279,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pp.vk.me
 products.drweb.com
 products.drweb.ru
 products.drweb.ua
@@ -280,6 +292,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -306,6 +319,7 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 spdy.mob.maps.yandex.net
@@ -336,6 +350,8 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 vesti.ru
@@ -359,6 +375,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
