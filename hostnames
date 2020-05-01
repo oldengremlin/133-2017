@@ -22,8 +22,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -41,6 +39,8 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+common-public.stable.qloud-b.yandex.net
+company.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -79,7 +79,7 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -124,6 +124,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -177,7 +179,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -201,10 +202,10 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 partner2.yandex.ru
@@ -249,7 +250,6 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
-rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -261,7 +261,6 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -298,7 +297,6 @@ tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
 update.drweb.com
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -355,5 +353,4 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-zen.yandex.com
 zno.yandex.ua
