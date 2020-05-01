@@ -16,6 +16,7 @@ afisha.yandex.ru
 afisha.yandex.ua
 aflt.market.yandex.ru
 agroprom.msdnr.ru
+akamai.strm.yandex.net
 allcrimea.net
 antimaydan.info
 an.yandex.ru
@@ -48,15 +49,16 @@ calendar.yandex.ru
 cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
+chat.s3.yandex.net
 cid.yandex.net
 c-inform.info
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 crossdist.yandex.net
 cryprox.yandex.net
 dan-news.info
@@ -99,11 +101,16 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+ext-strm-level318.strm.yandex.net
+ext-strm-m9mts27.strm.yandex.net
+ext-strm-stdmts12.strm.yandex.net
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
+frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -114,6 +121,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im0-tub-ru.yandex.net
+img.yandex.net
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -150,6 +158,7 @@ ksn-dc1-st.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+local.yandex.ru
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -160,10 +169,12 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+main.zdevx.yandex.ru
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -204,7 +215,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -258,6 +269,7 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 pop3.yandex.ru
+portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -270,6 +282,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 reporter-crimea.ru
@@ -278,6 +291,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -285,6 +299,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s3.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -310,6 +325,8 @@ static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
+streaming.cdn.yandex.net
+strm-kiv09.strm.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -332,6 +349,11 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+vec01.maps.yandex.net
+vec02.maps.yandex.net
+vec03.maps.yandex.net
+vec04.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -361,7 +383,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.webmoney.ru
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -370,6 +391,7 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
