@@ -23,7 +23,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -55,7 +54,6 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
@@ -84,8 +82,6 @@ drweb.ua
 dr.yandex.net
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -122,7 +118,9 @@ kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
 kaspersky.ua
 kassa.yandex.ru
@@ -133,10 +131,14 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -190,7 +192,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.com
 music.yandex.ua
 muz1.tv
@@ -271,12 +272,10 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s00.upd.kaspersky.com
-sba.cdn.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
@@ -299,7 +298,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -341,6 +340,8 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
