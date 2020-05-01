@@ -4,13 +4,13 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3206476.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
+adsdk.yandex.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
@@ -35,7 +35,6 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -54,7 +53,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -63,12 +61,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -88,7 +83,6 @@ donbass.media
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
-dr2.yandex.net
 drweb.cn
 drweb.ru
 drweb.ua
@@ -98,6 +92,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -143,9 +138,13 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -169,8 +168,6 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
-metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -223,6 +220,12 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns2.vkontakte.ru
+ns3.vkontakte.ru
+ns4.vkontakte.ru
+ns7.yandex.ru
+ns8.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -284,9 +287,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
 sba.yandex.net
-searchlib.yandex.net
 sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
@@ -315,6 +316,7 @@ tk-union.tv
 tnt-online.ru
 top-fwz1.mail.ru.domain
 translate.yandex.by
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -338,6 +340,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webattach.mail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -355,8 +358,11 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
+xeno.mail.yandex.net
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -386,5 +392,4 @@ yandex.uz
 yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
