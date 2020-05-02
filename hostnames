@@ -17,6 +17,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -57,7 +58,6 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -122,7 +122,6 @@ kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
@@ -137,10 +136,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -197,7 +197,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -221,16 +220,13 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
-p01.upd.kaspersky.com
-p05.upd.kaspersky.com
-p18.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -265,7 +261,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -307,7 +302,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -317,7 +311,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 vesti.ru
@@ -347,8 +340,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.kz
-www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
