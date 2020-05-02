@@ -45,6 +45,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -76,7 +77,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -87,7 +87,6 @@ dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -135,9 +134,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -150,6 +149,8 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -181,6 +182,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -192,6 +194,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -215,7 +218,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -279,7 +281,6 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -293,7 +294,10 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 taxi.yandex.ru
+tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -301,6 +305,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
@@ -313,9 +318,8 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-vec01.maps.yandex.net
-vec03.maps.yandex.net
-vec04.maps.yandex.net
+update.geo.drweb.com
+vec02.maps.yandex.net
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -362,6 +366,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -374,9 +379,8 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yastroka.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
