@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -17,8 +16,8 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.ru
 api.lbs.yandex.net
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -26,7 +25,6 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 awaps.yandex.net
@@ -45,7 +43,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -92,12 +89,12 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
+frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -118,14 +115,12 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
@@ -134,9 +129,7 @@ kaspersky.ng
 kaspersky.nl
 kaspersky.pt
 kaspersky.ru
-kaspersky.se
 kaspersky.ua
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -147,7 +140,6 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
-launcher-cache.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -193,6 +185,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mirror.yandex.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -304,6 +297,7 @@ s16.upd.kaspersky.com
 s17.upd.kaspersky.com
 s18.upd.kaspersky.com
 s19.upd.kaspersky.com
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -361,7 +355,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
