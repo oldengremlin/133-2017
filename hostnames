@@ -19,7 +19,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -47,6 +46,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -91,15 +91,9 @@ dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
-enterprise.api-maps.yandex.ru
-enterprise.vec01.maps.yandex.net
-enterprise.vec02.maps.yandex.net
-enterprise.vec03.maps.yandex.net
-enterprise.vec04.maps.yandex.net
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ua
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -150,7 +144,6 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
@@ -168,7 +161,6 @@ market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -197,7 +189,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -209,7 +200,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -265,7 +255,6 @@ poehali.tv
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -289,14 +278,13 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
-sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -308,10 +296,10 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 taxi.yandex.ru
@@ -335,8 +323,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -365,6 +351,8 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
