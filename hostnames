@@ -56,7 +56,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -65,9 +64,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-09.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -85,9 +84,9 @@ dommintrans.ru
 donbass.media
 download.drweb.ru
 download.drweb.ua
-download.geo.drweb.com
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -122,20 +121,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
 kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
 kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -149,7 +153,6 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -168,7 +171,6 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
-matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -210,7 +212,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -335,7 +336,6 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
@@ -398,6 +398,4 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
-zen.yandex.ru
 zno.yandex.ua
