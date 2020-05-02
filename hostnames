@@ -3,8 +3,10 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
+634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
@@ -26,7 +28,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -67,8 +68,10 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -92,10 +95,11 @@ drweb.cn
 drweb.kz
 drweb.ru
 drweb.ua
+dr.yandex.net
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 enterprise.api-maps.yandex.ru
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -119,6 +123,7 @@ im-tub.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -131,13 +136,11 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.ru
 kassa.yandex.ru
@@ -150,6 +153,7 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -201,7 +205,6 @@ minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -267,11 +270,13 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+pop.yandex.com
 portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+pu.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -304,7 +309,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -324,6 +328,7 @@ storage.ape.yandex.net
 storage.mds.yandex.net
 suggest.yandex.net
 suggest.yandex.ua
+tapoc.trbo.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -409,6 +414,8 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.net
+ysa-static.passport.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
