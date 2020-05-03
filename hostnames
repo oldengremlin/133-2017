@@ -18,7 +18,6 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
-api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -26,7 +25,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -44,6 +42,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -58,7 +57,10 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-08.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -84,9 +86,9 @@ drweb.cn
 drweb.kz
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -107,7 +109,6 @@ img-fotki.yandex.net
 img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -135,12 +136,10 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -193,6 +192,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -275,7 +275,6 @@ rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
-sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -343,6 +342,7 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
+www.translate.yandex.ua
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -372,4 +372,5 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.ru
 zno.yandex.ua
