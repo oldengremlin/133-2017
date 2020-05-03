@@ -19,11 +19,10 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
-api.passport.yandex.ru
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -44,6 +43,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
+c1.dev.drweb.com
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
@@ -56,7 +56,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -100,7 +99,6 @@ files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
-frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -114,7 +112,6 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -141,7 +138,10 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -151,7 +151,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -223,6 +222,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -238,6 +238,7 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
+passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -280,8 +281,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -298,10 +299,8 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-streaming.cdn.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -325,7 +324,6 @@ tvzvezda.ru
 ubp.com.ua
 uniproxy.messenger.yandex.ua
 update.geo.drweb.com
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -357,7 +355,6 @@ www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 www.vkontakte.com
-www.vk.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -365,7 +362,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -389,8 +385,8 @@ yastroka.yandex.net
 ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx549482.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 zen.yandex.ru
