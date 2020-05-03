@@ -32,6 +32,7 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
+avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -45,6 +46,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
+c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -57,6 +59,8 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+cs621720.vk.me
+cs622931.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -65,8 +69,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-13.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
+dnl-18.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -76,6 +80,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -87,7 +93,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -127,18 +132,13 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -221,7 +221,6 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx.yandex.net
-mx.yandex.ru
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -238,7 +237,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.vk.com
 odnoklasniki.kz
 odnoklasniki.ru
@@ -272,7 +270,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -297,7 +294,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -338,8 +334,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -352,7 +346,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -387,6 +380,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
