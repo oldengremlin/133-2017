@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -20,7 +19,6 @@ api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
-api.messenger.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -102,7 +100,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -112,7 +109,6 @@ elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -124,7 +120,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -144,13 +139,19 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -158,10 +159,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -173,12 +171,10 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-market-click2.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -206,7 +202,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -217,7 +212,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -255,15 +249,12 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -272,7 +263,6 @@ pass.yandex.ru
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pop3.yandex.ru
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -293,6 +283,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -300,7 +291,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s3.yandex.net
 sba.cdn.yandex.net
 sba.yandex.net
 security.webmoney.ru
@@ -310,6 +300,7 @@ share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -323,7 +314,6 @@ stat.yandex.ua
 storage.ape.yandex.net
 sync.browser.yandex.net
 taxi.yandex.ru
-tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -331,9 +321,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-tools.messenger.yandex.net
 touch.kaspersky.com
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -343,10 +331,9 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -377,6 +364,8 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -403,11 +392,11 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
