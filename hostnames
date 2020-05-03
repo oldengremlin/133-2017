@@ -1,4 +1,5 @@
 100kwt.com
+1679771.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -6,7 +7,6 @@
 2524426.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -21,6 +21,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
+api.lbs.yandex.net
 api-maps.yandex.ru
 api.messenger.yandex.net
 api.vk.com
@@ -46,12 +47,12 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -68,7 +69,6 @@ disk.yandex.ua
 dnipress.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -160,7 +160,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -208,8 +207,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
-music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -237,7 +234,6 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
-offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 partner2.yandex.ru
@@ -251,6 +247,7 @@ passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
+passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
@@ -288,6 +285,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -305,8 +303,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-suggest-maps.yandex.net
-suggest-maps.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
 tapoc.trbo.yandex.net
@@ -333,8 +329,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-uniproxy.alice.yandex.net
-update.geo.drweb.com
+vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
@@ -343,7 +338,6 @@ vk.com
 vk.me
 vkontakte.com
 vkontakte.ru
-voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
 webdav.yandex.ru
@@ -383,7 +377,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -398,8 +391,8 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 ysa-static.passport.yandex.net
+yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
