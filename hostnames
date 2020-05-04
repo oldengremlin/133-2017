@@ -19,7 +19,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -60,7 +59,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-11.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -80,6 +78,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
@@ -111,7 +110,6 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
@@ -128,7 +126,6 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -138,7 +135,10 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -181,6 +181,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -195,7 +196,6 @@ music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
-m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -227,17 +227,16 @@ partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
-passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
+passport.yandex.kg
 passport.yandex.kz
-passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
-passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -339,9 +338,9 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-xeno.mail.yandex.net
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -368,5 +367,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 zno.yandex.ua
