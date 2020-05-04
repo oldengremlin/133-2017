@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -44,7 +43,6 @@ bober-tv.ru
 brouser.yandex.ru
 browser-resources.s3.yandex.net
 browser-updater.yandex.net
-browser-web-balancer.stable.qloud-b.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
@@ -74,6 +72,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-01.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
@@ -106,6 +106,7 @@ elmi.ua
 esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
+export.yandex.ua
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -122,7 +123,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 im.vk.com
-informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
@@ -154,9 +154,9 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -173,6 +173,8 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -239,7 +241,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
@@ -253,7 +254,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -302,8 +302,10 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -313,7 +315,6 @@ sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.vk.com
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
