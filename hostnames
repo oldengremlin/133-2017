@@ -1,4 +1,5 @@
 100kwt.com
+1206900.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -19,8 +20,12 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
+api.browser.yandex.ru
 api.browser.yandex.ua
+api.lbs.yandex.net
 api-maps.yandex.ru
+api.music.yandex.net
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
@@ -47,6 +52,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -63,6 +69,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-02.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -91,6 +98,7 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -141,8 +149,10 @@ kianews.com.ua
 komtv.org
 ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -160,6 +170,7 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -186,6 +197,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobile.music.yandex.net
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -229,6 +242,7 @@ odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
 p06.upd.kaspersky.com
+p11.upd.kaspersky.com
 p16.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -260,13 +274,13 @@ queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
-radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -284,7 +298,10 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s09.upd.kaspersky.com
+sba.cdn.yandex.net
 sba.yandex.net
+sdk.vk.com
+sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -327,6 +344,7 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -358,6 +376,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
@@ -387,6 +406,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yastroka.yandex.net
 ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
