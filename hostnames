@@ -21,6 +21,7 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -45,7 +46,6 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -53,6 +53,8 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crossdist.yandex.net
+cs309719.vk.me
+cs320921.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -61,7 +63,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
@@ -113,8 +114,8 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 im.vk.com
+informer.yandex.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -142,8 +143,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -188,6 +193,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -211,7 +217,6 @@ nashe.ru
 news-front.info
 news.yandex.ru
 news.yandex.ua
-new.vk.com
 n.maps.yandex.ru
 nm-g.ru
 novopressa.ru
@@ -284,6 +289,8 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -293,6 +300,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
@@ -303,7 +311,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.com
+translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -314,6 +322,7 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -383,5 +392,4 @@ yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.com
 zno.yandex.ua
