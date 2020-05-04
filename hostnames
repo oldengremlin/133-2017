@@ -1,11 +1,10 @@
 100kwt.com
-18895.redirect.appmetrica.yandex.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2216086.redirect.appmetrica.yandex.com
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -32,6 +31,7 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -50,7 +50,6 @@ c-inform.info
 clck.yandex.ru
 c-pravda.ru
 craig.drweb.com
-crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -86,13 +85,14 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.com
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 enterprise.api-maps.yandex.ru
@@ -116,6 +116,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 img-fotki.yandex.ru
+img.yandex.net
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -126,6 +127,7 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
@@ -251,7 +253,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -267,6 +268,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -296,7 +298,6 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s584sas.storage.yandex.net
-sba.cdn.yandex.net
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -327,7 +328,6 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
-translate.yandex.fr
 translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
@@ -357,6 +357,7 @@ webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
+wimg.yandex.net
 wm.exchanger.money
 wm-factor.com.ua
 wmsc1.webmoney.ru
@@ -373,7 +374,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.yandex.com
 www.yandex.ru
 xeno.mail.yandex.net
 xml.yandex.ru
@@ -408,5 +408,7 @@ yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
+zen.yandex.ua
 zno.yandex.ua
