@@ -18,12 +18,12 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
-api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -49,7 +49,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -61,7 +60,6 @@ dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -87,9 +85,9 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -140,7 +138,6 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-stat.geoksn.kaspersky.com
-ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -199,6 +196,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -236,10 +234,7 @@ partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
-passport.yandex.by
 passport.yandex.ee
-passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -259,6 +254,7 @@ push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
+radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -292,7 +288,6 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -374,6 +369,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
