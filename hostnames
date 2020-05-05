@@ -55,6 +55,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 crossdist.yandex.net
 cryprox.yandex.net
 dan-news.info
@@ -67,7 +68,9 @@ disk.yandex.ua
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -160,6 +163,7 @@ ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -210,6 +214,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -226,6 +231,7 @@ music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -254,14 +260,18 @@ partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
+passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
+passport.yandex.md
 passport.yandex.ru
+passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
@@ -388,6 +398,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
