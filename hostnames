@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -19,6 +18,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -39,6 +39,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 calendar.yandex.ru
+cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -118,6 +119,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -145,8 +147,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -156,6 +161,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -172,8 +178,6 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
-metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -272,7 +276,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -288,9 +291,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
-sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -386,7 +386,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx549482.oauth.yandex.ru
-yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zno.yandex.ua
