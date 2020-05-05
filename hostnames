@@ -60,8 +60,6 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crl.kaspersky.com
-crls.yandex.net
-crls.yandex.ru
 crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -71,9 +69,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-01.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -96,6 +94,7 @@ download.drweb.ua
 download.geo.drweb.com
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -103,6 +102,7 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 fgi-lnr.su
@@ -119,7 +119,8 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.ru
+img-fotki.yandex.ru
+img.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -151,12 +152,9 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -253,7 +251,6 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p01.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -261,7 +258,6 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
-passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
@@ -276,7 +272,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pp.vk.me
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -306,7 +301,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
 s3.yandex.net
 sba.yandex.net
 sdk.vk.com
@@ -353,9 +347,9 @@ trkmillet.ru
 tsiklnr.su
 tvkultura.ru
 tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+update.drweb.com
 update.geo.drweb.com
 vesti.ru
 vgtrk.com
@@ -367,6 +361,7 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
+web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
