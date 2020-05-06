@@ -37,6 +37,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-meta.yandex.ru
 calendar.yandex.ru
 cdn.yandex.NET
 cdn.yandex.net
@@ -60,6 +61,7 @@ disk.yandex.ua
 dnipress.com
 dnl-07.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
+dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -135,6 +137,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 light.webmoney.ru
@@ -194,9 +197,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.kz
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -221,6 +222,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -260,7 +262,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -282,7 +283,6 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
@@ -298,6 +298,8 @@ startup.mobile.yandex.NET
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+suggest.yandex.com
+suggest.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -378,6 +380,5 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
