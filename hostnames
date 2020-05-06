@@ -19,8 +19,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
-api.lbs.yandex.net
-api.lbs.yandex.ru
 api.messenger.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -28,6 +26,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -48,7 +47,6 @@ cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
-collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -95,6 +93,8 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -114,12 +114,9 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -196,7 +193,6 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 misc.mobile.yandex.net
 mobile.vgtrk.com
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -290,7 +286,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -317,11 +312,8 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 tools.messenger.yandex.net
-translate.yandex.by
 translate.yandex.com
 translate.yandex.fr
-translate.yandex.kz
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -359,7 +351,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
