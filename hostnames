@@ -1,11 +1,11 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
-130825.redirect.appmetrica.yandex.com
+167360.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
+21925.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -17,7 +17,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
@@ -44,6 +43,7 @@ calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
+cloud-api.yandex.net
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -122,8 +122,8 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -157,7 +157,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-dc1.geoksn.kaspersky.com
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -171,7 +176,6 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -201,6 +205,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -213,6 +218,8 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
+music.yandex.kz
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -277,7 +284,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -293,6 +299,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -301,11 +308,13 @@ site.yandex.ua
 smdnr.ru
 softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -331,12 +340,9 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vb-update.yandex.ru
 vesti.ru
 vgtrk.com
 vk.cc
@@ -396,8 +402,6 @@ yandex.ua
 yandex.uz
 ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
