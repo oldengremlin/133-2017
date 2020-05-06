@@ -30,7 +30,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -42,6 +41,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
+cache.mail.yandex.net
 calendar.yandex.ru
 cdn.yandex.NET
 cdn.yandex.net
@@ -64,11 +64,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -87,6 +84,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
@@ -114,7 +112,6 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 imap.yandex.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -146,6 +143,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -161,6 +160,7 @@ mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -194,7 +194,6 @@ minzdrav.govdnr.ru
 misc.mobile.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mobile.yandex.net
 mondnr.ru
 money.yandex.ru
@@ -206,6 +205,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.kz
 music.yandex.ua
 muz1.tv
@@ -255,6 +255,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.UA
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -292,6 +293,7 @@ sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
@@ -302,9 +304,9 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-sync.disk.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -387,8 +389,15 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 zen.yandex.ru
 zen.yandex.ua
 zno.yandex.ua
