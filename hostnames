@@ -26,6 +26,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -45,6 +46,7 @@ calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
+collections.yandex.ua
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -105,12 +107,11 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
 ext-strm-mskbeeline18.strm.yandex.net
-ext-strm-mskbeeline27.strm.yandex.net
-ext-strm-stdbeeline03.strm.yandex.net
 ext-strm-stdbeeline06.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
@@ -180,10 +181,12 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
+maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.fr
 mc.yandex.md
@@ -227,7 +230,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -247,8 +249,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.net
-ns2.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -314,14 +314,12 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
 site.yandex.ua
 smdnr.ru
-smtps.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -336,11 +334,8 @@ stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
 strm-mskm918.strm.yandex.net
-strm-mskmar03.strm.yandex.net
 strm-mskmar20.strm.yandex.net
 strm-mskstoredata06.strm.yandex.net
-strm.yandex.ru
-taxi-promotions.s3.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
