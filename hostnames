@@ -42,9 +42,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
-calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -64,6 +62,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-01.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -90,7 +91,6 @@ drweb.ru
 drweb.ua
 dr.yandex.net
 ds.kaspersky.com
-eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
 email.yandex.net
@@ -117,9 +117,7 @@ ikstv.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
-ipmcloud.kaspersky.com
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -150,7 +148,6 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -213,6 +210,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -236,7 +234,9 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.yandex.net
+ns1.yandex.ru
 ns2.yandex.net
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -273,7 +273,6 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 post.yandex.net
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -310,6 +309,7 @@ sdk.vk.com
 sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
+server.yandex.net
 sevastopol.press
 share.yandex.ru
 site.yandex.net
@@ -327,7 +327,6 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 st.kp.yandex.net
@@ -355,6 +354,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
@@ -386,8 +386,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.com
-www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
