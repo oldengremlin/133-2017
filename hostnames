@@ -49,6 +49,8 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
+crls.yandex.ru
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -148,9 +150,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -193,6 +198,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -286,10 +292,12 @@ sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -351,6 +359,8 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.vk.com
+www.webmoney.ru
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -378,5 +388,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zno.yandex.ua
