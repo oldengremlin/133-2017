@@ -30,7 +30,6 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -43,12 +42,10 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
 bs.yandex.ru
 cache-mskmar03.cdn.yandex.net
 cache-mskmar09.cdn.yandex.net
 calendar.yandex.ru
-cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -96,6 +93,7 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -146,7 +144,6 @@ kianews.com.ua
 komtv.org
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -157,7 +154,9 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 mailserver.yandex.net
+mails.yandex.net
 mail.wmid.com
+mailx.yandex.net
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
@@ -199,17 +198,18 @@ mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
+mta.yandex.net
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.com
 music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mxs.yandex.net
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -256,9 +256,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
-poczta.yandex.net
 poehali.tv
-pop3.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -288,7 +286,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
@@ -301,7 +298,6 @@ share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
-smtp.mail.yandex.net
 soft.export.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -320,7 +316,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -376,7 +371,6 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
-ya-keyboard.s3.yandex.net
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -399,6 +393,9 @@ yandex.uz
 ysa-static.passport.yandex.net
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
