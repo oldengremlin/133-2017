@@ -21,6 +21,7 @@ api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 app.tanker.yandex.net
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -50,11 +51,13 @@ cache-mskm902.cdn.yandex.net
 cache-mskm905.cdn.yandex.net
 cache-mskm909.cdn.yandex.net
 calendar.yandex.ru
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
 cloud-api.yandex.net
+correo.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -98,6 +101,7 @@ drweb.ru
 drweb.ua
 dr.yandex.net
 ds.kaspersky.com
+eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -123,6 +127,7 @@ ikrim.net
 ikstv.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -157,7 +162,6 @@ ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-pp.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -168,7 +172,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-mail3.yandex.net
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -206,7 +210,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mirror.yandex.ru
+ml-ext.taxi.yandex.net
 mobile.market.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
@@ -310,7 +314,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -318,9 +321,13 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.ru
+site.yandex.net
 site.yandex.ua
 smdnr.ru
+smtp.comune.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -331,7 +338,6 @@ static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-st.kp.yandex.net
 storage.ape.yandex.net
 storage.mds.yandex.net
 suggest-maps.yandex.net
@@ -345,9 +351,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.fr
-translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -361,6 +365,7 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
+update.geo.drweb.com
 vec01.maps.yandex.net
 vec03.maps.yandex.net
 vec04.maps.yandex.net
@@ -376,7 +381,6 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webdav.yandex.ru
-webmail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -427,7 +431,6 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
