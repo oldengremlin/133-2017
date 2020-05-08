@@ -31,6 +31,7 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+barracuda.yandex.net
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -66,7 +67,6 @@ dnl-03.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -146,7 +146,6 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -197,7 +196,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mobile.yandex.net
 mondnr.ru
 money.yandex.ru
@@ -210,6 +208,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
+music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -219,7 +218,6 @@ mvdlnr.ru
 m.vk.com
 mx01.yandex.net
 mx0.yandex.net
-mx1.yandex.net
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -253,6 +251,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -267,6 +266,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
+poczta.yandex.net
 poehali.tv
 products.drweb.com
 products.drweb.ru
@@ -304,6 +304,7 @@ sevastopol.press
 site.yandex.ua
 smdnr.ru
 smtp.yandex.net
+sniper.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -334,7 +335,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -365,7 +365,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ru
 www.vk.com
 www.webmoney.ru
 xml.yandex.ru
@@ -394,9 +393,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
