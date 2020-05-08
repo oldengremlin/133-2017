@@ -4,7 +4,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2922046.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -20,6 +19,7 @@ a.mx.yandex.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.browser.yandex.ua
 api-maps.yandex.ru
 api.vk.com
 api.yandex.ru
@@ -28,6 +28,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -67,10 +68,6 @@ disk.yandex.ua
 dnipress.com
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -99,6 +96,7 @@ edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
 email.yandex.net
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -107,7 +105,6 @@ files.wmtransfer.com
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
-front.kp.yandex.net
 gateway.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
@@ -116,11 +113,9 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-hermes.yandex.net
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 jstracer.yandex.ru
@@ -234,9 +229,9 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.ru
-ns2.yandex.net
-ns2.yandex.ru
+ns1.vkontakte.ru
+ns2.vkontakte.ru
+ns4.vkontakte.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -270,7 +265,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-posta.bardin5065.yandex.ru
 pp.vk.me
 products.drweb.ru
 products.drweb.ua
@@ -312,6 +306,7 @@ share.yandex.net
 share.yandex.ru
 site.yandex.ua
 smdnr.ru
+smtp01.yandex.net
 smtp.yandex.net
 softexport.yandex.net
 soft.export.yandex.ru
@@ -324,7 +319,6 @@ sputniknews.com
 srv.yandex.net
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
@@ -410,6 +404,5 @@ yandex.ua
 yandex.uz
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zakladki.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
