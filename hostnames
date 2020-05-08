@@ -18,15 +18,12 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.vk.com
-api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -43,6 +40,7 @@ browser.yandex.ua
 brttv.ru
 calendar.yandex.ru
 calls.vk.com
+cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -52,6 +50,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -60,8 +59,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -89,10 +86,10 @@ drweb.ru
 drweb.ua
 dr.yandex.net
 ds.kaspersky.com
+edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
 email.yandex.net
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -112,7 +109,6 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -132,6 +128,7 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
+kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -143,6 +140,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -157,6 +155,7 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail2.yandex.net
+mailsrv.yandex.net
 mail.wmid.com
 mailx.yandex.net
 mail.yandex.ru
@@ -204,7 +203,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
 music.yandex.com
 music.yandex.ru
 music.yandex.ua
@@ -212,10 +210,9 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx7.yandex.net
+mx2.yandex.net
 mx.yandex.net
 mx.yandex.ru
-m.yandex.net
 nashe.ru
 news-front.info
 news.yandex.ru
@@ -265,7 +262,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -300,6 +296,8 @@ site.yandex.ua
 smdnr.ru
 smtpseguro.yandex.net
 smtp.yandex.net
+sniper.yandex.net
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -310,6 +308,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -388,6 +387,4 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-zen.yandex.com
 zno.yandex.ua
