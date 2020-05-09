@@ -16,6 +16,7 @@ allcrimea.net
 antimaydan.info
 antispam.yandex.net
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.vk.com
@@ -57,13 +58,10 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-01.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -109,6 +107,7 @@ ikstv.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -156,8 +155,6 @@ lvl3cdn-update.drweb.com
 mail01.yandex.net
 mail4.yandex.net
 mailbox.yandex.net
-mailrelay.yandex.net
-mails.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -191,7 +188,9 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -233,7 +232,6 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-out.yandex.net
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -256,7 +254,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-posta.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -284,16 +281,18 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.cdn.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 server1.yandex.net
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtpauth.yandex.net
+smtps.yandex.net
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -337,6 +336,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webmail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -384,7 +384,6 @@ yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
