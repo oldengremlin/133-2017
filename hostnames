@@ -89,12 +89,10 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
 email.yandex.net
-esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -115,6 +113,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -145,6 +144,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
+ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -231,9 +231,7 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
-ns1.yandex.ru
 ns2.vkontakte.ru
-ns2.yandex.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 ns7.yandex.ru
@@ -243,7 +241,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -372,7 +369,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.com
-www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
@@ -406,5 +402,7 @@ yandex.ua
 yandex.uz
 ysa-static.passport.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.com
 zno.yandex.ua
