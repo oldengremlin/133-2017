@@ -28,6 +28,7 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
+avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -45,8 +46,6 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 cloud-api.yandex.net
-common-public.stable.qloud-b.yandex.net
-company.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -62,9 +61,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
@@ -145,9 +142,8 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-dc1-st.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
@@ -162,9 +158,11 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
+mail02.yandex.net
 mail10.yandex.net
 mail9.yandex.net
 mail.wmid.com
+mailx.yandex.net
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
@@ -221,6 +219,7 @@ music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -240,6 +239,7 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -254,6 +254,7 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
+passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -267,6 +268,7 @@ paymaster.ua
 pdd.yandex.ru
 poczta.yandex.net
 poehali.tv
+pop.yandex.net
 postmaster.yandex.net
 products.drweb.ru
 products.drweb.ua
@@ -296,6 +298,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 server.yandex.net
@@ -305,6 +308,7 @@ smdnr.ru
 smtpauth.yandex.net
 smtpseguro.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
@@ -312,6 +316,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
+static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -369,6 +374,7 @@ www.kaspersky.ua
 www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
+www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -397,7 +403,7 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.ru
-zmail.yandex.net
+zen.yandex.ua
 zno.yandex.ua
