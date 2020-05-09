@@ -43,6 +43,7 @@ browser.yandex.ua
 brttv.ru
 bs-metadsp.yandex.ru
 calendar.yandex.ru
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -53,6 +54,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -62,7 +64,9 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
+dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -86,6 +90,7 @@ drweb.cn
 drweb.com
 drweb.ru
 drweb.ua
+dr.yandex.net
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
@@ -103,10 +108,10 @@ free.drweb.ua
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
-geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -139,7 +144,6 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -148,6 +152,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -160,10 +171,10 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -203,10 +214,12 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
+m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -230,6 +243,7 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 p11.upd.kaspersky.com
@@ -291,7 +305,9 @@ sevastopol.press
 share.yandex.ru
 site.yandex.ua
 smdnr.ru
+smtps.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
@@ -385,13 +401,13 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yastroka.yandex.net
 ysa-static.passport.yandex.net
 ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zakladki.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
