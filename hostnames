@@ -15,7 +15,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
+api.browser.yandex.ru
 api.browser.yandex.ua
 api-maps.yandex.ru
 api.vk.com
@@ -62,11 +62,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -113,7 +109,6 @@ hermes.yandex.net
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
@@ -146,11 +141,12 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -159,6 +155,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mailin.yandex.net
 mailrelay.yandex.net
 mail.wmid.com
@@ -214,6 +211,7 @@ mvddnr.ru
 mvdlnr.ru
 m.vk.com
 mx10.yandex.net
+mx1.yandex.net
 mxs.yandex.net
 mx.yandex.net
 mx.yandex.ru
@@ -233,8 +231,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -275,7 +273,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 relay2.yandex.net
-remote.yandex.net
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -290,18 +287,17 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
 sba.cdn.yandex.net
 sba.yandex.net
-sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -322,7 +318,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -392,6 +387,8 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
 zen.yandex.ru
 zno.yandex.ua
