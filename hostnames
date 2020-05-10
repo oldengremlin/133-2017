@@ -3,7 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-217550.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -18,7 +17,9 @@ antimaydan.info
 an.yandex.ru
 any.yandex.ru
 api.browser.yandex.ru
+api-maps.yandex.ru
 api.vk.com
+appmetrica.yandex.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -48,19 +49,20 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
-dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -83,6 +85,7 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
+dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -98,7 +101,6 @@ free.drweb.ua
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
-geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -120,6 +122,7 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
 kaspersky.ie
 kaspersky.it
@@ -134,13 +137,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -194,7 +190,6 @@ mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
-mtr-transport-regions.s3.yandex.net
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
@@ -242,7 +237,6 @@ p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
 p13.upd.kaspersky.com
-p14.upd.kaspersky.com
 p15.upd.kaspersky.com
 p16.upd.kaspersky.com
 p17.upd.kaspersky.com
@@ -256,7 +250,6 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -283,6 +276,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -304,17 +298,15 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
 share.yandex.ru
 site.yandex.ua
 smdnr.ru
 smtp.mail.yandex.net
+softexport.yandex.NET
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
-speller.yandex.net
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
@@ -330,6 +322,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.com
 translate.yandex.ru
 translate.yandex.ua
@@ -340,7 +333,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -405,10 +397,4 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ua
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 zno.yandex.ua
