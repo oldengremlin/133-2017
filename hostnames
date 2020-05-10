@@ -1,13 +1,9 @@
 100kwt.com
-19531.redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -20,15 +16,12 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -59,8 +52,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-05.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -80,7 +71,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -91,7 +81,6 @@ eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -121,18 +110,12 @@ kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.ua
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -142,7 +125,8 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-dc1.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -154,7 +138,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mailrelay.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -188,8 +171,8 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -282,8 +265,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
-sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -300,7 +281,6 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 sync.disk.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
@@ -349,7 +329,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -387,6 +366,6 @@ yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
