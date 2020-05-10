@@ -42,9 +42,8 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.NET
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
@@ -58,8 +57,6 @@ crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
 cryprox.yandex.net
-csp-report.stable.qloud-b.yandex.net
-csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -104,9 +101,12 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+ext-strm-mskbeeline01.strm.yandex.net
+ext-strm-stdbeeline06.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
+forward104o.mail.yandex.net
 fotki.yandex.ru
 free.drweb.com
 free.drweb.ru
@@ -123,6 +123,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.ru
 i-mult.tlum.ru
+im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -134,7 +135,6 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
@@ -160,9 +160,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-dc1-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -176,7 +178,6 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-main.zdevx.yandex.ru
 maps.yandex.com
 maps.yandex.ru
 maps.yandex.ua
@@ -305,6 +306,18 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s03.upd.kaspersky.com
+s04.upd.kaspersky.com
+s06.upd.kaspersky.com
+s07.upd.kaspersky.com
+s09.upd.kaspersky.com
+s11.upd.kaspersky.com
+s12.upd.kaspersky.com
+s13.upd.kaspersky.com
+s15.upd.kaspersky.com
+s16.upd.kaspersky.com
+s17.upd.kaspersky.com
+s19.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
@@ -327,6 +340,11 @@ stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
 storage.mds.yandex.net
+streaming.cdn.yandex.net
+strm-mskstoredata06.strm.yandex.net
+strm.yandex.ru
+suggest-maps.yandex.net
+suggest-maps.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -335,6 +353,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
@@ -350,6 +369,8 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+vec.maps.yandex.net
+vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -380,6 +401,7 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.ru
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -414,6 +436,7 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
