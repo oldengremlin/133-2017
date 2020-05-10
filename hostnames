@@ -16,6 +16,7 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -57,6 +58,7 @@ disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
@@ -102,7 +104,6 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
 i-mult.tlum.ru
 inosmi.ru
 ipm-klca.kaspersky.com
@@ -132,11 +133,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1-file.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -150,6 +152,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
@@ -271,13 +274,14 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 site.yandex.ua
 smdnr.ru
-smtps.yandex.net
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -305,6 +309,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tvzvezda.ru
 ubp.com.ua
 vesti.ru
@@ -365,5 +370,4 @@ yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zno.yandex.ua
