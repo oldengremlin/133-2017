@@ -4,6 +4,7 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -50,6 +51,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -76,7 +78,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -87,15 +88,16 @@ ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
-esuite.geo.drweb.com
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+ext-strm-mskbeeline13.strm.yandex.net
 ext-strm-mskbeeline17.strm.yandex.net
+ext-strm-mskbeeline21.strm.yandex.net
 ext-strm-mskbeeline27.strm.yandex.net
+ext-strm-stdbeeline01.strm.yandex.net
+ext-strm-stdbeeline04.strm.yandex.net
 ext-strm-stdbeeline12.strm.yandex.net
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -112,7 +114,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -143,11 +144,7 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -164,8 +161,8 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
-matchid-production.adfox.yandex.ru
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -297,7 +294,6 @@ s12.upd.kaspersky.com
 s14.upd.kaspersky.com
 s16.upd.kaspersky.com
 s19.upd.kaspersky.com
-sba.yandex.net
 searchlib.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -317,9 +313,12 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 streaming.cdn.yandex.net
+strm-mskm913.strm.yandex.net
 strm-mskm927.strm.yandex.net
 strm-mskmar08.strm.yandex.net
+strm-mskmar09.strm.yandex.net
 strm-mskstoredata12.strm.yandex.net
+strm.yandex.ru
 suggest.yandex.net
 suggest.yandex.ru
 taxi.yandex.ru
@@ -331,6 +330,8 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -369,8 +370,10 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.ru
 www.vk.com
 www.yandex.com
+www.yandex.fr
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -386,6 +389,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
