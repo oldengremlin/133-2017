@@ -23,6 +23,7 @@ api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
+api.passport.yandex.ua
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -45,12 +46,14 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
+collections.yandex.ua
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -105,6 +108,7 @@ esuite.geo.drweb.com
 eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
+export.yandex.ru
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -112,6 +116,7 @@ fotki.yandex.ru
 free.drweb.com
 free.drweb.ru
 free.drweb.ua
+frontend.vh.yandex.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -122,6 +127,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im2-tub-com.yandex.net
+imap.yandex.net
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -175,6 +181,7 @@ lug-info.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+main.zdevx.yandex.ru
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -211,6 +218,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -222,6 +230,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -243,6 +252,7 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.vkontakte.ru
+ns2.vkontakte.ru
 ns3.vkontakte.ru
 ns4.vkontakte.ru
 nslnr.su
@@ -326,11 +336,9 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
-tapoc.trbo.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -340,6 +348,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -352,8 +361,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -394,6 +401,7 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -415,7 +423,6 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 ysa-static.passport.yandex.net
-yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
