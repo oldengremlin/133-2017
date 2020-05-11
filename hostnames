@@ -7,7 +7,6 @@
 3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
-712692.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
@@ -18,9 +17,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
-api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -44,6 +41,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -83,11 +81,12 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -155,7 +154,7 @@ komtv.org
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-launcher-cache.mobile.yandex.net
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -200,6 +199,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -210,7 +210,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -239,15 +238,19 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+offline-search.yandex.net
 on-line.lg.ua
 otr-online.ru
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
 p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p05.upd.kaspersky.com
 p06.upd.kaspersky.com
 p07.upd.kaspersky.com
 p08.upd.kaspersky.com
+p09.upd.kaspersky.com
 p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
@@ -255,6 +258,8 @@ p13.upd.kaspersky.com
 p14.upd.kaspersky.com
 p15.upd.kaspersky.com
 p16.upd.kaspersky.com
+p17.upd.kaspersky.com
+p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -275,7 +280,6 @@ passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
-pass.yandex.ru
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
@@ -310,6 +314,7 @@ russia.tv
 rusvesna.su
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -341,7 +346,6 @@ touch.kaspersky.com
 translate.yandex.by
 translate.yandex.fr
 translate.yandex.kz
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -354,7 +358,6 @@ tvkultura.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -416,7 +419,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.md
