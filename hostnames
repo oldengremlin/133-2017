@@ -4,12 +4,9 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
-891438.webmoney.ru
-91a6b092-1b2b-4f4c-9ddb-fca19fe69710.vb.extension.yandex.net
 admin-gorlovka.ru
 advisor.wmtransfer.com
 agroprom.msdnr.ru
@@ -41,7 +38,6 @@ cdn.yandex.NET
 cdn.yandex.net
 c-eho.info
 c-inform.info
-clck.yandex.ru
 c-pravda.ru
 credit.webmoney.ru
 crimea-channel.ru
@@ -69,15 +65,16 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.yandex.ru
 dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
 esuite.geo.drweb.com
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
+export.yandex.ru
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -88,7 +85,6 @@ geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -112,7 +108,6 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.vk.com
@@ -190,8 +185,10 @@ oauth.vk.com
 oauth.yandex.ru
 on-line.lg.ua
 otr-online.ru
+p01.upd.kaspersky.com
+p03.upd.kaspersky.com
 p05.upd.kaspersky.com
-p07.upd.kaspersky.com
+p13.upd.kaspersky.com
 p14.upd.kaspersky.com
 p16.upd.kaspersky.com
 passport.webmoney.ru
@@ -207,6 +204,7 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
+passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 poehali.tv
@@ -237,6 +235,7 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.ru
 site.yandex.net
 smdnr.ru
 smtp1.yandex.net
@@ -254,8 +253,6 @@ storage.ape.yandex.net
 storage.mds.yandex.net
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
-suggest.yandex.net
-suggest.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
 telepay.wmtransfer.com
@@ -278,8 +275,6 @@ ubp.com.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 vec02.maps.yandex.net
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 video-preview.s3.yandex.net
@@ -316,12 +311,14 @@ xn--mstk-53d0gyhb.su
 yalta-tv.ru
 yaltatv.ru
 yandex.com
+yandex.fr
 yandex.net
 yandex.ru
 yandex.st
 yandex.ua
 yastroka.yandex.net
 ysa-static.passport.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
@@ -330,6 +327,7 @@ yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
