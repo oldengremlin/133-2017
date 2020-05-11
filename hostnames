@@ -20,12 +20,15 @@ an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
+api.music.yandex.net
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -34,6 +37,7 @@ banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
 bar-navig.yandex.ru
+bar-widgets.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -41,11 +45,11 @@ browser.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-metadsp.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 c-inform.info
-collections.yandex.ua
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -54,6 +58,7 @@ crimea.gov.ru
 crimea.ria.ru
 crl.kaspersky.com
 crls.yandex.net
+crossdist.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -62,7 +67,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
@@ -75,6 +79,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -91,9 +97,10 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
+esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
-export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -110,8 +117,8 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
-im.vk.com
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -142,7 +149,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -187,7 +194,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobile.metro.yandex.net
+ml-ext.taxi.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -200,7 +207,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.by
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -232,8 +239,6 @@ odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
 p03.upd.kaspersky.com
-p14.upd.kaspersky.com
-p16.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -251,7 +256,6 @@ passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
-passport.yandex.UA
 passport.yandex.ua
 passport.yandex.uz
 pass.yandex.ru
@@ -289,7 +293,9 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.cdn.yandex.net
+sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -297,6 +303,8 @@ share.yandex.ru
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 spdy3-proxy.maps.yandex.net
 speechkit.yandex.ru
@@ -305,6 +313,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -327,6 +336,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+uniproxy.alice.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -339,7 +349,6 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -357,7 +366,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.vk.com
 www.yandex.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -377,6 +385,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandexnavi.s3.yandex.net
 yandex.net
 yandex.ru
 yandex.st
@@ -384,8 +393,9 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
+yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 zno.yandex.ua
