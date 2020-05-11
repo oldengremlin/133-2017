@@ -42,6 +42,7 @@ brttv.ru
 cache-mskm905.cdn.yandex.net
 cache-mskm906.cdn.yandex.net
 calendar.yandex.ru
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -59,6 +60,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-05.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -78,6 +80,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -149,6 +152,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
+mailgate.yandex.net
 mailhost.yandex.net
 mail.wmid.com
 mail.yandex.ru
@@ -224,16 +228,25 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
+p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p05.upd.kaspersky.com
+p06.upd.kaspersky.com
 p07.upd.kaspersky.com
 p08.upd.kaspersky.com
+p09.upd.kaspersky.com
 p10.upd.kaspersky.com
+p11.upd.kaspersky.com
 p12.upd.kaspersky.com
 p13.upd.kaspersky.com
 p14.upd.kaspersky.com
 p15.upd.kaspersky.com
 p16.upd.kaspersky.com
+p17.upd.kaspersky.com
+p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -257,7 +270,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pop.yandex.net
 post.yandex.net
 products.drweb.ru
 products.drweb.ua
@@ -291,7 +303,6 @@ sba.cdn.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtpauth.yandex.net
@@ -302,10 +313,8 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -388,5 +397,4 @@ yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zno.yandex.ua
