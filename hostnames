@@ -6,7 +6,6 @@
 30488.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
-712692.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
@@ -18,6 +17,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
@@ -30,6 +30,8 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.net
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -43,7 +45,7 @@ brttv.ru
 bs-meta.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.NET
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -55,6 +57,7 @@ crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crl.kaspersky.com
+crls.yandex.net
 cryprox.yandex.NET
 cryprox.yandex.net
 dan-news.info
@@ -65,7 +68,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-04.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -94,11 +96,7 @@ dr.yandex.net
 edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
-enterprise.api-maps.yandex.ru
-enterprise.vec01.maps.yandex.net
-enterprise.vec02.maps.yandex.net
-enterprise.vec03.maps.yandex.net
-enterprise.vec04.maps.yandex.net
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -120,10 +118,8 @@ ikstv.ru
 imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
-informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -149,11 +145,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-catm.geoksn.kaspersky.com
-ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -263,7 +259,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -293,7 +288,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sdk.vk.com
 searchlib.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -313,12 +307,12 @@ sprav.yandex.ru
 sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.yandex.net
-static-maps.yandex.ru
 static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 suggest.yandex.net
+suggest.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -328,6 +322,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -338,11 +333,10 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -371,6 +365,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -380,6 +375,7 @@ xn--d1ahnhhx.su
 xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
+yabs.yandex.ru
 yalta-tv.ru
 yaltatv.ru
 yandex.az
