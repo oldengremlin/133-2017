@@ -18,7 +18,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-any.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
@@ -59,20 +58,19 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-00.geo.kaspersky.com
 dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnl-18.geo.kaspersky.com
@@ -100,12 +98,12 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -121,6 +119,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -136,7 +135,9 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
@@ -155,7 +156,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-ds.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -198,6 +198,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -230,8 +231,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.ru
-ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -252,7 +251,6 @@ passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
-passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
@@ -272,7 +270,6 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -301,7 +298,7 @@ sba.cdn.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.net
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -313,6 +310,7 @@ sputniknews.com
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -342,10 +340,10 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -388,9 +386,9 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
