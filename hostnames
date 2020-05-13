@@ -17,7 +17,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -73,7 +72,6 @@ dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -110,14 +108,13 @@ free.drweb.ua
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
-geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
+img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -147,8 +144,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 launcher-cache.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
@@ -168,6 +170,7 @@ market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -192,7 +195,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mirror.yandex.ru
 mobile.vgtrk.com
 mondnr.ru
 money.yandex.ru
@@ -238,6 +240,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.kg
 passport.yandex.kz
@@ -253,7 +256,6 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 portal-xiva.yandex.net
-prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -281,7 +283,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
 sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
@@ -290,6 +291,7 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -306,8 +308,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.fr
-translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -364,7 +364,6 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
-yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
