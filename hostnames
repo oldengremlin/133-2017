@@ -41,6 +41,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -62,7 +63,6 @@ dnipress.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -113,6 +113,7 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -153,6 +154,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -163,11 +165,11 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mailserver.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -209,6 +211,8 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
+music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -266,13 +270,11 @@ poczta.yandex.net
 poehali.tv
 portal-xiva.yandex.net
 postmaster.yandex.net
-post.yandex.net
 products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
-queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -282,7 +284,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
-relay.yandex.net
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -299,13 +300,14 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.cdn.yandex.net
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
-share.yandex.ru
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -336,6 +338,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -395,5 +398,5 @@ yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zno.yandex.ua
