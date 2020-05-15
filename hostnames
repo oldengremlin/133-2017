@@ -3,7 +3,8 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
+2922046.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -17,7 +18,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
-api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -62,7 +62,9 @@ disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -93,6 +95,7 @@ elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -234,9 +237,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -281,6 +282,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.yandex.net
+sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -298,6 +300,8 @@ static-mon.yandex.net
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
+suggest.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -307,6 +311,7 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
+translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -316,6 +321,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -328,6 +334,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -345,7 +352,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
@@ -374,7 +380,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
