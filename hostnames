@@ -59,9 +59,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
-dnl-04.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -81,10 +79,8 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
-dr.yandex.net
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
@@ -117,24 +113,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -142,12 +131,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -163,7 +147,6 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 merchant.webmoney.ru
 merchant.wmtransfer.com
@@ -201,7 +184,6 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -221,7 +203,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -261,7 +242,6 @@ push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
-radio.yandex.ru
 radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
@@ -293,6 +273,7 @@ sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
 sputniknews.com
+startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
@@ -303,6 +284,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -314,6 +296,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -341,6 +324,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -368,9 +352,4 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
-yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zno.yandex.ua
