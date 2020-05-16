@@ -56,7 +56,6 @@ disk.yandex.ua
 dnipress.com
 dnl-00.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -129,8 +128,10 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -143,7 +144,6 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -175,6 +175,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mirror.yandex.ru
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -262,6 +263,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -354,9 +356,8 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zno.yandex.ua
