@@ -16,14 +16,12 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
-api.browser.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -54,7 +52,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-02.geo.kaspersky.com
+dnl-01.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -99,6 +97,7 @@ ikrim.net
 ikstv.ru
 i-mult.tlum.ru
 inosmi.ru
+ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -127,13 +126,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -175,7 +172,6 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -211,8 +207,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -232,7 +226,6 @@ passport.yandex.kz
 passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
-passport.yandex.ru
 passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
@@ -273,6 +266,7 @@ sevastopol.press
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
+sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -321,7 +315,6 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
-www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -358,4 +351,5 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zen.yandex.ru
 zno.yandex.ua
