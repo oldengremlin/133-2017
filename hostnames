@@ -17,7 +17,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ua
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.music.yandex.net
 api.vk.com
@@ -104,7 +103,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 ipm-klca.kaspersky.com
@@ -137,7 +135,6 @@ komtv.org
 ksn-kas.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
-login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -215,7 +212,6 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -273,9 +269,12 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s11.upd.kaspersky.com
+s00.upd.kaspersky.com
+s02.upd.kaspersky.com
+s03.upd.kaspersky.com
+s06.upd.kaspersky.com
+s08.upd.kaspersky.com
 s15.upd.kaspersky.com
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -303,7 +302,6 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -371,7 +369,9 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
