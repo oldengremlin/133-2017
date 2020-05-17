@@ -14,6 +14,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
@@ -55,6 +56,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-03.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -74,7 +76,6 @@ dommintrans.ru
 donbass.media
 download.drweb.ru
 download.drweb.ua
-downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -153,7 +154,6 @@ market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
 mc.yandex.ru
-mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -179,6 +179,7 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -214,31 +215,18 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p00.upd.kaspersky.com
-p01.upd.kaspersky.com
-p03.upd.kaspersky.com
-p04.upd.kaspersky.com
-p05.upd.kaspersky.com
-p06.upd.kaspersky.com
-p09.upd.kaspersky.com
-p10.upd.kaspersky.com
-p11.upd.kaspersky.com
-p12.upd.kaspersky.com
-p15.upd.kaspersky.com
-p17.upd.kaspersky.com
-p18.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -283,6 +271,7 @@ russia.tv
 rusvesna.su
 sba.cdn.yandex.net
 sec.api.browser.yandex.ru
+sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -308,7 +297,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -380,5 +368,4 @@ yandex.uz
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.ru
 zno.yandex.ua
