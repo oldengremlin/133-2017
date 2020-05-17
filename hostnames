@@ -228,8 +228,10 @@ passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
+passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
+passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
@@ -259,12 +261,14 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -317,6 +321,7 @@ wmsc2.webmoney.ru
 wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
+www2.yandex.net
 www.capitaller.ru
 www.drweb.ru
 www.drweb.ua
@@ -356,4 +361,5 @@ yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
