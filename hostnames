@@ -3,8 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-30488.redirect.appmetrica.yandex.com
-42989.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -42,7 +40,6 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs-meta.yandex.ru
-bs.yandex.ru
 c6.dev.drweb.com
 calendar.yandex.ru
 calls.vk.com
@@ -50,6 +47,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
@@ -62,11 +60,13 @@ csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
+dictionary.yandex.net
 digitalrussia.tv
 direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-04.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -88,7 +88,6 @@ download.drweb.ua
 download.yandex.ru
 drweb.cn
 drweb.com
-drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -105,10 +104,10 @@ fotki.yandex.ru
 free.drweb.com
 free.drweb.ru
 free.drweb.ua
+funding.webmoney.ru
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
-geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -119,6 +118,7 @@ imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -128,23 +128,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -161,9 +155,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
-mailx.yandex.net
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
@@ -218,6 +210,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx1.yandex.ru
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -267,6 +260,7 @@ pdd.yandex.ru
 poehali.tv
 pop3.yandex.net
 pop.yandex.ru
+portal-xiva.yandex.net
 predictor.yandex.net
 products.drweb.ru
 products.drweb.ua
@@ -285,7 +279,6 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -308,6 +301,7 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -318,7 +312,6 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static-mon.yandex.net
 static.yandex.net
 static.yandex.sx
 stat.yandex.ru
@@ -344,7 +337,6 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -404,9 +396,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tm
 zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
