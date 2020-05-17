@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -12,12 +11,15 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.net
+api.browser.yandex.ru
 api-maps.yandex.ru
+api.messenger.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -28,8 +30,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.net
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -41,6 +41,8 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
+c2.dev.drweb.com
+c8ffe342-0c8b-4dba-b5fd-0c05bfbba54f.vb.extension.yandex.net
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -63,8 +65,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
+dnl-11.geo.kaspersky.com
+dnl-13.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -82,9 +85,9 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-download.drweb.com
 download.drweb.ru
 download.drweb.ua
+download.geo.drweb.com
 download.yandex.ru
 drweb.cn
 drweb.com
@@ -98,6 +101,7 @@ esuite.geo.drweb.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -119,6 +123,7 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -131,7 +136,6 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
 kaspersky.gr
 kaspersky.ie
@@ -153,7 +157,6 @@ kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -243,15 +246,29 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
+p01.upd.kaspersky.com
+p02.upd.kaspersky.com
 p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p06.upd.kaspersky.com
+p07.upd.kaspersky.com
+p08.upd.kaspersky.com
+p10.upd.kaspersky.com
+p11.upd.kaspersky.com
+p12.upd.kaspersky.com
+p13.upd.kaspersky.com
 p14.upd.kaspersky.com
+p15.upd.kaspersky.com
 p16.upd.kaspersky.com
+p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -267,7 +284,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -300,7 +316,9 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 site.yandex.ua
+slovari.yandex.ru
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -314,6 +332,8 @@ startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
+strm.yandex.ru
 suggest-maps.yandex.net
 suggest-maps.yandex.ru
 taxi.yandex.ru
@@ -325,6 +345,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
@@ -354,7 +375,6 @@ vremya.tv
 wbc.com.ru
 webasr.yandex.net
 webmaster.yandex.ru
-web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
 wiki.webmoney.ru
@@ -375,7 +395,7 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.yandex.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -403,8 +423,6 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
-yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
