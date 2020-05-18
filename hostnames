@@ -38,7 +38,6 @@ browser.yandex.ua
 brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.net
 c-eho.info
 c-inform.info
 c-pravda.ru
@@ -55,6 +54,7 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
+dnl-03.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnmchs.ru
@@ -77,6 +77,7 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -101,6 +102,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 izpp.govdnr.ru
@@ -115,6 +117,7 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
 kaspersky.ie
 kaspersky.it
@@ -122,7 +125,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -130,8 +132,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-dc1-st.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 login.wmtransfer.com
@@ -144,6 +149,7 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -155,6 +161,7 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -186,13 +193,11 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
-music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx2.yandex.net
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -266,6 +271,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s00.upd.kaspersky.com
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -290,6 +296,8 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -330,6 +338,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
