@@ -15,8 +15,8 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -107,7 +107,6 @@ i-mult.tlum.ru
 informer.yandex.ru
 info.weather.yandex.net
 inosmi.ru
-ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -151,7 +150,6 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -239,7 +237,6 @@ passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
 passport.yandex.tj
-passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
@@ -273,6 +270,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
 security.wmtransfer.com
@@ -284,7 +282,6 @@ smdnr.ru
 smtps.yandex.fr
 softexport.yandex.net
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 speechkit.yandex.ru
@@ -302,6 +299,8 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -314,8 +313,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -344,6 +341,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -372,8 +370,12 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
+yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+zen.yandex.com
+zen.yandex.ru
 zno.yandex.ua
