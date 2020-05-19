@@ -4,7 +4,6 @@
 1tv.com
 1tvcrimea.ru
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -70,8 +69,6 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -127,7 +124,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -138,10 +134,8 @@ komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -151,6 +145,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -160,6 +155,7 @@ market.yandex.ua
 mchs-lnr.su
 mc.yandex.re
 mc.yandex.ru
+mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
 merlnr.su
@@ -233,6 +229,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -272,13 +269,12 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-sba.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+site.yandex.net
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -309,6 +305,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
@@ -335,6 +332,8 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
+www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
 xml.yandex.ua
@@ -363,8 +362,9 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
