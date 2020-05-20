@@ -3,6 +3,8 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+284530.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
@@ -30,6 +32,7 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -56,6 +59,7 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -85,6 +89,7 @@ download.drweb.ua
 drweb.cn
 drweb.ru
 drweb.ua
+ds.kaspersky.com
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -104,6 +109,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -114,23 +120,17 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
-kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
-kaspersky.pt
 kaspersky.ru
-kaspersky.se
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -140,6 +140,7 @@ kianews.com.ua
 komtv.org
 ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1-st.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -156,6 +157,7 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -229,7 +231,13 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p11.upd.kaspersky.com
+p02.upd.kaspersky.com
+p07.upd.kaspersky.com
+p08.upd.kaspersky.com
+p13.upd.kaspersky.com
+p14.upd.kaspersky.com
+p16.upd.kaspersky.com
+p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -271,6 +279,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -281,7 +290,6 @@ rusvesna.su
 s00.upd.kaspersky.com
 sba.yandex.net
 searchlib.yandex.net
-sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -307,7 +315,6 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -318,7 +325,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -332,7 +338,6 @@ vkontakte.ru
 vremya.tv
 wbc.com.ru
 webdav-proxy.disk.yandex.net
-webdav.yandex.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -353,7 +358,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.webmoney.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -382,6 +386,7 @@ yandex.ua
 yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
