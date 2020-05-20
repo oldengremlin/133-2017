@@ -3,9 +3,6 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-284530.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -18,9 +15,10 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
+api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -31,7 +29,6 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -58,7 +55,6 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -105,10 +101,10 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -136,8 +132,13 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -147,6 +148,7 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
+lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -232,10 +234,7 @@ p08.upd.kaspersky.com
 p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
-p13.upd.kaspersky.com
-p14.upd.kaspersky.com
 p15.upd.kaspersky.com
-p16.upd.kaspersky.com
 p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -243,7 +242,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -263,7 +261,6 @@ portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -288,6 +285,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.cdn.yandex.net
 sba.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -307,6 +305,7 @@ sprav.yandex.ru
 sputniknews.com
 startup.mobile.yandex.net
 static-maps.yandex.ru
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -334,6 +333,7 @@ tsiklnr.su
 tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
+update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
