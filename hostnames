@@ -55,9 +55,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-06.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -104,6 +103,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
@@ -137,9 +137,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -154,6 +152,7 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 main.zdevx.yandex.ru
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 mchs-lnr.su
@@ -262,7 +261,6 @@ passport.yandex.lt
 passport.yandex.lv
 passport.yandex.md
 passport.yandex.ru
-passport.yandex.tj
 passport.yandex.tm
 passport.yandex.ua
 passport.yandex.uz
@@ -365,6 +363,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 www.yandex.ru
@@ -402,7 +401,6 @@ ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
