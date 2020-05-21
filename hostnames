@@ -47,8 +47,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
-crossdist.yandex.net
 cryprox.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -60,6 +58,7 @@ disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
+dnl-10.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -105,6 +104,7 @@ ikrim.net
 ikstv.ru
 im0-tub-ru.yandex.net
 imap.yandex.com
+imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
 izpp.govdnr.ru
@@ -138,6 +138,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -152,7 +153,7 @@ mail9.rokin.yandex.ru
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ua
+maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -280,7 +281,6 @@ sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 soft.export.yandex.ru
@@ -293,8 +293,11 @@ sputniknews.com
 startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
+static-mon.yandex.net
+static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
+suggest.yandex.fr
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -343,6 +346,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.vk.com
+www.yandex.fr
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -358,6 +362,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -373,7 +378,6 @@ yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
