@@ -40,6 +40,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 calendar.yandex.ru
+calls.vk.com
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -60,6 +61,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-01.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
 dnl-07.geo.kaspersky.com
 dnmchs.ru
@@ -91,12 +93,7 @@ events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
 ext-strm-mskbeeline06.strm.yandex.net
-ext-strm-mskbeeline12.strm.yandex.net
-ext-strm-mskbeeline25.strm.yandex.net
-ext-strm-stdbeeline01.strm.yandex.net
-ext-strm-stdbeeline05.strm.yandex.net
 ext-strm-stdbeeline09.strm.yandex.net
-ext-strm-stdbeeline12.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -112,7 +109,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-imap.yandex.com
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -143,6 +140,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
@@ -240,7 +238,6 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -285,6 +282,7 @@ russia.tv
 rusvesna.su
 sba.yandex.net
 searchlib.yandex.net
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -305,11 +303,9 @@ stat.yandex.ua
 storage.ape.yandex.net
 storage.mds.yandex.net
 streaming.cdn.yandex.net
-strm-mskmar01.strm.yandex.net
-strm-mskmar19.strm.yandex.net
+strm-mskmar03.strm.yandex.net
 strm-mskstoredata09.strm.yandex.net
 strm.yandex.net
-strm.yandex.ru
 taxi.yandex.ru
 tech.yandex.ru
 telecafe.ru
@@ -333,7 +329,6 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
-update.geo.drweb.com
 vesti.ru
 vgtrk.com
 vk.cc
