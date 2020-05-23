@@ -1,14 +1,9 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
-1183314.redirect.appmetrica.yandex.com
-1184226.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2261207.redirect.appmetrica.yandex.com
-34381.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -27,6 +22,7 @@ api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
+api.weather.yandex.ru
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 artv-news.ru
@@ -41,7 +37,6 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-beta.zen-test.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -60,12 +55,12 @@ collections.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
-cs306207.vk.me
 cs622931.vk.me
 cs9290.vk.me
 dan-news.info
@@ -77,7 +72,6 @@ direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-06.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
@@ -170,7 +164,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-kp.cdn.yandex.net
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
@@ -193,6 +186,8 @@ mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.com
+maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -238,6 +233,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 muz1.tv
@@ -262,6 +258,8 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -353,10 +351,10 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
-top-fwz1.mail.ru.localdomain
 translate.yandex.by
 translate.yandex.com
 translate.yandex.kz
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -432,9 +430,10 @@ yandex.tm
 yandex.ua
 yandex.uz
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx549482.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-zen.yandex.com
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.ru
 zno.yandex.ua
