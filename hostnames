@@ -41,6 +41,7 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
+c2.dev.drweb.com
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
@@ -103,6 +104,7 @@ elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -117,6 +119,8 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
+imap.yandex.ru
 img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
@@ -160,11 +164,9 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -177,7 +179,6 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -199,6 +200,7 @@ mintrudlnr.su
 minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -288,6 +290,7 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -298,6 +301,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -311,16 +315,16 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s00.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
-sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
 site.yandex.ua
 smdnr.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -372,6 +376,7 @@ vk.com
 vk.me
 vkontakte.com
 vkontakte.ru
+vk.ru
 vremya.tv
 wbc.com.ru
 webdav.yandex.ru
@@ -393,11 +398,10 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.com
-www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
+www.vkontakte.ru
 www.yandex.com
 www.yandex.ru
 xml.yandex.ru
@@ -414,6 +418,7 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
@@ -421,16 +426,19 @@ yandex.lv
 yandex.md
 yandex.net
 yandex.ru
-yandex.rugr
 yandex.st
 yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
 ysa-static.passport.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
