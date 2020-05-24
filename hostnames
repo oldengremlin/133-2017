@@ -1,4 +1,3 @@
-167360.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 8o.vk.cc
 afisha.yandex.ru
@@ -31,11 +30,10 @@ cloud-api.yandex.net
 collections.yandex.ru
 collections.yandex.ua
 craig.drweb.com
+crash-reports.browser.yandex.net
 crls.yandex.net
-crossdist.yandex.net
 delivery.yandex.ru
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnl-11.geo.kaspersky.com
@@ -53,9 +51,7 @@ drweb.ua
 dr.yandex.net
 ds.kaspersky.com
 eemea.refresh-bkg.activation-v2.kaspersky.com
-eu.refresh-bkg.activation-v2.kaspersky.com
 export.yandex.ru
-favicon.yandex.net
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
@@ -64,6 +60,7 @@ grade.market.yandex.ru
 imap.yandex.com
 im.vk.com
 informer.yandex.ru
+ipm-klca.kaspersky.com
 kaspersky.ae
 kaspersky.be
 kaspersky.by
@@ -80,13 +77,17 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
+keeper.webmoney.ru
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
+light.webmoney.ru
 livejournal.yandex.net
 lvl3cdn-update.drweb.com
 mail.yandex.ru
@@ -103,10 +104,11 @@ metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
+mini.webmoney.ru
+mirror.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 money.yandex.ru
-music.yandex.by
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -115,6 +117,7 @@ mx.yandex.net
 news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
+ns2.yandex.ru
 oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
@@ -162,6 +165,7 @@ rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ua
 site.yandex.net
 site.yandex.ua
 softexport.yandex.net
@@ -176,7 +180,10 @@ startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+st.kp.yandex.net
 storage.mds.yandex.net
+suggest.yandex.net
+suggest.yandex.ru
 sync.browser.yandex.net
 sync.disk.yandex.net
 tapoc.trbo.yandex.net
@@ -189,7 +196,7 @@ translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
-tv.yandex.ua
+tv.yandex.ru
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 updater.mobile.yandex.net
@@ -235,6 +242,7 @@ yastroka.yandex.net
 ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
