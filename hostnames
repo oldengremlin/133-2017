@@ -1,4 +1,5 @@
 25378.redirect.appmetrica.yandex.com
+29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 8o.vk.cc
 ads.yandex.ru
@@ -20,7 +21,6 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-banks.webmoney.ru
 bar-navig.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
@@ -33,9 +33,7 @@ cdn.yandex.net
 clck.yandex.ru
 collections.yandex.ru
 craig.drweb.com
-crash-reports.browser.yandex.net
 crls.yandex.net
-crossdist.yandex.net
 delivery.yandex.ru
 direct.yandex.ru
 disk.yandex.ru
@@ -48,6 +46,7 @@ download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
+driver-photos.s3.yandex.net
 drweb.cn
 drweb.ru
 drweb.ua
@@ -64,6 +63,8 @@ imap.yandex.ru
 img-fotki.yandex.ru
 im.vk.com
 informer.yandex.ru
+info.weather.yandex.net
+ipmcloud.kaspersky.com
 jstracer.yandex.ru
 kaspersky.ae
 kaspersky.be
@@ -83,7 +84,12 @@ kaspersky.nl
 kaspersky.ru
 kaspersky.ua
 kassa.yandex.ru
+ksn-a-p2p.geoksn.kaspersky.com
+ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
+ksn-info.geoksn.kaspersky.com
+ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 lbs-slb.mobile.yandex.net
@@ -103,8 +109,8 @@ metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
 mirror.yandex.ru
+mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
-mobile.yandex.net
 money.yandex.ru
 music.yandex.com
 music.yandex.kz
@@ -120,7 +126,6 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
-p06.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -152,12 +157,13 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 report.appmetrica.yandex.net
 rusvesna.su
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 sec.api.browser.yandex.ua
-share.yandex.net
 share.yandex.ru
 site.yandex.net
 site.yandex.ua
@@ -180,9 +186,10 @@ storage.mds.yandex.net
 sync.disk.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
+tc.mobile.yandex.net
 tech.yandex.ru
+telepay.webmoney.ru
 telephony.yandex.ru
-touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
 translate.yandex.ru
@@ -198,7 +205,7 @@ vkontakte.ru
 webmaster.yandex.ru
 webmoney.ua
 wi2geo.mobile.yandex.net
-wmsc2.webmoney.ru
+wmsc4.webmoney.ru
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -211,7 +218,6 @@ www.vk.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
-yabs.yandex.ua
 yandex.az
 yandex.by
 yandex.com
@@ -240,6 +246,7 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.az
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
+yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
