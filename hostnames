@@ -1,4 +1,4 @@
-167360.redirect.appmetrica.yandex.com
+25378.redirect.appmetrica.yandex.com
 284530.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
@@ -35,10 +35,12 @@ craig.drweb.com
 crl.kaspersky.com
 delivery.yandex.ru
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnl-03.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -106,11 +108,11 @@ metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
-mirror.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 mobile.yandex.net
 money.yandex.ru
+music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -126,10 +128,10 @@ oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
+p11.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
-passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
@@ -182,6 +184,7 @@ taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
 telephony.yandex.ru
+touch.kaspersky.com
 translate.yandex.by
 translate.yandex.kz
 translate.yandex.net
@@ -236,7 +239,5 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
