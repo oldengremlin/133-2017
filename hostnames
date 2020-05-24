@@ -8,6 +8,7 @@ afisha.yandex.ua
 an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
@@ -24,14 +25,11 @@ bro-bg-store.s3.yandex.net
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
-bs.yandex.ru
 calendar.yandex.ru
-cdn.yandex.NET
 cdn.yandex.net
 clck.yandex.ru
 cloud-api.yandex.net
 collections.yandex.ru
-collections.yandex.ua
 craig.drweb.com
 crls.yandex.net
 crossdist.yandex.net
@@ -62,7 +60,6 @@ geocode-maps.yandex.ru
 imap.yandex.com
 imap.yandex.ru
 img-fotki.yandex.ru
-im.vk.com
 informer.yandex.ru
 kaspersky.ae
 kaspersky.be
@@ -81,14 +78,11 @@ kaspersky.ma
 kaspersky.nl
 kaspersky.ru
 kassa.yandex.ru
-ksn-file.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 livejournal.yandex.net
 lvl3cdn-update.drweb.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -126,6 +120,7 @@ p11.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
+passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.com
@@ -154,6 +149,7 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 report.appmetrica.yandex.net
 rosenberg.appmetrica.yandex.net
 rusvesna.su
@@ -164,6 +160,7 @@ sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
 sec.api.browser.yandex.ua
+share.yandex.net
 site.yandex.net
 site.yandex.ua
 soft.export.yandex.ru
@@ -175,17 +172,17 @@ sprav.yandex.ru
 sprav.yandex.ua
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
+static.vk.com
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
 storage.mds.yandex.net
-suggest-maps.yandex.net
-suggest.yandex.ru
 sync.browser.yandex.net
 sync.disk.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
+tc.mobile.yandex.net
 tech.yandex.ru
 telephony.yandex.ru
 touch.kaspersky.com
@@ -243,7 +240,6 @@ yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
