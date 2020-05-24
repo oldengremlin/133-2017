@@ -1,5 +1,6 @@
 167360.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -11,6 +12,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ua
 audience.yandex.ru
@@ -37,6 +39,8 @@ disk.yandex.ru
 disk.yandex.ua
 dnl-01.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -86,6 +90,7 @@ lvl3cdn-update.drweb.com
 mail.yandex.ru
 mail.yandex.ua
 maps.yandex.ru
+maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 mc.yandex.ru
@@ -121,6 +126,7 @@ partner.yandex.ru
 partner.yandex.ua
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -150,8 +156,11 @@ rosenberg.appmetrica.yandex.net
 rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
+sdk.vk.com
 searchlib.yandex.net
+sec.api.browser.yandex.ru
 site.yandex.ua
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 spdy3-proxy.maps.yandex.net
@@ -174,6 +183,7 @@ telepay.webmoney.ru
 telephony.yandex.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -223,6 +233,8 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.tj
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
