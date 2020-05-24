@@ -29,13 +29,13 @@ artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
+avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
-beta.zen-test.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -76,7 +76,8 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-03.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
+dnl-07.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
@@ -162,6 +163,7 @@ ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+livejournal.yandex.net
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -176,6 +178,7 @@ maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -203,8 +206,8 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mirror.yandex.ru
+mobile.music.yandex.net
 mobile.vgtrk.com
-mobile.yamobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -253,7 +256,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -273,6 +275,7 @@ portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 promedia.ru
+proxy.mob.maps.yandex.net
 push.yandex.ru
 queuev4.vk.com
 rabota.yandex.ru
@@ -322,6 +325,7 @@ storage.mds.yandex.net
 sync.disk.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
+tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -401,8 +405,6 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
-yastroka.yandex.net
-ysa-static.passport.yandex.ru
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
