@@ -4,8 +4,9 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -23,7 +24,6 @@ api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.messenger.yandex.net
-api.music.yandex.net
 api.vk.com
 api.weather.yandex.ru
 arbitrage.webmoney.ru
@@ -46,7 +46,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-c2.dev.drweb.com
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
@@ -54,6 +53,8 @@ c-eho.info
 c-inform.info
 clck.yandex.ru
 collections.yandex.ru
+common-public.stable.qloud-b.yandex.net
+company.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -73,7 +74,6 @@ disk.yandex.ua
 dnipress.com
 dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -89,6 +89,7 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
+download.cdn.yandex.net
 download.drweb.com
 download.drweb.ru
 download.drweb.ua
@@ -120,8 +121,8 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
-img-fotki.yandex.ru
 i-mult.tlum.ru
+informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
 kanal-o.ru
@@ -159,7 +160,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-file.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -174,6 +174,7 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -200,7 +201,6 @@ mc.yandex.st
 mc.yandex.tj
 mc.yandex.tm
 mc.yandex.travel
-mc.yandex.ua
 mc.yandex.uz
 merchant.webmoney.ru
 merchant.wmtransfer.com
@@ -272,6 +272,8 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p00.upd.kaspersky.com
+p04.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -324,9 +326,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
-s17.upd.kaspersky.com
-s19.upd.kaspersky.com
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
@@ -364,9 +363,7 @@ tk-union.tv
 tnt-online.ru
 tools.messenger.yandex.net
 touch.kaspersky.com
-translate.yandex.by
 translate.yandex.com
-translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -414,7 +411,6 @@ www.kaspersky.ua
 www.translate.yandex.com
 www.translate.yandex.kz
 www.translate.yandex.ru
-www.translate.yandex.ua
 www.vk.com
 www.yandex.aero
 www.yandex.az
