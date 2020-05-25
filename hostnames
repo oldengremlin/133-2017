@@ -1,4 +1,3 @@
-130825.redirect.appmetrica.yandex.com
 167360.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -34,6 +33,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
 dnl-08.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
@@ -49,14 +49,11 @@ drweb.ru
 drweb.ua
 ds.kaspersky.com
 export.yandex.ru
-favicon.yandex.net
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
 geocode-maps.yandex.ru
-imap.yandex.ru
 img-fotki.yandex.ru
-ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
 jstracer.yandex.ru
 kaspersky.ae
@@ -91,6 +88,7 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 metrika.yandex.ru
@@ -111,14 +109,12 @@ mx.yandex.ru
 news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
-ns3.yandex.ru
-ns4.yandex.ru
-oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
 p00.upd.kaspersky.com
+p03.upd.kaspersky.com
 p04.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -143,6 +139,7 @@ portal-xiva.yandex.net
 products.drweb.ru
 products.drweb.ua
 push.yandex.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radio.yandex.ru
@@ -153,7 +150,7 @@ realty.yandex.ru
 report.appmetrica.yandex.net
 rusvesna.su
 sba.cdn.yandex.net
-sba.yandex.net
+sdk.vk.com
 searchlib.yandex.net
 sec.api.browser.yandex.ru
 site.yandex.ua
@@ -168,6 +165,7 @@ startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
 storage.mds.yandex.net
 sync.disk.yandex.net
 taxi.yandex.ru
@@ -180,6 +178,7 @@ translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
 tv.yandex.ua
+uniproxy.alice.yandex.net
 update.geo.drweb.com
 updater.mobile.yandex.net
 vk.cc
@@ -195,6 +194,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
@@ -221,6 +221,7 @@ yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx549482.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
