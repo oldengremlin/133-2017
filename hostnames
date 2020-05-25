@@ -1,6 +1,5 @@
 137715.redirect.appmetrica.yandex.com
 167360.redirect.appmetrica.yandex.com
-25378.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -11,11 +10,11 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ua
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -24,7 +23,6 @@ beta.zen-test.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
-c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 clck.yandex.ru
@@ -75,11 +73,13 @@ kaspersky.ma
 kaspersky.nl
 kaspersky.ru
 kassa.yandex.ru
+keeper.webmoney.ru
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 light.webmoney.ru
+livejournal.yandex.net
 lvl3cdn-update.drweb.com
 mail.yandex.ru
 mail.yandex.ua
@@ -97,6 +97,7 @@ metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
+mini.webmoney.ru
 mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -112,6 +113,7 @@ news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
 oauth-rc.yandex.ru
+oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -121,6 +123,7 @@ partner.yandex.ru
 partner.yandex.ua
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -145,11 +148,13 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
+report.appmetrica.yandex.net
 rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
+sec.api.browser.yandex.ru
 site.yandex.ua
 softexport.yandex.net
 soft.export.yandex.ru
@@ -173,7 +178,6 @@ translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
-tv.yandex.ru
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 updater.mobile.yandex.net
@@ -191,6 +195,7 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
 xml.yandex.ru
@@ -205,6 +210,7 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.NET
 yandex.net
 yandex.ru
 yandex.st
@@ -213,11 +219,11 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
