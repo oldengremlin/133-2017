@@ -29,13 +29,14 @@ browser.yandex.ua
 calendar.yandex.ru
 cdn.yandex.net
 chat.s3.yandex.net
+cid.yandex.net
+clck.yandex.ru
 cloud-api.yandex.net
 collections.yandex.ru
 craig.drweb.com
 credit.webmoney.ru
 crl.kaspersky.com
-crossdist.yandex.net
-cs6041.vk.me
+crls.yandex.net
 cs627724.vk.me
 delivery.yandex.ru
 direct.yandex.ru
@@ -56,7 +57,6 @@ download.cdn.yandex.net
 download.drweb.com
 download.drweb.ru
 download.drweb.ua
-downloader.yandex.net
 download.yandex.ru
 drweb.cn
 drweb.com
@@ -108,11 +108,8 @@ keeper.webmoney.ru
 ksn-cinfo.geoksn.kaspersky.com
 ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
-ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 livejournal.yandex.net
@@ -158,8 +155,6 @@ mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 mobile.yandex.net
 money.yandex.ru
-music.yandex.by
-music.yandex.kz
 music.yandex.ru
 music.yandex.ua
 m.vk.com
@@ -176,6 +171,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 p01.upd.kaspersky.com
 p03.upd.kaspersky.com
+p17.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -246,6 +242,7 @@ telephony.yandex.ru
 touch.kaspersky.com
 translate.yandex.by
 translate.yandex.fr
+translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
@@ -264,7 +261,6 @@ webmaster.yandex.ru
 web-metrica.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wmsc1.webmoney.ru
 wmsc2.webmoney.ru
@@ -276,6 +272,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.ru
 www.vk.com
 www.yandex.aero
 www.yandex.az
