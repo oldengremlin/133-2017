@@ -3,6 +3,8 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+25378.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -37,6 +39,7 @@ banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
+beta.zen-test.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -44,7 +47,6 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
-c2.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -53,7 +55,6 @@ clck.yandex.ru
 collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
-crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -67,7 +68,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-00.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dnmchs.ru
@@ -120,12 +120,15 @@ ikrim.net
 ikstv.ru
 imap.yandex.com
 imap.yandex.ru
+img-fotki.yandex.net
+img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
 inosmi.ru
 ipm-klca.kaspersky.com
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -229,6 +232,7 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
+music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -292,7 +296,6 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -342,6 +345,7 @@ s02.upd.kaspersky.com
 s3.yandex.net
 sba.yandex.net
 sdk.vk.com
+searchlib.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
@@ -369,7 +373,6 @@ stat.yandex.ua
 storage.mds.yandex.net
 streaming.cdn.yandex.net
 strm.yandex.ru
-taxi-promotions.s3.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -380,8 +383,9 @@ telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
 tools.messenger.yandex.net
-touch.kaspersky.com
 translate.yandex.by
+translate.yandex.fr
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -425,9 +429,7 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.vkontakte.com
 www.vkontakte.ru
-www.yandex.com
 www.yandex.ru
 www.yandex.ua
 xml.yandex.ru
@@ -465,7 +467,6 @@ yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
