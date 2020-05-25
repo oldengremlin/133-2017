@@ -1,5 +1,4 @@
 130825.redirect.appmetrica.yandex.com
-137715.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 2922046.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
@@ -21,7 +20,6 @@ audience.yandex.ua
 autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
-banks.webmoney.ru
 bar-navig.yandex.ru
 beta.zen-test.yandex.ru
 brouser.yandex.ru
@@ -39,7 +37,9 @@ delivery.yandex.ru
 direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
+dnl-08.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
+dnl-19.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -49,14 +49,12 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-dr.yandex.net
 ds.kaspersky.com
 export.yandex.ru
 favicon.yandex.net
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
-funding.webmoney.ru
 geocode-maps.yandex.ru
 imap.yandex.com
 imap.yandex.ru
@@ -88,7 +86,6 @@ ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
-livejournal.yandex.net
 lvl3cdn-update.drweb.com
 mail.yandex.ru
 mail.yandex.ua
@@ -96,7 +93,6 @@ maps.yandex.ru
 maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
-matchid.adfox.yandex.ru
 mc.yandex.ru
 mc.yandex.ua
 metrika.yandex.ru
@@ -117,6 +113,8 @@ mx.yandex.ru
 news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
+ns3.yandex.ru
+ns4.yandex.ru
 oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
@@ -127,7 +125,6 @@ partner.yandex.ru
 partner.yandex.ua
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -153,13 +150,10 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
 report.appmetrica.yandex.net
-rosenberg.appmetrica.yandex.net
 rusvesna.su
-sba.cdn.yandex.net
 sba.yandex.net
 searchlib.yandex.net
 sec.api.browser.yandex.ru
-site.yandex.net
 site.yandex.ua
 softexport.yandex.net
 soft.export.yandex.ru
@@ -186,6 +180,7 @@ translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
 tv.yandex.ru
+tv.yandex.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 vk.cc
@@ -196,7 +191,6 @@ vkontakte.ru
 webmaster.yandex.ru
 webmoney.ua
 wi2geo.mobile.yandex.net
-wmsc4.webmoney.ru
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -206,7 +200,6 @@ www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 yandex.az
@@ -229,11 +222,11 @@ yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.fr
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
