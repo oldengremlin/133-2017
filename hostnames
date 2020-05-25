@@ -7,7 +7,6 @@
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
@@ -19,6 +18,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -66,12 +66,10 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-02.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -117,6 +115,7 @@ gorlovka.today
 gtklnr.su
 ikrim.net
 ikstv.ru
+imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
@@ -140,10 +139,8 @@ kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
-kaspersky.ng
 kaspersky.nl
 kaspersky.ru
-kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -342,7 +339,6 @@ site.yandex.ua
 smdnr.ru
 softexport.yandex.net
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy.mob.maps.yandex.net
@@ -352,7 +348,6 @@ sprav.yandex.ua
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
@@ -382,6 +377,7 @@ tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -412,7 +408,6 @@ www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
-www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -443,11 +438,10 @@ yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx549482.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zakladki.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
