@@ -1,7 +1,8 @@
 18895.redirect.appmetrica.yandex.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 2216086.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 8o.vk.cc
@@ -13,7 +14,6 @@ api.browser.yandex.ru
 api.lbs.yandex.net
 api.lbs.yandex.ru
 api.vk.com
-arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 audience.yandex.ru
 audience.yandex.ua
@@ -47,16 +47,16 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
+dr.yandex.net
 ds.kaspersky.com
 export.yandex.ru
 favicon.yandex.net
 fotki.yandex.ru
 free.drweb.ru
 free.drweb.ua
-funding.webmoney.ru
 geocode-maps.yandex.ru
 imap.yandex.com
-informer.yandex.ru
+jstracer.yandex.ru
 kaspersky.ae
 kaspersky.be
 kaspersky.by
@@ -187,6 +187,7 @@ travel.yandex.ru
 tv.yandex.ru
 uniproxy.alice.yandex.net
 update.geo.drweb.com
+updater.mobile.yandex.net
 vk.cc
 vk.com
 vk.me
@@ -200,6 +201,7 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
@@ -225,12 +227,12 @@ yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxcc01d5dbc7de4925bdf07f33bd3dfd61.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zno.yandex.ua
