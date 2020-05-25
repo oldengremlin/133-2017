@@ -3,6 +3,7 @@
 19534.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 261020.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 8o.vk.cc
@@ -21,13 +22,11 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 bar-navig.yandex.ru
 beta.zen-test.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
-c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 cid.yandex.net
@@ -36,11 +35,9 @@ collections.yandex.ru
 craig.drweb.com
 delivery.yandex.ru
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
-dnl-01.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -60,8 +57,8 @@ free.drweb.ua
 geocode-maps.yandex.ru
 imap.yandex.com
 imap.yandex.ru
-im.vk.com
 informer.yandex.ru
+ipm-klca.kaspersky.com
 jstracer.yandex.ru
 kaspersky.ae
 kaspersky.be
@@ -79,12 +76,11 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
+kaspersky.ua
 kassa.yandex.ru
 keeper.webmoney.ru
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -96,8 +92,6 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
-matchid.adfox.yandex.ru
-matchid-production.adfox.yandex.ru
 mc.yandex.ru
 mc.yandex.ua
 metrika.yandex.ru
@@ -130,7 +124,6 @@ partner.yandex.ru
 partner.yandex.ua
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -145,7 +138,6 @@ passport.yandex.ua
 passport.yandex.uz
 pdd.yandex.ru
 portal-xiva.yandex.net
-pp.vk.me
 products.drweb.ru
 products.drweb.ua
 push.yandex.ru
@@ -156,6 +148,7 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 report.appmetrica.yandex.net
 rosenberg.appmetrica.yandex.net
 rusvesna.su
@@ -187,7 +180,6 @@ translate.yandex.by
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
-tv.yandex.ru
 tv.yandex.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
@@ -235,7 +227,6 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
-yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
