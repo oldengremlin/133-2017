@@ -1,5 +1,9 @@
+167360.redirect.appmetrica.yandex.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 261020.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 8o.vk.cc
 afisha.yandex.ru
@@ -13,7 +17,6 @@ api.vk.com
 arbitrage.webmoney.ua
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -26,6 +29,7 @@ browser.yandex.ua
 c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
+cid.yandex.net
 clck.yandex.ru
 collections.yandex.ru
 craig.drweb.com
@@ -35,7 +39,6 @@ disk.yandex.ru
 disk.yandex.ua
 dnl-01.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
@@ -46,6 +49,7 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
+dr.yandex.net
 ds.kaspersky.com
 export.yandex.ru
 favicon.yandex.net
@@ -77,13 +81,13 @@ kaspersky.ru
 kassa.yandex.ru
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
+ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
+light.webmoney.ru
 lvl3cdn-update.drweb.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -94,7 +98,6 @@ metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
-mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 money.yandex.ru
 music.yandex.by
@@ -137,7 +140,6 @@ portal-xiva.yandex.net
 pp.vk.me
 products.drweb.ru
 products.drweb.ua
-punto.yandex.ru
 push.yandex.ru
 rabota.yandex.ru
 rabota.yandex.ua
@@ -146,12 +148,8 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 report.appmetrica.yandex.net
 rusvesna.su
-s00.upd.kaspersky.com
-s02.upd.kaspersky.com
-s10.upd.kaspersky.com
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -159,7 +157,6 @@ sec.api.browser.yandex.ru
 site.yandex.ua
 softexport.yandex.net
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 spdy.mob.maps.yandex.net
 speechkit.yandex.ru
@@ -190,6 +187,7 @@ vkontakte.com
 vkontakte.ru
 webmaster.yandex.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -197,6 +195,8 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.ru
 www.vk.com
+www.yandex.com
+www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 yandex.az
