@@ -11,6 +11,7 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
+api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -24,6 +25,7 @@ bar-navig.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
+bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 clck.yandex.ru
@@ -34,6 +36,8 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnl-01.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -70,11 +74,13 @@ kaspersky.ma
 kaspersky.nl
 kaspersky.ru
 kassa.yandex.ru
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 livejournal.yandex.net
 lvl3cdn-update.drweb.com
@@ -174,10 +180,12 @@ telepay.webmoney.ru
 telephony.yandex.ru
 translate.yandex.by
 translate.yandex.kz
+translate.yandex.net
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
 tv.yandex.ru
+uniproxy.alice.yandex.net
 update.geo.drweb.com
 vk.cc
 vk.com
