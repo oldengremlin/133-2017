@@ -1,6 +1,5 @@
 130825.redirect.appmetrica.yandex.com
 137715.redirect.appmetrica.yandex.com
-167360.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 8o.vk.cc
 afisha.yandex.ru
@@ -10,12 +9,14 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api.vk.com
+arbitrage.webmoney.ru
 arbitrage.webmoney.ua
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
+banks.webmoney.ru
 bar-navig.yandex.ru
 beta.zen-test.yandex.ru
 brouser.yandex.ru
@@ -32,7 +33,6 @@ credit.webmoney.ru
 crls.yandex.net
 delivery.yandex.ru
 direct.yandex.ru
-direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnl-00.geo.kaspersky.com
@@ -68,6 +68,7 @@ geocode-maps.yandex.ru
 imap.yandex.com
 imap.yandex.ru
 ipm-klca.kaspersky.com
+jstracer.yandex.ru
 kaspersky.ae
 kaspersky.be
 kaspersky.by
@@ -90,12 +91,9 @@ kaspersky.nl
 kaspersky.pt
 kaspersky.ru
 kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
-ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-url.geoksn.kaspersky.com
 livejournal.yandex.net
 lvl3cdn-update.drweb.com
 mail.yandex.ru
@@ -111,7 +109,6 @@ metrika.yandex.ru
 metrika.yandex.ua
 metro.yandex.ru
 metro.yandex.ua
-mirror.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 money.yandex.ru
@@ -121,10 +118,10 @@ music.yandex.ru
 music.yandex.ua
 m.vk.com
 mx.yandex.net
-mx.yandex.ru
 news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
+oauth-rc.yandex.ru
 oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
@@ -136,6 +133,7 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
+passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -161,15 +159,14 @@ radio.yandex.ua
 rasp.yandex.ru
 rasp.yandex.ua
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 report.appmetrica.yandex.net
+rosenberg.appmetrica.yandex.net
 rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
 sec.api.browser.yandex.ru
-security.webmoney.ru
 site.yandex.net
 site.yandex.ua
 softexport.yandex.net
