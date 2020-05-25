@@ -1,10 +1,9 @@
 100kwt.com
-18895.redirect.appmetrica.yandex.com
+137715.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2216086.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -33,7 +32,6 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
-awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
@@ -53,9 +51,11 @@ c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
+cloud-api.yandex.net
 collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
+crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -69,6 +69,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-10.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -78,6 +79,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -87,6 +90,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -117,7 +121,6 @@ imap.yandex.com
 imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
-informer.yandex.ru
 inosmi.ru
 ipmcloud.kaspersky.com
 ipm-klca.kaspersky.com
@@ -152,6 +155,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 launcher-cache.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
@@ -200,6 +204,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mobile.yandex.net
@@ -245,7 +250,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -256,9 +260,12 @@ p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
 p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p05.upd.kaspersky.com
 p06.upd.kaspersky.com
 p07.upd.kaspersky.com
 p08.upd.kaspersky.com
+p09.upd.kaspersky.com
 p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
@@ -267,6 +274,7 @@ p14.upd.kaspersky.com
 p15.upd.kaspersky.com
 p16.upd.kaspersky.com
 p17.upd.kaspersky.com
+p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -274,7 +282,6 @@ partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -293,7 +300,6 @@ poehali.tv
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-punto.yandex.ru
 push.yandex.ru
 queuev4.vk.com
 rabota.yandex.ru
@@ -322,9 +328,6 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s00.upd.kaspersky.com
-s02.upd.kaspersky.com
-s10.upd.kaspersky.com
 s12.upd.kaspersky.com
 s18.upd.kaspersky.com
 sba.cdn.yandex.net
@@ -336,7 +339,6 @@ security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
 share.yandex.net
-site.yandex.net
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
@@ -394,6 +396,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -409,7 +412,6 @@ www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
-www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
 xml.yandex.ru
@@ -432,7 +434,6 @@ yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
-yandex.NET
 yandex.net
 yandex.ru
 yandex.st
@@ -441,7 +442,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-ysa-static.passport.yandex.ru
+yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
