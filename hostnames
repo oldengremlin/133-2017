@@ -1,9 +1,9 @@
 137715.redirect.appmetrica.yandex.com
 19531.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
-2216086.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 8o.vk.cc
 afisha.yandex.ru
 afisha.yandex.ua
@@ -11,20 +11,17 @@ an.yandex.ru
 api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
-api.lbs.yandex.ru
 api.vk.com
 arbitrage.webmoney.ua
 audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
-avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 bar-navig.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
-bs.yandex.ru
 calendar.yandex.ru
 cdn.yandex.net
 cid.yandex.net
@@ -36,9 +33,9 @@ delivery.yandex.ru
 direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
-dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
 dnl-03.geo.kaspersky.com
+dnl-04.geo.kaspersky.com
 dnl-05.geo.kaspersky.com
 dnl-19.geo.kaspersky.com
 dns.yandex.ru
@@ -78,6 +75,7 @@ kaspersky.ru
 kaspersky.ua
 kassa.yandex.ru
 ksn-a-p2p.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 livejournal.yandex.net
@@ -110,6 +108,7 @@ news.yandex.ua
 n.maps.yandex.ru
 oauth-rc.yandex.ru
 oauth.vk.com
+oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
 odnoklasniki.ua
@@ -173,7 +172,6 @@ translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
 tv.yandex.ua
-uniproxy.alice.yandex.net
 update.geo.drweb.com
 updater.mobile.yandex.net
 vk.cc
@@ -189,7 +187,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
