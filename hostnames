@@ -6,6 +6,7 @@
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
@@ -22,9 +23,9 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+an.yandex.ru.localdomain
 api.browser.yandex.net
 api.browser.yandex.ru
-api.lbs.yandex.net
 api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
@@ -35,6 +36,7 @@ audience.yandex.ua
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.net
 awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
@@ -47,16 +49,15 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
 bs.yandex.ru
 calendar.yandex.ru
 calls.vk.com
 cdn.yandex.net
 c-eho.info
-cid.yandex.net
 c-inform.info
 clck.yandex.ru
 collections.yandex.ru
+connect.mail.ru.localdomain
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -74,6 +75,8 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-03.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
+dnl-09.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -103,7 +106,6 @@ elmi.ua
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
-favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -158,10 +160,8 @@ ksn-crypto-wifiplus.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
-lbs-slb.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
@@ -224,6 +224,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.by
 music.yandex.com
 music.yandex.kz
 music.yandex.ru
@@ -235,7 +236,6 @@ m.vk.com
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
-news.drweb.com
 news-front.info
 news.yandex.ru
 news.yandex.ua
@@ -262,10 +262,21 @@ otr-online.ru
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
+p03.upd.kaspersky.com
+p04.upd.kaspersky.com
+p05.upd.kaspersky.com
+p06.upd.kaspersky.com
+p07.upd.kaspersky.com
+p08.upd.kaspersky.com
+p10.upd.kaspersky.com
 p11.upd.kaspersky.com
+p12.upd.kaspersky.com
 p13.upd.kaspersky.com
 p14.upd.kaspersky.com
+p15.upd.kaspersky.com
 p16.upd.kaspersky.com
+p18.upd.kaspersky.com
+p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -304,7 +315,6 @@ realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
 ren.tv
-report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -343,6 +353,7 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
+startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
@@ -370,6 +381,7 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
+tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
@@ -382,6 +394,7 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
+vk.com.localdomain
 vk.me
 vkontakte.com
 vkontakte.ru
@@ -405,8 +418,10 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
