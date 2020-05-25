@@ -1,6 +1,4 @@
 25378.redirect.appmetrica.yandex.com
-3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
 8o.vk.cc
 afisha.yandex.ru
 afisha.yandex.ua
@@ -22,6 +20,7 @@ beta.zen-test.yandex.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
+c1.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 clck.yandex.ru
@@ -34,7 +33,9 @@ disk.yandex.ru
 disk.yandex.ua
 dnl-01.geo.kaspersky.com
 dnl-02.geo.kaspersky.com
+dnl-03.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
+dnl-17.geo.kaspersky.com
 dns.yandex.ru
 dns.yandex.ua
 download.cdn.yandex.net
@@ -42,7 +43,6 @@ download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
-drweb.kz
 drweb.ru
 drweb.ua
 ds.kaspersky.com
@@ -53,6 +53,9 @@ free.drweb.ru
 free.drweb.ua
 geocode-maps.yandex.ru
 imap.yandex.com
+imap.yandex.ru
+im.vk.com
+informer.yandex.ru
 jstracer.yandex.ru
 kaspersky.ae
 kaspersky.be
@@ -63,16 +66,13 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.vn
 kassa.yandex.ru
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
@@ -99,6 +99,7 @@ metro.yandex.ua
 mobileproxy.passport.yandex.net
 mobile.yamobile.yandex.net
 money.yandex.ru
+music.yandex.by
 music.yandex.com
 music.yandex.kz
 music.yandex.ru
@@ -106,12 +107,10 @@ music.yandex.ua
 m.vk.com
 mx.yandex.net
 mx.yandex.ru
-news.drweb.com
 news.yandex.ru
 news.yandex.ua
 n.maps.yandex.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -156,7 +155,6 @@ s00.upd.kaspersky.com
 s02.upd.kaspersky.com
 s10.upd.kaspersky.com
 s17.upd.kaspersky.com
-sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -186,6 +184,7 @@ translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
+tv.yandex.ru
 uniproxy.alice.yandex.net
 update.geo.drweb.com
 vk.cc
@@ -201,7 +200,6 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.kz
 www.translate.yandex.ru
 www.vk.com
 xml.yandex.ru
@@ -232,8 +230,7 @@ yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
+zen.yandex.ua
 zno.yandex.ua
