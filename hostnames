@@ -15,6 +15,7 @@ admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -49,7 +50,6 @@ cid.yandex.net
 c-inform.info
 clck.yandex.ru
 collections.yandex.ru
-courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -65,7 +65,7 @@ disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-09.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
+dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
@@ -118,7 +118,6 @@ imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
-ipmcloud.kaspersky.com
 izpp.govdnr.ru
 kanal-o.ru
 karusel-tv.ru
@@ -127,6 +126,7 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
@@ -202,6 +202,7 @@ mirror.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -250,16 +251,14 @@ on-line.lg.ua
 otr-online.ru
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
+p02.upd.kaspersky.com
 p03.upd.kaspersky.com
-p04.upd.kaspersky.com
-p05.upd.kaspersky.com
 p06.upd.kaspersky.com
-p09.upd.kaspersky.com
-p10.upd.kaspersky.com
-p11.upd.kaspersky.com
-p15.upd.kaspersky.com
-p17.upd.kaspersky.com
-p18.upd.kaspersky.com
+p08.upd.kaspersky.com
+p13.upd.kaspersky.com
+p14.upd.kaspersky.com
+p16.upd.kaspersky.com
+p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -284,7 +283,6 @@ poehali.tv
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-proxy.mob.maps.yandex.net
 push.yandex.ru
 queuev4.vk.com
 rabota.yandex.ru
@@ -304,6 +302,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -313,7 +312,6 @@ russia.tv
 rusvesna.su
 s02.upd.kaspersky.com
 sba.cdn.yandex.net
-sba.yandex.net
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
@@ -322,6 +320,7 @@ site.yandex.ua
 smdnr.ru
 softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy.mob.maps.yandex.net
@@ -335,7 +334,6 @@ stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
 taxi.yandex.ua
-tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -343,7 +341,9 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+touch.kaspersky.com
 translate.yandex.by
+translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
 travel.yandex.ru
@@ -356,7 +356,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -420,8 +419,7 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
-yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
-zen.yandex.ru
 zno.yandex.ua
