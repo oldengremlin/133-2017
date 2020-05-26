@@ -26,7 +26,9 @@ allcrimea.net
 antimaydan.info
 an.yandex.ru
 an.yandex.ru.localdomain
+api.browser.yandex.net
 api.browser.yandex.ru
+api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.passport.yandex.ru
@@ -46,6 +48,7 @@ banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
 bar-navig.yandex.ru
+barracuda.yandex.net
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -69,6 +72,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+csp-report.stable.qloud-b.yandex.net
 csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -116,6 +120,8 @@ events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
 ext-strm-cogent09.strm.yandex.net
+ext-strm-kivretn16.strm.yandex.net
+ext-strm-level303.strm.yandex.net
 ext-strm-mskbeeline24.strm.yandex.net
 ext-strm-telia17.strm.yandex.net
 favicon.yandex.net
@@ -191,6 +197,7 @@ ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
+livejournal.yandex.net
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -202,6 +209,7 @@ mail12.yandex.net
 mail2.yandex.net
 mailbox.yandex.net
 mailrelay.yandex.net
+mailsrv.yandex.net
 mail.wmid.com
 mail.yandex.net
 mail.yandex.ru
@@ -212,6 +220,7 @@ market-click2.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+mbox.yandex.net
 mchs-lnr.su
 mc.yandex.md
 mc.yandex.ru
@@ -281,6 +290,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns3.yandex.ru
+ns4.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -314,6 +325,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
+poczta.yandex.net
 poehali.tv
 portal-xiva.yandex.net
 postmaster.yandex.net
@@ -351,13 +363,17 @@ rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 sec.api.browser.yandex.ua
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
+share.yandex.net
+share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+smtp2.yandex.net
 sniper.yandex.net
 softexport.yandex.net
 soft.export.yandex.ru
@@ -380,6 +396,10 @@ static.yandex.net
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
+storage.ape.yandex.net
+streaming.cdn.yandex.net
+strm-mskstoredata10.strm.yandex.net
+strm-rad14.strm.yandex.net
 strm-rad20.strm.yandex.net
 strm.yandex.ru
 suggest.yandex.com
@@ -455,6 +475,7 @@ xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yabs.yandex.ru
+yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
 yandex.az
@@ -481,8 +502,10 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.by
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.kz
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lt
 yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.lv
+yxf1f4d73d7ae24365a64c6d855f090b4f.oauth.yandex.uz
 yxf6ba541f65084e688107879721631a65.oauth-rc.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
