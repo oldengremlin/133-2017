@@ -1,5 +1,6 @@
 100kwt.com
 10180.redirect.appmetrica.yandex.com
+130825.redirect.appmetrica.yandex.com
 19531.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
 1prime.ru
@@ -8,13 +9,16 @@
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
+30488.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
 8o.vk.cc
+97600.redirect.appmetrica.yandex.com
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -45,6 +49,7 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+bs-meta.yandex.ru
 bs.yandex.ru
 c1.dev.drweb.com
 calendar.yandex.ru
@@ -61,6 +66,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
+crls.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -75,7 +81,6 @@ dnl-10.geo.kaspersky.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -95,7 +100,6 @@ download.cdn.yandex.net
 download.drweb.com
 download.drweb.ru
 download.drweb.ua
-downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.com
@@ -106,7 +110,6 @@ drweb.ua
 ds.kaspersky.com
 eizvestia.com
 elmi.ua
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -122,6 +125,7 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
+grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -191,7 +195,6 @@ market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -264,24 +267,18 @@ on-line.lg.ua
 otr-online.ru
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
-p02.upd.kaspersky.com
 p03.upd.kaspersky.com
 p04.upd.kaspersky.com
 p05.upd.kaspersky.com
 p06.upd.kaspersky.com
 p07.upd.kaspersky.com
-p08.upd.kaspersky.com
 p09.upd.kaspersky.com
 p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
-p13.upd.kaspersky.com
-p14.upd.kaspersky.com
 p15.upd.kaspersky.com
-p16.upd.kaspersky.com
 p17.upd.kaspersky.com
 p18.upd.kaspersky.com
-p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -338,7 +335,6 @@ russia.tv
 rusvesna.su
 sba.cdn.yandex.net
 sba.yandex.net
-sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
@@ -357,12 +353,11 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static.vk.com
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 suggest.yandex.net
 suggest.yandex.ru
 taxi.yandex.ru
@@ -423,6 +418,7 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.com
 www.translate.yandex.kz
+www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
 www.yandex.ru
@@ -462,4 +458,5 @@ yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
+zen.yandex.ua
 zno.yandex.ua
