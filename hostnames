@@ -8,7 +8,9 @@
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5-tv.ru
+634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
@@ -44,13 +46,14 @@ banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
 bar-navig.yandex.ru
-beta.zen-test.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+c2.dev.drweb.com
+c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -67,6 +70,7 @@ crimea.gov.ru
 crimea.ria.ru
 crossdist.yandex.net
 cryprox.yandex.net
+cs629427.vk.me
 csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
@@ -76,7 +80,6 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-02.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
 dnl-15.geo.kaspersky.com
 dnmchs.ru
@@ -136,6 +139,7 @@ im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -165,10 +169,10 @@ komtv.org
 ksn-info.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
+ksn-verdict.geoksn.kaspersky.com
 lbs-slb.mobile.yandex.net
 light.webmoney.ru
 light.wmtransfer.com
-livejournal.yandex.net
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -176,12 +180,11 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail2.yandex.net
+mail10.yandex.net
 mail3.yandex.ru
 mail4.yandex.net
 mail5.yandex.net
 mail6.yandex.net
-mails.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -240,7 +243,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx01.yandex.net
 mx4.yandex.net
 mx.yandex.net
 mx.yandex.ru
@@ -268,8 +270,6 @@ odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
 out.yandex.net
-p03.upd.kaspersky.com
-p14.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -277,7 +277,6 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
-passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -327,7 +326,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s10.upd.kaspersky.com
+s3.yandex.net
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
@@ -342,7 +341,6 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtp.mail.yandex.ru
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
@@ -406,7 +404,6 @@ webmail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -454,15 +451,13 @@ yandex.tj
 yandex.tm
 yandex.ua
 yandex.uz
+yastroka.yandex.net
 yx14ed6e6cf12743d0945c369c76dbfb92.oauth.yandex.ru
-yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
-yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
-zakladki.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
