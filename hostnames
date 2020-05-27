@@ -6,7 +6,6 @@
 25378.redirect.appmetrica.yandex.com
 29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -26,7 +25,6 @@ api.browser.yandex.ua
 api.lbs.yandex.net
 api-maps.yandex.ru
 api.music.yandex.net
-api.passport.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -44,6 +42,7 @@ banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
 bar-navig.yandex.ru
+barracuda.yandex.net
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
@@ -56,14 +55,13 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crls.yandex.net
-crls.yandex.ru
 crossdist.yandex.net
 cs628326.vk.me
 cs630423.vk.me
@@ -77,8 +75,9 @@ disk.yandex.ua
 dnipress.com
 dnl-02.geo.kaspersky.com
 dnl-04.geo.kaspersky.com
+dnl-05.geo.kaspersky.com
 dnl-06.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
+dnl-08.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
@@ -89,6 +88,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -98,6 +99,7 @@ donbass.media
 download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
+downloads.upd.kaspersky.com
 download.yandex.ru
 drweb.cn
 drweb.ru
@@ -164,14 +166,11 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 kp.cdn.yandex.net
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
@@ -183,13 +182,10 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail6.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
-maps.yandex.com
 maps.yandex.ru
-maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
@@ -221,6 +217,7 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
+mirror.yandex.ru
 mobile.navi.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
@@ -238,6 +235,7 @@ multvkino.tlum.ru
 music.yandex.by
 music.yandex.com
 music.yandex.kz
+music.yandex.ru
 music.yandex.ua
 muz1.tv
 mvddnr.ru
@@ -257,10 +255,13 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.net
+ns2.yandex.net
 nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
@@ -268,6 +269,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+outmail.yandex.ru
 p00.upd.kaspersky.com
 p01.upd.kaspersky.com
 p02.upd.kaspersky.com
@@ -277,6 +279,7 @@ p05.upd.kaspersky.com
 p06.upd.kaspersky.com
 p07.upd.kaspersky.com
 p08.upd.kaspersky.com
+p09.upd.kaspersky.com
 p10.upd.kaspersky.com
 p11.upd.kaspersky.com
 p12.upd.kaspersky.com
@@ -284,6 +287,8 @@ p13.upd.kaspersky.com
 p14.upd.kaspersky.com
 p15.upd.kaspersky.com
 p16.upd.kaspersky.com
+p17.upd.kaspersky.com
+p18.upd.kaspersky.com
 p19.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
@@ -321,12 +326,12 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 remote.yandex.net
 ren.tv
 report.appmetrica.yandex.NET
 reporter-crimea.ru
 republic-tv.ru
+resize.yandex.net
 rian.com.ua
 riarating.ru
 ria.ru
@@ -338,6 +343,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -349,7 +355,6 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 sniper.kaspersky.com
-softexport.yandex.NET
 softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.http.yandex.ru
@@ -366,6 +371,7 @@ static-mon.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 st.kp.yandex.net
+storage.ape.yandex.net
 storage.mds.yandex.net
 tapoc.trbo.yandex.net
 taxi.yandex.ru
@@ -394,6 +400,7 @@ tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
+updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -448,7 +455,6 @@ yandex.lt
 yandex.lv
 yandex.md
 yandexnavi.s3.yandex.net
-yandex.NET
 yandex.net
 yandex.ru
 yandex.st
