@@ -1,13 +1,14 @@
 100kwt.com
 167360.redirect.appmetrica.yandex.com
-19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
 1tvcrimea.ru
 25378.redirect.appmetrica.yandex.com
+2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
+40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -20,7 +21,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.lbs.yandex.net
 api-maps.yandex.ru
@@ -50,6 +50,7 @@ brttv.ru
 bs.yandex.ru
 calendar.yandex.ru
 calls.vk.com
+calls.vk.com.linksys
 cdn.yandex.net
 c-eho.info
 c-inform.info
@@ -63,7 +64,6 @@ crimea.gov.ru
 crimea.ria.ru
 crls.yandex.net
 crossdist.yandex.net
-cs301312.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -192,6 +192,7 @@ ksn-stat.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
+login.vk.com
 login.wmtransfer.com
 lug24.ru
 lugansk1.info
@@ -201,9 +202,9 @@ lug-info.com
 lvl3cdn-update.drweb.com
 mail02.yandex.net
 mail3.yandex.net
-mailbox.yandex.net
+mail4.yandex.net
+mail5.yandex.net
 mail.wmid.com
-mailx.yandex.net
 mail.yandex.com
 mail.yandex.ru
 mail.yandex.ua
@@ -244,7 +245,6 @@ m.market.yandex.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -278,6 +278,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -313,6 +315,7 @@ pdd.yandex.ru
 poehali.tv
 pop.yandex.com
 pp.vk.me
+prd.geo.kaspersky.com
 products.drweb.com
 products.drweb.ru
 products.drweb.ua
@@ -328,7 +331,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -344,6 +346,8 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s3.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
@@ -357,16 +361,16 @@ smtp1.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
+spam.yandex.net
 spdy3.mob.maps.yandex.net
-spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
-startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
+storage.mds.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -392,6 +396,7 @@ tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
+uniproxy.alice.yandex.net
 update.geo.drweb.com
 updater.mobile.yandex.net
 uptime-info.yandex.ru
@@ -428,6 +433,7 @@ www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -457,6 +463,7 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
