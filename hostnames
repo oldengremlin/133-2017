@@ -37,7 +37,6 @@ audience.yandex.ru
 audience.yandex.ua
 autorenew.drweb.com
 avatars.mds.yandex.net
-avatars.yandex.net
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -52,7 +51,6 @@ browser-api.store.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
@@ -61,12 +59,10 @@ cid.yandex.NET
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 collections.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
-crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -132,8 +128,10 @@ events.wmtransfer.com
 exchanger.ru
 exchange.yandex.net
 export.yandex.ru
+ext-strm-mskbeeline03.strm.yandex.net
 ext-strm-mskbeeline04.strm.yandex.net
 ext-strm-stdbeeline02.strm.yandex.net
+ext-strm-stdbeeline12.strm.yandex.net
 favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
@@ -150,7 +148,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 inosmi.ru
@@ -188,6 +185,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -238,7 +236,6 @@ mintek-dnr.ru
 mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
-mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
 mondnr.ru
@@ -279,7 +276,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -307,7 +303,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-posta.yandex.net
 postmaster.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
@@ -325,6 +320,7 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
+relay2.yandex.ru
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -344,12 +340,12 @@ rusvesna.su
 s00.upd.kaspersky.com
 s02.upd.kaspersky.com
 s10.upd.kaspersky.com
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
-server2.yandex.net
 sevastopol.press
 site.yandex.net
 site.yandex.ua
@@ -367,12 +363,12 @@ sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
-static.vk.com
 static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.mds.yandex.net
 streaming.cdn.yandex.net
+strm-mskmar09.strm.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -463,6 +459,7 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
