@@ -1,4 +1,5 @@
 100kwt.com
+10180.redirect.appmetrica.yandex.com
 18895.redirect.appmetrica.yandex.com
 19531.redirect.appmetrica.yandex.com
 19534.redirect.appmetrica.yandex.com
@@ -37,7 +38,6 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
-autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -62,7 +62,7 @@ cid.yandex.net
 c-inform.info
 clck.yandex.ru
 cloud-api.yandex.net
-collections.yandex.ru
+courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
 credit.webmoney.ru
@@ -72,7 +72,6 @@ crimea.ria.ru
 crls.yandex.net
 crls.yandex.ru
 crossdist.yandex.net
-cs622124.vk.me
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -92,8 +91,6 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
-dns1.yandex.net
-dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -109,8 +106,10 @@ drweb.ru
 drweb.ua
 dr.yandex.net
 ds.kaspersky.com
+eemea.refresh-bkg.activation-v2.kaspersky.com
 eizvestia.com
 elmi.ua
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -127,7 +126,6 @@ geocode-maps.yandex.ru
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
-grade.market.yandex.ru
 gtklnr.su
 ikrim.net
 ikstv.ru
@@ -165,7 +163,6 @@ kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
-ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
@@ -179,6 +176,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
+mailgate.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -190,7 +188,6 @@ market.yandex.ua
 matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
-mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -265,7 +262,6 @@ nts-tv.com
 ntvplus.ru
 ntv.ru
 oauth-rc.yandex.ru
-oauth.vk.com
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -294,6 +290,7 @@ passport.yandex.ua
 passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
+poczta.yandex.net
 poehali.tv
 products.drweb.ru
 products.drweb.ua
@@ -335,11 +332,14 @@ security.wmtransfer.com
 server.yandex.net
 sevastopol.press
 share.yandex.net
+share.yandex.ru
 site.yandex.NET
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy.mob.maps.yandex.net
@@ -348,8 +348,8 @@ sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
 startup.mobile.private.voice.yandex.net
-startup.mobile.yandex.NET
 startup.mobile.yandex.net
+static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
@@ -365,6 +365,7 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
+translate.yandex.com
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -379,6 +380,7 @@ tvzvezda.ru
 ubp.com.ua
 uniproxy.alice.yandex.net
 update.geo.drweb.com
+uptime-info.yandex.ru
 vesti.ru
 vgtrk.com
 vk.cc
@@ -391,6 +393,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -405,10 +408,12 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.com
 www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
+www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -439,12 +444,14 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
+ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
-yx549482.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
+zen.yandex.com
 zen.yandex.ru
+zen.yandex.ua
 zno.yandex.ua
