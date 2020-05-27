@@ -27,6 +27,7 @@ an.yandex.ru
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
+api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -37,28 +38,27 @@ autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
+awaps.yandex.ru
 banking.gdcert.com
 banking.guarantee.ru
 banking.wmeuro.eu
 banks.webmoney.ru
 bar-navig.yandex.ru
-barracuda.yandex.net
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
+c2.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
-collections.yandex.ru
 c-pravda.ru
 craig.drweb.com
-crash-reports.browser.yandex.net
 credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
@@ -112,6 +112,7 @@ gateway.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
+geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -155,9 +156,7 @@ ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
-ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -170,9 +169,8 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail1.yandex.net
-mailbox.yandex.net
-mailserver.yandex.net
+mail4.yandex.net
+mail8.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -180,6 +178,7 @@ maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -231,6 +230,7 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
+mx2.yandex.ru
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -246,7 +246,6 @@ novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
 ns1.yandex.net
-ns1.yandex.ru
 ns2.yandex.net
 ns2.yandex.ru
 ns3.yandex.ru
@@ -255,6 +254,7 @@ nslnr.su
 nts-tv.com
 ntvplus.ru
 ntv.ru
+oauth-rc.yandex.ru
 oauth.yandex.ru
 odnoklasniki.kz
 odnoklasniki.ru
@@ -266,6 +266,9 @@ p03.upd.kaspersky.com
 p06.upd.kaspersky.com
 p07.upd.kaspersky.com
 p09.upd.kaspersky.com
+p13.upd.kaspersky.com
+p14.upd.kaspersky.com
+p16.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -319,6 +322,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s3.yandex.net
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
@@ -330,12 +334,9 @@ share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
-smtpauth.yandex.net
-smtpauth.yandex.ru
 smtp.comune.yandex.net
 smtps.yandex.net
 smtp.yandex.com
-softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -349,7 +350,6 @@ startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -361,7 +361,6 @@ tk-union.tv
 tnt-online.ru
 touch.kaspersky.com
 translate.yandex.by
-translate.yandex.fr
 translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
@@ -373,7 +372,6 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
@@ -387,6 +385,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webasr.yandex.net
 webmail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
