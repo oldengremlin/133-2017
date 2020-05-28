@@ -23,6 +23,7 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
+api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
@@ -32,6 +33,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avatars.mds.yandex.net
 avia.yandex.ru
 avia.yandex.ua
@@ -114,15 +116,14 @@ download.yandex.ru
 drweb.cn
 drweb.com
 drweb.fr
-drweb.kz
 drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
-eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
+favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
@@ -139,7 +140,6 @@ gtklnr.su
 host.yandex.net
 ikrim.net
 ikstv.ru
-imap.yandex.net
 imap.yandex.ru
 i-mult.tlum.ru
 inosmi.ru
@@ -158,20 +158,14 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
-kaspersky.fi
 kaspersky.fr
-kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
 kaspersky.ng
 kaspersky.nl
-kaspersky.pt
-kaspersky.ro
 kaspersky.ru
-kaspersky.se
-kaspersky.ua
 kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
@@ -187,7 +181,6 @@ ksn-dc1.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
-ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -258,7 +251,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx10.yandex.net
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -307,7 +299,6 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -339,6 +330,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 sba.cdn.yandex.net
+sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -348,6 +340,7 @@ share.yandex.ru
 site.yandex.ua
 smdnr.ru
 smtp01.yandex.net
+smtpseguro.yandex.net
 softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -362,6 +355,7 @@ startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
+storage.mds.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tech.yandex.ru
@@ -388,7 +382,6 @@ tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -401,6 +394,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -415,11 +409,10 @@ www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
+www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
-www.webmoney.ru
-www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -457,5 +450,4 @@ yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
 yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ua
-zimbra.yandex.net
 zno.yandex.ua
