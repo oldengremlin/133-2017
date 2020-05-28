@@ -48,8 +48,9 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
-bs.yandex.ru
+c1.dev.drweb.com
+cache-mskm904.cdn.yandex.net
+cache-mskm907.cdn.yandex.net
 calendar.yandex.ru
 calls.vk.com
 cdn.yandex.NET
@@ -57,6 +58,7 @@ cdn.yandex.net
 c-eho.info
 c-inform.info
 clck.yandex.ru
+collections.yandex.ru
 common-public.stable.qloud-b.yandex.net
 company.yandex.ru
 courier.online.yandex.net
@@ -73,6 +75,8 @@ cs620321.vk.me
 cs7004.vk.me
 csp.yandex.net
 dan-news.info
+d.aws-proxy.disk.yandex.net
+d.aws-proxy.disk.yandex.ua
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
@@ -130,6 +134,7 @@ ikstv.ru
 im0-tub-fr.yandex.net
 im2-tub-com.yandex.net
 imap.yandex.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 informer.yandex.ru
@@ -161,7 +166,7 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-kp.cdn.yandex.net
+ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
@@ -172,7 +177,6 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail01.yandex.net
 mail5.yandex.net
 mail.wmid.com
 mail.yandex.ru
@@ -186,6 +190,7 @@ matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mbox.yandex.net
 mchs-lnr.su
+mc.yandex.md
 mc.yandex.ru
 mc.yandex.ua
 merchant.webmoney.ru
@@ -250,6 +255,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.vkontakte.ru
+ns2.vkontakte.ru
 ns2.yandex.net
 nslnr.su
 nts-tv.com
@@ -352,7 +359,6 @@ static-mon.yandex.net
 static.yandex.sx
 stat.yandex.ru
 stat.yandex.ua
-st.kp.yandex.net
 storage.ape.yandex.net
 storage.mds.yandex.net
 suggest-maps.yandex.net
@@ -381,7 +387,6 @@ tvzvezda.ru
 ubp.com.ua
 uk.zen.yandex.com
 update.geo.drweb.com
-uptime-info.yandex.ru
 vec.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
@@ -391,12 +396,12 @@ vk.com
 vk.me
 vkontakte.com
 vkontakte.ru
+voiceservices.yandex.net
 vremya.tv
 wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -413,7 +418,9 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
+www.translate.yandex.ua
 www.vk.com
+www.webmoney.ru
 www.yandex.com
 www.yandex.fr
 www.yandex.ru
@@ -446,11 +453,14 @@ yandex.tm
 yandex.ua
 yandex.uz
 yastroka.yandex.net
-ysa-static.passport.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx549482.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth-rc.yandex.ru
+yxf8cab64f154b4c8e96f92dac8becfcaa.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.fr
 zen.yandex.ru
