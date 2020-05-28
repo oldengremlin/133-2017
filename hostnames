@@ -5,6 +5,8 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+25378.redirect.appmetrica.yandex.com
+29733.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -49,8 +51,6 @@ cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
-clck.yandex.ru
-cloud-api.yandex.net
 collections.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
@@ -89,7 +89,6 @@ domkino-premium.tv
 domkino.tv
 dommintrans.ru
 donbass.media
-download.cdn.yandex.net
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
@@ -98,6 +97,7 @@ drweb.ru
 drweb.ua
 eizvestia.com
 elmi.ua
+eu.refresh-bkg.activation-v2.kaspersky.com
 events.wmtransfer.com
 exchanger.ru
 export.yandex.ru
@@ -117,9 +117,9 @@ ikrim.net
 ikstv.ru
 imap.yandex.ru
 i-mult.tlum.ru
-im.vk.com
 informer.yandex.ru
 inosmi.ru
+ipm-klca.kaspersky.com
 izpp.govdnr.ru
 jstracer.yandex.ru
 kanal-o.ru
@@ -140,7 +140,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -148,14 +147,11 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
 ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
 livejournal.yandex.net
@@ -165,7 +161,6 @@ lugansk1.info
 lugansk-online.su
 lugansk.site
 lug-info.com
-lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -175,6 +170,7 @@ maps.yandex.ua
 market.yandex.ru
 market.yandex.ua
 matchid.adfox.yandex.ru
+matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 merchant.webmoney.ru
@@ -204,7 +200,6 @@ minzdrav.govdnr.ru
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
-mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -239,8 +234,6 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
-ns1.yandex.ru
-ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -275,9 +268,7 @@ poehali.tv
 products.drweb.ru
 products.drweb.ua
 promedia.ru
-ps.vk.com
 push.yandex.ru
-pu.vk.com
 queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
@@ -297,6 +288,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -304,6 +296,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
 security.webmoney.ru
@@ -324,7 +317,6 @@ sprav.yandex.ua
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
@@ -347,13 +339,10 @@ trk-luch.ru
 trkmillet.ru
 tsiklnr.su
 tvkultura.ru
-tv.yandex.ru
 tv.yandex.ua
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-vec.maps.yandex.net
-vec.map.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
