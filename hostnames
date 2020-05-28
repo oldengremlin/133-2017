@@ -8,7 +8,6 @@
 34381.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
-4.redirect.appmetrica.yandex.com
 5-tv.ru
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
@@ -22,7 +21,6 @@ agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
 an.yandex.ru
-api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.disk.yandex.net
@@ -64,6 +62,8 @@ c-eho.info
 c-inform.info
 clck.yandex.ru
 cloud-api.yandex.ru
+collections.yandex.ru
+collections.yandex.ua
 core-nmaps-mrc-browser.maps.yandex.net
 core-nmaps-mrc-browser.maps.yandex.ru
 courier.online.yandex.net
@@ -77,13 +77,13 @@ crimea.ria.ru
 crls.yandex.net
 crls.yandex.ru
 crossdist.yandex.net
-cs624922.vk.me
 csp.yandex.net
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -98,6 +98,8 @@ dnr-live.ru
 dnr-news.com
 dnr-online.ru
 dnr-pravda.ru
+dns1.yandex.net
+dns2.yandex.net
 dns.yandex.ru
 dns.yandex.ua
 domkino-premium.tv
@@ -105,10 +107,13 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
+download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.com
+drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -125,6 +130,7 @@ favicon.yandex.net
 fgi-lnr.su
 files.wmtransfer.com
 fotki.yandex.ru
+free.drweb.com
 free.drweb.ru
 free.drweb.ua
 frontend.vh.yandex.ru
@@ -144,6 +150,7 @@ im.vk.com
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
+jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -156,14 +163,20 @@ kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
 kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -171,10 +184,12 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-stat.geoksn.kaspersky.com
+ksn-a-p2p.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-ds.geoksn.kaspersky.com
+ksn-file.geoksn.kaspersky.com
 ksn-ipm.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 lbs-slb.mobile.yandex.net
@@ -189,6 +204,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
+mail10.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -229,7 +245,9 @@ mintop.su
 mintrudlnr.su
 minzdrav.govdnr.ru
 mirror.yandex.ru
+mobileproxy.passport.yandex.net
 mobile.vgtrk.com
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -319,7 +337,6 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
-redirect.appmetrica.yandex.com
 redirect.kaspersky.com
 ren.tv
 report.appmetrica.yandex.net
@@ -337,6 +354,7 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 searchlib.yandex.net
@@ -350,8 +368,8 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtp.yandex.ua
-softexport.yandex.NET
 soft.export.yandex.ru
+sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy.mob.maps.yandex.net
@@ -359,8 +377,8 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
-startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
+statchecker.yandex.ru
 static-mon.yandex.net
 static-pano.maps.yandex.ru
 static.yandex.net
@@ -373,6 +391,8 @@ strm-kiv17.strm.yandex.net
 strm-mskm917.strm.yandex.net
 strm-rad18.strm.yandex.net
 strm.yandex.ru
+suggest.yandex.net
+suggest.yandex.ru
 taxi-promotions.s3.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
@@ -405,6 +425,7 @@ vec04.maps.yandex.net
 vec.map.yandex.net
 vesti.ru
 vgtrk.com
+video-preview.s3.yandex.net
 vk.cc
 vk.com
 vk.me
@@ -412,7 +433,6 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
-webmail.yandex.net
 webmaster.yandex.ru
 web-metrica.yandex.ru
 webmoney.ru
@@ -426,6 +446,7 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
@@ -435,7 +456,6 @@ www.translate.yandex.kz
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
-www.yandex.com
 www.yandex.ru
 xml.yandex.ru
 xml.yandex.ua
@@ -445,6 +465,7 @@ xn----dtbrg3ale.xn--p1ai
 xn----dtbrg3ale.xn--xnp1ai-4g0c
 xn--mstk-53d0gyhb.su
 yabs.yandex.ru
+yabs.yandex.ua
 yalta-tv.ru
 yaltatv.ru
 yandex.az
