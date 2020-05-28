@@ -6,17 +6,18 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-25378.redirect.appmetrica.yandex.com
-29733.redirect.appmetrica.yandex.com
-2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
+3.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5-tv.ru
+634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
 afisha.yandex.ua
+aflt.market.yandex.ru
 agroprom.msdnr.ru
 allcrimea.net
 antimaydan.info
@@ -51,7 +52,6 @@ browser.yandex.ru
 browser.yandex.ua
 brttv.ru
 bs.yandex.ru
-c2.dev.drweb.com
 cache-mskm903.cdn.yandex.net
 calendar.yandex.ru
 calls.vk.com
@@ -59,7 +59,10 @@ cdn.yandex.net
 c-eho.info
 cid.yandex.net
 c-inform.info
+clck.yandex.ru
 cloud-api.yandex.net
+connect.mail.ru.localdomain
+connect.ok.ru.localdomain
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -76,9 +79,9 @@ direct.yandex.ru
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
-dnl-06.geo.kaspersky.com
 dnl-09.geo.kaspersky.com
 dnl-13.geo.kaspersky.com
+dnl-15.geo.kaspersky.com
 dnmchs.ru
 dnr24.com
 dnr24.su
@@ -124,9 +127,9 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 im0-tub-ua.yandex.net
-im7-tub.yandex.net
 imap.yandex.net
 imap.yandex.ru
+img-fotki.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
@@ -179,6 +182,7 @@ lvl3cdn-update.drweb.com
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
+maps.yandex.com
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
@@ -186,6 +190,7 @@ matchid.adfox.yandex.ru
 matchid-production.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
+mc.yandex.ru.localdomain
 mc.yandex.ua
 merchant.webmoney.ru
 merchant.wmtransfer.com
@@ -226,7 +231,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -259,8 +263,7 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
-p02.upd.kaspersky.com
-p08.upd.kaspersky.com
+p00.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
@@ -297,6 +300,8 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.geo.kaspersky.com
+redirect.kaspersky.com
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
@@ -305,6 +310,7 @@ rian.com.ua
 riarating.ru
 ria.ru
 rk.gov.ru
+rosenberg.appmetrica.yandex.net
 rsport.ria.ru
 rst-dnr.ru
 rtr-planeta.com
@@ -315,10 +321,12 @@ rusvesna.su
 s3.yandex.net
 sba.yandex.net
 sdk.vk.com
+sec.api.browser.yandex.ru
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
-share.yandex.ru
+share.yandex.net
+site.yandex.net
 site.yandex.ua
 smdnr.ru
 softexport.yandex.net
@@ -365,6 +373,7 @@ vesti.ru
 vgtrk.com
 vk.cc
 vk.com
+vk.com.localdomain
 vk.me
 vkontakte.com
 vkontakte.ru
@@ -426,7 +435,9 @@ yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
 yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+zakladki.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
+zimbra.yandex.net
 zno.yandex.ua
