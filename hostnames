@@ -9,7 +9,6 @@
 2216086.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -53,6 +52,7 @@ c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
+collections.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
 craig.drweb.com
@@ -65,6 +65,7 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
@@ -165,11 +166,9 @@ kianews24.ru
 kianews.com.ua
 komtv.org
 ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
-ksn-kas.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -267,13 +266,13 @@ odnoklasniki.ru
 odnoklasniki.ua
 on-line.lg.ua
 otr-online.ru
+p14.upd.kaspersky.com
 partner2.yandex.ru
 partner.yandex.ru
 partner.yandex.ua
 passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
-passport.yandex.com
 passport.yandex.ee
 passport.yandex.fr
 passport.yandex.kg
@@ -321,8 +320,7 @@ russian.oplot.tv
 russia.tv
 rusvesna.su
 s00.upd.kaspersky.com
-s02.upd.kaspersky.com
-s10.upd.kaspersky.com
+sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 sec.api.browser.yandex.ru
@@ -332,7 +330,9 @@ sevastopol.press
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+smtp.comune.yandex.net
 smtpseguro.yandex.net
+softexport.yandex.NET
 softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -346,7 +346,6 @@ startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 stat.yandex.ru
 stat.yandex.ua
-storage.mds.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
 tc.mobile.yandex.net
