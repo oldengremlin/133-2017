@@ -7,12 +7,10 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
-2216086.redirect.appmetrica.yandex.com
 25378.redirect.appmetrica.yandex.com
 2.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
 82.fskn.ru
@@ -30,7 +28,6 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -50,13 +47,12 @@ bar-navig.yandex.ru
 bizdnr.ru
 bober-tv.ru
 brouser.yandex.ru
-browser-updater.yandex.net
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs-metadsp.yandex.ru
+bs.yandex.ru
 c1.dev.drweb.com
-c6.dev.drweb.com
+c2.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
 c-eho.info
@@ -71,7 +67,6 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-crl.kaspersky.com
 crls.yandex.net
 crls.yandex.ru
 cryprox.yandex.net
@@ -125,7 +120,6 @@ download.yandex.ru
 drweb.cn
 drweb.ru
 drweb.ua
-ds.kaspersky.com
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -141,7 +135,6 @@ gate.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
-geointernal.mob.maps.yandex.net
 gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
@@ -149,6 +142,7 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
+imap.yandex.net
 imap.yandex.ru
 i-mult.tlum.ru
 informer.yandex.ru
@@ -174,7 +168,6 @@ kaspersky.kz
 kaspersky.ma
 kaspersky.nl
 kaspersky.ru
-kaspersky.ua
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -187,6 +180,7 @@ ksn-a-stat.geoksn.kaspersky.com
 ksn-file.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-tcert.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -199,7 +193,9 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
+mail1.yandex.net
 mail3.yandex.net
+mail8.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -216,6 +212,7 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
+metro.yandex.by
 metro.yandex.com
 metro.yandex.ru
 metro.yandex.ua
@@ -241,6 +238,7 @@ mobile.music.yandex.net
 mobileproxy.passport.yandex.net
 mobile.vgtrk.com
 mobile.yamobile.yandex.net
+mobile.yandex.net
 mondnr.ru
 money.yandex.ru
 mprlnr.su
@@ -260,7 +258,6 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx01.yandex.net
 mx.yandex.net
 mx.yandex.ru
 nashe.ru
@@ -308,6 +305,7 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
+postmaster.yandex.net
 prd.geo.kaspersky.com
 products.drweb.ru
 products.drweb.ua
@@ -341,7 +339,6 @@ russia.tv
 rusvesna.su
 s00.upd.kaspersky.com
 s02.upd.kaspersky.com
-sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
 security.webmoney.ru
@@ -351,6 +348,7 @@ share.yandex.ru
 site.yandex.net
 site.yandex.ua
 smdnr.ru
+softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
@@ -360,6 +358,7 @@ sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
 srv.yandex.net
+startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
 static-mon.yandex.net
@@ -377,6 +376,7 @@ tk-union.tv
 tnt-online.ru
 translate.yandex.by
 translate.yandex.com
+translate.yandex.fr
 translate.yandex.kz
 translate.yandex.net
 translate.yandex.ru
@@ -403,6 +403,7 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
+wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
@@ -419,7 +420,6 @@ www.kaspersky.ru
 www.kaspersky.ua
 www.translate.yandex.kz
 www.translate.yandex.ru
-www.translate.yandex.ua
 www.vk.com
 www.yandex.com
 www.yandex.ru
