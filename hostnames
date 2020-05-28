@@ -24,7 +24,6 @@ antimaydan.info
 an.yandex.ru
 api.browser.yandex.ru
 api.lbs.yandex.net
-api-maps.yandex.ru
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -53,7 +52,6 @@ c-eho.info
 cid.yandex.net
 c-inform.info
 clck.yandex.ru
-cloud-api.yandex.net
 collections.yandex.ru
 courier.online.yandex.net
 c-pravda.ru
@@ -71,13 +69,13 @@ debt.wmtransfer.com
 delivery.yandex.ru
 digitalrussia.tv
 direct.yandex.ru
+direct.yandex.ua
 disk.yandex.ru
 disk.yandex.ua
 dnipress.com
 dnl-11.geo.kaspersky.com
 dnl-12.geo.kaspersky.com
 dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
 dnl-16.geo.kaspersky.com
 dnl-17.geo.kaspersky.com
 dnmchs.ru
@@ -133,7 +131,6 @@ i-mult.tlum.ru
 informer.yandex.ru
 inosmi.ru
 izpp.govdnr.ru
-jstracer.yandex.ru
 kanal-o.ru
 karusel-tv.ru
 kaspersky.ae
@@ -172,6 +169,7 @@ ksn-file.geoksn.kaspersky.com
 ksn-ipm.geoksn.kaspersky.com
 ksn-stat.geoksn.kaspersky.com
 ksn-tcert.geoksn.kaspersky.com
+ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
 light.wmtransfer.com
@@ -183,7 +181,7 @@ lugansk-online.su
 lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
-mail6.yandex.net
+mail1.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -228,6 +226,7 @@ mprlnr.su
 msdnr.ru
 mshiplnr.su
 mslnr.su
+mta.yandex.net
 mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
@@ -292,6 +291,7 @@ products.drweb.ru
 products.drweb.ua
 promedia.ru
 push.yandex.ru
+queuev4.vk.com
 rabota.yandex.ru
 rabota.yandex.ua
 radiovera.ru
@@ -328,8 +328,8 @@ site.yandex.net
 site.yandex.ua
 smdnr.ru
 smtp2.yandex.net
+softexport.yandex.net
 soft.export.yandex.ru
-sovetnik.market.http.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
 spdy.mob.maps.yandex.net
