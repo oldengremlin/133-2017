@@ -1,5 +1,6 @@
 100kwt.com
-10180.redirect.appmetrica.yandex.com
+19531.redirect.appmetrica.yandex.com
+19534.redirect.appmetrica.yandex.com
 1prime.ru
 1sev.tv
 1tv.com
@@ -9,8 +10,9 @@
 30488.redirect.appmetrica.yandex.com
 34381.redirect.appmetrica.yandex.com
 3.redirect.appmetrica.yandex.com
-40135.redirect.appmetrica.yandex.com
+4.redirect.appmetrica.yandex.com
 5-tv.ru
+723003.redirect.appmetrica.yandex.com
 723009.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
@@ -52,7 +54,6 @@ brttv.ru
 bs-metadsp.yandex.ru
 bs.yandex.ru
 c1.dev.drweb.com
-c2.dev.drweb.com
 c6.dev.drweb.com
 calendar.yandex.ru
 cdn.yandex.net
@@ -176,8 +177,6 @@ keeper.wmtransfer.com
 kianews24.ru
 kianews.com.ua
 komtv.org
-ksn-a-p2p.geoksn.kaspersky.com
-ksn-a-stat.geoksn.kaspersky.com
 ksn-cinfo.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
@@ -283,6 +282,7 @@ passport.yandex.az
 passport.yandex.by
 passport.yandex.com
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -328,7 +328,6 @@ russia.tv
 rusvesna.su
 s00.upd.kaspersky.com
 sba.yandex.net
-sdk.vk.com
 searchlib.yandex.net
 sec.api.browser.yandex.ua
 security.webmoney.ru
@@ -341,7 +340,6 @@ smdnr.ru
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
 sovminlnr.su
-spdy3-proxy.maps.yandex.net
 spdy.mob.maps.yandex.net
 speechkit.yandex.ru
 sprav.yandex.ru
@@ -349,12 +347,14 @@ sprav.yandex.ua
 sputniknews.com
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
+static-maps.yandex.ru
 stat.yandex.ru
 stat.yandex.ua
 storage.ape.yandex.net
 storage.mds.yandex.net
 taxi.yandex.ru
 taxi.yandex.ua
+tc.mobile.yandex.net
 tech.yandex.ru
 telecafe.ru
 telepay.webmoney.ru
@@ -407,6 +407,7 @@ www.kaspersky.ua
 www.translate.yandex.ru
 www.translate.yandex.ua
 www.vk.com
+www.yandex.ua
 xml.yandex.ru
 xml.yandex.ua
 xn--c1acbl2abdlkab1og.xn--p1ai
@@ -421,11 +422,13 @@ yandex.by
 yandex.com
 yandex.de
 yandex.ee
+yandex.fr
 yandex.kg
 yandex.kz
 yandex.lt
 yandex.lv
 yandex.md
+yandex.NET
 yandex.net
 yandex.ru
 yandex.st
