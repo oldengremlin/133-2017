@@ -6,7 +6,6 @@
 1tv.com
 1tvcrimea.ru
 21925.redirect.appmetrica.yandex.com
-30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -31,6 +30,7 @@ arbitrage.webmoney.ua
 artv-news.ru
 audience.yandex.ru
 audience.yandex.ua
+autorenew.drweb.com
 avia.yandex.ru
 avia.yandex.ua
 banking.gdcert.com
@@ -133,9 +133,6 @@ gtklnr.su
 ikrim.net
 ikstv.ru
 imap.yandex.com
-imap.yandex.ru
-img-fotki.yandex.net
-img-fotki.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 inosmi.ru
@@ -186,8 +183,7 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail02.yandex.net
-mail8.yandex.net
-mail9.yandex.net
+mailsrv.yandex.net
 mail.wmid.com
 mail.yandex.ru
 mail.yandex.ua
@@ -203,7 +199,6 @@ merchant.wmtransfer.com
 merlnr.su
 metrika.yandex.ru
 metrika.yandex.ua
-metro.yandex.by
 metro.yandex.ru
 metro.yandex.ua
 mgb-dnr.ru
@@ -308,6 +303,7 @@ rasp.yandex.ru
 rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
+redirect.appmetrica.yandex.com
 ren.tv
 reporter-crimea.ru
 republic-tv.ru
@@ -323,12 +319,9 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
-s01.upd.kaspersky.com
-s02.upd.kaspersky.com
 sba.cdn.yandex.net
 sba.yandex.net
 sdk.vk.com
-searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 sevastopol.press
@@ -372,7 +365,6 @@ tvkultura.ru
 tvzvezda.ru
 ubp.com.ua
 update.geo.drweb.com
-updater.mobile.yandex.net
 vesti.ru
 vgtrk.com
 vk.cc
@@ -382,6 +374,7 @@ vkontakte.com
 vkontakte.ru
 vremya.tv
 wbc.com.ru
+webmail.yandex.net
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
@@ -396,7 +389,6 @@ wmtransfer.com
 www.capitaller.ru
 www.drweb.ru
 www.drweb.ua
-www.favorit.com.ua.local
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
@@ -432,8 +424,10 @@ yandex.uz
 yastroka.yandex.net
 yx22d873ed2ea14b93a36a0f5a07026458.oauth-rc.yandex.ru
 yx22d873ed2ea14b93a36a0f5a07026458.oauth.yandex.ru
+yx8306856347674fa39b81fc9ef62cdd57.oauth.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth-rc.yandex.ru
 yxe1af730960ff4d9ba7b1a646eed7ca0d.oauth.yandex.ru
+yxf6ba541f65084e688107879721631a65.oauth.yandex.ru
 zen.yandex.com
 zen.yandex.ru
 zen.yandex.ua
