@@ -5,6 +5,7 @@
 1sev.tv
 1tv.com
 1tvcrimea.ru
+21925.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 5-tv.ru
@@ -22,6 +23,8 @@ api.browser.yandex.net
 api.browser.yandex.ru
 api.browser.yandex.ua
 api.lbs.yandex.net
+api.messenger.yandex.net
+api.music.yandex.net
 api.vk.com
 arbitrage.webmoney.ru
 arbitrage.webmoney.ua
@@ -43,7 +46,6 @@ brouser.yandex.ru
 browser.yandex.ru
 browser.yandex.ua
 brttv.ru
-bs.yandex.ru
 c1.dev.drweb.com
 c2.dev.drweb.com
 c6.dev.drweb.com
@@ -106,11 +108,12 @@ domkino.tv
 dommintrans.ru
 donbass.media
 download.cdn.yandex.net
-download.drweb.com
 download.drweb.ru
 download.drweb.ua
 download.yandex.ru
 drweb.cn
+drweb.com
+drweb.kz
 drweb.ru
 drweb.ua
 dr.yandex.net
@@ -126,6 +129,7 @@ fotki.yandex.ru
 free.drweb.com
 free.drweb.ru
 free.drweb.ua
+gate.yandex.net
 gazetacrimea.ru
 gazeta.ok-crimea.ru
 geocode-maps.yandex.ru
@@ -151,18 +155,25 @@ kaspersky.be
 kaspersky.by
 kaspersky.cn
 kaspersky.com
+kaspersky.cz
 kaspersky.de
 kaspersky.dk
 kaspersky.es
 kaspersky.eu
+kaspersky.fi
 kaspersky.fr
+kaspersky.gr
 kaspersky.ie
 kaspersky.it
 kaspersky.kz
 kaspersky.ma
+kaspersky.ng
 kaspersky.nl
+kaspersky.pt
 kaspersky.ru
+kaspersky.se
 kaspersky.ua
+kaspersky.vn
 kassa.yandex.ru
 katyusha.tv
 keeper.webmoney.ru
@@ -176,6 +187,7 @@ ksn-cinfo.geoksn.kaspersky.com
 ksn-dc1.geoksn.kaspersky.com
 ksn-info.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
+ksn-stat.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
 ksn-verdict.geoksn.kaspersky.com
 light.webmoney.ru
@@ -201,7 +213,6 @@ mail.yandex.ua
 maps.yandex.ru
 market.yandex.ru
 market.yandex.ua
-matchid.adfox.yandex.ru
 mchs-lnr.su
 mc.yandex.ru
 mc.yandex.ua
@@ -244,6 +255,7 @@ mtspdnr.ru
 mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
+music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -265,6 +277,8 @@ novorossiatv.com
 novorossia-tv.ru
 novoross.info
 novosti-tchasa.com
+ns1.yandex.ru
+ns2.yandex.ru
 nslnr.su
 nts-tv.com
 ntvplus.ru
@@ -283,6 +297,7 @@ passport.webmoney.ru
 passport.yandex.az
 passport.yandex.by
 passport.yandex.ee
+passport.yandex.fr
 passport.yandex.kg
 passport.yandex.kz
 passport.yandex.lt
@@ -297,7 +312,6 @@ paymaster.ua
 pdd.yandex.ru
 poehali.tv
 prd.geo.kaspersky.com
-products.drweb.com
 products.drweb.ru
 products.drweb.ua
 promedia.ru
@@ -316,6 +330,7 @@ relay1.yandex.net
 ren.tv
 report.appmetrica.yandex.net
 reporter-crimea.ru
+repo.yandex.ru
 republic-tv.ru
 rian.com.ua
 riarating.ru
@@ -340,7 +355,6 @@ sevastopol.press
 site.yandex.ua
 smdnr.ru
 smtp.comune.yandex.net
-smtpseguro.yandex.net
 softexport.yandex.net
 soft.export.yandex.ru
 sovetnik.market.yandex.ru
@@ -366,6 +380,7 @@ telepay.wmtransfer.com
 telephony.yandex.ru
 tk-union.tv
 tnt-online.ru
+tools.messenger.yandex.net
 translate.yandex.kz
 translate.yandex.ru
 translate.yandex.ua
@@ -403,12 +418,12 @@ wmsc3.webmoney.ru
 wmsc4.webmoney.ru
 wmtransfer.com
 www.capitaller.ru
+www.drweb.com
 www.drweb.ru
 www.drweb.ua
 www.kaspersky.com
 www.kaspersky.ru
 www.kaspersky.ua
-www.translate.yandex.kz
 www.vk.com
 www.yandex.ru
 xml.yandex.ru
