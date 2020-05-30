@@ -9,10 +9,7 @@
 1tvcrimea.ru
 21925.redirect.appmetrica.yandex.com
 2261207.redirect.appmetrica.yandex.com
-25378.redirect.appmetrica.yandex.com
-29733.redirect.appmetrica.yandex.com
 30488.redirect.appmetrica.yandex.com
-34381.redirect.appmetrica.yandex.com
 40135.redirect.appmetrica.yandex.com
 42989.redirect.appmetrica.yandex.com
 4.redirect.appmetrica.yandex.com
@@ -20,6 +17,8 @@
 634723.redirect.appmetrica.yandex.com
 82.fskn.ru
 8o.vk.cc
+activation-v2.geo.kaspersky.com
+activation-v2.kaspersky.com
 admin-gorlovka.ru
 advisor.wmtransfer.com
 afisha.yandex.ru
@@ -70,8 +69,7 @@ credit.webmoney.ru
 crimea-channel.ru
 crimea.gov.ru
 crimea.ria.ru
-cryprox.yandex.net
-csp.yandex.net
+crl.kaspersky.com
 dan-news.info
 debt.wmtransfer.com
 delivery.yandex.ru
@@ -127,6 +125,7 @@ drweb.fr
 drweb.kz
 drweb.ru
 drweb.ua
+edge.geo.kaspersky.com
 eizvestia.com
 elmi.ua
 events.wmtransfer.com
@@ -145,11 +144,11 @@ gknslnr.su
 glavstat.govdnr.ru
 gorlovka.today
 gtklnr.su
-home.yandex.net
 ikrim.net
 ikstv.ru
 imap.yandex.com
 imap.yandex.net
+imap.yandex.ru
 i-mult.tlum.ru
 im.vk.com
 inosmi.ru
@@ -209,8 +208,8 @@ lugansk.site
 lug-info.com
 lvl3cdn-update.drweb.com
 mail1.yandex.net
-mail3.yandex.net
 mail6.yandex.net
+mail8.yandex.net
 mail9.yandex.net
 mail.comune.yandex.net
 mailin.yandex.net
@@ -262,7 +261,6 @@ mtur.rk.gov.ru
 mu-lnr.su
 multvkino.tlum.ru
 music.yandex.by
-music.yandex.com
 music.yandex.kz
 music.yandex.ru
 music.yandex.ua
@@ -270,7 +268,8 @@ muz1.tv
 mvddnr.ru
 mvdlnr.ru
 m.vk.com
-mx0.yandex.net
+mx02.yandex.net
+mx2.yandex.net
 mx3.yandex.net
 mx5.yandex.net
 mxs.yandex.net
@@ -323,7 +322,6 @@ passport.yandex.uz
 paymaster.ua
 pdd.yandex.ru
 poehali.tv
-pp.vk.me
 prd.geo.kaspersky.com
 products.drweb.com
 products.drweb.ru
@@ -341,7 +339,9 @@ rasp.yandex.ua
 realty.ria.ru
 realty.yandex.ru
 redirect.appmetrica.yandex.com
+refresh-bkg.activation-v2.kaspersky.com
 ren.tv
+report.appmetrica.yandex.net
 reporter-crimea.ru
 republic-tv.ru
 rian.com.ua
@@ -357,9 +357,12 @@ ruscrimea.ru
 russian.oplot.tv
 russia.tv
 rusvesna.su
+s01.upd.kaspersky.com
+s02.upd.kaspersky.com
 sba.cdn.yandex.net
 sba.yandex.net
-sec.api.browser.yandex.ru
+sdk.vk.com
+searchlib.yandex.net
 security.webmoney.ru
 security.wmtransfer.com
 server1.yandex.net
@@ -377,11 +380,8 @@ speechkit.yandex.ru
 sprav.yandex.ru
 sprav.yandex.ua
 sputniknews.com
-startup.ios.mobile.yandex.net
 startup.mobile.private.voice.yandex.net
 startup.mobile.yandex.net
-static-mon.yandex.net
-static.yandex.net
 stat.yandex.ru
 stat.yandex.ua
 taxi.yandex.ru
@@ -421,7 +421,6 @@ wbc.com.ru
 webmaster.yandex.ru
 webmoney.ru
 webmoney.ua
-wi2geo.mobile.yandex.net
 wiki.webmoney.ru
 wm.exchanger.money
 wm-factor.com.ua
