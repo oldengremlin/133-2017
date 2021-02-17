@@ -14,16 +14,44 @@ use IPC::Open3;
 my @asnum = (
 	# ( for ASSET in AS-MAILRU AS-VKONTAKTE AS-YANDEX AS-M100; do whois ${ASSET} | awk '$1~/^members:/ && $2~/^AS[0-9]+/ { print $2 }'; done; for MNTBY in YANDEX-MNT KL-MNT MNT-QRATOR-LIR MNT-NETBRIDGE VKONTAKTE-NET-MNT MNT-M100; do whois -h whois.ripe.net -i mnt-by ${MNTBY} -T aut-num | awk '$1~/^aut-num:/ { print $2 }'; done ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
 	# ( for ASSET in AS-MAILRU AS-VKONTAKTE AS-YANDEX AS-M100; do whois ${ASSET} | awk '$1~/^members:/ && $2~/^AS[0-9]+/ { print $2 }'; done; for MNTBY in YANDEX-MNT KL-MNT MNT-NETBRIDGE VKONTAKTE-NET-MNT MNT-M100; do whois -h whois.ripe.net -i mnt-by ${MNTBY} -T aut-num | awk '$1~/^aut-num:/ { print $2 }'; done ) | awk '/^AS[0-9]+/' | sed "s/^AS//" | sort -nu | sed "s/^/AS/;s/^/'/;s/$/',/"
+
+#'AS13238',
+#'AS20144',
+#'AS21051',
+#'AS28709',
+#'AS41983',
+#'AS43247',
+#'AS44903',
+#'AS47541',
+#'AS47542',
+#'AS47764',
+#'AS49281',
+#'AS49797',
+#'AS49988',
+#'AS51286',
+#'AS58116',
+#'AS60476',
+#'AS60863',
+#'AS199295',
+#'AS200107',
+#'AS200350',
+#'AS202447',
+#'AS202611',
+#'AS205830',
+#'AS207207'
+
+#    'AS197068', # QRATOR (drweb.ru)
+
 'AS13238',
 'AS20144',
 'AS21051',
 'AS28709',
 'AS41983',
-'AS43247',
 'AS44903',
 'AS47541',
 'AS47542',
 'AS47764',
+'AS47920',
 'AS49281',
 'AS49797',
 'AS49988',
@@ -33,13 +61,14 @@ my @asnum = (
 'AS60863',
 'AS199295',
 'AS200107',
-'AS200350',
-'AS202447',
-'AS202611',
 'AS205830',
-'AS207207'
+'AS207207',
+'AS207970',
+'AS208722',
+'AS209030',
+'AS211963',
+'AS213235'
 
-#    'AS197068', # QRATOR (drweb.ru)
 );
 
 my $fhostnames		= 'hostnames';
