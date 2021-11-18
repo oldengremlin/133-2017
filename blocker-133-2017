@@ -361,7 +361,7 @@ sub doCmd {
 
     sub diessh {
         map { print; } @_ if @_;
-        die;
+        die("doCmd die: $!\n";
     }
 
     return unless length($cmdin)>0;
