@@ -180,7 +180,6 @@ my (%hostip, %hostip_jun, $fh, $fho);
 if (defined $opts{o} || (-w $fhostip && -s $fhostip==0)) {
     say "Отримуємо список reject-мереж та ip-адрес з бордера…";
     foreach my $netw (getJunOSRejectStaticRoute($opts{r}, $opts{u}, $opts{p})) {
-say $netw;
         my ($net, $mask);
         if ($netw =~ m{/}) {
             ($net, $mask) = $netw =~ m{(\d+\.\d+\.\d+\.\d+)/(\d+)?};
